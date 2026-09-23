@@ -29,18 +29,24 @@ const SCHED = {
 }
 const DEFAULT_SCHED = [{ d: 0, p: 0.5 }, { d: 30, p: 0.5 }]
 
+// Adjust dose by soil-test level: low soil -> more, high soil -> less.
+const SOIL_MULT = { low: 1.25, medium: 1.0, high: 0.6 }
+
 export default function FertilizerScreen({ lang, t }) {
   const [cropId, setCropId] = useState(fert.crops[0].id)
   const [area, setArea] = useState('1')
   const [unit, setUnit] = useState('acre')
+  const [useSoil, setUseSoil] = useState(false)
+  const [soil, setSoil] = useState({ n: 'medium', p: 'medium', k: 'medium' })
 
   const crop = fert.crops.find((c) => c.id === cropId)
   const ha = (Number(area) || 0) * (unit === 'acre' ? ACRE_TO_HA : 1)
+  const mult = useSoil ? soil : { n: 'medium', p: 'medium', k: 'medium' }
 
   const npk = {
-    n: Math.round(crop.n * ha),
-    p: Math.round(crop.p * ha),
-    k: Math.round(crop.k * ha),
+    n: Math.round(crop.n * ha * SOIL_MULT[mult.n]),
+    p: Math.round(crop.p * ha * SOIL_MULT[mult.p]),
+    k: Math.round(crop.k * ha * SOIL_MULT[mult.k]),
     fym: +(crop.fym * ha).toFixed(1)
   }
   // Straight-fertiliser equivalents (Urea 46% N, DAP 18% N + 46% P, MOP 60% K).
@@ -76,6 +82,25 @@ export default function FertilizerScreen({ lang, t }) {
           <option value="hectare">{t('hectare')}</option>
         </select>
       </div>
+
+      <label className="field-label" style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
+        <input type="checkbox" checked={useSoil} onChange={(e) => setUseSoil(e.target.checked)} style={{ width: 'auto' }} />
+        {t('use_soil_card')}
+      </label>
+      {useSoil && (
+        <div className="soil-grid">
+          {['n', 'p', 'k'].map((k) => (
+            <div key={k}>
+              <span className="soil-label">{k.toUpperCase()}</span>
+              <select className="select" value={soil[k]} onChange={(e) => setSoil({ ...soil, [k]: e.target.value })}>
+                <option value="low">{t('soil_low')}</option>
+                <option value="medium">{t('soil_medium')}</option>
+                <option value="high">{t('soil_high')}</option>
+              </select>
+            </div>
+          ))}
+        </div>
+      )}
 
       <div className="fert-result">
         <h3>🧪 {t('chemical_fert')}</h3>

@@ -1,21 +1,24 @@
 {
-  "version": "0.6.0",
+  "version": "0.7.0",
   "date": "2026-09-23",
   "changes": {
     "en": [
-      "REAL disease detection now works (tomato, potato, grape, chilli) — runs on your phone, offline",
-      "New Dairy/Cattle section: feed calculator, cow care, common diseases",
-      "More improvements to weather, prices and fertilizer"
+      "New: 'What to Grow' advisor (season + rainfall + live mandi rates)",
+      "New: Irrigation scheduler (when and how much to water)",
+      "Fertilizer now supports Soil Health Card values",
+      "Link sharing now shows an app preview image"
     ],
     "mr": [
-      "आता खरी रोग ओळख चालते (टोमॅटो, बटाटा, द्राक्ष, मिरची) — फोनवर, ऑफलाइन",
-      "नवीन दुग्ध/पशुपालन विभाग: खाद्य कॅल्क्युलेटर, गाय काळजी, आजार",
-      "हवामान, भाव व खतात आणखी सुधारणा"
+      "नवीन: 'कोणते पीक घ्यावे' सल्लागार (हंगाम + पाऊस + बाजारभाव)",
+      "नवीन: सिंचन नियोजक (कधी व किती पाणी द्यावे)",
+      "खतासाठी आता मृदा आरोग्य पत्रिकेचे मूल्य वापरता येते",
+      "लिंक शेअर करताना आता ॲप प्रिव्ह्यू दिसते"
     ],
     "hi": [
-      "अब असली रोग पहचान काम करती है (टमाटर, आलू, अंगूर, मिर्च) — फोन पर, ऑफलाइन",
-      "नया डेयरी/पशु विभाग: आहार कैलकुलेटर, गाय देखभाल, रोग",
-      "मौसम, भाव व खाद में और सुधार"
+      "नया: 'कौन सी फसल लगाएँ' सलाहकार (मौसम + वर्षा + मंडी भाव)",
+      "नया: सिंचाई नियोजक (कब व कितना पानी दें)",
+      "खाद अब मृदा स्वास्थ्य कार्ड के मान समर्थित",
+      "लिंक शेयर करने पर अब ऐप प्रिव्यू दिखता है"
     ]
   }
 }

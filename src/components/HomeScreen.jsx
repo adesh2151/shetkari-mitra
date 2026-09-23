@@ -2,6 +2,8 @@ const TILES = [
   { key: 'scan', icon: '🔍', label: 'tab_scan', color: '#e8f5e9' },
   { key: 'weather', icon: '🌦️', label: 'tab_weather', color: '#e3f2fd' },
   { key: 'prices', icon: '💰', label: 'tab_prices', color: '#fff8e1' },
+  { key: 'advisor', icon: '🌱', label: 'tab_advisor', color: '#e8f5e9' },
+  { key: 'irrigation', icon: '💧', label: 'tab_irrigation', color: '#e1f5fe' },
   { key: 'fertilizer', icon: '🧮', label: 'tab_fertilizer', color: '#f1f8e9' },
   { key: 'cattle', icon: '🐄', label: 'tab_cattle', color: '#fff3e0' },
   { key: 'schemes', icon: '🏛️', label: 'tab_schemes', color: '#f3e5f5' },

@@ -1,0 +1,20 @@
+[
+  { "id": "rice", "name": { "en": "Rice", "mr": "भात", "hi": "धान" }, "seasons": ["kharif"], "water": "high", "commodity": "Paddy(Dhan)(Common)" },
+  { "id": "maize", "name": { "en": "Maize", "mr": "मका", "hi": "मक्का" }, "seasons": ["kharif", "rabi"], "water": "medium", "commodity": "Maize" },
+  { "id": "sorghum", "name": { "en": "Sorghum (Jowar)", "mr": "ज्वारी", "hi": "ज्वार" }, "seasons": ["kharif", "rabi"], "water": "low", "commodity": "Jowar(Sorghum)" },
+  { "id": "bajra", "name": { "en": "Pearl Millet (Bajra)", "mr": "बाजरी", "hi": "बाजरा" }, "seasons": ["kharif", "summer"], "water": "low", "commodity": "Bajra(Pearl Millet/Cumbu)" },
+  { "id": "cotton", "name": { "en": "Cotton", "mr": "कापूस", "hi": "कपास" }, "seasons": ["kharif"], "water": "medium", "commodity": "Cotton" },
+  { "id": "soybean", "name": { "en": "Soybean", "mr": "सोयाबीन", "hi": "सोयाबीन" }, "seasons": ["kharif"], "water": "medium", "commodity": "Soyabean" },
+  { "id": "tur", "name": { "en": "Pigeon Pea (Tur)", "mr": "तूर", "hi": "अरहर (तूर)" }, "seasons": ["kharif"], "water": "low", "commodity": "Arhar (Tur/Red Gram)(Whole)" },
+  { "id": "moong", "name": { "en": "Green Gram (Moong)", "mr": "मूग", "hi": "मूँग" }, "seasons": ["kharif", "summer"], "water": "low", "commodity": "Green Gram (Moong)(Whole)" },
+  { "id": "urad", "name": { "en": "Black Gram (Urad)", "mr": "उडीद", "hi": "उड़द" }, "seasons": ["kharif"], "water": "low", "commodity": "Black Gram (Urd Beans)(Whole)" },
+  { "id": "groundnut", "name": { "en": "Groundnut", "mr": "भुईमूग", "hi": "मूँगफली" }, "seasons": ["kharif", "summer"], "water": "medium", "commodity": "Groundnut" },
+  { "id": "wheat", "name": { "en": "Wheat", "mr": "गहू", "hi": "गेहूँ" }, "seasons": ["rabi"], "water": "medium", "commodity": "Wheat" },
+  { "id": "gram", "name": { "en": "Chickpea (Gram)", "mr": "हरभरा", "hi": "चना" }, "seasons": ["rabi"], "water": "low", "commodity": "Bengal Gram(Gram)(Whole)" },
+  { "id": "mustard", "name": { "en": "Mustard", "mr": "मोहरी", "hi": "सरसों" }, "seasons": ["rabi"], "water": "low", "commodity": "Mustard" },
+  { "id": "sunflower", "name": { "en": "Sunflower", "mr": "सूर्यफूल", "hi": "सूरजमुखी" }, "seasons": ["rabi", "summer"], "water": "medium", "commodity": "Sunflower" },
+  { "id": "onion", "name": { "en": "Onion", "mr": "कांदा", "hi": "प्याज़" }, "seasons": ["kharif", "rabi"], "water": "medium", "commodity": "Onion" },
+  { "id": "potato", "name": { "en": "Potato", "mr": "बटाटा", "hi": "आलू" }, "seasons": ["rabi"], "water": "medium", "commodity": "Potato" },
+  { "id": "tomato", "name": { "en": "Tomato", "mr": "टोमॅटो", "hi": "टमाटर" }, "seasons": ["kharif", "rabi", "summer"], "water": "medium", "commodity": "Tomato" },
+  { "id": "chilli", "name": { "en": "Chilli", "mr": "मिरची", "hi": "मिर्च" }, "seasons": ["kharif", "summer"], "water": "medium", "commodity": "Green Chilli" }
+]

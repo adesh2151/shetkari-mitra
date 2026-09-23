@@ -112,6 +112,27 @@ export async function getForecast(lat, lon) {
   return res.json()
 }
 
+// Irrigation data: evapotranspiration (crop water demand) + rainfall + soil moisture.
+export async function getIrrigationData(lat, lon) {
+  const params = new URLSearchParams({
+    latitude: lat, longitude: lon,
+    daily: 'et0_fao_evapotranspiration,precipitation_sum,precipitation_probability_max',
+    hourly: 'soil_moisture_3_to_9cm',
+    timezone: 'auto', forecast_days: 3
+  })
+  const res = await fetch(`${FORECAST}?${params}`)
+  if (!res.ok) throw new Error('irrigation fetch failed')
+  const data = await res.json()
+  const et0 = data.daily?.et0_fao_evapotranspiration?.[0] ?? 0
+  const rain = data.daily?.precipitation_sum?.[0] ?? 0
+  const rainProb = data.daily?.precipitation_probability_max?.[0] ?? 0
+  // Latest available soil-moisture reading (m3/m3).
+  const sm = data.hourly?.soil_moisture_3_to_9cm
+  const soil = Array.isArray(sm) ? sm.find((v) => v != null) ?? null : null
+  const net = Math.max(0, et0 - rain) // mm of water the crop needs beyond rain
+  return { et0, rain, rainProb, soil, net }
+}
+
 // WMO weather codes -> simple icon + key for translation.
 export function weatherInfo(code) {
   if (code === 0) return { icon: '☀️', key: 'w_clear' }
