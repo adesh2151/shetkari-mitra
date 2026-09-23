@@ -5,6 +5,26 @@
   "grape_healthy": { "healthy": true, "name": { "en": "Grape — Healthy", "mr": "द्राक्ष — निरोगी", "hi": "अंगूर — स्वस्थ" } },
   "corn_healthy": { "healthy": true, "name": { "en": "Corn — Healthy", "mr": "मका — निरोगी", "hi": "मक्का — स्वस्थ" } },
   "pepper_healthy": { "healthy": true, "name": { "en": "Chilli/Capsicum — Healthy", "mr": "मिरची — निरोगी", "hi": "मिर्च — स्वस्थ" } },
+  "sugarcane_healthy": { "healthy": true, "name": { "en": "Sugarcane — Healthy", "mr": "ऊस — निरोगी", "hi": "गन्ना — स्वस्थ" } },
+
+  "sugarcane_mosaic": {
+    "name": { "en": "Sugarcane Mosaic", "mr": "ऊस मोझॅक", "hi": "गन्ना मोज़ेक" }, "source": "General references",
+    "cause": { "en": "Sugarcane mosaic virus, spread by aphids and infected setts; light-and-dark green mosaic streaks on young leaves.", "mr": "ऊस मोझॅक विषाणू; मावा व बाधित बेण्याने पसरतो; कोवळ्या पानांवर हलके-गडद हिरवे पट्टे.", "hi": "गन्ना मोज़ेक वायरस; माहू व संक्रमित सेट से फैलता; नई पत्तियों पर हल्के-गहरे हरे धब्बे." },
+    "treatment": { "en": "No cure — rogue out and destroy infected clumps; use disease-free setts and control aphids.", "mr": "उपचार नाही — बाधित बेट काढून नष्ट करा; रोगमुक्त बेणे वापरा व मावा नियंत्रित करा.", "hi": "इलाज नहीं — संक्रमित झुंड निकालकर नष्ट करें; रोगमुक्त सेट लें व माहू नियंत्रित करें." },
+    "prevention": { "en": "Plant certified disease-free setts, grow resistant varieties, and remove affected clumps early.", "mr": "प्रमाणित रोगमुक्त बेणे, प्रतिकारक वाण, बाधित बेट लवकर काढा.", "hi": "प्रमाणित रोगमुक्त सेट, प्रतिरोधी किस्में, संक्रमित झुंड जल्दी हटाएँ." }
+  },
+  "sugarcane_rust": {
+    "name": { "en": "Sugarcane Rust", "mr": "ऊस तांबेरा", "hi": "गन्ना रस्ट" }, "source": "General references",
+    "cause": { "en": "Fungus Puccinia; orange-brown powdery pustules mainly on the lower leaf surface.", "mr": "पुक्सिनिया बुरशी; मुख्यतः पानाच्या खालील बाजूला नारिंगी-तपकिरी भुकटीचे फोड.", "hi": "पक्सीनिया फफूंद; मुख्यतः पत्ती के नीचे नारंगी-भूरे चूर्णी फफोले." },
+    "treatment": { "en": "If severe, spray a recommended fungicide such as Mancozeb or Propiconazole; grow resistant varieties.", "mr": "तीव्र असल्यास Mancozeb किंवा Propiconazole फवारा; प्रतिकारक वाण लावा.", "hi": "गंभीर हो तो Mancozeb या Propiconazole छिड़कें; प्रतिरोधी किस्में लगाएँ." },
+    "prevention": { "en": "Use resistant varieties, avoid excess nitrogen, and maintain field sanitation.", "mr": "प्रतिकारक वाण, जास्त नत्र टाळा, शेत स्वच्छता ठेवा.", "hi": "प्रतिरोधी किस्में, अधिक नाइट्रोजन टालें, खेत स्वच्छता." }
+  },
+  "sugarcane_yellow": {
+    "name": { "en": "Sugarcane Yellow Leaf Disease", "mr": "ऊस पिवळी पान रोग", "hi": "गन्ना पीला पत्ती रोग" }, "source": "General references",
+    "cause": { "en": "Yellow leaf disease (SCYLV virus/phytoplasma), spread by aphids and infected setts; midrib yellows then the whole leaf.", "mr": "पिवळी पान रोग (SCYLV विषाणू/फायटोप्लाझ्मा); मावा व बाधित बेण्याने; प्रथम मध्यशिरा मग संपूर्ण पान पिवळे.", "hi": "पीला पत्ती रोग (SCYLV वायरस/फाइटोप्लाज्मा); माहू व संक्रमित सेट से; पहले मध्यशिरा फिर पूरी पत्ती पीली." },
+    "treatment": { "en": "No cure — remove affected clumps; plant healthy tissue-cultured or heat-treated setts.", "mr": "उपचार नाही — बाधित बेट काढा; निरोगी ऊती-संवर्धित किंवा उष्णताप्रक्रिया केलेले बेणे लावा.", "hi": "इलाज नहीं — संक्रमित झुंड हटाएँ; स्वस्थ टिश्यू-कल्चर या ताप-उपचारित सेट लगाएँ." },
+    "prevention": { "en": "Use healthy certified setts, control aphids, and grow tolerant varieties.", "mr": "निरोगी प्रमाणित बेणे, मावा नियंत्रण, सहनशील वाण.", "hi": "स्वस्थ प्रमाणित सेट, माहू नियंत्रण, सहनशील किस्में." }
+  },
 
   "tomato_late_blight": {
     "name": { "en": "Tomato Late Blight", "mr": "टोमॅटो उशिरा करपा", "hi": "टमाटर लेट ब्लाइट" }, "source": "TNAU",

@@ -9,6 +9,8 @@ on:
     paths:
       - 'model-training/model.h5'
       - 'model-training/labels.json'
+      - 'model-training/model-sugarcane.h5'
+      - 'model-training/labels-sugarcane.json'
 
 permissions:
   contents: write

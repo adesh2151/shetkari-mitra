@@ -159,5 +159,7 @@
   "alert_heat": "Very high heat — irrigate, provide shade, avoid midday field work.",
   "source": "Source",
   "tab_pests": "Pest Guide",
-  "data_source": "Data source"
+  "data_source": "Data source",
+  "group_field": "Tomato / Potato / Grape / Chilli",
+  "group_sugarcane": "Sugarcane"
 }

@@ -1,5 +1,5 @@
 import { useRef, useState } from 'react'
-import { classify, getDiseaseInfo } from '../ml/classifier'
+import { classify, getDiseaseInfo, GROUPS } from '../ml/classifier'
 import { addHistory } from '../store/history'
 import { APK_URL } from '../config'
 import ResultCard from './ResultCard'
@@ -22,6 +22,7 @@ export default function ScanScreen({ lang, t }) {
   const [imageUrl, setImageUrl] = useState(null)
   const [busy, setBusy] = useState(false)
   const [result, setResult] = useState(null)
+  const [group, setGroup] = useState('field')
   const imgRef = useRef(null)
   const cameraInput = useRef(null)
   const galleryInput = useRef(null)
@@ -44,7 +45,7 @@ export default function ScanScreen({ lang, t }) {
     try {
       // Let the image finish decoding before reading pixels.
       if (!imgRef.current.complete) await imgRef.current.decode().catch(() => {})
-      const res = await classify(imgRef.current)
+      const res = await classify(imgRef.current, group)
       setResult(res)
 
       const info = getDiseaseInfo(res.classId)
@@ -74,6 +75,9 @@ export default function ScanScreen({ lang, t }) {
 
       {!imageUrl && (
         <div className="capture-box">
+          <select className="select" value={group} onChange={(e) => setGroup(e.target.value)} style={{ marginBottom: 14 }}>
+            {GROUPS.map((g) => <option key={g.id} value={g.id}>{t(g.labelKey)}</option>)}
+          </select>
           <div className="leaf-icon" aria-hidden>🌿</div>
           <h2>{t('capture_title')}</h2>
           <p className="hint">{t('capture_hint')}</p>
