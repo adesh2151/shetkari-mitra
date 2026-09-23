@@ -1,0 +1,54 @@
+{
+  "care": [
+    {
+      "id": "clean-water",
+      "title": { "en": "Clean water always", "mr": "नेहमी स्वच्छ पाणी", "hi": "हमेशा साफ पानी" },
+      "text": { "en": "A milking cow drinks 40–80 litres/day. Give clean water free-choice; shortage cuts milk sharply.", "mr": "दुभती गाय दिवसाला ४०–८० लिटर पाणी पिते. स्वच्छ पाणी मुक्तपणे द्या; कमतरतेने दूध घटते.", "hi": "दुधारू गाय दिन में 40–80 लीटर पानी पीती है. साफ पानी मुक्त रूप से दें; कमी से दूध घटता है." }
+    },
+    {
+      "id": "shade",
+      "title": { "en": "Shade & ventilation", "mr": "सावली व हवा", "hi": "छाया व हवा" },
+      "text": { "en": "Keep animals in cool, airy, dry sheds. Heat stress lowers milk and fertility.", "mr": "जनावरे थंड, हवेशीर, कोरड्या गोठ्यात ठेवा. उष्णतेच्या ताणाने दूध व प्रजनन घटते.", "hi": "पशुओं को ठंडे, हवादार, सूखे शेड में रखें. गर्मी के तनाव से दूध व प्रजनन घटता है." }
+    },
+    {
+      "id": "deworm-vaccine",
+      "title": { "en": "Deworming & vaccination", "mr": "जंतनिर्मूलन व लसीकरण", "hi": "कृमिनाशन व टीकाकरण" },
+      "text": { "en": "Deworm regularly and vaccinate for FMD and HS/BQ on schedule via your vet.", "mr": "नियमित जंतनिर्मूलन करा आणि पशुवैद्यामार्फत लाळ्या-खुरकूत व घटसर्प/फऱ्या लस वेळेवर द्या.", "hi": "नियमित कृमिनाशन करें और पशु चिकित्सक से FMD व HS/BQ का टीका समय पर लगवाएँ." }
+    },
+    {
+      "id": "clean-milking",
+      "title": { "en": "Clean milking", "mr": "स्वच्छ दूध काढणे", "hi": "साफ दूध निकालना" },
+      "text": { "en": "Wash hands and udder before milking; milk fully to prevent mastitis.", "mr": "दूध काढण्यापूर्वी हात व कास धुवा; कास पूर्ण रिकामी करा (स्तनदाह टाळण्यासाठी).", "hi": "दूध निकालने से पहले हाथ व थन धोएँ; पूरा दूध निकालें (थनैला रोकने हेतु)." }
+    },
+    {
+      "id": "mineral",
+      "title": { "en": "Mineral mixture", "mr": "क्षार मिश्रण", "hi": "खनिज मिश्रण" },
+      "text": { "en": "Add ~50 g/day mineral mixture to feed for health, fertility and milk.", "mr": "आरोग्य, प्रजनन व दुधासाठी खाद्यात दररोज ~५० ग्रॅम क्षार मिश्रण घाला.", "hi": "स्वास्थ्य, प्रजनन व दूध हेतु आहार में रोज़ ~50 ग्राम खनिज मिश्रण मिलाएँ." }
+    }
+  ],
+  "diseases": [
+    {
+      "id": "mastitis",
+      "name": { "en": "Mastitis (udder infection)", "mr": "स्तनदाह (कासेचा संसर्ग)", "hi": "थनैला (थन संक्रमण)" },
+      "signs": { "en": "Swollen hot udder, clots/blood in milk, watery milk.", "mr": "कास सुजलेली व गरम, दुधात गुठळ्या/रक्त, पातळ दूध.", "hi": "थन सूजा व गरम, दूध में थक्के/खून, पतला दूध." },
+      "action": { "en": "Milk out often, apply clean practices, call a vet for antibiotics early.", "mr": "वारंवार दूध काढा, स्वच्छता पाळा, लवकर पशुवैद्याकडून प्रतिजैविक घ्या.", "hi": "बार-बार दूध निकालें, सफाई रखें, जल्दी पशु चिकित्सक से एंटीबायोटिक लें." }
+    },
+    {
+      "id": "fmd",
+      "name": { "en": "Foot & Mouth Disease (FMD)", "mr": "लाळ्या खुरकूत (FMD)", "hi": "खुरपका-मुँहपका (FMD)" },
+      "signs": { "en": "Fever, drooling, blisters in mouth and between hooves, lameness.", "mr": "ताप, लाळ गळणे, तोंडात व खुरांमध्ये फोड, लंगडणे.", "hi": "बुखार, लार गिरना, मुँह व खुरों में छाले, लंगड़ापन." },
+      "action": { "en": "Isolate the animal, soft feed, call vet. Prevent with regular FMD vaccine.", "mr": "जनावर वेगळे ठेवा, मऊ खाद्य, पशुवैद्य बोलवा. नियमित FMD लसीने प्रतिबंध.", "hi": "पशु को अलग रखें, नरम आहार, पशु चिकित्सक बुलाएँ. नियमित FMD टीके से बचाव." }
+    },
+    {
+      "id": "bloat",
+      "name": { "en": "Bloat", "mr": "पोट फुगणे (ब्लोट)", "hi": "अफारा (ब्लोट)" },
+      "signs": { "en": "Swollen left flank, restlessness, difficulty breathing after lush feed.", "mr": "डावी कूस फुगणे, अस्वस्थता, हिरव्या चाऱ्यानंतर श्वास घेण्यास त्रास.", "hi": "बायाँ पेट फूलना, बेचैनी, हरे चारे के बाद साँस में दिक्कत." }
+    },
+    {
+      "id": "milk-fever",
+      "name": { "en": "Milk Fever (calcium drop)", "mr": "दुग्धज्वर (कॅल्शियम कमी)", "hi": "मिल्क फीवर (कैल्शियम कमी)" },
+      "signs": { "en": "Weakness, unable to stand soon after calving; cold ears.", "mr": "अशक्तपणा, वेतानंतर लगेच उभे राहता न येणे; थंड कान.", "hi": "कमज़ोरी, ब्याने के तुरंत बाद खड़े न हो पाना; ठंडे कान." },
+      "action": { "en": "Emergency — call vet immediately for calcium. Prevent with good feeding near calving.", "mr": "आणीबाणी — कॅल्शियमसाठी लगेच पशुवैद्य बोलवा. वेताजवळ चांगल्या आहाराने प्रतिबंध.", "hi": "आपातकाल — कैल्शियम हेतु तुरंत पशु चिकित्सक बुलाएँ. ब्याने के पास अच्छे आहार से बचाव." }
+    }
+  ]
+}

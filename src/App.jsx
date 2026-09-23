@@ -10,11 +10,13 @@ import PricesScreen from './components/PricesScreen'
 import SchemesScreen from './components/SchemesScreen'
 import FertilizerScreen from './components/FertilizerScreen'
 import DiaryScreen from './components/DiaryScreen'
+import DairyScreen from './components/DairyScreen'
 import Notices from './components/Notices'
 
 const TITLES = {
   home: 'appName', scan: 'tab_scan', history: 'tab_history', weather: 'tab_weather',
-  prices: 'tab_prices', schemes: 'tab_schemes', fertilizer: 'tab_fertilizer', diary: 'tab_diary'
+  prices: 'tab_prices', schemes: 'tab_schemes', fertilizer: 'tab_fertilizer',
+  diary: 'tab_diary', cattle: 'tab_cattle'
 }
 
 export default function App() {
@@ -41,6 +43,7 @@ export default function App() {
       case 'schemes': return <SchemesScreen lang={lang} t={t} />
       case 'fertilizer': return <FertilizerScreen lang={lang} t={t} />
       case 'diary': return <DiaryScreen t={t} />
+      case 'cattle': return <DairyScreen lang={lang} t={t} />
       default: return <HomeScreen t={t} onOpen={setScreen} />
     }
   }

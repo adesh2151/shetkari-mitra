@@ -1,0 +1,42 @@
+name: Convert model to TF.js
+
+# Converts model-training/model.h5 into public/model/ (TF.js) and commits it.
+# Runs on demand, or automatically whenever a new model.h5 is pushed.
+on:
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths:
+      - 'model-training/model.h5'
+      - 'model-training/labels.json'
+
+permissions:
+  contents: write
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install TensorFlow.js converter
+        run: pip install "tensorflow-cpu==2.13.1" "tensorflowjs==4.10.0"
+
+      - name: Convert model.h5 -> public/model (TF.js)
+        run: python model-training/convert.py
+
+      - name: Commit converted model
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/model
+          if git diff --cached --quiet; then
+            echo "No model changes."
+          else
+            git commit -m "Publish converted TF.js crop-disease model"
+            git push
+          fi

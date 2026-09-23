@@ -195,6 +195,12 @@ body {
 .splash-sub { margin: 0; font-size: 16px; opacity: 0.9; letter-spacing: 1px; }
 .splash-credit { position: absolute; bottom: 40px; font-size: 15px; opacity: 0.85; }
 
+/* Note box */
+.note-box {
+  background: #fff8e1; color: #7a5600; border-radius: 12px;
+  padding: 12px 14px; margin-top: 14px; font-size: 14px; line-height: 1.5;
+}
+
 /* Home credit */
 .home-credit { text-align: center; color: var(--muted); font-size: 13px; margin-top: 18px; }
 

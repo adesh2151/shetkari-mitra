@@ -1,24 +1,21 @@
 {
-  "version": "0.5.0",
+  "version": "0.6.0",
   "date": "2026-09-23",
   "changes": {
     "en": [
-      "Splash screen added (by Adesh)",
-      "Location search now supports PIN code + shows suggestions with district/state/PIN",
-      "Market prices now shown in your language",
-      "Fertilizer now shows a day-wise application schedule"
+      "REAL disease detection now works (tomato, potato, grape, chilli) — runs on your phone, offline",
+      "New Dairy/Cattle section: feed calculator, cow care, common diseases",
+      "More improvements to weather, prices and fertilizer"
     ],
     "mr": [
-      "स्प्लॅश स्क्रीन जोडली (by Adesh)",
-      "ठिकाण शोधात पिन कोड + जिल्हा/राज्य/पिनसह सूचना",
-      "बाजारभाव आता तुमच्या भाषेत",
-      "खतासाठी आता दिवसनिहाय वेळापत्रक"
+      "आता खरी रोग ओळख चालते (टोमॅटो, बटाटा, द्राक्ष, मिरची) — फोनवर, ऑफलाइन",
+      "नवीन दुग्ध/पशुपालन विभाग: खाद्य कॅल्क्युलेटर, गाय काळजी, आजार",
+      "हवामान, भाव व खतात आणखी सुधारणा"
     ],
     "hi": [
-      "स्प्लैश स्क्रीन जोड़ी (by Adesh)",
-      "स्थान खोज में पिन कोड + जिला/राज्य/पिन सहित सुझाव",
-      "बाज़ार भाव अब आपकी भाषा में",
-      "खाद के लिए अब दिन-वार समय-सारणी"
+      "अब असली रोग पहचान काम करती है (टमाटर, आलू, अंगूर, मिर्च) — फोन पर, ऑफलाइन",
+      "नया डेयरी/पशु विभाग: आहार कैलकुलेटर, गाय देखभाल, रोग",
+      "मौसम, भाव व खाद में और सुधार"
     ]
   }
 }
