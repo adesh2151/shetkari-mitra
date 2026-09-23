@@ -1,15 +1,19 @@
-import { useEffect, useState } from 'react'
-import { geocode, getGeoPosition, getForecast, weatherInfo, farmAdvice } from '../services/weather'
+import { useEffect, useRef, useState } from 'react'
+import {
+  searchPlaces, resolveCoords, getGeoPosition, getForecast, weatherInfo, farmAdvice
+} from '../services/weather'
 
 export default function WeatherScreen({ t }) {
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState('')
   const [place, setPlace] = useState('')
   const [query, setQuery] = useState('')
+  const [suggestions, setSuggestions] = useState([])
   const [data, setData] = useState(null)
+  const debounce = useRef(null)
 
   async function loadByCoords(lat, lon, name) {
-    setLoading(true); setError('')
+    setLoading(true); setError(''); setSuggestions([])
     try {
       const fc = await getForecast(lat, lon)
       setData(fc)
@@ -24,16 +28,29 @@ export default function WeatherScreen({ t }) {
   useEffect(() => {
     getGeoPosition()
       .then((p) => loadByCoords(p.lat, p.lon, t('your_location')))
-      .catch(() => { setLoading(false); setError(''); }) // ask for city instead
+      .catch(() => { setLoading(false); setError('') })
   }, [])
 
-  async function search(e) {
-    e?.preventDefault()
-    if (!query.trim()) return
-    setLoading(true); setError('')
+  function onQueryChange(e) {
+    const v = e.target.value
+    setQuery(v)
+    clearTimeout(debounce.current)
+    const isPin = /^\d{6}$/.test(v.trim())
+    if (v.trim().length < 3 && !isPin) { setSuggestions([]); return }
+    debounce.current = setTimeout(async () => {
+      const list = await searchPlaces(v)
+      setSuggestions(list)
+    }, 350)
+  }
+
+  async function pick(sel) {
+    setQuery(sel.label)
+    setSuggestions([])
+    setLoading(true)
     try {
-      const g = await geocode(query.trim())
-      await loadByCoords(g.lat, g.lon, g.name)
+      const { lat, lon } = await resolveCoords(sel)
+      const label = sel.pin ? `${sel.label} · ${sel.pin}` : `${sel.label}, ${sel.state}`
+      await loadByCoords(lat, lon, label)
     } catch (_) {
       setLoading(false); setError(t('place_not_found'))
     }
@@ -46,11 +63,19 @@ export default function WeatherScreen({ t }) {
 
   return (
     <div className="weather">
-      <form className="search-row" onSubmit={search}>
-        <input value={query} onChange={(e) => setQuery(e.target.value)}
-               placeholder={t('search_place')} />
-        <button className="btn primary small" type="submit">{t('search')}</button>
-      </form>
+      <div className="search-wrap">
+        <input value={query} onChange={onQueryChange} placeholder={t('search_place_pin')} />
+        {suggestions.length > 0 && (
+          <ul className="suggestions">
+            {suggestions.map((s) => (
+              <li key={s.id} onClick={() => pick(s)}>
+                <span className="sg-name">{s.label}</span>
+                <span className="sg-sub">{s.sub}</span>
+              </li>
+            ))}
+          </ul>
+        )}
+      </div>
 
       {loading && <div className="spinner-row"><span className="spinner" />{t('loading')}</div>}
       {error && <p className="error-text">{error}</p>}

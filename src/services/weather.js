@@ -15,6 +15,57 @@ export async function geocode(name) {
   return { lat: r.latitude, lon: r.longitude, name: [r.name, r.admin1].filter(Boolean).join(', ') }
 }
 
+// Search places with suggestions. Supports BOTH a 6-digit PIN code and a
+// place name, and returns each match's PIN + district + state so the user can
+// tell duplicates apart. Uses India Post API (free, no key) first, then
+// falls back to Open-Meteo geocoding.
+const POST_PIN = 'https://api.postalpincode.in/pincode'
+const POST_NAME = 'https://api.postalpincode.in/postoffice'
+
+export async function searchPlaces(query) {
+  const q = (query || '').trim()
+  if (!q) return []
+  const isPin = /^\d{6}$/.test(q)
+
+  try {
+    const url = isPin ? `${POST_PIN}/${q}` : `${POST_NAME}/${encodeURIComponent(q)}`
+    const res = await fetch(url)
+    const data = await res.json()
+    const offices = data?.[0]?.Status === 'Success' ? (data[0].PostOffice || []) : []
+    const seen = new Set()
+    const out = []
+    for (const p of offices) {
+      const key = `${p.Name}|${p.District}`
+      if (seen.has(key)) continue
+      seen.add(key)
+      out.push({
+        id: `${p.Pincode}-${p.Name}`,
+        name: p.Name, district: p.District, state: p.State, pin: p.Pincode,
+        label: p.Name, sub: `${p.District}, ${p.State} · ${p.Pincode}`
+      })
+      if (out.length >= 8) break
+    }
+    if (out.length) return out
+  } catch (_) { /* fall through to geocoding */ }
+
+  try {
+    const res = await fetch(`${GEOCODE}?name=${encodeURIComponent(q)}&count=8&language=en&format=json`)
+    const data = await res.json()
+    return (data.results || []).map((r, i) => ({
+      id: `g-${i}`, name: r.name, district: r.admin2 || '', state: r.admin1 || '',
+      pin: '', lat: r.latitude, lon: r.longitude,
+      label: r.name, sub: [r.admin2, r.admin1, r.country].filter(Boolean).join(', ')
+    }))
+  } catch (_) { return [] }
+}
+
+// Turn a selected suggestion into coordinates (India Post gives no lat/lon).
+export async function resolveCoords(sel) {
+  if (sel.lat != null && sel.lon != null) return { lat: sel.lat, lon: sel.lon }
+  const g = await geocode(`${sel.name}, ${sel.district || sel.state}`)
+  return { lat: g.lat, lon: g.lon }
+}
+
 // Try the device GPS first; caller can fall back to geocode().
 export function getGeoPosition() {
   return new Promise((resolve, reject) => {

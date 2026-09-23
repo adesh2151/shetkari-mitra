@@ -44,6 +44,7 @@
   "all": "All",
   "your_location": "Your location",
   "search_place": "Search city / village",
+  "search_place_pin": "Search city / village / PIN code",
   "place_not_found": "Place not found. Try another name.",
   "weather_error": "Could not load weather. Check internet.",
   "farm_advice": "Farming advice",

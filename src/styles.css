@@ -206,6 +206,20 @@ body {
   width: 100%; padding: 12px; border: 2px solid var(--border); border-radius: 10px;
   font-size: 16px; background: #fff;
 }
+.search-wrap { position: relative; margin-bottom: 12px; }
+.search-wrap input {
+  width: 100%; padding: 12px; border: 2px solid var(--border); border-radius: 10px; font-size: 16px;
+}
+.suggestions {
+  position: absolute; top: 100%; left: 0; right: 0; z-index: 10;
+  list-style: none; margin: 4px 0 0; padding: 4px; background: #fff;
+  border: 1px solid var(--border); border-radius: 10px; box-shadow: var(--shadow);
+  max-height: 260px; overflow-y: auto;
+}
+.suggestions li { padding: 10px 12px; cursor: pointer; border-radius: 8px; }
+.suggestions li:active, .suggestions li:hover { background: var(--green-light); }
+.sg-name { display: block; font-weight: 700; }
+.sg-sub { display: block; font-size: 13px; color: var(--muted); }
 .search-row { display: flex; gap: 8px; margin-bottom: 12px; }
 .search-row input {
   flex: 1; padding: 12px; border: 2px solid var(--border); border-radius: 10px; font-size: 16px;
