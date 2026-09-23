@@ -31,6 +31,7 @@ export default function CropGuideScreen({ lang, t }) {
         ))}
       </div>
       <p className="disclaimer">{t('safety_verify')}</p>
+      <p className="source-note">📚 {t('data_source')}: General agronomy references — verify locally</p>
     </div>
   )
 }

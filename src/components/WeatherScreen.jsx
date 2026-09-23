@@ -118,6 +118,7 @@ export default function WeatherScreen({ t }) {
               )
             })}
           </div>
+          <p className="source-note">📚 {t('data_source')}: Open-Meteo · India Post (PIN)</p>
         </>
       )}
     </div>

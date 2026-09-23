@@ -1,21 +1,24 @@
 {
-  "version": "0.8.1",
+  "version": "0.9.0",
   "date": "2026-09-23",
   "changes": {
     "en": [
-      "Fertilizer doses updated to authoritative sources (TNAU, Vikaspedia, ICAR) — source shown for each crop",
-      "New Crop Guide, Safety section, Helpline directory",
-      "Weather alerts + farm diary income/expense bar"
+      "New: Pest Guide for 8 crops — sourced from TNAU (Govt.)",
+      "Every data screen now shows its authoritative source",
+      "Fertilizer values re-verified against IIWBR, NHB, Vikaspedia",
+      "Safety notes added on pesticide-related advice"
     ],
     "mr": [
-      "खत मात्रा अधिकृत स्रोतांनुसार (TNAU, विकासपीडिया, ICAR) — प्रत्येक पिकाचा स्रोत दाखवला",
-      "नवीन पीक मार्गदर्शक, सुरक्षा विभाग, हेल्पलाइन",
-      "हवामान इशारे + शेती डायरी उत्पन्न/खर्च बार"
+      "नवीन: ८ पिकांसाठी कीड मार्गदर्शक — TNAU (सरकारी) स्रोत",
+      "प्रत्येक माहिती स्क्रीनवर आता अधिकृत स्रोत दिसतो",
+      "खत मात्रा IIWBR, NHB, विकासपीडियानुसार पडताळल्या",
+      "कीटकनाशक सल्ल्यावर सुरक्षा सूचना"
     ],
     "hi": [
-      "खाद मात्रा अधिकृत स्रोतों अनुसार (TNAU, विकासपीडिया, ICAR) — हर फसल का स्रोत दिखाया",
-      "नया फसल गाइड, सुरक्षा विभाग, हेल्पलाइन",
-      "मौसम अलर्ट + खेती डायरी आय/खर्च बार"
+      "नया: 8 फसलों के लिए कीट गाइड — TNAU (सरकारी) स्रोत",
+      "हर डेटा स्क्रीन पर अब अधिकृत स्रोत दिखता है",
+      "खाद मात्रा IIWBR, NHB, विकासपीडिया अनुसार सत्यापित",
+      "कीटनाशक सलाह पर सुरक्षा सूचना"
     ]
   }
 }

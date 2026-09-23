@@ -75,6 +75,7 @@ export default function IrrigationScreen({ t }) {
             <p className="hint" style={{ marginTop: 12 }}>🌱 {t('soil_moisture')}: {(data.soil * 100).toFixed(0)}%</p>
           )}
           <p className="disclaimer">{t('irrigation_disclaimer')}</p>
+          <p className="source-note">📚 {t('data_source')}: Open-Meteo (evapotranspiration & soil moisture)</p>
         </>
       )}
     </div>

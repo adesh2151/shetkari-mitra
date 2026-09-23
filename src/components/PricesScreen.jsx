@@ -72,6 +72,7 @@ export default function PricesScreen({ lang, t }) {
           ))}
         </ul>
       )}
+      <p className="source-note">📚 {t('data_source')}: Agmarknet — Government of India (data.gov.in)</p>
     </div>
   )
 }

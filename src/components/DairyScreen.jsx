@@ -64,6 +64,7 @@ export default function DairyScreen({ lang, t }) {
       ))}
 
       <p className="disclaimer">{t('dairy_disclaimer')}</p>
+      <p className="source-note">📚 {t('data_source')}: General ICAR / animal husbandry guidance</p>
     </div>
   )
 }

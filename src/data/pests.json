@@ -1,0 +1,77 @@
+{
+  "source": { "name": "TNAU Agritech Portal (Crop Protection)", "url": "https://agritech.tnau.ac.in/crop_protection/" },
+  "pests": [
+    {
+      "crop": "cotton", "cropName": { "en": "Cotton", "mr": "कापूस", "hi": "कपास" },
+      "pest": { "en": "Pink bollworm", "mr": "गुलाबी बोंडअळी", "hi": "गुलाबी सुंडी" },
+      "symptoms": { "en": "Flowers stay closed (rosette); bolls have bore holes with excreta, damaged discoloured seeds and lint inside.", "mr": "फुले न उमलता गुंडाळतात; बोंडांना छिद्रे व विष्ठा, आतील बी व कापूस खराब होतो.", "hi": "फूल बंद रहते हैं (रोज़ेट); बॉल में छेद व मल, अंदर बीज व रुई खराब." },
+      "control": { "en": "Hang 5 pheromone traps/acre; spray only above threshold with Chlorantraniliprole 18.5% SC (60 ml/acre) or Emamectin benzoate 5% SG; NSKE 5% (neem) is a softer IPM option.", "mr": "एकरी ५ कामगंध सापळे; उंबरठा ओलांडल्यासच Chlorantraniliprole 18.5% SC (६० मिली/एकर) किंवा Emamectin benzoate 5% SG फवारा; NSKE 5% (निंबोळी) हा सौम्य IPM पर्याय.", "hi": "5 फेरोमोन ट्रैप/एकड़; सीमा पार होने पर ही Chlorantraniliprole 18.5% SC (60 मिली/एकड़) या Emamectin benzoate 5% SG छिड़कें; NSKE 5% (नीम) IPM विकल्प." }
+    },
+    {
+      "crop": "cotton", "cropName": { "en": "Cotton", "mr": "कापूस", "hi": "कपास" },
+      "pest": { "en": "Leafhopper / Jassid", "mr": "तुडतुडे (जॅसिड)", "hi": "हरा तेला (जैसिड)" },
+      "symptoms": { "en": "Leaves curl down, turn yellow then brick-red (hopper burn); plants stunt.", "mr": "पाने खाली वळतात, पिवळी होऊन विटकरी लाल (हॉपरबर्न); वाढ खुंटते.", "hi": "पत्ते नीचे मुड़ते, पीले फिर ईंट-लाल (हॉपरबर्न); पौधे बौने." },
+      "control": { "en": "Grow hairy varieties, keep field weed-free; spray Imidacloprid 17.8% SL (40-50 ml/acre) or Thiamethoxam 25% WG at threshold; Azadirachtin (neem) as IPM.", "mr": "केसाळ वाण लावा, शेत तणमुक्त ठेवा; उंबरठ्यावर Imidacloprid 17.8% SL (४०-५० मिली/एकर) किंवा Thiamethoxam 25% WG; Azadirachtin (निंबोळी) IPM.", "hi": "रोमदार किस्में, खेत खरपतवार-मुक्त; सीमा पर Imidacloprid 17.8% SL (40-50 मिली/एकड़) या Thiamethoxam 25% WG; Azadirachtin (नीम) IPM." }
+    },
+    {
+      "crop": "tomato", "cropName": { "en": "Tomato", "mr": "टोमॅटो", "hi": "टमाटर" },
+      "pest": { "en": "Fruit borer (Helicoverpa)", "mr": "फळ पोखरणारी अळी (हेलिकोव्हर्पा)", "hi": "फल छेदक (हेलिकोवर्पा)" },
+      "symptoms": { "en": "Caterpillars bore circular holes into fruits and feed inside, leaving fruit rotten and unsellable.", "mr": "अळ्या फळांना गोल छिद्रे पाडून आत खातात; फळ कुजते व विक्रीयोग्य राहत नाही.", "hi": "सुंडी फलों में गोल छेद कर अंदर खाती है; फल सड़कर बिकने लायक नहीं रहता." },
+      "control": { "en": "Intercrop marigold, set Helilure traps, release Trichogramma, remove bored fruits; spray Chlorantraniliprole, Flubendiamide or Bt; Azadirachtin 1% EC / HaNPV as IPM.", "mr": "झेंडू आंतरपीक, Helilure सापळे, Trichogramma सोडा, पोखरलेली फळे काढा; Chlorantraniliprole, Flubendiamide किंवा Bt फवारा; Azadirachtin 1% EC / HaNPV IPM.", "hi": "गेंदा अंतरफसल, Helilure ट्रैप, Trichogramma छोड़ें, छेद वाले फल हटाएँ; Chlorantraniliprole, Flubendiamide या Bt; Azadirachtin 1% EC / HaNPV IPM." }
+    },
+    {
+      "crop": "chilli", "cropName": { "en": "Chilli", "mr": "मिरची", "hi": "मिर्च" },
+      "pest": { "en": "Thrips", "mr": "फुलकिडे (थ्रिप्स)", "hi": "थ्रिप्स" },
+      "symptoms": { "en": "Leaves crinkle and curl upward, buds turn brittle and drop; plants stunt with poor flowering.", "mr": "पाने चुरगळून वरती वळतात, कळ्या ठिसूळ होऊन गळतात; वाढ खुंटते, फुलधारणा कमी.", "hi": "पत्ते सिकुड़कर ऊपर मुड़ते, कलियाँ भुरभुरी होकर गिरतीं; पौधे बौने, कम फूल." },
+      "control": { "en": "Intercrop agathi, avoid chilli after sorghum; seed treat Imidacloprid 70% WS; spray Fipronil, Spinosad or Emamectin benzoate; NSKE (neem) as IPM.", "mr": "हादगा आंतरपीक, ज्वारीनंतर मिरची टाळा; Imidacloprid 70% WS बीजप्रक्रिया; Fipronil, Spinosad किंवा Emamectin benzoate फवारा; NSKE (निंबोळी) IPM.", "hi": "अगथी अंतरफसल, ज्वार के बाद मिर्च न लगाएँ; Imidacloprid 70% WS बीज उपचार; Fipronil, Spinosad या Emamectin benzoate; NSKE (नीम) IPM." }
+    },
+    {
+      "crop": "chilli", "cropName": { "en": "Chilli", "mr": "मिरची", "hi": "मिर्च" },
+      "pest": { "en": "Fruit borer", "mr": "फळ पोखरणारी अळी", "hi": "फल छेदक" },
+      "symptoms": { "en": "Young larvae scrape foliage (papery patches); grown larvae bore into flowers and fruits, hollowing them.", "mr": "लहान अळ्या पाने खरवडतात (कागदी ठिपके); मोठ्या अळ्या फुले व फळे पोखरून पोकळ करतात.", "hi": "छोटी सुंडी पत्ते खुरचती (कागज़ी धब्बे); बड़ी सुंडी फूल-फल छेदकर खोखला करती." },
+      "control": { "en": "Set pheromone traps, destroy bored fruits; spray Emamectin benzoate, Indoxacarb, Spinosad or Bt; HaNPV / NSKE 5% as IPM; avoid synthetic pyrethroids.", "mr": "कामगंध सापळे, पोखरलेली फळे नष्ट करा; Emamectin benzoate, Indoxacarb, Spinosad किंवा Bt; HaNPV / NSKE 5% IPM; सिंथेटिक पायरेथ्रॉइड टाळा.", "hi": "फेरोमोन ट्रैप, छेद वाले फल नष्ट करें; Emamectin benzoate, Indoxacarb, Spinosad या Bt; HaNPV / NSKE 5% IPM; सिंथेटिक पायरेथ्रॉइड टालें." }
+    },
+    {
+      "crop": "brinjal", "cropName": { "en": "Brinjal", "mr": "वांगी", "hi": "बैंगन" },
+      "pest": { "en": "Shoot & fruit borer", "mr": "शेंडा व फळ पोखरणारी अळी", "hi": "प्ररोह व फल छेदक" },
+      "symptoms": { "en": "Growing tips wither and droop (dead heart); fruits show bore holes plugged with excreta, unfit to sell.", "mr": "शेंडे सुकून लोंबतात (डेड हार्ट); फळांना विष्ठेने बुजलेली छिद्रे, विक्रीस अयोग्य.", "hi": "बढ़ते सिरे मुरझाकर झुकते (डेड हार्ट); फलों में मल से बंद छेद, बिकने लायक नहीं." },
+      "control": { "en": "Regularly clip and destroy bored shoots/fruits, use 12 pheromone traps/ha; spray Emamectin benzoate or Flubendiamide; NSKE 5% every 15 days as IPM.", "mr": "पोखरलेले शेंडे/फळे नियमित कापून नष्ट करा, हेक्टरी १२ सापळे; Emamectin benzoate किंवा Flubendiamide; दर १५ दिवसांनी NSKE 5% IPM.", "hi": "छेद वाले प्ररोह/फल नियमित काटकर नष्ट करें, 12 ट्रैप/हे; Emamectin benzoate या Flubendiamide; हर 15 दिन NSKE 5% IPM." }
+    },
+    {
+      "crop": "okra", "cropName": { "en": "Okra (Bhindi)", "mr": "भेंडी", "hi": "भिंडी" },
+      "pest": { "en": "Shoot & fruit borer", "mr": "शेंडा व फळ पोखरणारी अळी", "hi": "प्ररोह व फल छेदक" },
+      "symptoms": { "en": "Terminal shoots wither and droop; buds and flowers shed; fruits get bore holes and deform.", "mr": "शेंडे सुकून लोंबतात; कळ्या व फुले गळतात; फळांना छिद्रे व विकृती.", "hi": "सिरे मुरझाकर झुकते; कलियाँ-फूल गिरते; फलों में छेद व विकृति." },
+      "control": { "en": "Use 12 pheromone traps/ha, release Trichogramma, remove damaged parts; spray Emamectin benzoate, Pyridalyl or Bt (2 g/l); Azadirachtin (neem) as IPM.", "mr": "हेक्टरी १२ सापळे, Trichogramma सोडा, बाधित भाग काढा; Emamectin benzoate, Pyridalyl किंवा Bt (२ ग्रॅम/लि); Azadirachtin (निंबोळी) IPM.", "hi": "12 ट्रैप/हे, Trichogramma छोड़ें, क्षतिग्रस्त भाग हटाएँ; Emamectin benzoate, Pyridalyl या Bt (2 ग्राम/ली); Azadirachtin (नीम) IPM." }
+    },
+    {
+      "crop": "okra", "cropName": { "en": "Okra (Bhindi)", "mr": "भेंडी", "hi": "भिंडी" },
+      "pest": { "en": "Leafhopper / Jassid", "mr": "तुडतुडे (जॅसिड)", "hi": "हरा तेला (जैसिड)" },
+      "symptoms": { "en": "Leaves yellow, curl down and redden; heavy attack shows hopper burn and leaf shedding, stunting.", "mr": "पाने पिवळी, खाली वळून लाल होतात; तीव्र हल्ल्यात हॉपरबर्न व पानगळ, वाढ खुंटते.", "hi": "पत्ते पीले, नीचे मुड़कर लाल; अधिक हमले में हॉपरबर्न व पत्ते गिरना, बौनापन." },
+      "control": { "en": "Spray Imidacloprid 200 SL (100 ml/ha) or Dimethoate 30 EC (500 ml/ha); NSKE 5% (neem) + yellow sticky traps as IPM.", "mr": "Imidacloprid 200 SL (१०० मिली/हे) किंवा Dimethoate 30 EC (५०० मिली/हे); NSKE 5% (निंबोळी) + पिवळे चिकट सापळे IPM.", "hi": "Imidacloprid 200 SL (100 मिली/हे) या Dimethoate 30 EC (500 मिली/हे); NSKE 5% (नीम) + पीले चिपचिपे ट्रैप IPM." }
+    },
+    {
+      "crop": "soybean", "cropName": { "en": "Soybean", "mr": "सोयाबीन", "hi": "सोयाबीन" },
+      "pest": { "en": "Stem fly", "mr": "खोड माशी", "hi": "तना मक्खी" },
+      "symptoms": { "en": "Maggots tunnel from leaf vein into the stem; a split stem shows a zig-zag reddish tunnel; plants yellow, wilt, may die.", "mr": "अळ्या पानाच्या शिरेतून खोडात बोगदा करतात; खोड कापल्यास नागमोडी लालसर बोगदा; झाडे पिवळी, कोमेजतात, मरतात.", "hi": "मैगट पत्ती शिरा से तने में सुरंग; तना चीरने पर टेढ़ी लाल सुरंग; पौधे पीले, मुरझाकर मर सकते." },
+      "control": { "en": "Deep summer ploughing, avoid very early pre-monsoon sowing, rotate crops; 1-2 sprays of Quinalphos 25 EC (0.03-0.05%).", "mr": "खोल उन्हाळी नांगरणी, अति लवकर मान्सूनपूर्व पेरणी टाळा, फेरपालट; Quinalphos 25 EC (०.०३-०.०५%) १-२ फवारण्या.", "hi": "गहरी गर्मी जुताई, बहुत जल्दी मानसून-पूर्व बुवाई टालें, फसल चक्र; Quinalphos 25 EC (0.03-0.05%) 1-2 छिड़काव." }
+    },
+    {
+      "crop": "sugarcane", "cropName": { "en": "Sugarcane", "mr": "ऊस", "hi": "गन्ना" },
+      "pest": { "en": "Early shoot borer", "mr": "कोवळ्या शेंड्याची बोंडअळी", "hi": "अगेती प्ररोह छेदक" },
+      "symptoms": { "en": "In 1-3 month crop the central shoot dries into a dead heart that pulls out easily and smells foul; bore holes near ground.", "mr": "१-३ महिन्यांच्या पिकात मधला शेंडा सुकून डेड हार्ट, सहज ओढला जातो व दुर्गंधी; जमिनीजवळ छिद्रे.", "hi": "1-3 माह की फसल में केंद्रीय प्ररोह सूखकर डेड हार्ट, आसानी से निकलता व दुर्गंध; ज़मीन पास छेद." },
+      "control": { "en": "Plant early (Dec-Jan), do trash mulching, release Sturmiopsis inferens; apply Carbofuran 3 CG (33 kg/ha) or spray Chlorantraniliprole; NSKE 5% (neem) as economical IPM.", "mr": "लवकर लागवड (डिसें-जाने), पाचट आच्छादन, Sturmiopsis inferens सोडा; Carbofuran 3 CG (३३ किलो/हे) किंवा Chlorantraniliprole; NSKE 5% (निंबोळी) किफायतशीर IPM.", "hi": "जल्दी रोपाई (दिस-जन), ट्रैश मल्चिंग, Sturmiopsis inferens छोड़ें; Carbofuran 3 CG (33 किग्रा/हे) या Chlorantraniliprole; NSKE 5% (नीम) किफायती IPM." }
+    },
+    {
+      "crop": "sugarcane", "cropName": { "en": "Sugarcane", "mr": "ऊस", "hi": "गन्ना" },
+      "pest": { "en": "Top shoot borer", "mr": "शेंडा पोखरणारी अळी", "hi": "शीर्ष प्ररोह छेदक" },
+      "symptoms": { "en": "Emerging leaves show rows of shot holes and red midrib tunnels; top develops dead heart and side shoots give a bunchy top.", "mr": "उमलणाऱ्या पानांवर रांगेत छिद्रे व मध्यशिरेत लाल बोगदे; शेंडा डेड हार्ट व बाजूचे फुटवे 'बंची टॉप'.", "hi": "निकलती पत्तियों में पंक्तिबद्ध छेद व मध्यशिरा में लाल सुरंग; शीर्ष डेड हार्ट व पार्श्व प्ररोह 'बंची टॉप'." },
+      "control": { "en": "Release parasitoid Isotima javensis (100 pairs/ha); apply Carbofuran 3% G (33.3 kg/ha) or spray Chlorantraniliprole 18.5% SC (375 ml/ha).", "mr": "Isotima javensis परजीवी सोडा (१०० जोड्या/हे); Carbofuran 3% G (३३.३ किलो/हे) किंवा Chlorantraniliprole 18.5% SC (३७५ मिली/हे).", "hi": "Isotima javensis परजीवी छोड़ें (100 जोड़े/हे); Carbofuran 3% G (33.3 किग्रा/हे) या Chlorantraniliprole 18.5% SC (375 मिली/हे)." }
+    },
+    {
+      "crop": "onion", "cropName": { "en": "Onion", "mr": "कांदा", "hi": "प्याज़" },
+      "pest": { "en": "Thrips", "mr": "फुलकिडे (थ्रिप्स)", "hi": "थ्रिप्स" },
+      "symptoms": { "en": "Silvery-white patches over leaves; in severe attack leaves dry from the tip down, reducing bulb size.", "mr": "पानांवर चंदेरी-पांढरे ठिपके; तीव्र हल्ल्यात पाने शेंड्यापासून सुकतात, कांदा लहान राहतो.", "hi": "पत्तों पर चाँदी-सफेद धब्बे; अधिक हमले में पत्ते सिरे से सूखते, कंद छोटा." },
+      "control": { "en": "Clean cultivation with regular hoeing, flood affected fields; spray Dimethoate (0.06%) or Profenofos (0.05%); NSKE (neem) as IPM.", "mr": "नियमित कोळपणीसह स्वच्छ मशागत, बाधित शेतात पाणी साचवा; Dimethoate (०.०६%) किंवा Profenofos (०.०५%); NSKE (निंबोळी) IPM.", "hi": "नियमित गुड़ाई सहित स्वच्छ खेती, प्रभावित खेत में पानी भरें; Dimethoate (0.06%) या Profenofos (0.05%); NSKE (नीम) IPM." }
+    }
+  ]
+}

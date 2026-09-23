@@ -7,6 +7,7 @@ const TILES = [
   { key: 'fertilizer', icon: '🧮', label: 'tab_fertilizer', color: '#f1f8e9' },
   { key: 'cattle', icon: '🐄', label: 'tab_cattle', color: '#fff3e0' },
   { key: 'cropguide', icon: '📖', label: 'tab_cropguide', color: '#f9fbe7' },
+  { key: 'pests', icon: '🐛', label: 'tab_pests', color: '#fbe9e7' },
   { key: 'schemes', icon: '🏛️', label: 'tab_schemes', color: '#f3e5f5' },
   { key: 'diary', icon: '📒', label: 'tab_diary', color: '#e0f2f1' },
   { key: 'safety', icon: '🛡️', label: 'tab_safety', color: '#ffebee' },
