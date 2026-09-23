@@ -7,146 +7,143 @@
   "pepper_healthy": { "healthy": true, "name": { "en": "Chilli/Capsicum — Healthy", "mr": "मिरची — निरोगी", "hi": "मिर्च — स्वस्थ" } },
 
   "tomato_late_blight": {
-    "name": { "en": "Tomato Late Blight", "mr": "टोमॅटो उशिरा येणारा करपा", "hi": "टमाटर लेट ब्लाइट" },
-    "cause": { "en": "Pathogen Phytophthora infestans; spreads fast in cool, wet, humid weather.", "mr": "फायटोफ्थोरा इन्फेस्टन्स; थंड, दमट व ओलसर हवामानात झपाट्याने पसरतो.", "hi": "फाइटोफ्थोरा इन्फेस्टैंस; ठंडे, नम मौसम में तेजी से फैलता है।" },
-    "treatment": { "en": "Remove and destroy infected leaves. Spray copper-based or Mancozeb fungicide per label. Repeat every 7-10 days in wet weather.", "mr": "बाधित पाने काढून नष्ट करा. लेबलनुसार तांबेयुक्त किंवा मॅन्कोझेब फवारा. ओलसर हवामानात दर ७-१० दिवसांनी पुन्हा फवारा.", "hi": "संक्रमित पत्ते हटाकर नष्ट करें. लेबल अनुसार तांबा या मैंकोज़ेब छिड़कें. नमी में हर 7-10 दिन दोहराएँ।" },
-    "prevention": { "en": "Avoid overhead watering, give airflow, use disease-free seed.", "mr": "वरून पाणी टाळा, हवा खेळती ठेवा, रोगमुक्त बियाणे वापरा.", "hi": "ऊपर से पानी टालें, हवा रखें, रोगमुक्त बीज लें।" }
+    "name": { "en": "Tomato Late Blight", "mr": "टोमॅटो उशिरा करपा", "hi": "टमाटर लेट ब्लाइट" }, "source": "TNAU",
+    "cause": { "en": "Water-mould Phytophthora infestans; water-soaked black lesions on leaves and stems with white growth.", "mr": "फायटोफ्थोरा इन्फेस्टन्स; पाने व खोडांवर पाणथळ काळे डाग व पांढरी वाढ.", "hi": "फाइटोफ्थोरा इन्फेस्टैंस; पत्तों व तने पर जलभरे काले धब्बे व सफेद वृद्धि." },
+    "treatment": { "en": "Improve drainage; at first sign spray Mancozeb (~1000 g/acre) or a systemic like Azoxystrobin; remove infected plants.", "mr": "निचरा सुधारा; लक्षण दिसताच Mancozeb (~१००० ग्रॅम/एकर) किंवा Azoxystrobin फवारा; बाधित झाडे काढा.", "hi": "जल निकास सुधारें; लक्षण दिखते ही Mancozeb (~1000 ग्राम/एकड़) या Azoxystrobin छिड़कें; संक्रमित पौधे हटाएँ." },
+    "prevention": { "en": "Rotate crops, avoid waterlogging, and spray protectant fungicide in cool, wet, cloudy weather.", "mr": "पीक फेरपालट, पाणी साचू देऊ नका, थंड-दमट-ढगाळ हवामानात प्रतिबंधक फवारणी.", "hi": "फसल चक्र, जलभराव टालें, ठंडे-नम-बादल मौसम में निवारक फफूंदनाशक छिड़कें." }
   },
   "tomato_early_blight": {
-    "name": { "en": "Tomato Early Blight", "mr": "टोमॅटो लवकर येणारा करपा", "hi": "टमाटर अर्ली ब्लाइट" },
-    "cause": { "en": "Fungus Alternaria solani; brown target-like rings on older leaves.", "mr": "अल्टरनेरिया सोलानी; जुन्या पानांवर वर्तुळाकार तपकिरी ठिपके.", "hi": "अल्टरनेरिया सोलानी; पुरानी पत्तियों पर छल्लेदार भूरे धब्बे।" },
-    "treatment": { "en": "Pick off spotted leaves. Spray Mancozeb or Chlorothalonil per label.", "mr": "ठिपके असलेली पाने काढा. लेबलनुसार मॅन्कोझेब किंवा क्लोरोथॅलोनिल फवारा.", "hi": "धब्बेदार पत्ते हटाएँ. लेबल अनुसार मैंकोज़ेब या क्लोरोथैलोनिल छिड़कें।" },
-    "prevention": { "en": "Rotate crops, mulch soil, remove debris after harvest.", "mr": "पीक फेरपालट, आच्छादन, काढणीनंतर अवशेष काढा.", "hi": "फसल चक्र, मल्च, कटाई बाद अवशेष हटाएँ।" }
+    "name": { "en": "Tomato Early Blight", "mr": "टोमॅटो लवकर करपा", "hi": "टमाटर अर्ली ब्लाइट" }, "source": "TNAU",
+    "cause": { "en": "Fungus Alternaria solani; brown leaf spots with concentric bull's-eye rings and yellow margin.", "mr": "अल्टरनेरिया सोलानी; वर्तुळाकार वलये व पिवळ्या कडांचे तपकिरी ठिपके.", "hi": "अल्टरनेरिया सोलानी; संकेंद्रित छल्लों व पीले किनारे वाले भूरे धब्बे." },
+    "treatment": { "en": "Remove infected debris and rotate crops; spray Mancozeb (~1 kg/acre) or a systemic such as Azoxystrobin.", "mr": "बाधित अवशेष काढा व फेरपालट करा; Mancozeb (~१ किलो/एकर) किंवा Azoxystrobin फवारा.", "hi": "संक्रमित अवशेष हटाएँ व फसल चक्र; Mancozeb (~1 किग्रा/एकड़) या Azoxystrobin छिड़कें." },
+    "prevention": { "en": "Treat seed with Trichoderma (4 g/kg), rotate away from tomato/potato, keep plants well-nourished.", "mr": "बियाण्यास Trichoderma (४ ग्रॅम/किलो), टोमॅटो/बटाट्यापासून फेरपालट, झाडे सशक्त ठेवा.", "hi": "बीज को Trichoderma (4 ग्राम/किग्रा), टमाटर/आलू से फसल चक्र, पौधे सुपोषित रखें." }
   },
   "tomato_leaf_mold": {
-    "name": { "en": "Tomato Leaf Mold", "mr": "टोमॅटो पर्ण बुरशी", "hi": "टमाटर लीफ मोल्ड" },
-    "cause": { "en": "Fungus Passalora fulva; yellow patches on top, olive mold beneath, in high humidity.", "mr": "पॅसॅलोरा फुल्व्हा; जास्त दमटपणात वर पिवळे डाग, खाली हिरवट बुरशी.", "hi": "पैसालोरा फुल्वा; अधिक नमी में ऊपर पीले धब्बे, नीचे जैतूनी फफूंद।" },
-    "treatment": { "en": "Improve ventilation, remove affected leaves, spray recommended fungicide.", "mr": "हवा खेळती करा, बाधित पाने काढा, शिफारस केलेले बुरशीनाशक फवारा.", "hi": "हवादारी बढ़ाएँ, प्रभावित पत्ते हटाएँ, अनुशंसित फफूंदनाशक छिड़कें।" },
-    "prevention": { "en": "Lower greenhouse/tunnel humidity, space plants, avoid wetting leaves.", "mr": "बोगद्यातील दमटपणा कमी करा, अंतर ठेवा, पाने ओली करू नका.", "hi": "टनल की नमी घटाएँ, दूरी रखें, पत्ते गीले न करें।" }
+    "name": { "en": "Tomato Leaf Mold", "mr": "टोमॅटो पर्ण बुरशी", "hi": "टमाटर लीफ मोल्ड" }, "source": "Cornell Univ.",
+    "cause": { "en": "Fungus Passalora fulva; thrives in humid, poorly ventilated conditions.", "mr": "पॅसॅलोरा फुल्व्हा; दमट व कमी हवेशीर स्थितीत वाढते.", "hi": "पैसालोरा फुल्वा; नम व कम हवादार स्थिति में बढ़ती है." },
+    "treatment": { "en": "Improve airflow, keep humidity below 85%, remove diseased leaves; spray chlorothalonil/Mancozeb or azoxystrobin.", "mr": "हवा खेळती करा, दमटपणा ८५% खाली ठेवा, रोगट पाने काढा; chlorothalonil/Mancozeb किंवा azoxystrobin फवारा.", "hi": "हवादारी बढ़ाएँ, नमी 85% से कम रखें, रोगग्रस्त पत्ते हटाएँ; chlorothalonil/Mancozeb या azoxystrobin छिड़कें." },
+    "prevention": { "en": "Use resistant/disease-free seed, avoid wetting leaves, space plants for ventilation, rotate crops.", "mr": "प्रतिकारक/रोगमुक्त बियाणे, पाने ओली नकोत, हवेसाठी अंतर ठेवा, फेरपालट.", "hi": "प्रतिरोधी/रोगमुक्त बीज, पत्ते गीले न करें, हवा हेतु दूरी रखें, फसल चक्र." }
   },
   "tomato_bacterial_spot": {
-    "name": { "en": "Tomato Bacterial Spot", "mr": "टोमॅटो जीवाणूजन्य ठिपके", "hi": "टमाटर बैक्टीरियल स्पॉट" },
-    "cause": { "en": "Bacterium Xanthomonas; small dark water-soaked spots on leaves and fruit.", "mr": "झँथोमोनास जीवाणू; पाने व फळांवर लहान काळसर पाणथळ ठिपके.", "hi": "ज़ैंथोमोनास बैक्टीरिया; पत्तों व फल पर छोटे गहरे जलभरे धब्बे।" },
-    "treatment": { "en": "Remove infected plants, spray copper-based bactericide, avoid working when wet.", "mr": "बाधित झाडे काढा, तांबेयुक्त फवारणी करा, ओले असताना काम टाळा.", "hi": "संक्रमित पौधे हटाएँ, तांबा-आधारित छिड़काव करें, गीले में काम न करें।" },
-    "prevention": { "en": "Use certified seed, rotate crops, avoid overhead irrigation.", "mr": "प्रमाणित बियाणे, पीक फेरपालट, वरून सिंचन टाळा.", "hi": "प्रमाणित बीज, फसल चक्र, ऊपर से सिंचाई टालें।" }
+    "name": { "en": "Tomato Bacterial Spot", "mr": "टोमॅटो जीवाणूजन्य ठिपके", "hi": "टमाटर बैक्टीरियल स्पॉट" }, "source": "TNAU",
+    "cause": { "en": "Bacterium Xanthomonas; seed- and debris-borne, spread by rain splash.", "mr": "झँथोमोनास जीवाणू; बियाणे व अवशेषातून, पावसाच्या शिडकाव्याने पसरतो.", "hi": "ज़ैंथोमोनास; बीज व अवशेष जनित, वर्षा छींटे से फैलता है." },
+    "treatment": { "en": "Use disease-free seed; spray Streptocycline 40-100 ppm (~20 g/acre) to check the bacteria.", "mr": "रोगमुक्त बियाणे; जीवाणू आटोक्यात Streptocycline ४०-१०० ppm (~२० ग्रॅम/एकर) फवारा.", "hi": "रोगमुक्त बीज; बैक्टीरिया रोकने हेतु Streptocycline 40-100 ppm (~20 ग्राम/एकड़) छिड़कें." },
+    "prevention": { "en": "Certified clean seed, remove infected debris, avoid overhead irrigation or handling wet plants.", "mr": "प्रमाणित स्वच्छ बियाणे, बाधित अवशेष काढा, वरून सिंचन व ओली झाडे हाताळणे टाळा.", "hi": "प्रमाणित स्वच्छ बीज, संक्रमित अवशेष हटाएँ, ऊपर से सिंचाई व गीले पौधे छूना टालें." }
   },
   "tomato_septoria_leaf_spot": {
-    "name": { "en": "Tomato Septoria Leaf Spot", "mr": "टोमॅटो सेप्टोरिया ठिपके", "hi": "टमाटर सेप्टोरिया स्पॉट" },
-    "cause": { "en": "Fungus Septoria lycopersici; many small circular spots with grey centres.", "mr": "सेप्टोरिया लायकोपर्सिसी; राखाडी केंद्र असलेले अनेक लहान गोल ठिपके.", "hi": "सेप्टोरिया लाइकोपर्सिसी; धूसर केंद्र वाले कई छोटे गोल धब्बे।" },
-    "treatment": { "en": "Remove lower infected leaves, spray Mancozeb/Chlorothalonil per label.", "mr": "खालची बाधित पाने काढा, लेबलनुसार मॅन्कोझेब/क्लोरोथॅलोनिल फवारा.", "hi": "निचले संक्रमित पत्ते हटाएँ, लेबल अनुसार मैंकोज़ेब/क्लोरोथैलोनिल छिड़कें।" },
-    "prevention": { "en": "Mulch, avoid leaf wetness, rotate crops for 2-3 years.", "mr": "आच्छादन, पाने ओली नकोत, २-३ वर्षे पीक फेरपालट.", "hi": "मल्च, पत्ते गीले न हों, 2-3 साल फसल चक्र।" }
+    "name": { "en": "Tomato Septoria Leaf Spot", "mr": "टोमॅटो सेप्टोरिया ठिपके", "hi": "टमाटर सेप्टोरिया स्पॉट" }, "source": "TNAU",
+    "cause": { "en": "Fungus Septoria lycopersici; small grey-centred spots with dark margins causing heavy leaf drop.", "mr": "सेप्टोरिया लायकोपर्सिसी; राखाडी केंद्र व गडद कडांचे लहान ठिपके, मोठ्या प्रमाणात पानगळ.", "hi": "सेप्टोरिया लाइकोपर्सिसी; धूसर केंद्र व गहरे किनारे वाले छोटे धब्बे, भारी पत्ती गिरना." },
+    "treatment": { "en": "Remove affected leaves; spray Fluxapyroxad + Pyraclostrobin (200-250 ml/ha) or a protectant like Mancozeb.", "mr": "बाधित पाने काढा; Fluxapyroxad + Pyraclostrobin (२००-२५० मिली/हे) किंवा Mancozeb फवारा.", "hi": "प्रभावित पत्ते हटाएँ; Fluxapyroxad + Pyraclostrobin (200-250 मिली/हे) या Mancozeb छिड़कें." },
+    "prevention": { "en": "Treat seed with Trichoderma (4 g/kg), rotate crops, reduce leaf wetness and humidity.", "mr": "बियाण्यास Trichoderma (४ ग्रॅम/किलो), फेरपालट, पाने ओली व दमटपणा कमी करा.", "hi": "बीज को Trichoderma (4 ग्राम/किग्रा), फसल चक्र, पत्ती नमी घटाएँ." }
   },
   "tomato_yellow_leaf_curl_virus": {
-    "name": { "en": "Tomato Yellow Leaf Curl Virus", "mr": "टोमॅटो पिवळी पर्ण गुंडाळी विषाणू", "hi": "टमाटर पीला पत्ती मरोड़ वायरस" },
-    "cause": { "en": "Virus spread by whitefly; leaves curl up, yellow, plants stunt.", "mr": "पांढऱ्या माशीमार्फत विषाणू; पाने गुंडाळतात, पिवळी होतात, वाढ खुंटते.", "hi": "सफेद मक्खी से वायरस; पत्ते मुड़ते, पीले होते, वृद्धि रुकती।" },
-    "treatment": { "en": "No cure. Remove infected plants; control whitefly with neem/recommended insecticide.", "mr": "उपचार नाही. बाधित झाडे काढा; निंबोळी/शिफारस कीटकनाशकाने पांढरी माशी नियंत्रित करा.", "hi": "इलाज नहीं. संक्रमित पौधे हटाएँ; नीम/अनुशंसित कीटनाशक से सफेद मक्खी नियंत्रित करें।" },
-    "prevention": { "en": "Grow tolerant varieties, use yellow sticky traps, remove host weeds.", "mr": "सहनशील वाण, पिवळे चिकट सापळे, तण काढा.", "hi": "सहनशील किस्में, पीले चिपचिपे ट्रैप, खरपतवार हटाएँ।" }
+    "name": { "en": "Tomato Yellow Leaf Curl Virus", "mr": "टोमॅटो पिवळी पर्ण गुंडाळी विषाणू", "hi": "टमाटर पीला पत्ती मरोड़ वायरस" }, "source": "TNAU",
+    "cause": { "en": "A begomovirus spread by the whitefly Bemisia tabaci; leaves curl up and yellow, plants stunt.", "mr": "पांढऱ्या माशीमार्फत बेगोमोव्हायरस; पाने वर वळून पिवळी, वाढ खुंटते.", "hi": "सफेद मक्खी से बेगोमोवायरस; पत्ते ऊपर मुड़कर पीले, पौधे बौने." },
+    "treatment": { "en": "Remove infected plants; control whitefly with Imidacloprid 17.8 SL (200 ml/acre) or Thiamethoxam 25 WG + 5 yellow sticky traps/acre.", "mr": "बाधित झाडे काढा; पांढरी माशी Imidacloprid 17.8 SL (२०० मिली/एकर) किंवा Thiamethoxam 25 WG + एकरी ५ पिवळे सापळे.", "hi": "संक्रमित पौधे हटाएँ; सफेद मक्खी Imidacloprid 17.8 SL (200 मिली/एकड़) या Thiamethoxam 25 WG + 5 पीले ट्रैप/एकड़." },
+    "prevention": { "en": "Raise seedlings under net, use clean seed, plant sorghum/maize/bajra as barrier, remove weed hosts.", "mr": "रोपे जाळीखाली वाढवा, स्वच्छ बियाणे, ज्वारी/मका/बाजरी सीमापीक, तण काढा.", "hi": "पौध नेट में उगाएँ, स्वच्छ बीज, ज्वार/मक्का/बाजरा बाधा-फसल, खरपतवार हटाएँ." }
   },
   "tomato_mosaic_virus": {
-    "name": { "en": "Tomato Mosaic Virus", "mr": "टोमॅटो मोझॅक विषाणू", "hi": "टमाटर मोज़ेक वायरस" },
-    "cause": { "en": "Virus spread by touch/tools/seed; mottled light-dark leaves, distorted growth.", "mr": "स्पर्श/अवजारे/बियाण्याने विषाणू; पानांवर हलके-गडद डाग, वेडीवाकडी वाढ.", "hi": "स्पर्श/औज़ार/बीज से वायरस; पत्तों पर हल्के-गहरे धब्बे, विकृत वृद्धि।" },
-    "treatment": { "en": "Remove infected plants; disinfect hands and tools; do not smoke near plants.", "mr": "बाधित झाडे काढा; हात व अवजारे निर्जंतुक करा; झाडांजवळ धूम्रपान नको.", "hi": "संक्रमित पौधे हटाएँ; हाथ-औज़ार कीटाणुरहित करें; पास धूम्रपान न करें।" },
-    "prevention": { "en": "Use virus-free seed, wash hands, disinfect tools between plants.", "mr": "विषाणूमुक्त बियाणे, हात धुवा, अवजारे निर्जंतुक करा.", "hi": "वायरस-मुक्त बीज, हाथ धोएँ, औज़ार कीटाणुरहित करें।" }
+    "name": { "en": "Tomato Mosaic Virus", "mr": "टोमॅटो मोझॅक विषाणू", "hi": "टमाटर मोज़ेक वायरस" }, "source": "TNAU",
+    "cause": { "en": "Tomato/Cucumber mosaic virus, spread mechanically by hands, tools, sap and seed.", "mr": "टोमॅटो/काकडी मोझॅक विषाणू; हात, अवजारे, रस व बियाण्याने पसरतो.", "hi": "टमाटर/खीरा मोज़ेक वायरस; हाथ, औज़ार, रस व बीज से फैलता है." },
+    "treatment": { "en": "No chemical cure — promptly pull out and destroy infected plants.", "mr": "रासायनिक उपचार नाही — बाधित झाडे लगेच उपटून नष्ट करा.", "hi": "रासायनिक इलाज नहीं — संक्रमित पौधे तुरंत उखाड़कर नष्ट करें." },
+    "prevention": { "en": "Use virus-free seed, rotate crops, and disinfect hands and tools between plants.", "mr": "विषाणूमुक्त बियाणे, फेरपालट, झाडांमध्ये हात व अवजारे निर्जंतुक करा.", "hi": "वायरस-मुक्त बीज, फसल चक्र, पौधों के बीच हाथ-औज़ार कीटाणुरहित करें." }
   },
   "tomato_target_spot": {
-    "name": { "en": "Tomato Target Spot", "mr": "टोमॅटो लक्ष्य ठिपका", "hi": "टमाटर टारगेट स्पॉट" },
-    "cause": { "en": "Fungus Corynespora cassiicola; brown spots with concentric rings.", "mr": "कोरिनेस्पोरा कॅसिकोला; वर्तुळाकार वलयांचे तपकिरी ठिपके.", "hi": "कोराइनेस्पोरा कैसिकोला; संकेंद्रित छल्लों वाले भूरे धब्बे।" },
-    "treatment": { "en": "Remove affected foliage, spray recommended fungicide, improve airflow.", "mr": "बाधित पाने काढा, शिफारस बुरशीनाशक फवारा, हवा खेळती करा.", "hi": "प्रभावित पत्ते हटाएँ, अनुशंसित फफूंदनाशक छिड़कें, हवा बढ़ाएँ।" },
-    "prevention": { "en": "Avoid dense planting and leaf wetness; rotate crops.", "mr": "दाट लागवड व पाने ओली टाळा; पीक फेरपालट.", "hi": "घनी रोपाई व पत्ते गीले टालें; फसल चक्र।" }
+    "name": { "en": "Tomato Target Spot", "mr": "टोमॅटो लक्ष्य ठिपका", "hi": "टमाटर टारगेट स्पॉट" }, "source": "UF/IFAS",
+    "cause": { "en": "Fungus Corynespora cassiicola; target-like ringed spots on leaves, stems and fruit.", "mr": "कोरिनेस्पोरा कॅसिकोला; पाने, खोड व फळांवर वलयांकित लक्ष्यसदृश ठिपके.", "hi": "कोराइनेस्पोरा कैसिकोला; पत्तों, तने व फल पर छल्लेदार लक्ष्य जैसे धब्बे." },
+    "treatment": { "en": "Remove infected material; spray chlorothalonil, Mancozeb, difenoconazole or fluxapyroxad, rotating groups.", "mr": "बाधित भाग काढा; chlorothalonil, Mancozeb, difenoconazole किंवा fluxapyroxad गट बदलून फवारा.", "hi": "संक्रमित भाग हटाएँ; chlorothalonil, Mancozeb, difenoconazole या fluxapyroxad समूह बदलकर छिड़कें." },
+    "prevention": { "en": "Rotate with non-solanaceous crops, use clean transplants, clear weeds and debris.", "mr": "बिगर-सोलॅनेसी पिकांशी फेरपालट, स्वच्छ रोपे, तण व अवशेष काढा.", "hi": "गैर-सोलेनेसी फसलों से चक्र, स्वच्छ पौध, खरपतवार व अवशेष हटाएँ." }
   },
   "tomato_spider_mites": {
-    "name": { "en": "Tomato Spider Mites", "mr": "टोमॅटो कोळी (माइट्स)", "hi": "टमाटर स्पाइडर माइट" },
-    "cause": { "en": "Tiny two-spotted mites; fine webbing and yellow stippling in hot dry weather.", "mr": "अतिशय लहान कोळी; उष्ण कोरड्या हवामानात बारीक जाळे व पिवळे ठिपके.", "hi": "बहुत छोटे माइट; गर्म सूखे में महीन जाला व पीले धब्बे।" },
-    "treatment": { "en": "Spray water forcefully, use neem oil or recommended miticide.", "mr": "जोराने पाणी फवारा, निंबोळी तेल किंवा शिफारस माइटनाशक वापरा.", "hi": "तेज़ पानी छिड़कें, नीम तेल या अनुशंसित माइटनाशक लें।" },
-    "prevention": { "en": "Keep plants watered, avoid dust stress, encourage natural predators.", "mr": "झाडांना पाणी द्या, धुळीचा ताण टाळा, नैसर्गिक भक्षकांना प्रोत्साहन.", "hi": "पौधों को पानी दें, धूल तनाव टालें, प्राकृतिक शत्रु बढ़ाएँ।" }
+    "name": { "en": "Tomato Spider Mites", "mr": "टोमॅटो कोळी (माइट्स)", "hi": "टमाटर स्पाइडर माइट" }, "source": "TNAU",
+    "cause": { "en": "Two-spotted spider mite (Tetranychus); leaves bronze with fine silken webbing.", "mr": "दोन-ठिपके कोळी (Tetranychus); पाने तांबूस व बारीक रेशमी जाळे.", "hi": "दो-धब्बा माइट (Tetranychus); पत्ते कांस्य व महीन रेशमी जाला." },
+    "treatment": { "en": "Spray Wettable Sulphur 50% WP at 2 g/litre; a strong water jet and rotating miticides also help.", "mr": "Wettable Sulphur 50% WP २ ग्रॅम/लिटर फवारा; जोराचा पाण्याचा फवारा व माइटनाशक आलटून वापरा.", "hi": "Wettable Sulphur 50% WP 2 ग्राम/लीटर छिड़कें; तेज़ पानी की धार व माइटनाशक बदलकर लें." },
+    "prevention": { "en": "Avoid dusty, water-stressed conditions, remove heavily infested leaves, protect natural predators.", "mr": "धूळ व पाण्याचा ताण टाळा, जास्त बाधित पाने काढा, नैसर्गिक भक्षक जपा.", "hi": "धूल व जल-तनाव टालें, अधिक ग्रस्त पत्ते हटाएँ, प्राकृतिक शत्रु बचाएँ." }
   },
-
   "potato_early_blight": {
-    "name": { "en": "Potato Early Blight", "mr": "बटाटा लवकर करपा", "hi": "आलू अर्ली ब्लाइट" },
-    "cause": { "en": "Fungus Alternaria solani; dark target-ring spots on lower leaves.", "mr": "अल्टरनेरिया सोलानी; खालच्या पानांवर वर्तुळाकार गडद ठिपके.", "hi": "अल्टरनेरिया सोलानी; निचली पत्तियों पर छल्लेदार गहरे धब्बे।" },
-    "treatment": { "en": "Remove infected leaves, spray Mancozeb/Chlorothalonil per label.", "mr": "बाधित पाने काढा, लेबलनुसार मॅन्कोझेब/क्लोरोथॅलोनिल फवारा.", "hi": "संक्रमित पत्ते हटाएँ, लेबल अनुसार मैंकोज़ेब/क्लोरोथैलोनिल छिड़कें।" },
-    "prevention": { "en": "Use healthy seed tubers, balanced fertiliser, rotate crops.", "mr": "निरोगी बेणे, संतुलित खत, पीक फेरपालट.", "hi": "स्वस्थ बीज कंद, संतुलित खाद, फसल चक्र।" }
+    "name": { "en": "Potato Early Blight", "mr": "बटाटा लवकर करपा", "hi": "आलू अर्ली ब्लाइट" }, "source": "TNAU",
+    "cause": { "en": "Fungus Alternaria solani; dark angular leaf spots with concentric rings.", "mr": "अल्टरनेरिया सोलानी; वर्तुळाकार वलयांचे गडद कोनाकृती ठिपके.", "hi": "अल्टरनेरिया सोलानी; संकेंद्रित छल्लों वाले गहरे कोणीय धब्बे." },
+    "treatment": { "en": "Spray Zineb 0.2% or Captan 0.2% early and repeat every 15-20 days.", "mr": "लवकर Zineb ०.२% किंवा Captan ०.२% फवारा, दर १५-२० दिवसांनी पुन्हा.", "hi": "जल्दी Zineb 0.2% या Captan 0.2% छिड़कें, हर 15-20 दिन दोहराएँ." },
+    "prevention": { "en": "Plant disease-free tubers, destroy infected debris, keep crop well-nourished.", "mr": "रोगमुक्त बेणे लावा, बाधित अवशेष नष्ट करा, पीक सशक्त ठेवा.", "hi": "रोगमुक्त कंद लगाएँ, संक्रमित अवशेष नष्ट करें, फसल सुपोषित रखें." }
   },
   "potato_late_blight": {
-    "name": { "en": "Potato Late Blight", "mr": "बटाटा उशिरा करपा", "hi": "आलू लेट ब्लाइट" },
-    "cause": { "en": "Phytophthora infestans; dark water-soaked patches, white mould in humid weather.", "mr": "फायटोफ्थोरा इन्फेस्टन्स; दमट हवामानात काळसर पाणथळ डाग, पांढरी बुरशी.", "hi": "फाइटोफ्थोरा इन्फेस्टैंस; नम मौसम में गहरे जलभरे धब्बे, सफेद फफूंद।" },
-    "treatment": { "en": "Spray copper/Mancozeb early; in severe cases use metalaxyl-based fungicide per label.", "mr": "लवकर तांबे/मॅन्कोझेब फवारा; तीव्र असल्यास लेबलनुसार मेटालॅक्झिल वापरा.", "hi": "जल्दी तांबा/मैंकोज़ेब छिड़कें; गंभीर हो तो लेबल अनुसार मेटालैक्सिल लें।" },
-    "prevention": { "en": "Earth up ridges, avoid excess irrigation, destroy infected debris.", "mr": "सरी भरा, जास्त सिंचन टाळा, बाधित अवशेष नष्ट करा.", "hi": "मेड़ चढ़ाएँ, अधिक सिंचाई टालें, संक्रमित अवशेष नष्ट करें।" }
+    "name": { "en": "Potato Late Blight", "mr": "बटाटा उशिरा करपा", "hi": "आलू लेट ब्लाइट" }, "source": "TNAU",
+    "cause": { "en": "Water-mould Phytophthora infestans; water-soaked spots with white growth on leaf underside.", "mr": "फायटोफ्थोरा इन्फेस्टन्स; पाणथळ डाग व पानाच्या खालील बाजूला पांढरी वाढ.", "hi": "फाइटोफ्थोरा इन्फेस्टैंस; जलभरे धब्बे व पत्ती के नीचे सफेद वृद्धि." },
+    "treatment": { "en": "Spray Mancozeb or Zineb 0.2% protectively; remove infected tubers before storage.", "mr": "Mancozeb किंवा Zineb ०.२% प्रतिबंधक फवारा; साठवणीपूर्वी बाधित बटाटे काढा.", "hi": "Mancozeb या Zineb 0.2% निवारक छिड़कें; भंडारण से पहले संक्रमित कंद हटाएँ." },
+    "prevention": { "en": "Grow resistant varieties, destroy foliage before harvest, spray in cool very humid weather (RH>90%).", "mr": "प्रतिकारक वाण, काढणीपूर्वी पाला नष्ट करा, थंड अति-दमट हवामानात (RH>९०%) फवारा.", "hi": "प्रतिरोधी किस्में, कटाई से पहले पत्ते नष्ट करें, ठंडे अति-नम मौसम (RH>90%) में छिड़कें." }
   },
-
   "grape_downy_mildew": {
-    "name": { "en": "Grape Downy Mildew", "mr": "द्राक्ष केवडा (डाऊनी मिल्ड्यू)", "hi": "अंगूर डाउनी मिल्ड्यू" },
-    "cause": { "en": "Plasmopara viticola; yellow oily patches above, white growth below in humid weather.", "mr": "प्लाझमोपारा व्हिटिकोला; दमट हवामानात वर पिवळे तेलकट डाग, खाली पांढरी वाढ.", "hi": "प्लाज़मोपारा विटिकोला; नम मौसम में ऊपर पीले तैलीय धब्बे, नीचे सफेद वृद्धि।" },
-    "treatment": { "en": "Spray copper oxychloride or metalaxyl-based fungicide at first sign; remove affected shoots.", "mr": "लक्षण दिसताच कॉपर ऑक्सिक्लोराइड किंवा मेटालॅक्झिल फवारा; बाधित फूट काढा.", "hi": "लक्षण दिखते ही कॉपर ऑक्सीक्लोराइड या मेटालैक्सिल छिड़कें; प्रभावित शाखाएँ हटाएँ।" },
-    "prevention": { "en": "Canopy airflow, avoid excess nitrogen, manage irrigation to reduce leaf wetness.", "mr": "छत्रीत हवा, जास्त नत्र टाळा, पान ओले न राहील असे सिंचन.", "hi": "कैनोपी हवा, अधिक नाइट्रोजन टालें, पत्ते गीले न रहें सिंचाई करें।" }
+    "name": { "en": "Grape Downy Mildew", "mr": "द्राक्ष केवडा (डाऊनी मिल्ड्यू)", "hi": "अंगूर डाउनी मिल्ड्यू" }, "source": "TNAU",
+    "cause": { "en": "Plasmopara viticola; yellow oily spots on top of leaves, white downy growth underneath.", "mr": "प्लाझमोपारा व्हिटिकोला; पानाच्या वर पिवळे तेलकट डाग, खाली पांढरी लव.", "hi": "प्लाज़मोपारा विटिकोला; पत्ते के ऊपर पीले तैलीय धब्बे, नीचे सफेद रोआँ." },
+    "treatment": { "en": "Spray Bordeaux mixture 1% or Metalaxyl + Mancozeb 0.4%.", "mr": "बोर्डो मिश्रण १% किंवा Metalaxyl + Mancozeb ०.४% फवारा.", "hi": "बोर्डो मिश्रण 1% या Metalaxyl + Mancozeb 0.4% छिड़कें." },
+    "prevention": { "en": "Ensure drainage and air circulation, remove infected leaves, spray protectant in warm wet weather.", "mr": "निचरा व हवा खेळती ठेवा, बाधित पाने काढा, उष्ण-दमट हवामानात प्रतिबंधक फवारा.", "hi": "जल निकास व हवा रखें, संक्रमित पत्ते हटाएँ, गर्म-नम मौसम में निवारक छिड़कें." }
   },
   "grape_black_rot": {
-    "name": { "en": "Grape Black Rot", "mr": "द्राक्ष काळी कूज (ब्लॅक रॉट)", "hi": "अंगूर ब्लैक रॉट" },
-    "cause": { "en": "Fungus Guignardia bidwellii; brown leaf spots and black shrivelled berries.", "mr": "गिग्नार्डिया बिडवेली; तपकिरी पानठिपके व काळे सुकलेले घड.", "hi": "गिनार्डिया बिडवेली; भूरे पत्ती धब्बे व काले सिकुड़े दाने।" },
-    "treatment": { "en": "Remove mummified berries and infected leaves; spray recommended fungicide.", "mr": "सुकलेले घड व बाधित पाने काढा; शिफारस बुरशीनाशक फवारा.", "hi": "सूखे दाने व संक्रमित पत्ते हटाएँ; अनुशंसित फफूंदनाशक छिड़कें।" },
-    "prevention": { "en": "Prune for airflow, clean fallen debris, spray preventively before rains.", "mr": "हवेसाठी छाटणी, पडलेले अवशेष साफ, पावसापूर्वी प्रतिबंधक फवारणी.", "hi": "हवा हेतु छँटाई, गिरा कचरा साफ, बारिश से पहले निवारक छिड़काव।" }
+    "name": { "en": "Grape Black Rot", "mr": "द्राक्ष काळी कूज (ब्लॅक रॉट)", "hi": "अंगूर ब्लैक रॉट" }, "source": "Ohio State Univ.",
+    "cause": { "en": "Fungus Guignardia bidwellii; overwinters in mummified berries and cane lesions.", "mr": "गिग्नार्डिया बिडवेली; सुकलेले घड व फांदीच्या जखमांत टिकतो.", "hi": "गिनार्डिया बिडवेली; सूखे दानों व शाखा घावों में बना रहता है." },
+    "treatment": { "en": "Apply protectant Mancozeb rotated with myclobutanil, mainly pre-bloom to 3-4 weeks after bloom.", "mr": "Mancozeb व myclobutanil आलटून, मुख्यतः फुलोऱ्यापूर्वी ते फुलोऱ्यानंतर ३-४ आठवडे.", "hi": "Mancozeb व myclobutanil बदलकर, मुख्यतः फूल से पहले से फूल बाद 3-4 सप्ताह." },
+    "prevention": { "en": "Remove mummified berries, infected tendrils and debris; grow vines in sunny, airy sites.", "mr": "सुकलेले घड, बाधित तणावे व अवशेष काढा; उन्हात व हवेशीर जागी वेली.", "hi": "सूखे दाने, संक्रमित टेंड्रिल व अवशेष हटाएँ; धूप व हवादार जगह बेल." }
   },
   "grape_esca": {
-    "name": { "en": "Grape Esca (Black Measles)", "mr": "द्राक्ष एस्का (ब्लॅक मीझल्स)", "hi": "अंगूर एस्का (ब्लैक मीज़ल्स)" },
-    "cause": { "en": "Fungal complex in old wood; tiger-stripe leaves and spotted berries.", "mr": "जुन्या काष्ठातील बुरशी समूह; पट्टेदार पाने व ठिपकेदार घड.", "hi": "पुरानी लकड़ी में फफूंद समूह; धारीदार पत्ते व धब्बेदार दाने।" },
-    "treatment": { "en": "Prune out affected wood, protect cuts, remove severely diseased vines.", "mr": "बाधित काष्ठ छाटा, छाटछेद सुरक्षित करा, तीव्र बाधित वेली काढा.", "hi": "प्रभावित लकड़ी काटें, कटान सुरक्षित करें, गंभीर बेल हटाएँ।" },
-    "prevention": { "en": "Prune in dry weather, disinfect tools, seal large pruning wounds.", "mr": "कोरड्या हवामानात छाटणी, अवजारे निर्जंतुक, मोठे छेद बंद करा.", "hi": "सूखे मौसम में छँटाई, औज़ार कीटाणुरहित, बड़े कटान सील करें।" }
+    "name": { "en": "Grape Esca (Black Measles)", "mr": "द्राक्ष एस्का (ब्लॅक मीझल्स)", "hi": "अंगूर एस्का (ब्लैक मीज़ल्स)" }, "source": "UC IPM",
+    "cause": { "en": "Wood-infecting fungi entering through pruning wounds (Phaeomoniella, Phaeoacremonium).", "mr": "छाटणीच्या जखमांतून काष्ठात शिरणाऱ्या बुरशी (Phaeomoniella, Phaeoacremonium).", "hi": "छँटाई घावों से लकड़ी में घुसने वाली फफूंद (Phaeomoniella, Phaeoacremonium)." },
+    "treatment": { "en": "No fungicide cures it; cut out and destroy affected wood, protect large pruning wounds (paint / Trichoderma).", "mr": "बुरशीनाशकाने बरे होत नाही; बाधित काष्ठ कापून नष्ट करा, मोठ्या जखमा संरक्षित करा (पेंट/Trichoderma).", "hi": "फफूंदनाशक ठीक नहीं करता; प्रभावित लकड़ी काटकर नष्ट करें, बड़े घाव सुरक्षित करें (पेंट/Trichoderma)." },
+    "prevention": { "en": "Prune in dry sunny spells, protect pruning wounds, avoid pruning before rain.", "mr": "कोरड्या उन्हात छाटणी, जखमा संरक्षित करा, पावसापूर्वी छाटणी टाळा.", "hi": "सूखे धूप में छँटाई, घाव सुरक्षित करें, बारिश से पहले छँटाई टालें." }
   },
   "grape_leaf_blight": {
-    "name": { "en": "Grape Leaf Blight (Isariopsis)", "mr": "द्राक्ष पर्ण करपा (इसारिओप्सिस)", "hi": "अंगूर लीफ ब्लाइट (इसारियोप्सिस)" },
-    "cause": { "en": "Fungus Pseudocercospora; brown angular leaf spots that merge.", "mr": "स्यूडोसर्कोस्पोरा; तपकिरी कोनाकृती ठिपके जे एकत्र येतात.", "hi": "स्यूडोसर्कोस्पोरा; भूरे कोणीय धब्बे जो मिल जाते हैं।" },
-    "treatment": { "en": "Remove infected leaves, spray recommended fungicide, improve airflow.", "mr": "बाधित पाने काढा, शिफारस बुरशीनाशक फवारा, हवा खेळती करा.", "hi": "संक्रमित पत्ते हटाएँ, अनुशंसित फफूंदनाशक छिड़कें, हवा बढ़ाएँ।" },
-    "prevention": { "en": "Good canopy management and field sanitation.", "mr": "योग्य छत्री व्यवस्थापन व शेत स्वच्छता.", "hi": "अच्छा कैनोपी प्रबंधन व खेत सफाई।" }
+    "name": { "en": "Grape Leaf Blight (Isariopsis)", "mr": "द्राक्ष पर्ण करपा (इसारिओप्सिस)", "hi": "अंगूर लीफ ब्लाइट (इसारियोप्सिस)" }, "source": "Crop Protection (jrnl)",
+    "cause": { "en": "Fungus Pseudocercospora vitis; large red-brown leaf spots that turn black.", "mr": "स्यूडोसर्कोस्पोरा व्हायटिस; मोठे तांबूस-तपकिरी डाग जे काळे होतात.", "hi": "स्यूडोसर्कोस्पोरा वाइटिस; बड़े लाल-भूरे धब्बे जो काले हो जाते हैं." },
+    "treatment": { "en": "Spray protectants like Mancozeb or chlorothalonil, or difenoconazole / copper oxychloride, ~fortnightly from flowering.", "mr": "Mancozeb/chlorothalonil किंवा difenoconazole/copper oxychloride फुलोऱ्यापासून ~पंधरवड्याने फवारा.", "hi": "Mancozeb/chlorothalonil या difenoconazole/copper oxychloride फूल से ~पखवाड़े छिड़कें." },
+    "prevention": { "en": "Start preventive sprays early (budburst/flowering), rotate fungicide groups, remove fallen leaves.", "mr": "लवकर प्रतिबंधक फवारणी (फुटवा/फुलोरा), गट बदला, पडलेली पाने काढा.", "hi": "जल्दी निवारक छिड़काव (कली/फूल), समूह बदलें, गिरे पत्ते हटाएँ." }
+  },
+  "pepper_bacterial_spot": {
+    "name": { "en": "Chilli/Capsicum Bacterial Spot", "mr": "मिरची जीवाणूजन्य ठिपके", "hi": "मिर्च बैक्टीरियल स्पॉट" }, "source": "TNAU",
+    "cause": { "en": "Bacterium Xanthomonas; dark greasy leaf spots and raised scabby spots on fruit.", "mr": "झँथोमोनास; पानांवर काळसर तेलकट डाग व फळावर खरखरीत उंचवटे.", "hi": "ज़ैंथोमोनास; पत्तों पर गहरे चिकने धब्बे व फल पर खुरदरे उभार." },
+    "treatment": { "en": "Spray Mancozeb 2 g/l or Copper oxychloride 2.5 g/l (add streptomycin before fruiting); treat seed.", "mr": "Mancozeb २ ग्रॅम/लि किंवा Copper oxychloride २.५ ग्रॅम/लि (फळधारणेपूर्वी streptomycin); बीजप्रक्रिया.", "hi": "Mancozeb 2 ग्राम/ली या Copper oxychloride 2.5 ग्राम/ली (फल से पहले streptomycin); बीज उपचार." },
+    "prevention": { "en": "Use seed from disease-free plants, maintain field sanitation, treat seed before sowing.", "mr": "रोगमुक्त झाडांचे बियाणे, शेत स्वच्छता, पेरणीपूर्वी बीजप्रक्रिया.", "hi": "रोगमुक्त पौधों का बीज, खेत स्वच्छता, बुवाई से पहले बीज उपचार." }
   },
 
   "corn_common_rust": {
-    "name": { "en": "Corn Common Rust", "mr": "मका तांबेरा (रस्ट)", "hi": "मक्का कॉमन रस्ट" },
-    "cause": { "en": "Fungus Puccinia sorghi; small reddish-brown powdery pustules on leaves.", "mr": "पुक्सिनिया सॉर्घी; पानांवर लहान तांबूस-तपकिरी भुकटीचे फोड.", "hi": "पक्सीनिया सोर्घी; पत्तों पर छोटे लाल-भूरे चूर्णी फफोले।" },
-    "treatment": { "en": "Spray recommended fungicide if severe; usually tolerant hybrids need none.", "mr": "तीव्र असल्यास शिफारस बुरशीनाशक फवारा; सहनशील संकरित वाणांना सहसा गरज नाही.", "hi": "गंभीर हो तो अनुशंसित फफूंदनाशक; सहनशील हाइब्रिड को प्रायः नहीं चाहिए।" },
-    "prevention": { "en": "Grow resistant hybrids, avoid late planting.", "mr": "प्रतिकारक संकरित वाण, उशिरा पेरणी टाळा.", "hi": "प्रतिरोधी हाइब्रिड, देर से बुवाई टालें।" }
+    "name": { "en": "Corn Common Rust", "mr": "मका तांबेरा", "hi": "मक्का कॉमन रस्ट" }, "source": "General references",
+    "cause": { "en": "Fungus Puccinia sorghi; small reddish-brown powdery pustules on leaves.", "mr": "पुक्सिनिया सॉर्घी; पानांवर लहान तांबूस भुकटीचे फोड.", "hi": "पक्सीनिया सोर्घी; पत्तों पर छोटे लाल-भूरे चूर्णी फफोले." },
+    "treatment": { "en": "Grow tolerant hybrids; spray a recommended fungicide only if severe.", "mr": "सहनशील संकरित वाण; तीव्र असल्यासच शिफारस बुरशीनाशक.", "hi": "सहनशील हाइब्रिड; गंभीर हो तो ही अनुशंसित फफूंदनाशक." },
+    "prevention": { "en": "Resistant hybrids and avoid late planting.", "mr": "प्रतिकारक वाण व उशिरा पेरणी टाळा.", "hi": "प्रतिरोधी हाइब्रिड व देर बुवाई टालें." }
   },
   "corn_northern_leaf_blight": {
-    "name": { "en": "Corn Northern Leaf Blight", "mr": "मका उत्तरी पर्ण करपा", "hi": "मक्का नॉर्दर्न लीफ ब्लाइट" },
-    "cause": { "en": "Fungus Exserohilum turcicum; long grey-green cigar-shaped lesions.", "mr": "एक्सेरोहिलम टर्सिकम; लांब राखाडी-हिरवे सिगारसारखे डाग.", "hi": "एक्सेरोहिलम टर्सिकम; लंबे धूसर-हरे सिगार जैसे धब्बे।" },
-    "treatment": { "en": "Spray recommended fungicide at early lesion stage; remove crop debris.", "mr": "सुरुवातीच्या डागावस्थेत शिफारस बुरशीनाशक फवारा; अवशेष काढा.", "hi": "शुरुआती धब्बे पर अनुशंसित फफूंदनाशक; अवशेष हटाएँ।" },
-    "prevention": { "en": "Resistant hybrids, crop rotation, avoid dense stands.", "mr": "प्रतिकारक वाण, पीक फेरपालट, दाट लागवड टाळा.", "hi": "प्रतिरोधी हाइब्रिड, फसल चक्र, घनी बुवाई टालें।" }
+    "name": { "en": "Corn Northern Leaf Blight", "mr": "मका उत्तरी पर्ण करपा", "hi": "मक्का नॉर्दर्न लीफ ब्लाइट" }, "source": "General references",
+    "cause": { "en": "Fungus Exserohilum turcicum; long grey-green cigar-shaped lesions.", "mr": "एक्सेरोहिलम टर्सिकम; लांब राखाडी-हिरवे सिगारसदृश डाग.", "hi": "एक्सेरोहिलम टर्सिकम; लंबे धूसर-हरे सिगार जैसे धब्बे." },
+    "treatment": { "en": "Spray a recommended fungicide at early lesion stage; remove debris.", "mr": "सुरुवातीच्या डागावस्थेत शिफारस बुरशीनाशक; अवशेष काढा.", "hi": "शुरुआती धब्बे पर अनुशंसित फफूंदनाशक; अवशेष हटाएँ." },
+    "prevention": { "en": "Resistant hybrids, crop rotation, avoid dense stands.", "mr": "प्रतिकारक वाण, फेरपालट, दाट लागवड टाळा.", "hi": "प्रतिरोधी हाइब्रिड, फसल चक्र, घनी बुवाई टालें." }
   },
   "corn_gray_leaf_spot": {
-    "name": { "en": "Corn Gray Leaf Spot", "mr": "मका राखाडी पर्ण ठिपका", "hi": "मक्का ग्रे लीफ स्पॉट" },
-    "cause": { "en": "Fungus Cercospora; rectangular grey lesions limited by leaf veins.", "mr": "सर्कोस्पोरा; शिरांनी मर्यादित आयताकृती राखाडी डाग.", "hi": "सर्कोस्पोरा; शिराओं तक सीमित आयताकार धूसर धब्बे।" },
-    "treatment": { "en": "Spray recommended fungicide if severe; bury or remove residue.", "mr": "तीव्र असल्यास शिफारस बुरशीनाशक; अवशेष गाडा किंवा काढा.", "hi": "गंभीर हो तो अनुशंसित फफूंदनाशक; अवशेष दबाएँ या हटाएँ।" },
-    "prevention": { "en": "Resistant hybrids, rotation, tillage to reduce residue.", "mr": "प्रतिकारक वाण, फेरपालट, अवशेष कमी करण्यासाठी मशागत.", "hi": "प्रतिरोधी हाइब्रिड, चक्र, अवशेष घटाने हेतु जुताई।" }
-  },
-
-  "pepper_bacterial_spot": {
-    "name": { "en": "Chilli/Capsicum Bacterial Spot", "mr": "मिरची जीवाणूजन्य ठिपके", "hi": "मिर्च बैक्टीरियल स्पॉट" },
-    "cause": { "en": "Bacterium Xanthomonas; dark water-soaked leaf spots and scabby fruit.", "mr": "झँथोमोनास; काळसर पाणथळ पानठिपके व खरखरीत फळे.", "hi": "ज़ैंथोमोनास; गहरे जलभरे पत्ती धब्बे व खुरदरे फल।" },
-    "treatment": { "en": "Remove infected plants, spray copper-based bactericide, avoid overhead water.", "mr": "बाधित झाडे काढा, तांबेयुक्त फवारा, वरून पाणी टाळा.", "hi": "संक्रमित पौधे हटाएँ, तांबा-आधारित छिड़कें, ऊपर से पानी टालें।" },
-    "prevention": { "en": "Certified seed, rotation, avoid working in wet fields.", "mr": "प्रमाणित बियाणे, फेरपालट, ओल्या शेतात काम टाळा.", "hi": "प्रमाणित बीज, चक्र, गीले खेत में काम न करें।" }
+    "name": { "en": "Corn Gray Leaf Spot", "mr": "मका राखाडी पर्ण ठिपका", "hi": "मक्का ग्रे लीफ स्पॉट" }, "source": "General references",
+    "cause": { "en": "Fungus Cercospora; rectangular grey lesions bounded by leaf veins.", "mr": "सर्कोस्पोरा; शिरांनी मर्यादित आयताकृती राखाडी डाग.", "hi": "सर्कोस्पोरा; शिराओं तक सीमित आयताकार धूसर धब्बे." },
+    "treatment": { "en": "Spray a recommended fungicide if severe; bury or remove residue.", "mr": "तीव्र असल्यास शिफारस बुरशीनाशक; अवशेष गाडा किंवा काढा.", "hi": "गंभीर हो तो अनुशंसित फफूंदनाशक; अवशेष दबाएँ या हटाएँ." },
+    "prevention": { "en": "Resistant hybrids, rotation, tillage to reduce residue.", "mr": "प्रतिकारक वाण, फेरपालट, अवशेष कमी करण्यास मशागत.", "hi": "प्रतिरोधी हाइब्रिड, चक्र, अवशेष घटाने हेतु जुताई." }
   },
 
   "cotton_leaf_curl": {
-    "name": { "en": "Cotton Leaf Curl", "mr": "कापूस पर्ण गुंडाळी रोग", "hi": "कपास पत्ती मरोड़ रोग" },
-    "cause": { "en": "Virus spread by whitefly; leaves curl up, thicken, veins swell.", "mr": "पांढऱ्या माशीने विषाणू; पाने गुंडाळतात, जाड होतात, शिरा फुगतात.", "hi": "सफेद मक्खी से वायरस; पत्ते मुड़ते, मोटे होते, शिराएँ फूलती।" },
-    "treatment": { "en": "No cure once infected. Remove badly affected plants; control whitefly with neem/recommended insecticide.", "mr": "लागण झाल्यास उपचार नाही. जास्त बाधित झाडे काढा; निंबोळी/शिफारस कीटकनाशकाने पांढरी माशी नियंत्रित करा.", "hi": "संक्रमण बाद इलाज नहीं. अधिक प्रभावित पौधे हटाएँ; नीम/अनुशंसित कीटनाशक से सफेद मक्खी नियंत्रित करें।" },
-    "prevention": { "en": "Tolerant varieties, early whitefly control, remove host weeds.", "mr": "सहनशील वाण, लवकर पांढरी माशी नियंत्रण, तण काढा.", "hi": "सहनशील किस्में, जल्दी सफेद मक्खी नियंत्रण, खरपतवार हटाएँ।" }
+    "name": { "en": "Cotton Leaf Curl", "mr": "कापूस पर्ण गुंडाळी रोग", "hi": "कपास पत्ती मरोड़ रोग" }, "source": "General references",
+    "cause": { "en": "Virus spread by whitefly; leaves curl up, thicken, veins swell.", "mr": "पांढऱ्या माशीने विषाणू; पाने गुंडाळतात, जाड होतात, शिरा फुगतात.", "hi": "सफेद मक्खी से वायरस; पत्ते मुड़ते, मोटे, शिराएँ फूलतीं." },
+    "treatment": { "en": "No cure once infected. Remove badly affected plants; control whitefly with neem/recommended insecticide.", "mr": "लागण झाल्यास उपचार नाही. जास्त बाधित झाडे काढा; निंबोळी/शिफारस कीटकनाशकाने पांढरी माशी नियंत्रित करा.", "hi": "संक्रमण बाद इलाज नहीं. अधिक प्रभावित पौधे हटाएँ; नीम/अनुशंसित कीटनाशक से सफेद मक्खी नियंत्रित करें." },
+    "prevention": { "en": "Tolerant varieties, early whitefly control, remove host weeds.", "mr": "सहनशील वाण, लवकर पांढरी माशी नियंत्रण, तण काढा.", "hi": "सहनशील किस्में, जल्दी सफेद मक्खी नियंत्रण, खरपतवार हटाएँ." }
   },
   "sugarcane_red_rot": {
-    "name": { "en": "Sugarcane Red Rot", "mr": "ऊस लाल कूज (रेड रॉट)", "hi": "गन्ना लाल सड़न (रेड रॉट)" },
-    "cause": { "en": "Fungus Colletotrichum falcatum; inner stem red with white patches, sour smell.", "mr": "कोलेटोट्रिकम फॅल्कॅटम; कांड्याच्या आत लाल रंग, पांढरे पट्टे, आंबट वास.", "hi": "कोलेटोट्रिकम फैल्केटम; तने अंदर लाल, सफेद धब्बे, खट्टी गंध।" },
-    "treatment": { "en": "Remove and burn infected clumps. Do not use affected cane as seed.", "mr": "बाधित बेट काढून जाळा. बाधित ऊस बियाण्यासाठी वापरू नका.", "hi": "संक्रमित झुंड निकालकर जलाएँ. प्रभावित गन्ना बीज हेतु न लें।" },
-    "prevention": { "en": "Certified disease-free setts, sett treatment, good drainage.", "mr": "प्रमाणित रोगमुक्त बेणे, बेणेप्रक्रिया, चांगला निचरा.", "hi": "प्रमाणित रोगमुक्त सेट, सेट उपचार, अच्छी जल निकासी।" }
+    "name": { "en": "Sugarcane Red Rot", "mr": "ऊस लाल कूज (रेड रॉट)", "hi": "गन्ना लाल सड़न (रेड रॉट)" }, "source": "General references",
+    "cause": { "en": "Fungus Colletotrichum falcatum; inner stem red with white patches, sour smell.", "mr": "कोलेटोट्रिकम फॅल्कॅटम; कांड्याच्या आत लाल रंग, पांढरे पट्टे, आंबट वास.", "hi": "कोलेटोट्रिकम फैल्केटम; तने अंदर लाल, सफेद धब्बे, खट्टी गंध." },
+    "treatment": { "en": "Remove and burn infected clumps. Do not use affected cane as seed.", "mr": "बाधित बेट काढून जाळा. बाधित ऊस बियाण्यासाठी वापरू नका.", "hi": "संक्रमित झुंड निकालकर जलाएँ. प्रभावित गन्ना बीज हेतु न लें." },
+    "prevention": { "en": "Certified disease-free setts, sett treatment, good drainage.", "mr": "प्रमाणित रोगमुक्त बेणे, बेणेप्रक्रिया, चांगला निचरा.", "hi": "प्रमाणित रोगमुक्त सेट, सेट उपचार, अच्छी जल निकासी." }
   },
   "pomegranate_bacterial_blight": {
-    "name": { "en": "Pomegranate Bacterial Blight", "mr": "डाळिंब तेलकट डाग", "hi": "अनार बैक्टीरियल ब्लाइट" },
-    "cause": { "en": "Bacterium Xanthomonas; oily dark leaf spots and cracked fruit spots.", "mr": "झँथोमोनास; पानांवर तेलकट काळे डाग व फळावर तडे.", "hi": "ज़ैंथोमोनास; तैलीय काले पत्ती धब्बे व फटे फल धब्बे।" },
-    "treatment": { "en": "Prune and destroy infected parts; spray copper + antibiotic combination per local advisory.", "mr": "बाधित भाग छाटून नष्ट करा; स्थानिक सल्ल्यानुसार तांबे + प्रतिजैविक फवारा.", "hi": "संक्रमित भाग काटकर नष्ट करें; स्थानीय सलाह अनुसार तांबा + एंटीबायोटिक छिड़कें।" },
-    "prevention": { "en": "Avoid overhead irrigation, disinfect tools, manage bahar as advised.", "mr": "वरून सिंचन टाळा, अवजारे निर्जंतुक, सल्ल्यानुसार बहार व्यवस्थापन.", "hi": "ऊपर से सिंचाई टालें, औज़ार कीटाणुरहित, सलाह अनुसार बहार प्रबंधन।" }
+    "name": { "en": "Pomegranate Bacterial Blight", "mr": "डाळिंब तेलकट डाग", "hi": "अनार बैक्टीरियल ब्लाइट" }, "source": "General references",
+    "cause": { "en": "Bacterium Xanthomonas; oily dark leaf spots and cracked fruit spots.", "mr": "झँथोमोनास; पानांवर तेलकट काळे डाग व फळावर तडे.", "hi": "ज़ैंथोमोनास; तैलीय काले पत्ती धब्बे व फटे फल धब्बे." },
+    "treatment": { "en": "Prune and destroy infected parts; spray copper + antibiotic combination per local advisory.", "mr": "बाधित भाग छाटून नष्ट करा; स्थानिक सल्ल्यानुसार तांबे + प्रतिजैविक फवारा.", "hi": "संक्रमित भाग काटकर नष्ट करें; स्थानीय सलाह अनुसार तांबा + एंटीबायोटिक छिड़कें." },
+    "prevention": { "en": "Avoid overhead irrigation, disinfect tools, manage bahar as advised.", "mr": "वरून सिंचन टाळा, अवजारे निर्जंतुक, सल्ल्यानुसार बहार व्यवस्थापन.", "hi": "ऊपर से सिंचाई टालें, औज़ार कीटाणुरहित, सलाह अनुसार बहार प्रबंधन." }
   },
   "onion_purple_blotch": {
-    "name": { "en": "Onion Purple Blotch", "mr": "कांदा जांभळा करपा", "hi": "प्याज़ पर्पल ब्लॉच" },
-    "cause": { "en": "Fungus Alternaria porri; purple-brown sunken spots on leaves.", "mr": "अल्टरनेरिया पोरी; पानांवर जांभळट-तपकिरी खोलगट ठिपके.", "hi": "अल्टरनेरिया पोरी; पत्तों पर बैंगनी-भूरे धँसे धब्बे।" },
-    "treatment": { "en": "Spray Mancozeb with a sticker per label; remove badly affected leaves.", "mr": "लेबलनुसार स्टिकरसह मॅन्कोझेब फवारा; जास्त बाधित पाने काढा.", "hi": "लेबल अनुसार स्टिकर सहित मैंकोज़ेब छिड़कें; अधिक प्रभावित पत्ते हटाएँ।" },
-    "prevention": { "en": "Rotate crops, avoid excess nitrogen, ensure drainage.", "mr": "पीक फेरपालट, जास्त नत्र टाळा, निचरा ठेवा.", "hi": "फसल चक्र, अधिक नाइट्रोजन टालें, जल निकासी रखें।" }
+    "name": { "en": "Onion Purple Blotch", "mr": "कांदा जांभळा करपा", "hi": "प्याज़ पर्पल ब्लॉच" }, "source": "General references",
+    "cause": { "en": "Fungus Alternaria porri; purple-brown sunken spots on leaves.", "mr": "अल्टरनेरिया पोरी; पानांवर जांभळट-तपकिरी खोलगट ठिपके.", "hi": "अल्टरनेरिया पोरी; पत्तों पर बैंगनी-भूरे धँसे धब्बे." },
+    "treatment": { "en": "Spray Mancozeb with a sticker per label; remove badly affected leaves.", "mr": "लेबलनुसार स्टिकरसह Mancozeb फवारा; जास्त बाधित पाने काढा.", "hi": "लेबल अनुसार स्टिकर सहित Mancozeb छिड़कें; अधिक प्रभावित पत्ते हटाएँ." },
+    "prevention": { "en": "Rotate crops, avoid excess nitrogen, ensure drainage.", "mr": "पीक फेरपालट, जास्त नत्र टाळा, निचरा ठेवा.", "hi": "फसल चक्र, अधिक नाइट्रोजन टालें, जल निकासी रखें." }
   }
 }

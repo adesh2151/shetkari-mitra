@@ -26,6 +26,7 @@ export default function ResultCard({ result, lang, t }) {
         </>
       )}
 
+      {info.source && <p className="source-note">📚 {t('data_source')}: {info.source}</p>}
       <p className="disclaimer">{t('disclaimer')}</p>
     </div>
   )
