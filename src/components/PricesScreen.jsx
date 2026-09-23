@@ -1,10 +1,15 @@
 import { useEffect, useState } from 'react'
 import { getMandiPrices } from '../services/prices'
+import commodities from '../data/commodities.json'
 
 // Common commodities for quick filter; users can also type any crop.
-const QUICK = ['', 'Onion', 'Tomato', 'Potato', 'Soybean', 'Cotton', 'Wheat', 'Gram', 'Tur']
+const QUICK = ['', 'Onion', 'Tomato', 'Potato', 'Soyabean', 'Cotton', 'Wheat', 'Bengal Gram(Gram)(Whole)', 'Arhar (Tur/Red Gram)(Whole)']
+const SHORT = { 'Bengal Gram(Gram)(Whole)': 'Gram', 'Arhar (Tur/Red Gram)(Whole)': 'Tur', 'Soyabean': 'Soybean' }
 
-export default function PricesScreen({ t }) {
+export default function PricesScreen({ lang, t }) {
+  // Translate a commodity name coming from the (English-only) government API.
+  const trName = (name) => (commodities[name]?.[lang]) || name
+  const chipLabel = (c) => c ? (commodities[c]?.[lang] || SHORT[c] || c) : t('all')
   const [commodity, setCommodity] = useState('')
   const [query, setQuery] = useState('')
   const [loading, setLoading] = useState(true)
@@ -44,7 +49,7 @@ export default function PricesScreen({ t }) {
         {QUICK.map((c) => (
           <button key={c || 'all'} className={'chip' + (commodity === c ? ' active' : '')}
                   onClick={() => { setCommodity(c); setQuery(c); load(c) }}>
-            {c || t('all')}
+            {chipLabel(c)}
           </button>
         ))}
       </div>
@@ -57,7 +62,7 @@ export default function PricesScreen({ t }) {
           {rows.map((r, i) => (
             <li key={i} className="price-item">
               <div className="price-top">
-                <span className="price-name">{r.commodity}{r.variety ? ` (${r.variety})` : ''}</span>
+                <span className="price-name">{trName(r.commodity)}{r.variety ? ` (${r.variety})` : ''}</span>
                 <span className="price-modal">₹{r.modal}<small>/{t('quintal')}</small></span>
               </div>
               <div className="price-meta">

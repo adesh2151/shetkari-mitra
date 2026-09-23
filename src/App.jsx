@@ -30,7 +30,7 @@ export default function App() {
       case 'scan': return <ScanScreen lang={lang} t={t} />
       case 'history': return <HistoryScreen lang={lang} t={t} />
       case 'weather': return <WeatherScreen t={t} />
-      case 'prices': return <PricesScreen t={t} />
+      case 'prices': return <PricesScreen lang={lang} t={t} />
       case 'schemes': return <SchemesScreen lang={lang} t={t} />
       case 'fertilizer': return <FertilizerScreen lang={lang} t={t} />
       case 'diary': return <DiaryScreen t={t} />
