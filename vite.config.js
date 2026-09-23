@@ -9,12 +9,15 @@ export default defineConfig({
   plugins: [
     react(),
     VitePWA({
-      // 'prompt' so we can show users an "Update available" bar instead of
-      // silently reloading — that's how they learn an update exists.
-      registerType: 'prompt',
+      // 'autoUpdate': the new service worker takes over on the next launch,
+      // so farmers always get the latest app without any manual step.
+      registerType: 'autoUpdate',
       includeAssets: ['favicon.svg'],
       // The TF.js model files can be large — allow them to be precached.
       workbox: {
+        skipWaiting: true,
+        clientsClaim: true,
+        cleanupOutdatedCaches: true,
         globPatterns: ['**/*.{js,css,html,svg,png,json,bin,woff2}'],
         // version.json and announcement.json must always be checked fresh
         // so we can detect updates and show broadcast notices.
