@@ -417,3 +417,16 @@ body {
   padding: 6px 8px; width: 180px; outline: none; }
 .voice-form button { border: none; background: var(--green); color: #fff; width: 36px;
   border-radius: 8px; font-size: 16px; cursor: pointer; }
+
+/* --- Govt services / farmer profile --- */
+.gs-field { display: block; margin: 10px 0; font-size: 13px; color: var(--muted); }
+.gs-field span { display: block; margin-bottom: 4px; font-weight: 600; }
+.gs-row { display: flex; gap: 6px; }
+.gs-row input { flex: 1; border: 1px solid var(--border); background: var(--card);
+  color: inherit; border-radius: 8px; padding: 10px; font-size: 15px; outline: none; }
+.gs-copy { border: 1px solid var(--border); background: var(--card); color: inherit;
+  border-radius: 8px; padding: 0 12px; font-size: 13px; cursor: pointer; }
+.btn-save { margin-top: 10px; width: 100%; border: none; background: var(--green);
+  color: #fff; border-radius: 10px; padding: 11px; font-size: 15px; font-weight: 700; cursor: pointer; }
+.gs-note { background: var(--card); border: 1px solid var(--border); border-radius: 12px;
+  padding: 10px 12px; font-size: 13px; color: var(--muted); line-height: 1.5; margin: 14px 0; }
