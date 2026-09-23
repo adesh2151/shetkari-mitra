@@ -1,0 +1,114 @@
+{
+  "healthy": {
+    "healthy": true,
+    "name": { "en": "Healthy leaf", "mr": "निरोगी पान", "hi": "स्वस्थ पत्ता" }
+  },
+  "tomato_late_blight": {
+    "name": { "en": "Tomato Late Blight", "mr": "टोमॅटो उशिरा येणारा करपा", "hi": "टमाटर लेट ब्लाइट" },
+    "cause": {
+      "en": "Fungus-like pathogen Phytophthora infestans, spreads fast in cool, wet, humid weather.",
+      "mr": "फायटोफ्थोरा इन्फेस्टन्स हा बुरशीसदृश रोगकारक; थंड, दमट व ओलसर हवामानात झपाट्याने पसरतो.",
+      "hi": "फफूंद जैसा रोगकारक फाइटोफ्थोरा इन्फेस्टैंस; ठंडे, नम मौसम में तेजी से फैलता है।"
+    },
+    "treatment": {
+      "en": "Remove and destroy infected leaves. Spray a copper-based or Mancozeb fungicide as advised on the label. Repeat every 7-10 days if wet.",
+      "mr": "बाधित पाने काढून नष्ट करा. लेबलनुसार तांबेयुक्त किंवा मॅन्कोझेब बुरशीनाशकाची फवारणी करा. ओलसर हवामानात दर ७-१० दिवसांनी पुन्हा फवारा.",
+      "hi": "संक्रमित पत्तों को हटाकर नष्ट करें. लेबल अनुसार तांबा-आधारित या मैंकोज़ेब फफूंदनाशक का छिड़काव करें. नमी हो तो हर 7-10 दिन में दोहराएँ।"
+    },
+    "prevention": {
+      "en": "Avoid overhead watering, give plants space for airflow, and use disease-free seed.",
+      "mr": "वरून पाणी देणे टाळा, झाडांमध्ये हवेसाठी अंतर ठेवा आणि रोगमुक्त बियाणे वापरा.",
+      "hi": "ऊपर से पानी देना टालें, हवा के लिए पौधों में दूरी रखें और रोगमुक्त बीज का उपयोग करें।"
+    }
+  },
+  "tomato_early_blight": {
+    "name": { "en": "Tomato Early Blight", "mr": "टोमॅटो लवकर येणारा करपा", "hi": "टमाटर अर्ली ब्लाइट" },
+    "cause": {
+      "en": "Fungus Alternaria solani; shows as brown spots with rings on older leaves.",
+      "mr": "अल्टरनेरिया सोलानी ही बुरशी; जुन्या पानांवर वर्तुळाकार तपकिरी ठिपके दिसतात.",
+      "hi": "फफूंद अल्टरनेरिया सोलानी; पुरानी पत्तियों पर छल्लेदार भूरे धब्बे दिखते हैं।"
+    },
+    "treatment": {
+      "en": "Pick off spotted leaves. Spray Mancozeb or Chlorothalonil per label directions.",
+      "mr": "ठिपके असलेली पाने काढा. लेबलनुसार मॅन्कोझेब किंवा क्लोरोथॅलोनिलची फवारणी करा.",
+      "hi": "धब्बेदार पत्ते हटाएँ. लेबल अनुसार मैंकोज़ेब या क्लोरोथैलोनिल का छिड़काव करें।"
+    },
+    "prevention": {
+      "en": "Rotate crops, mulch the soil, and remove crop debris after harvest.",
+      "mr": "पीक फेरपालट करा, जमिनीवर आच्छादन करा आणि काढणीनंतर पिकाचे अवशेष काढा.",
+      "hi": "फसल चक्र अपनाएँ, मिट्टी पर मल्च करें और कटाई के बाद फसल अवशेष हटाएँ।"
+    }
+  },
+  "grape_downy_mildew": {
+    "name": { "en": "Grape Downy Mildew", "mr": "द्राक्ष केवडा (डाऊनी मिल्ड्यू)", "hi": "अंगूर डाउनी मिल्ड्यू" },
+    "cause": {
+      "en": "Pathogen Plasmopara viticola; yellow oily patches on top and white growth under leaves in humid weather.",
+      "mr": "प्लाझमोपारा व्हिटिकोला; दमट हवामानात पानाच्या वर पिवळे तेलकट डाग व खाली पांढरी वाढ.",
+      "hi": "प्लाज़मोपारा विटिकोला; नम मौसम में पत्ते पर पीले तैलीय धब्बे और नीचे सफेद वृद्धि।"
+    },
+    "treatment": {
+      "en": "Spray recommended fungicide (e.g., copper oxychloride or metalaxyl-based) at first sign; remove affected shoots.",
+      "mr": "लक्षण दिसताच शिफारस केलेले बुरशीनाशक (उदा. कॉपर ऑक्सिक्लोराइड किंवा मेटालॅक्झिलयुक्त) फवारा; बाधित फूट काढा.",
+      "hi": "लक्षण दिखते ही अनुशंसित फफूंदनाशक (जैसे कॉपर ऑक्सीक्लोराइड या मेटालैक्सिल) छिड़कें; प्रभावित शाखाएँ हटाएँ।"
+    },
+    "prevention": {
+      "en": "Ensure good canopy airflow, avoid excess nitrogen, and manage irrigation to reduce leaf wetness.",
+      "mr": "छत्रीत हवा खेळती ठेवा, जास्त नत्र टाळा आणि पान ओले राहणार नाही अशी सिंचन व्यवस्था करा.",
+      "hi": "कैनोपी में हवा का प्रवाह रखें, अधिक नाइट्रोजन टालें और सिंचाई ऐसे करें कि पत्ते गीले न रहें।"
+    }
+  },
+  "cotton_leaf_curl": {
+    "name": { "en": "Cotton Leaf Curl", "mr": "कापूस पर्ण गुंडाळी रोग", "hi": "कपास पत्ती मरोड़ रोग" },
+    "cause": {
+      "en": "Virus spread by whitefly; leaves curl upward, thicken and show vein swelling.",
+      "mr": "पांढऱ्या माशीमार्फत पसरणारा विषाणू; पाने वरच्या बाजूला गुंडाळतात, जाड होतात व शिरा फुगतात.",
+      "hi": "सफेद मक्खी से फैलने वाला वायरस; पत्ते ऊपर की ओर मुड़ते, मोटे होते और शिराएँ फूलती हैं।"
+    },
+    "treatment": {
+      "en": "No cure once infected. Remove severely affected plants and control whitefly with recommended insecticide/neem.",
+      "mr": "एकदा लागण झाल्यास उपचार नाही. जास्त बाधित झाडे काढा आणि शिफारस केलेले कीटकनाशक/निंबोळी वापरून पांढरी माशी नियंत्रित करा.",
+      "hi": "संक्रमण के बाद इलाज नहीं. अधिक प्रभावित पौधे हटाएँ और अनुशंसित कीटनाशक/नीम से सफेद मक्खी नियंत्रित करें।"
+    },
+    "prevention": {
+      "en": "Grow tolerant varieties, control whitefly early, and remove weeds that host the virus.",
+      "mr": "सहनशील वाण लावा, पांढरी माशी लवकर नियंत्रित करा आणि विषाणू वाढवणारे तण काढा.",
+      "hi": "सहनशील किस्में लगाएँ, सफेद मक्खी जल्दी नियंत्रित करें और वायरस पालने वाले खरपतवार हटाएँ।"
+    }
+  },
+  "sugarcane_red_rot": {
+    "name": { "en": "Sugarcane Red Rot", "mr": "ऊस लाल कूज (रेड रॉट)", "hi": "गन्ना लाल सड़न (रेड रॉट)" },
+    "cause": {
+      "en": "Fungus Colletotrichum falcatum; inner stem turns red with white patches and a sour smell.",
+      "mr": "कोलेटोट्रिकम फॅल्कॅटम ही बुरशी; कांड्याच्या आत लाल रंग, पांढरे पट्टे व आंबट वास येतो.",
+      "hi": "फफूंद कोलेटोट्रिकम फैल्केटम; तने के अंदर लाल रंग, सफेद धब्बे और खट्टी गंध।"
+    },
+    "treatment": {
+      "en": "Remove and burn infected clumps. Do not use affected cane as seed. Follow local advisory on resistant setts.",
+      "mr": "बाधित बेट काढून जाळा. बाधित ऊस बियाण्यासाठी वापरू नका. प्रतिकारक बेण्यासाठी स्थानिक सल्ला घ्या.",
+      "hi": "संक्रमित झुंड निकालकर जलाएँ. प्रभावित गन्ना बीज के लिए न लें. प्रतिरोधी सेट के लिए स्थानीय सलाह लें।"
+    },
+    "prevention": {
+      "en": "Use certified disease-free setts, treat setts before planting, and ensure good field drainage.",
+      "mr": "प्रमाणित रोगमुक्त बेणे वापरा, लागवडीपूर्वी बेणेप्रक्रिया करा आणि शेतात पाण्याचा निचरा ठेवा.",
+      "hi": "प्रमाणित रोगमुक्त सेट का उपयोग करें, रोपण से पहले सेट उपचार करें और खेत में जल निकासी रखें।"
+    }
+  },
+  "pomegranate_bacterial_blight": {
+    "name": { "en": "Pomegranate Bacterial Blight", "mr": "डाळिंब तेलकट डाग (बॅक्टेरियल ब्लाइट)", "hi": "अनार बैक्टीरियल ब्लाइट" },
+    "cause": {
+      "en": "Bacterium Xanthomonas; oily dark spots on leaves and cracked spots on fruit.",
+      "mr": "झँथोमोनास हा जीवाणू; पानांवर तेलकट काळे डाग व फळावर तडे गेलेले डाग.",
+      "hi": "बैक्टीरिया ज़ैंथोमोनास; पत्तों पर तैलीय काले धब्बे और फल पर फटे धब्बे।"
+    },
+    "treatment": {
+      "en": "Prune and destroy infected parts. Spray recommended copper + antibiotic combination as per local advisory.",
+      "mr": "बाधित भाग छाटून नष्ट करा. स्थानिक सल्ल्यानुसार शिफारस केलेले तांबे + प्रतिजैविक मिश्रण फवारा.",
+      "hi": "संक्रमित भाग काटकर नष्ट करें. स्थानीय सलाह अनुसार अनुशंसित तांबा + एंटीबायोटिक मिश्रण छिड़कें।"
+    },
+    "prevention": {
+      "en": "Avoid overhead irrigation, disinfect tools, and give a rest (bahar) treatment as advised.",
+      "mr": "वरून सिंचन टाळा, अवजारे निर्जंतुक करा आणि सल्ल्यानुसार बहार व्यवस्थापन करा.",
+      "hi": "ऊपर से सिंचाई टालें, औज़ार कीटाणुरहित करें और सलाह अनुसार बहार प्रबंधन करें।"
+    }
+  }
+}

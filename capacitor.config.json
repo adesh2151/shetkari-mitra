@@ -1,0 +1,8 @@
+{
+  "appId": "com.shetkarimitra.app",
+  "appName": "Shetkari Mitra",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}

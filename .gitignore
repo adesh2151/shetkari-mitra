@@ -1,0 +1,20 @@
+# dependencies
+node_modules/
+
+# build output
+dist/
+
+# capacitor / android
+android/
+.gradle/
+
+# secrets (never commit) — Option B needs none, but keep the guard
+.env
+.env.local
+*.local
+
+# editor / os
+.DS_Store
+.vscode/
+.idea/
+*.log
