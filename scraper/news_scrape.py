@@ -30,6 +30,15 @@ def sid(prefix, text):
     return prefix + "-" + hashlib.md5(text.encode("utf-8")).hexdigest()[:10]
 
 
+# Keep only farmer-relevant GRs; drop the department's internal / HR notices.
+GR_ALLOW = ("योजना", "अनुदान", "विमा", "बियाणे", "खत", "कीटकनाशक", "पीक", "हमीभाव",
+            "कर्ज", "सिंचन", "अवजारे", "शेतकरी", "कांदा", "कापूस", "सोयाबीन", "फळ",
+            "भाजी", "ऊस", "यांत्रिक", "scheme", "subsidy")
+GR_BLOCK = ("बदल्या", "बदली", "कर्मचारी", "सेवाप्रवेश", "कर्तव्य", "जबाबदार", "परीक्षा",
+            "जाहिरात", "पदोन्नती", "भरती", "ज्येष्ठता", "निवृत्ती", "पडताळणी", "रजा",
+            "वेतन", "सर्वसाधारण माहिती", "कायदे व नियम", "कल्याण")
+
+
 def scrape_grs():
     url = "https://krishi.maharashtra.gov.in/"
     out = []
@@ -43,7 +52,9 @@ def scrape_grs():
             low = (title + href).lower()
             if len(title) < 12 or title in seen:
                 continue
-            if not any(k in low for k in ("शासन", "निर्णय", "योजना", "अनुदान", "gr", ".pdf", "scheme")):
+            if any(b in title for b in GR_BLOCK):
+                continue
+            if not any(a2 in title or a2 in low for a2 in GR_ALLOW):
                 continue
             seen.add(title)
             out.append({
