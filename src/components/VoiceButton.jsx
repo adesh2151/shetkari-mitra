@@ -1,7 +1,7 @@
 import { useRef, useState } from 'react'
 import { voiceSupported, listen, speak } from '../services/voice'
 
-// Spoken keyword -> screen. Matching is case-insensitive substring,
+// Spoken (or typed) keyword -> screen. Case-insensitive substring match,
 // across Marathi / Hindi / English so farmers can just say the feature.
 const KEYWORDS = [
   { screen: 'scan',       words: ['रोग', 'फोटो', 'स्कॅन', 'स्कैन', 'बीमारी', 'disease', 'scan', 'photo'] },
@@ -29,68 +29,83 @@ function matchScreen(text) {
 }
 
 export default function VoiceButton({ lang, t, onOpen }) {
-  const [status, setStatus] = useState('idle') // idle | listening | msg
+  const [status, setStatus] = useState('idle') // idle | listening | msg | typing
   const [msg, setMsg] = useState('')
-  const recRef = useRef(null)
+  const [text, setText] = useState('')
   const hideTimer = useRef(null)
 
-  function flash(text) {
-    setMsg(text)
-    setStatus('msg')
+  function flash(m) {
+    setMsg(m)
     clearTimeout(hideTimer.current)
-    hideTimer.current = setTimeout(() => setStatus('idle'), 4000)
+    hideTimer.current = setTimeout(() => { setMsg(''); setStatus('idle') }, 4000)
   }
 
-  function start() {
-    // Not supported (many Android WebViews / older browsers) — say so instead
-    // of failing silently.
+  function go(query) {
+    const screen = matchScreen(query)
+    if (screen) {
+      setStatus('idle'); setText(''); setMsg('')
+      speak(t('voice_opening') + ' ' + t('tab_' + screen), lang)
+      onOpen(screen)
+      return true
+    }
+    return false
+  }
+
+  function onMic() {
+    // iPhone / iOS Chrome + older WebViews: no Web Speech recognition.
+    // Fall back to a text box the user can fill with the keyboard's own
+    // dictation mic — still "speak, minimal typing".
     if (!voiceSupported()) {
-      flash(t('voice_unsupported'))
-      speak(t('voice_unsupported'), lang)
+      setStatus((s) => (s === 'typing' ? 'idle' : 'typing'))
+      setMsg('')
       return
     }
     clearTimeout(hideTimer.current)
-    setMsg('')
-    setStatus('listening')
-    recRef.current = listen(lang, {
-      onResult: (text, alts) => {
-        const screen = alts.map(matchScreen).find(Boolean)
-        if (screen) {
-          setStatus('idle')
-          speak(t('voice_opening') + ' ' + t('tab_' + screen), lang)
-          onOpen(screen)
-        } else {
-          flash('“' + text + '” — ' + t('voice_notfound'))
-          speak(t('voice_notfound'), lang)
-        }
+    setMsg(''); setStatus('listening')
+    listen(lang, {
+      onResult: (heard, alts) => {
+        if (!alts.some(go)) { setStatus('msg'); flash('“' + heard + '” — ' + t('voice_notfound')); speak(t('voice_notfound'), lang) }
       },
       onError: (err) => {
-        const m =
-          err === 'not-allowed' || err === 'service-not-allowed' || err === 'audio-capture'
-            ? t('voice_denied')
-            : err === 'no-speech'
-              ? t('voice_notfound')
-              : err === 'unsupported'
-                ? t('voice_unsupported')
-                : t('voice_error')
-        flash(m)
+        setStatus('msg')
+        flash(err === 'no-speech' ? t('voice_notfound')
+          : (err === 'not-allowed' || err === 'service-not-allowed' || err === 'audio-capture') ? t('voice_denied')
+          : t('voice_error'))
       },
       onEnd: () => setStatus((s) => (s === 'listening' ? 'idle' : s))
     })
   }
 
-  const showBubble = status === 'listening' || (status === 'msg' && msg)
+  function onSubmit(e) {
+    e.preventDefault()
+    if (!text.trim()) return
+    if (!go(text)) flash('“' + text.trim() + '” — ' + t('voice_notfound'))
+  }
 
   return (
     <div className="voice-wrap">
-      {showBubble && (
+      {status === 'typing' && (
+        <form className="voice-form" onSubmit={onSubmit}>
+          <input
+            autoFocus
+            value={text}
+            onChange={(e) => setText(e.target.value)}
+            placeholder={t('voice_type_hint')}
+            aria-label={t('voice_search')}
+          />
+          <button type="submit" aria-label={t('voice_search')}>➜</button>
+        </form>
+      )}
+
+      {(status === 'listening' || msg) && (
         <div className="voice-bubble">
           {status === 'listening' ? t('voice_listening') : msg}
         </div>
       )}
+
       <button
         className={'voice-fab' + (status === 'listening' ? ' on' : '')}
-        onClick={start}
+        onClick={onMic}
         aria-label={t('voice_search')}
       >
         🎤

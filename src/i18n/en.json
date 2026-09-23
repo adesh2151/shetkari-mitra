@@ -52,6 +52,7 @@
   "voice_denied": "Allow microphone permission (in browser/phone settings)",
   "voice_error": "Please try again",
   "voice_unsupported": "Voice isn't available on this device; please type",
+  "voice_type_hint": "Speak (keyboard 🎤) or type…",
   "voice_notfound": "Didn't catch that, try again",
   "today_title": "Today's tasks",
   "today_set_location": "Set your village — for weather & advice",

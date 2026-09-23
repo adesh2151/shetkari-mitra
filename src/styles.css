@@ -409,3 +409,11 @@ body {
   flex-direction: column; gap: 8px; }
 .today-list li { display: flex; gap: 8px; align-items: flex-start; font-size: 14px;
   line-height: 1.4; cursor: pointer; }
+
+/* --- Voice text fallback (iOS keyboard dictation) --- */
+.voice-form { display: flex; gap: 6px; background: var(--card); border: 1px solid var(--border);
+  border-radius: 12px; padding: 6px; box-shadow: var(--shadow); }
+.voice-form input { border: none; background: transparent; color: inherit; font-size: 15px;
+  padding: 6px 8px; width: 180px; outline: none; }
+.voice-form button { border: none; background: var(--green); color: #fff; width: 36px;
+  border-radius: 8px; font-size: 16px; cursor: pointer; }
