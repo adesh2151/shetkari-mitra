@@ -370,3 +370,24 @@ body {
 .di-right { display: flex; align-items: center; gap: 10px; }
 .di-amt { font-weight: 800; }
 .di-del { background: none; border: none; font-size: 18px; cursor: pointer; }
+
+/* --- News feed --- */
+.news-section { font-size: 16px; color: var(--green-dark); margin: 18px 0 10px; }
+.news-meta { display: flex; flex-wrap: wrap; gap: 6px; align-items: center;
+  font-size: 12.5px; color: var(--muted); margin-bottom: 6px; }
+.news-new { background: var(--green); color: #fff; font-weight: 700; font-size: 11px;
+  padding: 2px 8px; border-radius: 999px; }
+.news-deadline { color: #b3261e; font-weight: 700; }
+
+/* --- Voice search FAB --- */
+.voice-wrap { position: fixed; right: 16px; bottom: 84px; z-index: 40;
+  display: flex; flex-direction: column; align-items: flex-end; gap: 8px; }
+.voice-fab { width: 60px; height: 60px; border-radius: 50%; border: none;
+  background: var(--green); color: #fff; font-size: 26px; box-shadow: var(--shadow);
+  cursor: pointer; }
+.voice-fab.on { background: #b3261e; animation: voicePulse 1s infinite; }
+.voice-bubble { background: var(--card); border: 1px solid var(--border);
+  border-radius: 12px; padding: 8px 12px; font-size: 13px; max-width: 220px;
+  box-shadow: var(--shadow); }
+@keyframes voicePulse { 0%, 100% { transform: scale(1); } 50% { transform: scale(1.08); } }
+@media (prefers-reduced-motion: reduce) { .voice-fab.on { animation: none; } }

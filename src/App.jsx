@@ -8,6 +8,8 @@ import HistoryScreen from './components/HistoryScreen'
 import WeatherScreen from './components/WeatherScreen'
 import PricesScreen from './components/PricesScreen'
 import SchemesScreen from './components/SchemesScreen'
+import NewsScreen from './components/NewsScreen'
+import VoiceButton from './components/VoiceButton'
 import FertilizerScreen from './components/FertilizerScreen'
 import DiaryScreen from './components/DiaryScreen'
 import DairyScreen from './components/DairyScreen'
@@ -21,7 +23,7 @@ import Notices from './components/Notices'
 
 const TITLES = {
   home: 'appName', scan: 'tab_scan', history: 'tab_history', weather: 'tab_weather',
-  prices: 'tab_prices', schemes: 'tab_schemes', fertilizer: 'tab_fertilizer',
+  prices: 'tab_prices', schemes: 'tab_schemes', news: 'tab_news', fertilizer: 'tab_fertilizer',
   diary: 'tab_diary', cattle: 'tab_cattle', advisor: 'tab_advisor', irrigation: 'tab_irrigation',
   cropguide: 'tab_cropguide', directory: 'tab_directory', safety: 'tab_safety', pests: 'tab_pests'
 }
@@ -48,6 +50,7 @@ export default function App() {
       case 'weather': return <WeatherScreen t={t} />
       case 'prices': return <PricesScreen lang={lang} t={t} />
       case 'schemes': return <SchemesScreen lang={lang} t={t} />
+      case 'news': return <NewsScreen t={t} />
       case 'fertilizer': return <FertilizerScreen lang={lang} t={t} />
       case 'diary': return <DiaryScreen t={t} />
       case 'cattle': return <DairyScreen lang={lang} t={t} />
@@ -84,6 +87,8 @@ export default function App() {
       </header>
 
       <main className="app-main">{renderScreen()}</main>
+
+      <VoiceButton lang={lang} t={t} onOpen={setScreen} />
 
       <nav className="tabbar">
         <button className={'tab' + (onHome ? ' active' : '')} onClick={() => setScreen('home')}>

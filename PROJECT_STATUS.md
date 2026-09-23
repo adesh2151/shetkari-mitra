@@ -89,6 +89,19 @@ is done in CI (`convert-model.yml`, Python 3.10 + tensorflowjs 4.10 + jax 0.4.20
 - Sugarcane (DONE): https://data.mendeley.com/datasets/9424skmnrk/1
 
 ## TODO / next session
+- [ ] **Re-source all agronomy data from Maharashtra agri universities** — MPKV Rahuri,
+      VNMKV Parbhani, PDKV Akola, Dr. BSKKV Dapoli (replace TNAU / outside refs in
+      `src/data/fertilizer.json`, `pests.json`, `cropguide.json`, `src/ml/diseases.json`).
+- [ ] **Add more Maharashtra vegetables & fruits** to Crop Guide + Fertilizer + Pest data:
+      onion, tomato, brinjal, okra, chilli, cabbage/cauliflower, grape, pomegranate, banana,
+      orange/Nagpur mandarin, sugarcane, custard apple, ber — with vidyapeeth citations.
+- [ ] **Help contacts → village/taluka authorities**: कृषी सहायक → मंडळ कृषी अधिकारी →
+      तालुका कृषी अधिकारी (not a generic krishi kendra) in `src/data/directory.json`.
+- [ ] **Voice everywhere**: read-aloud (TTS) on each data screen + voice input on Scan/Advisor
+      (foundation added: `src/services/voice.js`, `VoiceButton` navigates by speech).
+- [ ] **Daily "आजचे काम" card on Home** — aggregate weather + prices + new GRs into today's tasks.
+- [ ] **Telegram alerts for new GRs/news** — set repo secrets `TELEGRAM_TOKEN`, `TELEGRAM_CHAT_ID`
+      (scraper `scraper/news_scrape.py` + `.github/workflows/news.yml` already wired).
 - [ ] Train disease models for **rice, cotton, wheat, maize** (pipeline above; datasets ready).
 - [ ] Expand **Crop Guide** into full encyclopedia: origin, best season, yield, market varieties,
       irrigation, fertilizer+pesticide schedule, **best market to sell + selling ideas** (Maharashtra focus),
