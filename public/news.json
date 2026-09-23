@@ -1,74 +1,18 @@
 [
   {
-    "id": "gr-23f8ae20e0",
-    "category": "gr",
-    "title": "कर्मचारी कल्याण",
-    "source": "कृषी विभाग, महाराष्ट्र",
-    "isNew": true,
-    "link": "https://krishi.maharashtra.gov.in:443/Site/Common/ViewGr.aspx?Doctype=a1fb0100-9743-408d-8e84-fb818f046d52?MenuID=2908"
-  },
-  {
-    "id": "gr-c3bb1d72d2",
-    "category": "gr",
-    "title": "सर्वसाधारण बदल्या - 2025",
-    "source": "कृषी विभाग, महाराष्ट्र",
-    "isNew": true,
-    "link": "https://krishi.maharashtra.gov.in:443/Site/Common/ViewGr.aspx?Doctype=116EF0A6-FF74-401F-9626-48B74F94F8E0%3d2957"
-  },
-  {
-    "id": "gr-59e7d80224",
-    "category": "gr",
-    "title": "कृप मर्या.विभा.परीक्षा जाहिरात",
-    "source": "कृषी विभाग, महाराष्ट्र",
-    "isNew": true,
-    "link": "https://krishi.maharashtra.gov.in:443/Site/Common/ViewGr.aspx?Doctype=59974903-3646-41f6-8aca-18c1206a48bb?MenuID=2943"
-  },
-  {
-    "id": "gr-6931b1dd47",
-    "category": "gr",
-    "title": "कर्तव्य व जबाबदाऱ्या",
-    "source": "कृषी विभाग, महाराष्ट्र",
-    "isNew": true,
-    "link": "https://krishi.maharashtra.gov.in:443/Site/Common/ViewGr.aspx?Doctype=81b1a66a-dc21-4834-bc68-1ce5e4f08393?MenuID=2933"
-  },
-  {
-    "id": "gr-d5b9c932a5",
-    "category": "gr",
-    "title": "कागदपत्र पडताळणी",
-    "source": "कृषी विभाग, महाराष्ट्र",
-    "isNew": true,
-    "link": "https://krishi.maharashtra.gov.in:443/Site/Upload/Pdf/कागदपत्र पडताळणी बाबत...pdf"
-  },
-  {
-    "id": "gr-180bd0b081",
-    "category": "gr",
-    "title": "सेवाप्रवेश नियम",
-    "source": "कृषी विभाग, महाराष्ट्र",
-    "isNew": true,
-    "link": "https://krishi.maharashtra.gov.in:443/Site/Upload/Pdf/सेवाप्रवेश नियम.pdf"
-  },
-  {
     "id": "gr-c28902d144",
     "category": "gr",
     "title": "बियाणे उत्पादक",
     "source": "कृषी विभाग, महाराष्ट्र",
-    "isNew": true,
+    "isNew": false,
     "link": "https://krishi.maharashtra.gov.in:443/Site/Upload/Pdf/MahaParwana_Firms_Data_Seed_7_QC.pdf?MenuID=1036"
-  },
-  {
-    "id": "gr-8505b99041",
-    "category": "gr",
-    "title": "सर्वसाधारण माहिती",
-    "source": "कृषी विभाग, महाराष्ट्र",
-    "isNew": true,
-    "link": "https://krishi.maharashtra.gov.in:443/Site/Common/ViewGr.aspx?Doctype=6c061aa5-9d9e-4baa-8c3a-7199e205e2f0?MenuID=1039"
   },
   {
     "id": "gr-0d5055bba4",
     "category": "gr",
     "title": "मे २०१४ पासून खतांचे कमाल विक्री किंमत",
     "source": "कृषी विभाग, महाराष्ट्र",
-    "isNew": true,
+    "isNew": false,
     "link": "https://krishi.maharashtra.gov.in:443/Site/Common/ViewGr.aspx?Doctype=e762e1c7-c389-4033-bab7-26c2566704d5?MenuID=1043"
   },
   {
@@ -76,24 +20,80 @@
     "category": "gr",
     "title": "द्रव्याधारित अनुदान",
     "source": "कृषी विभाग, महाराष्ट्र",
-    "isNew": true,
+    "isNew": false,
     "link": "https://krishi.maharashtra.gov.in:443/Site/Common/ViewGr.aspx?Doctype=aebc71f7-5f5f-4bb5-a149-9bc2fac19d1a?MenuID=1044"
+  },
+  {
+    "id": "gr-3e84960dee",
+    "category": "gr",
+    "title": "खतांचे परवाने",
+    "source": "कृषी विभाग, महाराष्ट्र",
+    "isNew": true,
+    "link": "https://krishi.maharashtra.gov.in:443/Site/Upload/Pdf/Fertilizers_Approved_license_list.xlsx?MenuID=1045"
   },
   {
     "id": "gr-87a7b2c2b3",
     "category": "gr",
     "title": "कीटकनाशकांचा वापर",
     "source": "कृषी विभाग, महाराष्ट्र",
-    "isNew": true,
+    "isNew": false,
     "link": "https://krishi.maharashtra.gov.in:443/Site/Common/ViewGr.aspx?Doctype=b37a31ad-ba3e-48a2-b2cd-ea017a658a78?MenuID=1051"
   },
   {
-    "id": "gr-a2f75c18f8",
+    "id": "gr-bc3acf2524",
     "category": "gr",
-    "title": "कायदे व नियम",
+    "title": "पीकपेरणी अहवाल",
     "source": "कृषी विभाग, महाराष्ट्र",
     "isNew": true,
-    "link": "https://krishi.maharashtra.gov.in:443/Site/Common/ViewGr.aspx?Doctype=559a3e3d-520f-4012-8a79-448d38cc291e?MenuID=1041"
+    "link": "https://krishi.maharashtra.gov.in:443/Site/Common/ViewGr.aspx?Doctype=e8bdd10e-d33d-4ea0-865f-140a5284a2bc?MenuID=2906"
+  },
+  {
+    "id": "gr-10418e2b72",
+    "category": "gr",
+    "title": "पीकांची आकडेवारी (क्षेत्र, उत्पादन, उत्पादकता)",
+    "source": "कृषी विभाग, महाराष्ट्र",
+    "isNew": true,
+    "link": "https://krishi.maharashtra.gov.in/"
+  },
+  {
+    "id": "gr-bd106eeb01",
+    "category": "gr",
+    "title": "प्रधानमंत्री पिक विमा योजना",
+    "source": "कृषी विभाग, महाराष्ट्र",
+    "isNew": true,
+    "link": "https://krishi.maharashtra.gov.in:443/Site/Common/ViewGr.aspx?Doctype=ed5a4ceb-ad07-4189-b236-f9d191d5752d?MenuID=2918"
+  },
+  {
+    "id": "gr-4186e5dd9d",
+    "category": "gr",
+    "title": "गोपीनाथ मुंडे शे.अ. विमा योजना",
+    "source": "कृषी विभाग, महाराष्ट्र",
+    "isNew": true,
+    "link": "https://krishi.maharashtra.gov.in:443/Site/Common/ViewGr.aspx?Doctype=e2e11ed5-3d93-4e5b-9560-0124f4324636?MenuID=2912"
+  },
+  {
+    "id": "gr-7cdea14952",
+    "category": "gr",
+    "title": "शेतकरी कॉर्नर (कट्टा)",
+    "source": "कृषी विभाग, महाराष्ट्र",
+    "isNew": true,
+    "link": "https://krishi.maharashtra.gov.in/"
+  },
+  {
+    "id": "gr-48218ad93c",
+    "category": "gr",
+    "title": "शेतकरी मासिक",
+    "source": "कृषी विभाग, महाराष्ट्र",
+    "isNew": true,
+    "link": "https://krishi.maharashtra.gov.in:443/Site/Common/ViewGr.aspx?Doctype=1c340af5-c4d2-4915-bf1b-870a749d98b5?MenuID=1089"
+  },
+  {
+    "id": "gr-35817637d4",
+    "category": "gr",
+    "title": "महिला शेतकरी प्रमाणपत्र पोर्टल",
+    "source": "कृषी विभाग, महाराष्ट्र",
+    "isNew": true,
+    "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
     "id": "news-90cfd8bcc1",
@@ -101,7 +101,7 @@
     "title": "Water Scarcity : पाणीटंचाई टाळण्यासाठी वर्षभराचे नियोजन करा; पालकमंत्री जयकुमार गोरे",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/agro-special/guardian-minister-jaykumar-gore-latest-news-on-water-management-aak11",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-ff9987a177",
@@ -109,7 +109,7 @@
     "title": "Goat Farming : शास्त्रीय व्यवस्थापनातून शेळीपालनात शाश्वत उत्पन्न",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/agro-special/start-a-profitable-commercial-goat-farming-business-from-scratch-aak11",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-d46c4933c8",
@@ -117,7 +117,7 @@
     "title": "Rain Updates : पावसाची जोरदार हजेरी; हलका दिलासा",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/agro-special/impact-of-latest-heavy-rainfall-on-kharif-crops-in-maharashtra-aak11",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-c76dea2962",
@@ -125,7 +125,7 @@
     "title": "Kisan Sabha Protest: मंत्र्यांना तहसीलदारांमार्फत काजू, बदाम पाठवत संताप व्यक्त, किसान सभेची राज्यभर आंदोलने",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/agro-special/kisan-sabha-protest-maharashtra-farmers-issues-ddb79",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-51744bc698",
@@ -133,7 +133,7 @@
     "title": "Crop Damage : पिके वाया गेलेल्या शेतकऱ्यांना हेक्टरी ५० हजारांची मदत द्या",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/agro-special/demand-for-immediate-50000-rupees-per-hectare-compensation-to-farmers-aak11",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-ef82e8334b",
@@ -141,7 +141,7 @@
     "title": "Crop Insurance : दुष्काळामुळे सरसकट भरपाई मिळणार का?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/crop-insurance-41",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-323088f651",
@@ -149,7 +149,7 @@
     "title": "Drought Madat 2026 : राज्यातील दुष्काळग्रस्त शेतकऱ्यांना पाहणी दौऱ्यादरम्यान मुख्यमंत्री काय शब्द दिला?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/drought-madat-2026",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-c276d5abd8",
@@ -157,7 +157,7 @@
     "title": "Maize, Moong Rate: मका दरात किंचीत वाढ, मुग दरात चढ-उतार, टोमॅटोच्या आवकेत घट, शेपूचे दर टिकून तर संत्री दरात नरमाई",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/maize-moong-rate",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-c196444a72",
@@ -165,7 +165,7 @@
     "title": "Rain Upadte : राज्यात पुढील पाच दिवस पाऊस कोणत्या भागात बरसणार?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/rain-upadte",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-312b175b7e",
@@ -173,7 +173,7 @@
     "title": "Sheep Goat Care: कमी पावसाच्या काळात शेळ्या मेंढ्यांची काळजी कशी घ्यावी?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/sheep-goat-care",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-58eceea3be",
@@ -181,7 +181,7 @@
     "title": "Drought Madat: सरकार कापूस आणि सोयाबीनसाठी पॅकेज जाहीर करणार ?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/drought-madat",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-2c996aa2db",
@@ -189,6 +189,6 @@
     "title": "Drought 2026 : राज्यात उद्यापासून दुष्काळाचे पंचनामे सुरू होणार?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/drought-2026-3",
-    "isNew": true
+    "isNew": false
   }
 ]
