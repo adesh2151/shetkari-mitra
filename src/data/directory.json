@@ -1,5 +1,23 @@
 [
   {
+    "id": "krishi-sahayak",
+    "name": { "en": "Krishi Sahayak (village)", "mr": "कृषी सहायक (गाव पातळी)", "hi": "कृषि सहायक (गाँव स्तर)" },
+    "desc": { "en": "Your village's first agri contact — advice, e-pik pahani, subsidy help. Ask at the Gram Panchayat or Taluka Agri Office.", "mr": "गावासाठी पहिला कृषी संपर्क — सल्ला, ई-पीक पाहणी, अनुदान मदत. ग्रामपंचायत किंवा तालुका कृषी कार्यालयात विचारा.", "hi": "गाँव का पहला कृषि संपर्क — सलाह, ई-पीक, अनुदान मदद. ग्राम पंचायत या तालुका कृषि कार्यालय में पूछें." },
+    "action": "https://krishi.maharashtra.gov.in", "actionLabel": "अधिक माहिती"
+  },
+  {
+    "id": "mandal-krishi",
+    "name": { "en": "Mandal Agriculture Officer", "mr": "मंडळ कृषी अधिकारी", "hi": "मंडल कृषि अधिकारी" },
+    "desc": { "en": "Mandal-level guidance and scheme applications.", "mr": "मंडळ पातळीवरील मार्गदर्शन व योजना अर्ज.", "hi": "मंडल स्तर पर मार्गदर्शन व योजना आवेदन." },
+    "action": "https://krishi.maharashtra.gov.in", "actionLabel": "अधिक माहिती"
+  },
+  {
+    "id": "taluka-krishi",
+    "name": { "en": "Taluka Agriculture Officer (TKA)", "mr": "तालुका कृषी अधिकारी", "hi": "तालुका कृषि अधिकारी" },
+    "desc": { "en": "Taluka-level subsidies, applications and complaints.", "mr": "तालुका पातळीवरील अनुदान, अर्ज व तक्रारी.", "hi": "तालुका स्तर पर अनुदान, आवेदन व शिकायतें." },
+    "action": "https://krishi.maharashtra.gov.in", "actionLabel": "अधिक माहिती"
+  },
+  {
     "id": "kcc-call",
     "name": { "en": "Kisan Call Centre", "mr": "किसान कॉल सेंटर", "hi": "किसान कॉल सेंटर" },
     "desc": { "en": "Free farming advice from experts, in your language.", "mr": "तज्ञांकडून मोफत शेती सल्ला, तुमच्या भाषेत.", "hi": "विशेषज्ञों से मुफ्त कृषि सलाह, आपकी भाषा में." },
