@@ -16,9 +16,12 @@ const TILES = [
   { key: 'history', icon: '🕘', label: 'tab_history', color: '#eceff1' }
 ]
 
-export default function HomeScreen({ t, onOpen }) {
+import TodayCard from './TodayCard'
+
+export default function HomeScreen({ lang, t, onOpen }) {
   return (
     <div className="home">
+      <TodayCard lang={lang} t={t} onOpen={onOpen} />
       <div className="tiles">
         {TILES.map((tile) => (
           <button key={tile.key} className="tile" style={{ background: tile.color }}

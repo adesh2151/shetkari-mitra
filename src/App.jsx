@@ -60,7 +60,7 @@ export default function App() {
       case 'directory': return <DirectoryScreen lang={lang} t={t} />
       case 'safety': return <SafetyScreen lang={lang} t={t} />
       case 'pests': return <PestGuideScreen lang={lang} t={t} />
-      default: return <HomeScreen t={t} onOpen={setScreen} />
+      default: return <HomeScreen lang={lang} t={t} onOpen={setScreen} />
     }
   }
 

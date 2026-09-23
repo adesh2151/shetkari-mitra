@@ -2,6 +2,7 @@ import { useEffect, useRef, useState } from 'react'
 import {
   searchPlaces, resolveCoords, getGeoPosition, getForecast, weatherInfo, farmAdvice
 } from '../services/weather'
+import { saveLocation } from '../store/location'
 
 export default function WeatherScreen({ t }) {
   const [loading, setLoading] = useState(true)
@@ -18,6 +19,7 @@ export default function WeatherScreen({ t }) {
       const fc = await getForecast(lat, lon)
       setData(fc)
       if (name) setPlace(name)
+      saveLocation({ lat, lon, label: name })
     } catch (_) {
       setError(t('weather_error'))
     } finally {
