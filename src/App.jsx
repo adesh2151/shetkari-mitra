@@ -1,9 +1,8 @@
-import { useEffect, useMemo, useState } from 'react'
+import { useEffect, useMemo, useState, lazy, Suspense } from 'react'
 import { getSavedLang, saveLang, makeT } from './i18n'
 import LanguageSwitcher from './components/LanguageSwitcher'
 import SplashScreen from './components/SplashScreen'
 import HomeScreen from './components/HomeScreen'
-import ScanScreen from './components/ScanScreen'
 import HistoryScreen from './components/HistoryScreen'
 import WeatherScreen from './components/WeatherScreen'
 import PricesScreen from './components/PricesScreen'
@@ -21,6 +20,11 @@ import GovtServicesScreen from './components/GovtServicesScreen'
 import SafetyScreen from './components/SafetyScreen'
 import PestGuideScreen from './components/PestGuideScreen'
 import Notices from './components/Notices'
+
+// Lazy-loaded: the disease scanner pulls in TensorFlow.js (~1.7 MB), so it is
+// code-split out of the initial bundle — the app opens fast, TF.js loads only
+// when the farmer opens Scan.
+const ScanScreen = lazy(() => import('./components/ScanScreen'))
 
 const TITLES = {
   home: 'appName', scan: 'tab_scan', history: 'tab_history', weather: 'tab_weather',
@@ -89,7 +93,9 @@ export default function App() {
         <LanguageSwitcher lang={lang} onChange={changeLang} />
       </header>
 
-      <main className="app-main">{renderScreen()}</main>
+      <main className="app-main">
+        <Suspense fallback={<p className="hint">{t('loading')}</p>}>{renderScreen()}</Suspense>
+      </main>
 
       <VoiceButton lang={lang} t={t} onOpen={setScreen} />
 

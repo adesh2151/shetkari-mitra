@@ -5,6 +5,7 @@ export default function ResultCard({ result, lang, t }) {
   const info = getDiseaseInfo(result.classId)
   const pct = Math.round((result.confidence || 0) * 100)
   const name = info.name?.[lang] || info.name?.en || result.classId
+  const lowConf = !result.isDemo && pct < 60
 
   return (
     <div className={'result-card' + (info.healthy ? ' healthy' : '')}>
@@ -14,6 +15,8 @@ export default function ResultCard({ result, lang, t }) {
         <h2>{name}</h2>
         <span className="confidence">{t('confidence')}: {pct}%</span>
       </div>
+
+      {lowConf && <div className="lowconf-badge">⚠️ {t('low_confidence')}</div>}
 
       {info.healthy ? (
         <p className="healthy-msg">{t('healthy_message')}</p>

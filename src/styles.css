@@ -430,3 +430,16 @@ body {
   color: #fff; border-radius: 10px; padding: 11px; font-size: 15px; font-weight: 700; cursor: pointer; }
 .gs-note { background: var(--card); border: 1px solid var(--border); border-radius: 12px;
   padding: 10px 12px; font-size: 13px; color: var(--muted); line-height: 1.5; margin: 14px 0; }
+
+/* --- #9 Low-confidence scan warning --- */
+.lowconf-badge { background: #fff3e0; color: #8a5a00; border-left: 4px solid var(--amber, #e0a93b);
+  border-radius: 8px; padding: 10px 12px; font-size: 13.5px; line-height: 1.4; margin: 10px 0; font-weight: 600; }
+
+/* --- #11 Bigger, easier touch targets for older farmers --- */
+body { font-size: 15px; }
+.tile { min-height: 104px; }
+.tile-icon { font-size: 32px; }
+.tile-label { font-size: 14.5px; }
+.tab { min-height: 58px; }
+.scheme-link { display: inline-block; padding: 8px 0; min-height: 24px; }
+.btn-save { min-height: 48px; }

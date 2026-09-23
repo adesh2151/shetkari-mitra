@@ -1,14 +1,34 @@
 import { useEffect, useState } from 'react'
 import { getNews } from '../services/news'
+import { enableNotify, notify, notifyEnabled } from '../services/notify'
+
+const SEEN_KEY = 'sm_news_notified'
 
 export default function NewsScreen({ t }) {
   const [items, setItems] = useState(null)
+  const [notifOn, setNotifOn] = useState(notifyEnabled())
 
   useEffect(() => {
     let alive = true
-    getNews().then((data) => { if (alive) setItems(data) })
+    getNews().then((data) => {
+      if (!alive) return
+      setItems(data)
+      // Notify once about new items (deadline/new-scheme reminder).
+      const newIds = data.filter((n) => n.isNew).map((n) => n.id).join(',')
+      let seen = ''
+      try { seen = localStorage.getItem(SEEN_KEY) || '' } catch (_) { /* ignore */ }
+      const nw = data.filter((n) => n.isNew).length
+      if (nw > 0 && newIds !== seen && notifyEnabled()) {
+        notify(t('notify_new_title'), nw + ' ' + t('today_new_schemes'))
+        try { localStorage.setItem(SEEN_KEY, newIds) } catch (_) { /* ignore */ }
+      }
+    })
     return () => { alive = false }
   }, [])
+
+  async function turnOnAlerts() {
+    setNotifOn(await enableNotify())
+  }
 
   if (items === null) return <p className="hint">{t('news_loading')}</p>
   if (items.length === 0) return <p className="hint">{t('news_empty')}</p>
@@ -19,6 +39,10 @@ export default function NewsScreen({ t }) {
   return (
     <div className="news">
       <p className="hint">{t('news_hint')}</p>
+
+      {!notifOn && (
+        <button className="btn-save" onClick={turnOnAlerts}>🔔 {t('notify_enable')}</button>
+      )}
 
       {grs.length > 0 && (
         <>
