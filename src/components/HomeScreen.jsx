@@ -3,6 +3,7 @@ const TILES = [
   { key: 'weather', icon: '🌦️', label: 'tab_weather', color: '#e3f2fd' },
   { key: 'prices', icon: '💰', label: 'tab_prices', color: '#fff8e1' },
   { key: 'news', icon: '📰', label: 'tab_news', color: '#e3f2fd' },
+  { key: 'report', icon: '📊', label: 'tab_report', color: '#fff8e1' },
   { key: 'advisor', icon: '🌱', label: 'tab_advisor', color: '#e8f5e9' },
   { key: 'irrigation', icon: '💧', label: 'tab_irrigation', color: '#e1f5fe' },
   { key: 'fertilizer', icon: '🧮', label: 'tab_fertilizer', color: '#f1f8e9' },

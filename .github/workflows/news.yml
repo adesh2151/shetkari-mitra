@@ -21,16 +21,19 @@ jobs:
       - name: Install deps
         run: pip install -r scraper/requirements.txt
 
-      - name: Scrape news + GRs
+      - name: Scrape news + GRs, log prices
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: python scraper/news_scrape.py
+          DATA_GOV_KEY: ${{ secrets.DATA_GOV_KEY }}
+        run: |
+          python scraper/news_scrape.py
+          python scraper/prices_log.py
 
-      - name: Commit updated news
+      - name: Commit updated data
         run: |
           git config user.name  "shetmitra-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add public/news.json
-          git commit -m "chore: update news feed" || echo "no changes"
+          git add public/news.json public/prices-history.json
+          git commit -m "chore: update news + price history" || echo "no changes"
           git push

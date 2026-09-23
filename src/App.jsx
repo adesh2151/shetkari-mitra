@@ -17,6 +17,7 @@ import IrrigationScreen from './components/IrrigationScreen'
 import CropGuideScreen from './components/CropGuideScreen'
 import DirectoryScreen from './components/DirectoryScreen'
 import GovtServicesScreen from './components/GovtServicesScreen'
+import CropReportScreen from './components/CropReportScreen'
 import SafetyScreen from './components/SafetyScreen'
 import PestGuideScreen from './components/PestGuideScreen'
 import Notices from './components/Notices'
@@ -28,7 +29,7 @@ const ScanScreen = lazy(() => import('./components/ScanScreen'))
 
 const TITLES = {
   home: 'appName', scan: 'tab_scan', history: 'tab_history', weather: 'tab_weather',
-  prices: 'tab_prices', schemes: 'tab_schemes', news: 'tab_news', fertilizer: 'tab_fertilizer',
+  prices: 'tab_prices', report: 'tab_report', schemes: 'tab_schemes', news: 'tab_news', fertilizer: 'tab_fertilizer',
   diary: 'tab_diary', cattle: 'tab_cattle', advisor: 'tab_advisor', irrigation: 'tab_irrigation',
   cropguide: 'tab_cropguide', directory: 'tab_directory', safety: 'tab_safety', pests: 'tab_pests',
   govtseva: 'tab_govtseva'
@@ -55,6 +56,7 @@ export default function App() {
       case 'history': return <HistoryScreen lang={lang} t={t} />
       case 'weather': return <WeatherScreen t={t} />
       case 'prices': return <PricesScreen lang={lang} t={t} />
+      case 'report': return <CropReportScreen lang={lang} t={t} />
       case 'schemes': return <SchemesScreen lang={lang} t={t} />
       case 'news': return <NewsScreen t={t} />
       case 'fertilizer': return <FertilizerScreen lang={lang} t={t} />

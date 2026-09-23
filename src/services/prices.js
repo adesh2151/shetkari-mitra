@@ -33,3 +33,15 @@ export async function getMandiPrices({ state = DEFAULT_STATE, commodity = '', li
     date: r.arrival_date
   }))
 }
+
+// For the Crop Report: today's markets for one commodity, best price first
+// (deduped to the highest modal per market) — answers "where should I sell?".
+export async function getCropMarkets(commodity, { state = DEFAULT_STATE, limit = 60 } = {}) {
+  const rows = await getMandiPrices({ state, commodity, limit })
+  const byMarket = {}
+  for (const r of rows) {
+    if (!r.modal) continue
+    if (!byMarket[r.market] || r.modal > byMarket[r.market].modal) byMarket[r.market] = r
+  }
+  return Object.values(byMarket).sort((a, b) => b.modal - a.modal)
+}
