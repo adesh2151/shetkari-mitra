@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useRef, useState } from 'react'
 import { voiceSupported, listen, speak } from '../services/voice'
 
 // Spoken keyword -> screen. Matching is case-insensitive substring,
@@ -29,39 +29,63 @@ function matchScreen(text) {
 }
 
 export default function VoiceButton({ lang, t, onOpen }) {
-  const [status, setStatus] = useState('idle') // idle | listening | miss
-  const [heard, setHeard] = useState('')
+  const [status, setStatus] = useState('idle') // idle | listening | msg
+  const [msg, setMsg] = useState('')
+  const recRef = useRef(null)
+  const hideTimer = useRef(null)
 
-  if (!voiceSupported()) return null
+  function flash(text) {
+    setMsg(text)
+    setStatus('msg')
+    clearTimeout(hideTimer.current)
+    hideTimer.current = setTimeout(() => setStatus('idle'), 4000)
+  }
 
   function start() {
-    setHeard('')
+    // Not supported (many Android WebViews / older browsers) — say so instead
+    // of failing silently.
+    if (!voiceSupported()) {
+      flash(t('voice_unsupported'))
+      speak(t('voice_unsupported'), lang)
+      return
+    }
+    clearTimeout(hideTimer.current)
+    setMsg('')
     setStatus('listening')
-    listen(lang, {
+    recRef.current = listen(lang, {
       onResult: (text, alts) => {
-        setHeard(text)
         const screen = alts.map(matchScreen).find(Boolean)
         if (screen) {
           setStatus('idle')
           speak(t('voice_opening') + ' ' + t('tab_' + screen), lang)
           onOpen(screen)
         } else {
-          setStatus('miss')
+          flash('“' + text + '” — ' + t('voice_notfound'))
           speak(t('voice_notfound'), lang)
         }
       },
-      onError: () => setStatus('idle'),
+      onError: (err) => {
+        const m =
+          err === 'not-allowed' || err === 'service-not-allowed' || err === 'audio-capture'
+            ? t('voice_denied')
+            : err === 'no-speech'
+              ? t('voice_notfound')
+              : err === 'unsupported'
+                ? t('voice_unsupported')
+                : t('voice_error')
+        flash(m)
+      },
       onEnd: () => setStatus((s) => (s === 'listening' ? 'idle' : s))
     })
   }
 
+  const showBubble = status === 'listening' || (status === 'msg' && msg)
+
   return (
     <div className="voice-wrap">
-      {(status === 'listening' || (status === 'miss' && heard)) && (
+      {showBubble && (
         <div className="voice-bubble">
-          {status === 'listening'
-            ? t('voice_listening')
-            : `“${heard}” — ${t('voice_notfound')}`}
+          {status === 'listening' ? t('voice_listening') : msg}
         </div>
       )}
       <button
