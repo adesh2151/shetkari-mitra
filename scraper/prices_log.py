@@ -12,6 +12,7 @@ import json
 import os
 import statistics
 import sys
+import time
 from pathlib import Path
 
 import requests
@@ -36,12 +37,20 @@ def main():
     hist = load()
     today = datetime.date.today().isoformat()
     for c in CROPS:
+        modals = []
+        for attempt in range(3):  # shared demo key is rate-limited; space out + retry
+            try:
+                r = requests.get(f"https://api.data.gov.in/resource/{RES}", params={
+                    "api-key": KEY, "format": "json", "limit": 200,
+                    "filters[state.keyword]": "Maharashtra", "filters[commodity]": c,
+                }, timeout=25)
+                modals = [int(float(x["modal_price"])) for x in r.json().get("records", []) if x.get("modal_price")]
+                if modals:
+                    break
+            except Exception as e:
+                print("retry", c, e, file=sys.stderr)
+            time.sleep(4)
         try:
-            r = requests.get(f"https://api.data.gov.in/resource/{RES}", params={
-                "api-key": KEY, "format": "json", "limit": 200,
-                "filters[state.keyword]": "Maharashtra", "filters[commodity]": c,
-            }, timeout=30)
-            modals = [int(float(x["modal_price"])) for x in r.json().get("records", []) if x.get("modal_price")]
             if not modals:
                 continue
             p = int(statistics.median(modals))
