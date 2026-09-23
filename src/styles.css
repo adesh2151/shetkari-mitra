@@ -211,6 +211,21 @@ body {
 /* Irrigation warn advice */
 .advice-box.warn { background: #fff6e5; }
 
+/* Weather alert */
+.alert-banner { background: #fdecea; color: #b71c1c; border-left: 5px solid #c62828; border-radius: 10px; padding: 12px 14px; margin-bottom: 12px; font-weight: 600; line-height: 1.4; }
+
+/* Safety */
+.safety-list { list-style: none; padding: 0; margin: 0; }
+.safety-item { display: flex; gap: 12px; align-items: flex-start; background: var(--card); border-radius: 12px; padding: 12px; margin-bottom: 8px; box-shadow: var(--shadow); line-height: 1.5; }
+.safety-icon { font-size: 24px; flex: 0 0 auto; }
+.safety-badge { background: #fff3e0; color: #8a5a00; border-left: 4px solid var(--amber); border-radius: 8px; padding: 10px 12px; font-size: 13px; line-height: 1.4; margin-bottom: 12px; }
+
+/* Crop guide rows */
+.cg-row { padding: 10px 0; border-bottom: 1px dashed var(--border); }
+.cg-row:last-child { border-bottom: none; }
+.cg-label { font-weight: 700; color: var(--green-dark); font-size: 14px; }
+.cg-val { margin-top: 2px; line-height: 1.5; }
+
 /* Note box */
 .note-box {
   background: #fff8e1; color: #7a5600; border-radius: 12px;
@@ -335,6 +350,9 @@ body {
 .ds.expense b { color: #e65100; }
 .ds.profit b { color: var(--green-dark); }
 .ds.profit.loss b { color: #c62828; }
+.diary-bar { display: flex; height: 18px; border-radius: 9px; overflow: hidden; margin-bottom: 14px; background: #eee; }
+.db-income { background: var(--green); }
+.db-expense { background: #e65100; }
 .diary-form { background: var(--card); border-radius: 14px; padding: 14px; box-shadow: var(--shadow); margin-bottom: 14px; }
 .diary-form input { width: 100%; padding: 12px; border: 2px solid var(--border); border-radius: 10px; font-size: 16px; margin-bottom: 10px; }
 .type-toggle { display: flex; gap: 8px; margin-bottom: 10px; }

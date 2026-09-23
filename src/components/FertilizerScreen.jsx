@@ -65,6 +65,7 @@ export default function FertilizerScreen({ lang, t }) {
   return (
     <div className="fert">
       <p className="hint">{t('fert_hint')}</p>
+      <div className="safety-badge">{t('safety_verify')}</div>
 
       <label className="field-label">{t('select_crop')}</label>
       <select className="select" value={cropId} onChange={(e) => setCropId(e.target.value)}>

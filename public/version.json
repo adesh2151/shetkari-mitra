@@ -1,24 +1,30 @@
 {
-  "version": "0.7.0",
+  "version": "0.8.0",
   "date": "2026-09-23",
   "changes": {
     "en": [
-      "New: 'What to Grow' advisor (season + rainfall + live mandi rates)",
-      "New: Irrigation scheduler (when and how much to water)",
-      "Fertilizer now supports Soil Health Card values",
-      "Link sharing now shows an app preview image"
+      "New: Crop Guide — soil, climate, water, spacing, duration per crop",
+      "New: Safety section — pesticide safety + poison helpline",
+      "New: Helpline & Contacts (Kisan Call Centre, vet, insurance)",
+      "Weather alerts for heavy rain / extreme heat",
+      "Farm diary income-vs-expense bar",
+      "Clear 'verify locally' notes added to guidance"
     ],
     "mr": [
-      "नवीन: 'कोणते पीक घ्यावे' सल्लागार (हंगाम + पाऊस + बाजारभाव)",
-      "नवीन: सिंचन नियोजक (कधी व किती पाणी द्यावे)",
-      "खतासाठी आता मृदा आरोग्य पत्रिकेचे मूल्य वापरता येते",
-      "लिंक शेअर करताना आता ॲप प्रिव्ह्यू दिसते"
+      "नवीन: पीक मार्गदर्शक — जमीन, हवामान, पाणी, अंतर, कालावधी",
+      "नवीन: सुरक्षा विभाग — कीटकनाशक सुरक्षा + विष हेल्पलाइन",
+      "नवीन: हेल्पलाइन व संपर्क (किसान कॉल सेंटर, पशुवैद्य, विमा)",
+      "मुसळधार पाऊस / अति उष्णतेसाठी हवामान इशारे",
+      "शेती डायरीत उत्पन्न-खर्च बार",
+      "मार्गदर्शनावर 'स्थानिक खात्री करा' सूचना"
     ],
     "hi": [
-      "नया: 'कौन सी फसल लगाएँ' सलाहकार (मौसम + वर्षा + मंडी भाव)",
-      "नया: सिंचाई नियोजक (कब व कितना पानी दें)",
-      "खाद अब मृदा स्वास्थ्य कार्ड के मान समर्थित",
-      "लिंक शेयर करने पर अब ऐप प्रिव्यू दिखता है"
+      "नया: फसल गाइड — मिट्टी, जलवायु, पानी, दूरी, अवधि",
+      "नया: सुरक्षा विभाग — कीटनाशक सुरक्षा + ज़हर हेल्पलाइन",
+      "नया: हेल्पलाइन व संपर्क (किसान कॉल सेंटर, पशु चिकित्सक, बीमा)",
+      "भारी बारिश / अत्यधिक गर्मी के मौसम अलर्ट",
+      "खेती डायरी में आय-खर्च बार",
+      "मार्गदर्शन पर 'स्थानीय पुष्टि करें' सूचना"
     ]
   }
 }

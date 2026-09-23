@@ -61,6 +61,12 @@ export default function WeatherScreen({ t }) {
   const curW = cur ? weatherInfo(cur.weather_code) : null
   const advice = cur && daily ? farmAdvice(cur, daily) : []
 
+  const alerts = []
+  if (daily) {
+    if ((daily.precipitation_probability_max?.[0] ?? 0) >= 70) alerts.push('alert_heavy_rain')
+    if ((daily.temperature_2m_max?.[0] ?? 0) >= 42) alerts.push('alert_heat')
+  }
+
   return (
     <div className="weather">
       <div className="search-wrap">
@@ -79,6 +85,8 @@ export default function WeatherScreen({ t }) {
 
       {loading && <div className="spinner-row"><span className="spinner" />{t('loading')}</div>}
       {error && <p className="error-text">{error}</p>}
+
+      {alerts.map((a) => <div className="alert-banner" key={a}>⚠️ {t(a)}</div>)}
 
       {!loading && cur && (
         <>

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "kcc-call",
+    "name": { "en": "Kisan Call Centre", "mr": "किसान कॉल सेंटर", "hi": "किसान कॉल सेंटर" },
+    "desc": { "en": "Free farming advice from experts, in your language.", "mr": "तज्ञांकडून मोफत शेती सल्ला, तुमच्या भाषेत.", "hi": "विशेषज्ञों से मुफ्त कृषि सलाह, आपकी भाषा में." },
+    "action": "tel:18001801551", "actionLabel": "1800-180-1551"
+  },
+  {
+    "id": "animal-help",
+    "name": { "en": "Animal Husbandry Helpline", "mr": "पशुसंवर्धन हेल्पलाइन", "hi": "पशुपालन हेल्पलाइन" },
+    "desc": { "en": "Help for sick cattle and livestock.", "mr": "आजारी जनावरांसाठी मदत.", "hi": "बीमार पशुओं के लिए मदद." },
+    "action": "tel:1962", "actionLabel": "1962"
+  },
+  {
+    "id": "pmkisan-help",
+    "name": { "en": "PM-KISAN Helpline", "mr": "पीएम-किसान हेल्पलाइन", "hi": "पीएम-किसान हेल्पलाइन" },
+    "desc": { "en": "Questions about your ₹6,000/year instalments.", "mr": "तुमच्या ₹६,०००/वर्ष हप्त्यांबद्दल प्रश्न.", "hi": "आपकी ₹6,000/वर्ष किस्तों के बारे में प्रश्न." },
+    "action": "tel:155261", "actionLabel": "155261"
+  },
+  {
+    "id": "pmfby-help",
+    "name": { "en": "Crop Insurance Helpline", "mr": "पीक विमा हेल्पलाइन", "hi": "फसल बीमा हेल्पलाइन" },
+    "desc": { "en": "Report crop loss and insurance claims (PMFBY).", "mr": "पीक नुकसान व विमा दावे कळवा (PMFBY).", "hi": "फसल हानि व बीमा दावे बताएँ (PMFBY)." },
+    "action": "tel:14447", "actionLabel": "14447"
+  },
+  {
+    "id": "kvk-finder",
+    "name": { "en": "Find your nearest KVK", "mr": "जवळचे कृषी विज्ञान केंद्र शोधा", "hi": "नज़दीकी कृषि विज्ञान केंद्र खोजें" },
+    "desc": { "en": "Krishi Vigyan Kendra — local training and advice centre.", "mr": "कृषी विज्ञान केंद्र — स्थानिक प्रशिक्षण व सल्ला केंद्र.", "hi": "कृषि विज्ञान केंद्र — स्थानीय प्रशिक्षण व सलाह केंद्र." },
+    "action": "https://kvk.icar.gov.in", "actionLabel": "kvk.icar.gov.in"
+  },
+  {
+    "id": "soil-portal",
+    "name": { "en": "Soil Health Card portal", "mr": "मृदा आरोग्य पत्रिका पोर्टल", "hi": "मृदा स्वास्थ्य कार्ड पोर्टल" },
+    "desc": { "en": "Get free soil testing and your report.", "mr": "मोफत माती परीक्षण व अहवाल मिळवा.", "hi": "मुफ्त मृदा परीक्षण व रिपोर्ट पाएँ." },
+    "action": "https://soilhealth.dac.gov.in", "actionLabel": "soilhealth.dac.gov.in"
+  }
+]

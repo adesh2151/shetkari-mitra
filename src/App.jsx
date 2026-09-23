@@ -13,12 +13,16 @@ import DiaryScreen from './components/DiaryScreen'
 import DairyScreen from './components/DairyScreen'
 import AdvisorScreen from './components/AdvisorScreen'
 import IrrigationScreen from './components/IrrigationScreen'
+import CropGuideScreen from './components/CropGuideScreen'
+import DirectoryScreen from './components/DirectoryScreen'
+import SafetyScreen from './components/SafetyScreen'
 import Notices from './components/Notices'
 
 const TITLES = {
   home: 'appName', scan: 'tab_scan', history: 'tab_history', weather: 'tab_weather',
   prices: 'tab_prices', schemes: 'tab_schemes', fertilizer: 'tab_fertilizer',
-  diary: 'tab_diary', cattle: 'tab_cattle', advisor: 'tab_advisor', irrigation: 'tab_irrigation'
+  diary: 'tab_diary', cattle: 'tab_cattle', advisor: 'tab_advisor', irrigation: 'tab_irrigation',
+  cropguide: 'tab_cropguide', directory: 'tab_directory', safety: 'tab_safety'
 }
 
 export default function App() {
@@ -48,6 +52,9 @@ export default function App() {
       case 'cattle': return <DairyScreen lang={lang} t={t} />
       case 'advisor': return <AdvisorScreen lang={lang} t={t} />
       case 'irrigation': return <IrrigationScreen t={t} />
+      case 'cropguide': return <CropGuideScreen lang={lang} t={t} />
+      case 'directory': return <DirectoryScreen lang={lang} t={t} />
+      case 'safety': return <SafetyScreen lang={lang} t={t} />
       default: return <HomeScreen t={t} onOpen={setScreen} />
     }
   }

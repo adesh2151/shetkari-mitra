@@ -1,0 +1,74 @@
+[
+  {
+    "id": "rice", "name": { "en": "Rice / Paddy", "mr": "भात", "hi": "धान" },
+    "about": { "en": "Staple food grain, domesticated in Asia thousands of years ago.", "mr": "प्रमुख अन्नधान्य, हजारो वर्षांपूर्वी आशियात लागवडीस सुरुवात.", "hi": "प्रमुख अन्न, हज़ारों वर्ष पूर्व एशिया में उगाया गया." },
+    "soil": { "en": "Clay/clay-loam that holds water; pH 5.5–6.5.", "mr": "पाणी धरून ठेवणारी चिकणमाती; सामू ५.५–६.५.", "hi": "पानी रोकने वाली चिकनी मिट्टी; pH 5.5–6.5." },
+    "climate": { "en": "Warm, humid; 20–35°C.", "mr": "उष्ण, दमट; २०–३५°C.", "hi": "गर्म, नम; 20–35°C." },
+    "water": { "en": "High — needs standing water.", "mr": "जास्त — साचलेले पाणी लागते.", "hi": "अधिक — खड़े पानी की ज़रूरत." },
+    "spacing": { "en": "20 × 15 cm (transplanted).", "mr": "२० × १५ सेमी (पुनर्लागवड).", "hi": "20 × 15 सेमी (रोपाई)." },
+    "duration": { "en": "110–150 days.", "mr": "११०–१५० दिवस.", "hi": "110–150 दिन." }
+  },
+  {
+    "id": "wheat", "name": { "en": "Wheat", "mr": "गहू", "hi": "गेहूँ" },
+    "about": { "en": "Major rabi cereal, originated in the Fertile Crescent.", "mr": "प्रमुख रब्बी तृणधान्य, फर्टाइल क्रीसेंटमध्ये उगम.", "hi": "प्रमुख रबी अनाज, फर्टाइल क्रीसेंट में उत्पत्ति." },
+    "soil": { "en": "Well-drained loam; pH 6–7.5.", "mr": "पाण्याचा निचरा होणारी पोयटा माती; सामू ६–७.५.", "hi": "जल निकास वाली दोमट; pH 6–7.5." },
+    "climate": { "en": "Cool growing, warm at harvest; 10–25°C.", "mr": "थंड वाढ, काढणीस उबदार; १०–२५°C.", "hi": "ठंडी वृद्धि, कटाई पर गर्म; 10–25°C." },
+    "water": { "en": "Medium — 4–6 irrigations.", "mr": "मध्यम — ४–६ सिंचन.", "hi": "मध्यम — 4–6 सिंचाई." },
+    "spacing": { "en": "Rows 20–22 cm apart.", "mr": "ओळींत २०–२२ सेमी अंतर.", "hi": "पंक्तियाँ 20–22 सेमी दूर." },
+    "duration": { "en": "110–140 days.", "mr": "११०–१४० दिवस.", "hi": "110–140 दिन." }
+  },
+  {
+    "id": "cotton", "name": { "en": "Cotton", "mr": "कापूस", "hi": "कपास" },
+    "about": { "en": "Major fibre crop; India is a leading grower.", "mr": "प्रमुख धागा पीक; भारत आघाडीचा उत्पादक.", "hi": "प्रमुख रेशा फसल; भारत अग्रणी उत्पादक." },
+    "soil": { "en": "Deep black cotton soil; pH 6–8.", "mr": "खोल काळी कसदार माती; सामू ६–८.", "hi": "गहरी काली मिट्टी; pH 6–8." },
+    "climate": { "en": "Warm; 21–30°C, long frost-free season.", "mr": "उष्ण; २१–३०°C, दीर्घ दंवमुक्त हंगाम.", "hi": "गर्म; 21–30°C, लंबा पालारहित मौसम." },
+    "water": { "en": "Medium; sensitive to waterlogging.", "mr": "मध्यम; पाणी साचणे हानिकारक.", "hi": "मध्यम; जलभराव हानिकारक." },
+    "spacing": { "en": "90–120 × 45–60 cm.", "mr": "९०–१२० × ४५–६० सेमी.", "hi": "90–120 × 45–60 सेमी." },
+    "duration": { "en": "160–200 days.", "mr": "१६०–२०० दिवस.", "hi": "160–200 दिन." }
+  },
+  {
+    "id": "sugarcane", "name": { "en": "Sugarcane", "mr": "ऊस", "hi": "गन्ना" },
+    "about": { "en": "Main sugar crop; a tall perennial grass.", "mr": "प्रमुख साखर पीक; उंच बहुवार्षिक गवत.", "hi": "मुख्य चीनी फसल; लंबी बहुवर्षीय घास." },
+    "soil": { "en": "Deep, fertile loam; pH 6.5–7.5.", "mr": "खोल, सुपीक पोयटा; सामू ६.५–७.५.", "hi": "गहरी, उपजाऊ दोमट; pH 6.5–7.5." },
+    "climate": { "en": "Hot and humid; 20–35°C.", "mr": "उष्ण व दमट; २०–३५°C.", "hi": "गर्म व नम; 20–35°C." },
+    "water": { "en": "High — frequent irrigation.", "mr": "जास्त — वारंवार सिंचन.", "hi": "अधिक — बार-बार सिंचाई." },
+    "spacing": { "en": "Rows 90–120 cm apart.", "mr": "ओळींत ९०–१२० सेमी अंतर.", "hi": "पंक्तियाँ 90–120 सेमी दूर." },
+    "duration": { "en": "10–14 months.", "mr": "१०–१४ महिने.", "hi": "10–14 महीने." }
+  },
+  {
+    "id": "soybean", "name": { "en": "Soybean", "mr": "सोयाबीन", "hi": "सोयाबीन" },
+    "about": { "en": "Protein-rich oilseed legume; kharif crop.", "mr": "प्रथिनयुक्त तेलबिया कडधान्य; खरीप पीक.", "hi": "प्रोटीनयुक्त तिलहन दलहन; खरीफ फसल." },
+    "soil": { "en": "Well-drained loam; pH 6–7.5.", "mr": "निचरा होणारी पोयटा; सामू ६–७.५.", "hi": "जल निकास दोमट; pH 6–7.5." },
+    "climate": { "en": "Warm, moist; 25–30°C.", "mr": "उष्ण, ओलसर; २५–३०°C.", "hi": "गर्म, नम; 25–30°C." },
+    "water": { "en": "Medium; rain-fed friendly.", "mr": "मध्यम; कोरडवाहूस योग्य.", "hi": "मध्यम; वर्षा-आधारित उपयुक्त." },
+    "spacing": { "en": "45 × 5 cm.", "mr": "४५ × ५ सेमी.", "hi": "45 × 5 सेमी." },
+    "duration": { "en": "90–110 days.", "mr": "९०–११० दिवस.", "hi": "90–110 दिन." }
+  },
+  {
+    "id": "onion", "name": { "en": "Onion", "mr": "कांदा", "hi": "प्याज़" },
+    "about": { "en": "Key vegetable/spice; Maharashtra is a top producer.", "mr": "महत्त्वाची भाजी/मसाला; महाराष्ट्र आघाडीवर.", "hi": "प्रमुख सब्ज़ी/मसाला; महाराष्ट्र अग्रणी." },
+    "soil": { "en": "Well-drained loam, rich in organic matter; pH 6–7.", "mr": "सेंद्रिय पदार्थयुक्त निचरा होणारी पोयटा; सामू ६–७.", "hi": "जैविक पदार्थयुक्त जल निकास दोमट; pH 6–7." },
+    "climate": { "en": "Mild; 13–25°C for bulbing.", "mr": "सौम्य; कांदा पोसण्यास १३–२५°C.", "hi": "हल्का; कंद हेतु 13–25°C." },
+    "water": { "en": "Medium; stop before harvest.", "mr": "मध्यम; काढणीपूर्वी थांबवा.", "hi": "मध्यम; कटाई से पहले रोकें." },
+    "spacing": { "en": "15 × 10 cm.", "mr": "१५ × १० सेमी.", "hi": "15 × 10 सेमी." },
+    "duration": { "en": "100–130 days.", "mr": "१००–१३० दिवस.", "hi": "100–130 दिन." }
+  },
+  {
+    "id": "tomato", "name": { "en": "Tomato", "mr": "टोमॅटो", "hi": "टमाटर" },
+    "about": { "en": "Popular vegetable; originated in South America.", "mr": "लोकप्रिय भाजी; दक्षिण अमेरिकेत उगम.", "hi": "लोकप्रिय सब्ज़ी; दक्षिण अमेरिका में उत्पत्ति." },
+    "soil": { "en": "Well-drained loam; pH 6–7.", "mr": "निचरा होणारी पोयटा; सामू ६–७.", "hi": "जल निकास दोमट; pH 6–7." },
+    "climate": { "en": "Warm; 20–27°C, no frost.", "mr": "उष्ण; २०–२७°C, दंव नको.", "hi": "गर्म; 20–27°C, पाला नहीं." },
+    "water": { "en": "Medium; keep even moisture.", "mr": "मध्यम; समान ओलावा ठेवा.", "hi": "मध्यम; समान नमी रखें." },
+    "spacing": { "en": "60 × 45 cm.", "mr": "६० × ४५ सेमी.", "hi": "60 × 45 सेमी." },
+    "duration": { "en": "90–120 days.", "mr": "९०–१२० दिवस.", "hi": "90–120 दिन." }
+  },
+  {
+    "id": "grape", "name": { "en": "Grape", "mr": "द्राक्ष", "hi": "अंगूर" },
+    "about": { "en": "High-value fruit; Nashik is India's grape hub.", "mr": "उच्च मूल्य फळ; नाशिक द्राक्षांचे केंद्र.", "hi": "उच्च मूल्य फल; नासिक अंगूर केंद्र." },
+    "soil": { "en": "Well-drained sandy loam; pH 6.5–7.5.", "mr": "निचरा होणारी वालुकामय पोयटा; सामू ६.५–७.५.", "hi": "जल निकास बलुई दोमट; pH 6.5–7.5." },
+    "climate": { "en": "Hot dry; sensitive to rain at fruiting.", "mr": "उष्ण कोरडे; फळधारणेत पाऊस हानिकारक.", "hi": "गर्म सूखा; फल पर वर्षा हानिकारक." },
+    "water": { "en": "Medium; drip recommended.", "mr": "मध्यम; ठिबक शिफारस.", "hi": "मध्यम; ड्रिप अनुशंसित." },
+    "spacing": { "en": "3 × 1.5–2 m (trellis).", "mr": "३ × १.५–२ मी (मांडव).", "hi": "3 × 1.5–2 मी (मंडप)." },
+    "duration": { "en": "Perennial; harvest ~4–5 months after pruning.", "mr": "बहुवार्षिक; छाटणीनंतर ~४–५ महिन्यांत काढणी.", "hi": "बहुवर्षीय; छँटाई बाद ~4–5 माह में कटाई." }
+  }
+]

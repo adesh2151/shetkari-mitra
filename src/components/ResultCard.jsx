@@ -22,6 +22,7 @@ export default function ResultCard({ result, lang, t }) {
           <Section title={t('cause_title')} text={info.cause?.[lang]} />
           <Section title={t('treatment_title')} text={info.treatment?.[lang]} highlight />
           <Section title={t('prevention_title')} text={info.prevention?.[lang]} />
+          <div className="safety-badge">🛡️ {t('pesticide_safety_short')}</div>
         </>
       )}
 

@@ -1,0 +1,37 @@
+{
+  "helpline": { "tel": "tel:1800116117", "label": "1800-116-117" },
+  "tips": [
+    {
+      "icon": "🏷️",
+      "text": { "en": "Always read the label. Use only the recommended chemical and dose — more is not better.", "mr": "नेहमी लेबल वाचा. फक्त शिफारस केलेले रसायन व मात्रा वापरा — जास्त म्हणजे चांगले नाही.", "hi": "हमेशा लेबल पढ़ें. केवल अनुशंसित रसायन व मात्रा लें — ज़्यादा का मतलब बेहतर नहीं." }
+    },
+    {
+      "icon": "😷",
+      "text": { "en": "Wear a mask, gloves and full clothes while spraying. Cover nose and mouth.", "mr": "फवारणी करताना मास्क, हातमोजे व पूर्ण कपडे घाला. नाक व तोंड झाका.", "hi": "छिड़काव करते समय मास्क, दस्ताने व पूरे कपड़े पहनें. नाक व मुँह ढकें." }
+    },
+    {
+      "icon": "🌬️",
+      "text": { "en": "Never spray against the wind. Spray in cool morning or evening hours.", "mr": "वाऱ्याच्या विरुद्ध फवारू नका. सकाळी किंवा संध्याकाळी थंड वेळेत फवारा.", "hi": "हवा के विरुद्ध कभी न छिड़कें. सुबह या शाम ठंडे समय छिड़कें." }
+    },
+    {
+      "icon": "🚭",
+      "text": { "en": "Do not eat, drink or smoke while handling chemicals.", "mr": "रसायने हाताळताना खाऊ, पिऊ किंवा धूम्रपान करू नका.", "hi": "रसायन संभालते समय कुछ खाएँ, पिएँ या धूम्रपान न करें." }
+    },
+    {
+      "icon": "👶",
+      "text": { "en": "Keep chemicals away from children, food, animals and drinking water.", "mr": "रसायने मुले, अन्न, जनावरे व पिण्याच्या पाण्यापासून दूर ठेवा.", "hi": "रसायन बच्चों, भोजन, पशुओं व पीने के पानी से दूर रखें." }
+    },
+    {
+      "icon": "🧼",
+      "text": { "en": "After spraying, wash hands, body and clothes with soap.", "mr": "फवारणीनंतर साबणाने हात, अंग व कपडे धुवा.", "hi": "छिड़काव के बाद साबुन से हाथ, शरीर व कपड़े धोएँ." }
+    },
+    {
+      "icon": "🗑️",
+      "text": { "en": "Store chemicals locked. Never reuse empty containers; crush and bury them.", "mr": "रसायने कुलूपबंद ठेवा. रिकामे डबे पुन्हा वापरू नका; ठेचून पुरा.", "hi": "रसायन ताले में रखें. खाली डिब्बे दोबारा न लें; कुचलकर दबाएँ." }
+    },
+    {
+      "icon": "⏳",
+      "text": { "en": "Respect the waiting period on the label before harvesting sprayed crops.", "mr": "फवारलेले पीक काढणीपूर्वी लेबलवरील प्रतीक्षा कालावधी पाळा.", "hi": "छिड़के गए फसल की कटाई से पहले लेबल पर दी प्रतीक्षा अवधि का पालन करें." }
+    }
+  ]
+}

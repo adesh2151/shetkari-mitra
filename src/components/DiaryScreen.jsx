@@ -31,6 +31,13 @@ export default function DiaryScreen({ t }) {
         </div>
       </div>
 
+      {(sum.income > 0 || sum.expense > 0) && (
+        <div className="diary-bar" aria-hidden>
+          <div className="db-income" style={{ flexGrow: sum.income }} />
+          <div className="db-expense" style={{ flexGrow: sum.expense }} />
+        </div>
+      )}
+
       <form className="diary-form" onSubmit={add}>
         <div className="type-toggle">
           <button type="button" className={type === 'income' ? 'active' : ''} onClick={() => setType('income')}>➕ {t('income')}</button>
