@@ -1,21 +1,30 @@
 {
-  "version": "0.2.0",
+  "version": "0.3.0",
   "date": "2026-09-23",
   "changes": {
     "en": [
-      "Added 24 crop diseases across tomato, potato, grape, corn and chilli",
-      "Download Android app button added",
-      "You now get update notifications with what's new"
+      "New Home menu with all features",
+      "Weather + farming advice (free, works anywhere)",
+      "Market (mandi) prices for all crops across India",
+      "Fertilizer calculator with organic options",
+      "Government schemes for farmers",
+      "Farm diary to track income, expense and profit"
     ],
     "mr": [
-      "टोमॅटो, बटाटा, द्राक्ष, मका व मिरचीचे २४ रोग समाविष्ट",
-      "Android ॲप डाउनलोड बटण जोडले",
-      "आता अपडेटची व नवीन काय आहे याची सूचना मिळेल"
+      "सर्व सुविधांसह नवीन मुख्यपृष्ठ",
+      "हवामान + शेती सल्ला (मोफत, कुठेही चालते)",
+      "संपूर्ण भारतातील सर्व पिकांचे बाजारभाव",
+      "सेंद्रिय पर्यायांसह खत कॅल्क्युलेटर",
+      "शेतकऱ्यांसाठी सरकारी योजना",
+      "उत्पन्न, खर्च व नफा नोंदवण्यासाठी शेती डायरी"
     ],
     "hi": [
-      "टमाटर, आलू, अंगूर, मक्का व मिर्च के 24 रोग जोड़े",
-      "Android ऐप डाउनलोड बटन जोड़ा",
-      "अब आपको अपडेट व नया क्या है की सूचना मिलेगी"
+      "सभी सुविधाओं के साथ नया होम मेनू",
+      "मौसम + खेती सलाह (मुफ्त, कहीं भी चले)",
+      "पूरे भारत की सभी फसलों के बाज़ार भाव",
+      "जैविक विकल्पों के साथ खाद कैलकुलेटर",
+      "किसानों के लिए सरकारी योजनाएँ",
+      "आय, खर्च व लाभ दर्ज करने हेतु खेती डायरी"
     ]
   }
 }

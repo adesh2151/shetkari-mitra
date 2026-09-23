@@ -83,6 +83,7 @@ export default function ScanScreen({ lang, t }) {
           <button className="btn ghost" onClick={() => galleryInput.current?.click()}>
             🖼️ {t('btn_gallery')}
           </button>
+          <p className="apk-hint">{t('scan_supported')}</p>
           <a className="apk-link" href={APK_URL} target="_blank" rel="noopener">
             📥 {t('download_apk')}
           </a>

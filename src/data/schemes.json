@@ -1,0 +1,44 @@
+[
+  {
+    "id": "pm-kisan",
+    "name": { "en": "PM-KISAN", "mr": "पीएम-किसान", "hi": "पीएम-किसान" },
+    "benefit": { "en": "₹6,000 per year in 3 instalments to eligible farmer families.", "mr": "पात्र शेतकरी कुटुंबांना वर्षाला ₹६,००० तीन हप्त्यांत.", "hi": "पात्र किसान परिवारों को साल में ₹6,000 तीन किस्तों में।" },
+    "link": "https://pmkisan.gov.in"
+  },
+  {
+    "id": "pmfby",
+    "name": { "en": "Crop Insurance (PMFBY)", "mr": "पीक विमा (PMFBY)", "hi": "फसल बीमा (PMFBY)" },
+    "benefit": { "en": "Low-premium insurance covering crop loss from natural calamities.", "mr": "नैसर्गिक आपत्तीमुळे पीक नुकसानीसाठी कमी हप्त्याचा विमा.", "hi": "प्राकृतिक आपदा से फसल हानि हेतु कम प्रीमियम बीमा।" },
+    "link": "https://pmfby.gov.in"
+  },
+  {
+    "id": "kcc",
+    "name": { "en": "Kisan Credit Card (KCC)", "mr": "किसान क्रेडिट कार्ड (KCC)", "hi": "किसान क्रेडिट कार्ड (KCC)" },
+    "benefit": { "en": "Short-term crop loans at low interest; up to ₹3 lakh.", "mr": "कमी व्याजात अल्पमुदत पीक कर्ज; ₹३ लाखांपर्यंत.", "hi": "कम ब्याज पर अल्पकालिक फसल ऋण; ₹3 लाख तक।" },
+    "link": "https://www.myscheme.gov.in/schemes/kcc"
+  },
+  {
+    "id": "soil-health",
+    "name": { "en": "Soil Health Card", "mr": "मृदा आरोग्य पत्रिका", "hi": "मृदा स्वास्थ्य कार्ड" },
+    "benefit": { "en": "Free soil testing with crop-wise nutrient recommendations.", "mr": "मोफत माती परीक्षण व पिकानुसार खत शिफारशी.", "hi": "मुफ्त मृदा परीक्षण व फसलवार पोषक सिफारिशें।" },
+    "link": "https://soilhealth.dac.gov.in"
+  },
+  {
+    "id": "enam",
+    "name": { "en": "e-NAM (Online Mandi)", "mr": "ई-नाम (ऑनलाइन बाजार)", "hi": "ई-नाम (ऑनलाइन मंडी)" },
+    "benefit": { "en": "Sell produce online across markets for better price discovery.", "mr": "चांगल्या भावासाठी अनेक बाजारांत ऑनलाइन विक्री.", "hi": "बेहतर दाम हेतु कई मंडियों में ऑनलाइन बिक्री।" },
+    "link": "https://enam.gov.in"
+  },
+  {
+    "id": "pm-kusum",
+    "name": { "en": "PM-KUSUM (Solar Pumps)", "mr": "पीएम-कुसुम (सौर पंप)", "hi": "पीएम-कुसुम (सोलर पंप)" },
+    "benefit": { "en": "Subsidy for solar irrigation pumps to cut power costs.", "mr": "वीज खर्च कमी करण्यासाठी सौर पंपांना अनुदान.", "hi": "बिजली खर्च घटाने हेतु सोलर पंप पर सब्सिडी।" },
+    "link": "https://pmkusum.mnre.gov.in"
+  },
+  {
+    "id": "kisan-call",
+    "name": { "en": "Kisan Call Centre", "mr": "किसान कॉल सेंटर", "hi": "किसान कॉल सेंटर" },
+    "benefit": { "en": "Free farming advice by phone — dial 1800-180-1551.", "mr": "फोनवर मोफत शेती सल्ला — १८००-१८०-१५५१ वर कॉल करा.", "hi": "फोन पर मुफ्त कृषि सलाह — 1800-180-1551 डायल करें।" },
+    "link": "tel:18001801551"
+  }
+]
