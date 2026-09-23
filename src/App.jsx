@@ -3,6 +3,7 @@ import { getSavedLang, saveLang, makeT } from './i18n'
 import LanguageSwitcher from './components/LanguageSwitcher'
 import ScanScreen from './components/ScanScreen'
 import HistoryScreen from './components/HistoryScreen'
+import Notices from './components/Notices'
 
 export default function App() {
   const [lang, setLang] = useState(getSavedLang())
@@ -17,6 +18,7 @@ export default function App() {
 
   return (
     <div className="app">
+      <Notices lang={lang} t={t} />
       <header className="app-header">
         <div className="brand">
           <span className="brand-icon" aria-hidden>🌱</span>

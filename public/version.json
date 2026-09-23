@@ -1,0 +1,21 @@
+{
+  "version": "0.2.0",
+  "date": "2026-09-23",
+  "changes": {
+    "en": [
+      "Added 24 crop diseases across tomato, potato, grape, corn and chilli",
+      "Download Android app button added",
+      "You now get update notifications with what's new"
+    ],
+    "mr": [
+      "टोमॅटो, बटाटा, द्राक्ष, मका व मिरचीचे २४ रोग समाविष्ट",
+      "Android ॲप डाउनलोड बटण जोडले",
+      "आता अपडेटची व नवीन काय आहे याची सूचना मिळेल"
+    ],
+    "hi": [
+      "टमाटर, आलू, अंगूर, मक्का व मिर्च के 24 रोग जोड़े",
+      "Android ऐप डाउनलोड बटन जोड़ा",
+      "अब आपको अपडेट व नया क्या है की सूचना मिलेगी"
+    ]
+  }
+}

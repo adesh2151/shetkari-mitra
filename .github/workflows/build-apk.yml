@@ -1,8 +1,13 @@
 name: Build Android APK
 
-# Run manually from the Actions tab (or via: gh workflow run build-apk.yml)
+# Builds automatically on every push to master, and can also be run manually.
 on:
+  push:
+    branches: [master]
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -38,9 +43,23 @@ jobs:
           chmod +x gradlew
           ./gradlew assembleDebug --no-daemon
 
+      - name: Rename APK
+        run: cp android/app/build/outputs/apk/debug/app-debug.apk ShetkariMitra.apk
+
       - name: Upload APK artifact
         uses: actions/upload-artifact@v4
         with:
           name: shetkari-mitra-debug-apk
-          path: android/app/build/outputs/apk/debug/app-debug.apk
+          path: ShetkariMitra.apk
           if-no-files-found: error
+
+      # Publish to a fixed "apk" release so the web app has a stable download URL:
+      # https://github.com/adesh2151/shetkari-mitra/releases/download/apk/ShetkariMitra.apk
+      - name: Publish APK to release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release delete apk --yes --cleanup-tag || true
+          gh release create apk ShetkariMitra.apk \
+            --title "Shetkari Mitra — Android APK" \
+            --notes "Latest auto-built Android app. Download ShetkariMitra.apk below and install on your phone (allow install from unknown sources)."

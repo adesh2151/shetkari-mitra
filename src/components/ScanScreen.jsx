@@ -1,6 +1,7 @@
 import { useRef, useState } from 'react'
 import { classify, getDiseaseInfo } from '../ml/classifier'
 import { addHistory } from '../store/history'
+import { APK_URL } from '../config'
 import ResultCard from './ResultCard'
 
 // Downscale the picked image to a small JPEG data URL for history storage.
@@ -82,6 +83,10 @@ export default function ScanScreen({ lang, t }) {
           <button className="btn ghost" onClick={() => galleryInput.current?.click()}>
             🖼️ {t('btn_gallery')}
           </button>
+          <a className="apk-link" href={APK_URL} target="_blank" rel="noopener">
+            📥 {t('download_apk')}
+          </a>
+          <p className="apk-hint">{t('apk_hint')}</p>
         </div>
       )}
 

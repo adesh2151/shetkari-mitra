@@ -9,11 +9,23 @@ export default defineConfig({
   plugins: [
     react(),
     VitePWA({
-      registerType: 'autoUpdate',
+      // 'prompt' so we can show users an "Update available" bar instead of
+      // silently reloading — that's how they learn an update exists.
+      registerType: 'prompt',
       includeAssets: ['favicon.svg'],
       // The TF.js model files can be large — allow them to be precached.
       workbox: {
         globPatterns: ['**/*.{js,css,html,svg,png,json,bin,woff2}'],
+        // version.json and announcement.json must always be checked fresh
+        // so we can detect updates and show broadcast notices.
+        globIgnores: ['**/version.json', '**/announcement.json'],
+        runtimeCaching: [
+          {
+            urlPattern: /(version|announcement)\.json$/,
+            handler: 'NetworkFirst',
+            options: { cacheName: 'live-config', networkTimeoutSeconds: 5 }
+          }
+        ],
         maximumFileSizeToCacheInBytes: 30 * 1024 * 1024
       },
       manifest: {

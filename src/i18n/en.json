@@ -25,5 +25,12 @@
   "language": "Language",
   "no_image": "Please take or choose a photo first.",
   "model_missing": "Demo mode: real model not installed yet. Showing a sample result.",
-  "offline_ready": "Ready to use offline"
+  "offline_ready": "Ready to use offline",
+  "download_apk": "Download Android app",
+  "apk_hint": "For Android phones. Allow install from unknown sources.",
+  "whats_new": "What's new",
+  "update_ready": "A new version is available.",
+  "reload_now": "Update now",
+  "close": "Close",
+  "version": "Version"
 }

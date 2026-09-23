@@ -55,6 +55,38 @@ The app works today with sample results. To make detection real, follow
 `public/model/README.md` — drop a TensorFlow.js model into `public/model/`.
 No other code changes needed.
 
+## Pushing updates (users get notified)
+
+Every push to `master` auto-deploys the PWA **and** rebuilds the Android APK.
+To notify installed users and show them what changed:
+
+1. Edit `public/version.json` — bump `version` and list the changes in all three
+   languages.
+2. Commit and push.
+3. Returning users see an **"Update now"** bar; after updating they see a
+   **"What's new"** popup with your changelog.
+
+## Showing a notice / announcement (anytime, no version change)
+
+Edit `public/announcement.json`:
+
+```json
+{ "id": "2026-10-01-rain", "active": true, "type": "warning",
+  "title": { "mr": "...", "hi": "...", "en": "..." },
+  "message": { "mr": "...", "hi": "...", "en": "..." } }
+```
+
+- Set `"active": true` to show it, `false` to hide.
+- Change `id` whenever you want a **new** notice to reappear (users who dismissed
+  the old one see the new one).
+- `type` = `info` | `warning` | `success` (changes the banner colour).
+
+## Android APK
+
+- Auto-built on every push by `.github/workflows/build-apk.yml`.
+- Published as a GitHub Release so the web app's **Download Android app** button
+  always points to the latest: `releases/download/apk/ShetkariMitra.apk`.
+
 ## Project layout
 
 ```
