@@ -1,21 +1,24 @@
 {
-  "version": "0.10.0",
+  "version": "0.11.0",
   "date": "2026-09-23",
   "changes": {
     "en": [
-      "New: News & Government Resolutions (GR) feed — daily updates from Maharashtra Agri Dept & Agrowon",
-      "New: Voice search — tap the mic and speak to open any feature (Marathi/Hindi/English)",
-      "News refreshes automatically; new GRs can also alert you on Telegram"
+      "New: Crop Report — price trend, sell/hold advice & best market to sell",
+      "New: Govt Services — Farmer ID, PM-KISAN & official service links",
+      "Fertilizer doses re-sourced to Maharashtra universities (MPKV, PDKV, VNMKV, Dapoli, VSI)",
+      "News & GR feed, voice search, and disease-scan confidence warning"
     ],
     "mr": [
-      "नवीन: बातम्या व शासन निर्णय (GR) — कृषी विभाग महाराष्ट्र व अ‍ॅग्रोवनकडून रोजची माहिती",
-      "नवीन: बोलून शोधा — माईकवर बोलून कोणतेही फीचर उघडा (मराठी/हिंदी/इंग्रजी)",
-      "बातम्या आपोआप अपडेट; नवीन शासन निर्णयांची सूचना टेलिग्रामवरही"
+      "नवीन: पीक अहवाल — भावाचा कल, विक्री सल्ला व सर्वोत्तम बाजार",
+      "नवीन: सरकारी सेवा — फार्मर आयडी, पीएम-किसान व अधिकृत सेवा लिंक",
+      "खत मात्रा महाराष्ट्र कृषी विद्यापीठांनुसार (MPKV, PDKV, VNMKV, दापोली, VSI)",
+      "बातम्या व शासन निर्णय, बोलून शोध, रोग-ओळख खात्री सूचना"
     ],
     "hi": [
-      "नया: समाचार व शासनादेश (GR) — कृषि विभाग महाराष्ट्र व एग्रोवन से रोज़ की जानकारी",
-      "नया: बोलकर खोजें — माइक पर बोलकर कोई भी फीचर खोलें (मराठी/हिंदी/अंग्रेज़ी)",
-      "समाचार अपने-आप अपडेट; नए शासनादेश की सूचना टेलीग्राम पर भी"
+      "नया: फसल रिपोर्ट — भाव रुझान, बिक्री सलाह व सर्वोत्तम बाजार",
+      "नया: सरकारी सेवाएँ — फार्मर आईडी, पीएम-किसान व आधिकारिक लिंक",
+      "खाद मात्रा महाराष्ट्र कृषि विश्वविद्यालयों अनुसार (MPKV, PDKV, VNMKV, दापोली, VSI)",
+      "समाचार व शासनादेश, बोलकर खोज, रोग-पहचान भरोसा सूचना"
     ]
   }
 }

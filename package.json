@@ -1,7 +1,7 @@
 {
   "name": "shetkari-mitra",
   "private": true,
-  "version": "0.10.0",
+  "version": "0.11.0",
   "type": "module",
   "description": "Offline-first crop disease detection app for farmers (Marathi/Hindi/English). PWA + Android.",
   "scripts": {

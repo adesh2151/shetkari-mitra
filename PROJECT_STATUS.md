@@ -89,12 +89,21 @@ is done in CI (`convert-model.yml`, Python 3.10 + tensorflowjs 4.10 + jax 0.4.20
 - Sugarcane (DONE): https://data.mendeley.com/datasets/9424skmnrk/1
 
 ## TODO / next session
-- [ ] **Re-source all agronomy data from Maharashtra agri universities** — MPKV Rahuri,
-      VNMKV Parbhani, PDKV Akola, Dr. BSKKV Dapoli (replace TNAU / outside refs in
-      `src/data/fertilizer.json`, `pests.json`, `cropguide.json`, `src/ml/diseases.json`).
-- [ ] **Add more Maharashtra vegetables & fruits** to Crop Guide + Fertilizer + Pest data:
-      onion, tomato, brinjal, okra, chilli, cabbage/cauliflower, grape, pomegranate, banana,
-      orange/Nagpur mandarin, sugarcane, custard apple, ber — with vidyapeeth citations.
+- [x] **fertilizer.json re-sourced to Maharashtra SAUs** (MPKV Rahuri, PDKV Akola, VNMKV
+      Parbhani, Dapoli, VSI Pune, ICAR-DOGR) — rice, maize, sorghum, cotton, sugarcane,
+      soybean, groundnut, tur, gram, moong, onion, potato, tomato, chilli, okra, cabbage,
+      sunflower, turmeric. NOT_FOUND from MH sources → marked "verify locally": bajra, urad,
+      brinjal (NPK), cauliflower (NPK), mustard.
+- [ ] **Still to re-source (needs OCR of scanned SAU POP booklets):** bajra, urad, brinjal,
+      cauliflower NPK from VNMKV/PDKV image PDFs; also re-source `pests.json`, `cropguide.json`,
+      `src/ml/diseases.json` (still TNAU/US refs).
+- [ ] **Add FRUITS (per-plant grams, NOT kg/ha)** — needs a `unit` flag in fertilizer.json +
+      FertilizerScreen so the calculator shows per-tree doses. Verified MH values ready:
+      pomegranate 625:250:250 g/plant (NHB), banana 100:40:100 g/plant (Vikaspedia-MH),
+      Nagpur mandarin 600:200:200 g/plant (CCRI). Grape/sapota/custard apple = low-confidence, re-verify.
+- [ ] **Growth: WhatsApp share button** (schemes/prices/scan result) + **price target alerts**.
+- [ ] **Crop calendar / stage reminders**, **fertilizer calc → bags & cost**, **onboarding**,
+      **large-text mode**, **diary profit/loss chart**.
 - [ ] **Help contacts → village/taluka authorities**: कृषी सहायक → मंडळ कृषी अधिकारी →
       तालुका कृषी अधिकारी (not a generic krishi kendra) in `src/data/directory.json`.
 - [ ] **Voice everywhere**: read-aloud (TTS) on each data screen + voice input on Scan/Advisor
