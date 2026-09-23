@@ -113,6 +113,7 @@ export default function FertilizerScreen({ lang, t }) {
         <p className="fert-straight">
           ≈ {t('urea')}: <b>{urea} kg</b> · {t('dap')}: <b>{dap} kg</b> · {t('mop')}: <b>{mop} kg</b>
         </p>
+        {crop.source && <p className="fert-source">📚 {t('source')}: {crop.source}</p>}
       </div>
 
       <div className="fert-result">

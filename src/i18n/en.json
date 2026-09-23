@@ -156,5 +156,6 @@
   "pesticide_safety_short": "Spray safely: wear mask & gloves, read the label.",
   "safety_verify": "⚠️ General guidance — verify with your Soil Health Card or Krishi Kendra before use.",
   "alert_heavy_rain": "Heavy rain expected — protect harvested crop and delay spraying/irrigation.",
-  "alert_heat": "Very high heat — irrigate, provide shade, avoid midday field work."
+  "alert_heat": "Very high heat — irrigate, provide shade, avoid midday field work.",
+  "source": "Source"
 }

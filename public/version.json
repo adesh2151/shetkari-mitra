@@ -1,30 +1,21 @@
 {
-  "version": "0.8.0",
+  "version": "0.8.1",
   "date": "2026-09-23",
   "changes": {
     "en": [
-      "New: Crop Guide — soil, climate, water, spacing, duration per crop",
-      "New: Safety section — pesticide safety + poison helpline",
-      "New: Helpline & Contacts (Kisan Call Centre, vet, insurance)",
-      "Weather alerts for heavy rain / extreme heat",
-      "Farm diary income-vs-expense bar",
-      "Clear 'verify locally' notes added to guidance"
+      "Fertilizer doses updated to authoritative sources (TNAU, Vikaspedia, ICAR) — source shown for each crop",
+      "New Crop Guide, Safety section, Helpline directory",
+      "Weather alerts + farm diary income/expense bar"
     ],
     "mr": [
-      "नवीन: पीक मार्गदर्शक — जमीन, हवामान, पाणी, अंतर, कालावधी",
-      "नवीन: सुरक्षा विभाग — कीटकनाशक सुरक्षा + विष हेल्पलाइन",
-      "नवीन: हेल्पलाइन व संपर्क (किसान कॉल सेंटर, पशुवैद्य, विमा)",
-      "मुसळधार पाऊस / अति उष्णतेसाठी हवामान इशारे",
-      "शेती डायरीत उत्पन्न-खर्च बार",
-      "मार्गदर्शनावर 'स्थानिक खात्री करा' सूचना"
+      "खत मात्रा अधिकृत स्रोतांनुसार (TNAU, विकासपीडिया, ICAR) — प्रत्येक पिकाचा स्रोत दाखवला",
+      "नवीन पीक मार्गदर्शक, सुरक्षा विभाग, हेल्पलाइन",
+      "हवामान इशारे + शेती डायरी उत्पन्न/खर्च बार"
     ],
     "hi": [
-      "नया: फसल गाइड — मिट्टी, जलवायु, पानी, दूरी, अवधि",
-      "नया: सुरक्षा विभाग — कीटनाशक सुरक्षा + ज़हर हेल्पलाइन",
-      "नया: हेल्पलाइन व संपर्क (किसान कॉल सेंटर, पशु चिकित्सक, बीमा)",
-      "भारी बारिश / अत्यधिक गर्मी के मौसम अलर्ट",
-      "खेती डायरी में आय-खर्च बार",
-      "मार्गदर्शन पर 'स्थानीय पुष्टि करें' सूचना"
+      "खाद मात्रा अधिकृत स्रोतों अनुसार (TNAU, विकासपीडिया, ICAR) — हर फसल का स्रोत दिखाया",
+      "नया फसल गाइड, सुरक्षा विभाग, हेल्पलाइन",
+      "मौसम अलर्ट + खेती डायरी आय/खर्च बार"
     ]
   }
 }
