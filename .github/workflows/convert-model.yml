@@ -24,7 +24,7 @@ jobs:
           python-version: '3.11'
 
       - name: Install TensorFlow.js converter
-        run: pip install "tensorflow-cpu==2.13.1" "tensorflowjs==4.10.0"
+        run: pip install "tensorflow-cpu==2.13.1" "tensorflowjs==4.10.0" "jax==0.4.13" "jaxlib==0.4.13"
 
       - name: Convert model.h5 -> public/model (TF.js)
         run: python model-training/convert.py

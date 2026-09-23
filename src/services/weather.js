@@ -25,45 +25,65 @@ const POST_NAME = 'https://api.postalpincode.in/postoffice'
 export async function searchPlaces(query) {
   const q = (query || '').trim()
   if (!q) return []
-  const isPin = /^\d{6}$/.test(q)
 
-  try {
-    const url = isPin ? `${POST_PIN}/${q}` : `${POST_NAME}/${encodeURIComponent(q)}`
-    const res = await fetch(url)
-    const data = await res.json()
-    const offices = data?.[0]?.Status === 'Success' ? (data[0].PostOffice || []) : []
-    const seen = new Set()
-    const out = []
-    for (const p of offices) {
-      const key = `${p.Name}|${p.District}`
-      if (seen.has(key)) continue
-      seen.add(key)
-      out.push({
-        id: `${p.Pincode}-${p.Name}`,
-        name: p.Name, district: p.District, state: p.State, pin: p.Pincode,
-        label: p.Name, sub: `${p.District}, ${p.State} · ${p.Pincode}`
-      })
-      if (out.length >= 8) break
-    }
-    if (out.length) return out
-  } catch (_) { /* fall through to geocoding */ }
+  // 6-digit PIN -> India Post (reliable for PIN). Resolve one coord for the area.
+  if (/^\d{6}$/.test(q)) {
+    try {
+      const res = await fetch(`${POST_PIN}/${q}`)
+      const data = await res.json()
+      const offices = data?.[0]?.Status === 'Success' ? (data[0].PostOffice || []) : []
+      if (offices.length) {
+        const first = offices[0]
+        // One geocode for the town/district — used for all offices in this PIN.
+        let coord = null
+        for (const name of [first.Block, first.District, first.State]) {
+          if (!name) continue
+          try { coord = await geocode(`${name}, ${first.State}`); break } catch (_) { /* next */ }
+        }
+        const seen = new Set(); const out = []
+        for (const p of offices) {
+          const key = `${p.Name}|${p.District}`
+          if (seen.has(key)) continue
+          seen.add(key)
+          out.push({
+            id: `${p.Pincode}-${p.Name}`, name: p.District || p.Name,
+            district: p.District, state: p.State, pin: p.Pincode,
+            lat: coord?.lat, lon: coord?.lon,
+            label: `${p.Name}`, sub: `${p.District}, ${p.State} · ${p.Pincode}`
+          })
+          if (out.length >= 8) break
+        }
+        return out
+      }
+    } catch (_) { /* fall through */ }
+    return []
+  }
 
+  // City / village name -> Open-Meteo geocoding = REAL towns with coordinates,
+  // not postal sub-localities. This is what makes city search specific & reliable.
   try {
-    const res = await fetch(`${GEOCODE}?name=${encodeURIComponent(q)}&count=8&language=en&format=json`)
+    const res = await fetch(`${GEOCODE}?name=${encodeURIComponent(q)}&count=10&language=en&format=json`)
     const data = await res.json()
-    return (data.results || []).map((r, i) => ({
-      id: `g-${i}`, name: r.name, district: r.admin2 || '', state: r.admin1 || '',
+    const results = data.results || []
+    // Prefer Indian results, keep original order otherwise.
+    results.sort((a, b) => (a.country_code === 'IN' ? -1 : 0) - (b.country_code === 'IN' ? -1 : 0))
+    return results.slice(0, 8).map((r, i) => ({
+      id: `g-${i}-${r.id}`, name: r.name, district: r.admin2 || '', state: r.admin1 || '',
       pin: '', lat: r.latitude, lon: r.longitude,
       label: r.name, sub: [r.admin2, r.admin1, r.country].filter(Boolean).join(', ')
     }))
   } catch (_) { return [] }
 }
 
-// Turn a selected suggestion into coordinates (India Post gives no lat/lon).
+// Turn a selected suggestion into coordinates, with fallbacks so it never
+// dead-ends on "not found".
 export async function resolveCoords(sel) {
   if (sel.lat != null && sel.lon != null) return { lat: sel.lat, lon: sel.lon }
-  const g = await geocode(`${sel.name}, ${sel.district || sel.state}`)
-  return { lat: g.lat, lon: g.lon }
+  for (const name of [sel.name, sel.district, sel.state].filter(Boolean)) {
+    try { const g = await geocode(`${name}, ${sel.state || ''}`); return { lat: g.lat, lon: g.lon } }
+    catch (_) { /* try next */ }
+  }
+  throw new Error('not found')
 }
 
 // Try the device GPS first; caller can fall back to geocode().
