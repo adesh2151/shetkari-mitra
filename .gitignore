@@ -13,6 +13,11 @@ android/
 .env.local
 *.local
 
+# python training env + downloaded datasets (never commit these)
+model-training/.venv/
+model-training/data/
+tensorflow_datasets/
+
 # editor / os
 .DS_Store
 .vscode/

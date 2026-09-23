@@ -20,6 +20,7 @@ export default function HomeScreen({ t, onOpen }) {
           </button>
         ))}
       </div>
+      <p className="home-credit">🌱 शेतकरी मित्र · by Adesh</p>
     </div>
   )
 }

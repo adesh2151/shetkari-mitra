@@ -1,6 +1,7 @@
-import { useMemo, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import { getSavedLang, saveLang, makeT } from './i18n'
 import LanguageSwitcher from './components/LanguageSwitcher'
+import SplashScreen from './components/SplashScreen'
 import HomeScreen from './components/HomeScreen'
 import ScanScreen from './components/ScanScreen'
 import HistoryScreen from './components/HistoryScreen'
@@ -19,7 +20,13 @@ const TITLES = {
 export default function App() {
   const [lang, setLang] = useState(getSavedLang())
   const [screen, setScreen] = useState('home')
+  const [showSplash, setShowSplash] = useState(true)
   const t = useMemo(() => makeT(lang), [lang])
+
+  useEffect(() => {
+    const id = setTimeout(() => setShowSplash(false), 1800)
+    return () => clearTimeout(id)
+  }, [])
 
   function changeLang(code) {
     setLang(code); saveLang(code); document.documentElement.lang = code
@@ -39,6 +46,8 @@ export default function App() {
   }
 
   const onHome = screen === 'home'
+
+  if (showSplash) return <SplashScreen />
 
   return (
     <div className="app">

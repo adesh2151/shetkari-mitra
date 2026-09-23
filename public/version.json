@@ -1,30 +1,24 @@
 {
-  "version": "0.3.0",
+  "version": "0.5.0",
   "date": "2026-09-23",
   "changes": {
     "en": [
-      "New Home menu with all features",
-      "Weather + farming advice (free, works anywhere)",
-      "Market (mandi) prices for all crops across India",
-      "Fertilizer calculator with organic options",
-      "Government schemes for farmers",
-      "Farm diary to track income, expense and profit"
+      "Splash screen added (by Adesh)",
+      "Location search now supports PIN code + shows suggestions with district/state/PIN",
+      "Market prices now shown in your language",
+      "Fertilizer now shows a day-wise application schedule"
     ],
     "mr": [
-      "सर्व सुविधांसह नवीन मुख्यपृष्ठ",
-      "हवामान + शेती सल्ला (मोफत, कुठेही चालते)",
-      "संपूर्ण भारतातील सर्व पिकांचे बाजारभाव",
-      "सेंद्रिय पर्यायांसह खत कॅल्क्युलेटर",
-      "शेतकऱ्यांसाठी सरकारी योजना",
-      "उत्पन्न, खर्च व नफा नोंदवण्यासाठी शेती डायरी"
+      "स्प्लॅश स्क्रीन जोडली (by Adesh)",
+      "ठिकाण शोधात पिन कोड + जिल्हा/राज्य/पिनसह सूचना",
+      "बाजारभाव आता तुमच्या भाषेत",
+      "खतासाठी आता दिवसनिहाय वेळापत्रक"
     ],
     "hi": [
-      "सभी सुविधाओं के साथ नया होम मेनू",
-      "मौसम + खेती सलाह (मुफ्त, कहीं भी चले)",
-      "पूरे भारत की सभी फसलों के बाज़ार भाव",
-      "जैविक विकल्पों के साथ खाद कैलकुलेटर",
-      "किसानों के लिए सरकारी योजनाएँ",
-      "आय, खर्च व लाभ दर्ज करने हेतु खेती डायरी"
+      "स्प्लैश स्क्रीन जोड़ी (by Adesh)",
+      "स्थान खोज में पिन कोड + जिला/राज्य/पिन सहित सुझाव",
+      "बाज़ार भाव अब आपकी भाषा में",
+      "खाद के लिए अब दिन-वार समय-सारणी"
     ]
   }
 }
