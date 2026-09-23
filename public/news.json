@@ -28,7 +28,7 @@
     "category": "gr",
     "title": "खतांचे परवाने",
     "source": "कृषी विभाग, महाराष्ट्र",
-    "isNew": true,
+    "isNew": false,
     "link": "https://krishi.maharashtra.gov.in:443/Site/Upload/Pdf/Fertilizers_Approved_license_list.xlsx?MenuID=1045"
   },
   {
@@ -44,7 +44,7 @@
     "category": "gr",
     "title": "पीकपेरणी अहवाल",
     "source": "कृषी विभाग, महाराष्ट्र",
-    "isNew": true,
+    "isNew": false,
     "link": "https://krishi.maharashtra.gov.in:443/Site/Common/ViewGr.aspx?Doctype=e8bdd10e-d33d-4ea0-865f-140a5284a2bc?MenuID=2906"
   },
   {
@@ -52,7 +52,7 @@
     "category": "gr",
     "title": "पीकांची आकडेवारी (क्षेत्र, उत्पादन, उत्पादकता)",
     "source": "कृषी विभाग, महाराष्ट्र",
-    "isNew": true,
+    "isNew": false,
     "link": "https://krishi.maharashtra.gov.in/"
   },
   {
@@ -60,7 +60,7 @@
     "category": "gr",
     "title": "प्रधानमंत्री पिक विमा योजना",
     "source": "कृषी विभाग, महाराष्ट्र",
-    "isNew": true,
+    "isNew": false,
     "link": "https://krishi.maharashtra.gov.in:443/Site/Common/ViewGr.aspx?Doctype=ed5a4ceb-ad07-4189-b236-f9d191d5752d?MenuID=2918"
   },
   {
@@ -68,7 +68,7 @@
     "category": "gr",
     "title": "गोपीनाथ मुंडे शे.अ. विमा योजना",
     "source": "कृषी विभाग, महाराष्ट्र",
-    "isNew": true,
+    "isNew": false,
     "link": "https://krishi.maharashtra.gov.in:443/Site/Common/ViewGr.aspx?Doctype=e2e11ed5-3d93-4e5b-9560-0124f4324636?MenuID=2912"
   },
   {
@@ -76,7 +76,7 @@
     "category": "gr",
     "title": "शेतकरी कॉर्नर (कट्टा)",
     "source": "कृषी विभाग, महाराष्ट्र",
-    "isNew": true,
+    "isNew": false,
     "link": "https://krishi.maharashtra.gov.in/"
   },
   {
@@ -84,7 +84,7 @@
     "category": "gr",
     "title": "शेतकरी मासिक",
     "source": "कृषी विभाग, महाराष्ट्र",
-    "isNew": true,
+    "isNew": false,
     "link": "https://krishi.maharashtra.gov.in:443/Site/Common/ViewGr.aspx?Doctype=1c340af5-c4d2-4915-bf1b-870a749d98b5?MenuID=1089"
   },
   {
@@ -92,7 +92,7 @@
     "category": "gr",
     "title": "महिला शेतकरी प्रमाणपत्र पोर्टल",
     "source": "कृषी विभाग, महाराष्ट्र",
-    "isNew": true,
+    "isNew": false,
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
