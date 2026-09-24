@@ -96,43 +96,67 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-10d29dbb6b",
+    "id": "news-3590f7a73e",
     "category": "news",
-    "title": "Onion Export Policy: धोरण धरसोडीची शिक्षा भोगतात उत्पादक",
+    "title": "Rabi Seeds Subsidy : महाडीबीटीवर अनुदानित रब्बी बियाण्यांसाठी ऑनलाइन अर्जाची सुविधा",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/indian-onion-global-market-export-policy-challenges",
+    "link": "https://agrowon.esakal.com/agro-special/apply-online-for-subsidized-rabi-seeds-on-mahadbt-portal-2026-aak11",
     "isNew": true
   },
   {
-    "id": "news-59d1ccb5d1",
+    "id": "news-490baaa5bf",
     "category": "news",
-    "title": "Jal Jeevan Mission 2.0: ‘मिशन’ फत्ते करा",
+    "title": "Soybean Farming  : दीड एकरात किलोभर सोयाबीन काढून दाखवा अन् क्विंटलभर काजू-बदाम घ्या",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/sampadkiya/jal-jeevan-mission-2-0-skilled-workforce-rural-water-supply-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/grow-just-1-kg-soybean-in-15-acres-and-win-a-quintal-of-cashews-almonds-aak11",
     "isNew": true
   },
   {
-    "id": "news-e21884ca6f",
+    "id": "news-b733f99b21",
     "category": "news",
-    "title": "Flower Farmers Crisis: यवतमधील फूल उत्पादकांचे चेहरे कोमेजले",
+    "title": "Ghee Karvai Sangamner: अन्न, औषध प्रशासनाच्या कारवाईत अडीच लाखांचा संशयित साठा जप्त",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/flower-prices-fall-farmers-production-cost-losses-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/food-department-seizes-suspected-substandard-ghee-sangamner",
     "isNew": true
   },
   {
-    "id": "news-27012b0bad",
+    "id": "news-45923cd501",
     "category": "news",
-    "title": "Economy Conference: बांबू, इथेनाॅल, कार्बन हरित अर्थव्यवस्थेवर २७ पासून परिषद; पाशा पटेल यांची पत्रकार परिषदेत माहिती",
+    "title": "Maharashtra Drought: राज्यात उद्या दुष्काळ जाहीर होणार, शेतकऱ्यांना थेट मदत मिळेल- मुख्यमंत्री फडणवीस",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/phule-tambul-product-copyright-rat16-2",
+    "link": "https://agrowon.esakal.com/agro-special/maharashtra-drought-gr-farmer-direct-assistance-fadnavis-ddb79",
     "isNew": true
   },
   {
-    "id": "news-8adc4a25f2",
+    "id": "news-b0030bc539",
     "category": "news",
-    "title": "Phule Tambul Product: ‘फुले तांबूल’ उत्पादनास कॉपीराइट",
+    "title": "Fishing Business: खराब हवामानाचा मासेमारीला फटका",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/phule-tambul-product-copyright-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/bad-weather-disrupts-fishing-business-shrivardhan",
+    "isNew": true
+  },
+  {
+    "id": "news-31b2e82865",
+    "category": "news",
+    "title": "Soybean Banana Rate: सोयाबीन दरात वाढ, बटाटा आवकेत वाढ, कारल्याच्या दरात चढ-उतार, मेथीच्या दरात काहिशी घसरण तर केळीचे दर टिकून",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/soybean-banana-rate",
+    "isNew": true
+  },
+  {
+    "id": "news-44b5fc8c4b",
+    "category": "news",
+    "title": "Rain Update : विदर्भ आणि मराठवाड्यात पावसाचा जोर किती दिवस?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/rain-update-146",
+    "isNew": true
+  },
+  {
+    "id": "news-308d5df976",
+    "category": "news",
+    "title": "Tomato Sucking Pests: टोमॅटो पिकातील रसशोषक किडींचे नियंत्रण कसे करावे?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/tomato-sucking-pests",
     "isNew": true
   },
   {
@@ -165,30 +189,6 @@
     "title": "Rain Upadte : राज्यात पुढील पाच दिवस पाऊस कोणत्या भागात बरसणार?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/rain-upadte",
-    "isNew": false
-  },
-  {
-    "id": "news-312b175b7e",
-    "category": "news",
-    "title": "Sheep Goat Care: कमी पावसाच्या काळात शेळ्या मेंढ्यांची काळजी कशी घ्यावी?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/sheep-goat-care",
-    "isNew": false
-  },
-  {
-    "id": "news-58eceea3be",
-    "category": "news",
-    "title": "Drought Madat: सरकार कापूस आणि सोयाबीनसाठी पॅकेज जाहीर करणार ?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/drought-madat",
-    "isNew": false
-  },
-  {
-    "id": "news-2c996aa2db",
-    "category": "news",
-    "title": "Drought 2026 : राज्यात उद्यापासून दुष्काळाचे पंचनामे सुरू होणार?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/drought-2026-3",
     "isNew": false
   }
 ]
