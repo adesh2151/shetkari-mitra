@@ -96,43 +96,59 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-3590f7a73e",
+    "id": "news-80ad4675e6",
     "category": "news",
-    "title": "Rabi Seeds Subsidy : महाडीबीटीवर अनुदानित रब्बी बियाण्यांसाठी ऑनलाइन अर्जाची सुविधा",
+    "title": "Grape Farming Maharashtra : हवामान बदल, नवीन वाण, देशांतर्गत बाजारपेठ आणि द्राक्ष निर्यातीवर मंथन",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/apply-online-for-subsidized-rabi-seeds-on-mahadbt-portal-2026-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/expert-brainstorming-on-climate-change-new-varieties-and-grape-exports-aak11",
     "isNew": true
   },
   {
-    "id": "news-490baaa5bf",
+    "id": "news-708ef3c4f5",
     "category": "news",
-    "title": "Soybean Farming  : दीड एकरात किलोभर सोयाबीन काढून दाखवा अन् क्विंटलभर काजू-बदाम घ्या",
+    "title": "Rainfall Update : जिल्ह्याच्या पूर्व भागात पावसाची हजेरी",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/grow-just-1-kg-soybean-in-15-acres-and-win-a-quintal-of-cashews-almonds-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/heavy-rainfall-in-eastern-part-of-the-district-today-aak11",
     "isNew": true
   },
   {
-    "id": "news-b733f99b21",
+    "id": "news-ed54e6a2cd",
     "category": "news",
-    "title": "Ghee Karvai Sangamner: अन्न, औषध प्रशासनाच्या कारवाईत अडीच लाखांचा संशयित साठा जप्त",
+    "title": "Satara Water Crisis : माण, खटावच्या ४२ गावांत टँकरने पाणी",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/food-department-seizes-suspected-substandard-ghee-sangamner",
+    "link": "https://agrowon.esakal.com/agro-special/42-villages-of-maan-and-khataav-supplied-by-water-tankers-aak11",
     "isNew": true
   },
   {
-    "id": "news-45923cd501",
+    "id": "news-089f1a1fc0",
     "category": "news",
-    "title": "Maharashtra Drought: राज्यात उद्या दुष्काळ जाहीर होणार, शेतकऱ्यांना थेट मदत मिळेल- मुख्यमंत्री फडणवीस",
+    "title": "Pomegranate Farming : जेऊर कुंभारीतील डाळिंब शेतीची जिल्हाधिकाऱ्यांकडून पाहणी",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/maharashtra-drought-gr-farmer-direct-assistance-fadnavis-ddb79",
+    "link": "https://agrowon.esakal.com/agro-special/district-collector-inspects-pomegranate-farms-in-jeur-kumbhari-village-aak11",
     "isNew": true
   },
   {
-    "id": "news-b0030bc539",
+    "id": "news-9792c978b6",
     "category": "news",
-    "title": "Fishing Business: खराब हवामानाचा मासेमारीला फटका",
+    "title": "Election Commission Row: ज्ञानेश कुमारांनी ४८ तासांत राजीनामा द्यावा अन्यथा देशव्यापी आंदोलन, 'सीजेपी'चा इशारा, नेमकं प्रकरण काय?",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/bad-weather-disrupts-fishing-business-shrivardhan",
+    "link": "https://agrowon.esakal.com/agro-special/election-commission-row-gyanesh-kumar-cjp-protest-ddb79",
+    "isNew": true
+  },
+  {
+    "id": "news-04e1c4c983",
+    "category": "news",
+    "title": "Return monsoon: तीव्र कमी दाब प्रणालीमुळे राज्यात पावसाला पोषक हवामान",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/return-monsoon",
+    "isNew": true
+  },
+  {
+    "id": "news-6fe73067dc",
+    "category": "news",
+    "title": "Farmer Loan Waiver : मुख्यमंत्र्यांनी कोणत्या शेतकऱ्यांची कर्जमाफी करण्याची घोषणा केली?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/farmer-loan-waiver-7",
     "isNew": true
   },
   {
@@ -141,7 +157,7 @@
     "title": "Soybean Banana Rate: सोयाबीन दरात वाढ, बटाटा आवकेत वाढ, कारल्याच्या दरात चढ-उतार, मेथीच्या दरात काहिशी घसरण तर केळीचे दर टिकून",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/soybean-banana-rate",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-44b5fc8c4b",
@@ -149,7 +165,7 @@
     "title": "Rain Update : विदर्भ आणि मराठवाड्यात पावसाचा जोर किती दिवस?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/rain-update-146",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-308d5df976",
@@ -157,7 +173,7 @@
     "title": "Tomato Sucking Pests: टोमॅटो पिकातील रसशोषक किडींचे नियंत्रण कसे करावे?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/tomato-sucking-pests",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-ef82e8334b",
@@ -173,22 +189,6 @@
     "title": "Drought Madat 2026 : राज्यातील दुष्काळग्रस्त शेतकऱ्यांना पाहणी दौऱ्यादरम्यान मुख्यमंत्री काय शब्द दिला?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/drought-madat-2026",
-    "isNew": false
-  },
-  {
-    "id": "news-c276d5abd8",
-    "category": "news",
-    "title": "Maize, Moong Rate: मका दरात किंचीत वाढ, मुग दरात चढ-उतार, टोमॅटोच्या आवकेत घट, शेपूचे दर टिकून तर संत्री दरात नरमाई",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/maize-moong-rate",
-    "isNew": false
-  },
-  {
-    "id": "news-c196444a72",
-    "category": "news",
-    "title": "Rain Upadte : राज्यात पुढील पाच दिवस पाऊस कोणत्या भागात बरसणार?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/rain-upadte",
     "isNew": false
   }
 ]
