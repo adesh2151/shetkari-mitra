@@ -96,43 +96,51 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-640d1944a3",
+    "id": "news-bf2a24857e",
     "category": "news",
-    "title": "Rainfall Deficit: चार लाख हेक्टरवरील पिकांसह हळदीलाही फटका : जिल्हाधिकारी",
+    "title": "Crop Subsidy : कोरडवाहू पिकांसाठी हेक्टरी ३० हजार, बागायतीसाठी ७० हजार रुपये अनुदान द्या",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/nanded-rainfall-deficit-kharif-crops-four-lakh-hectares-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/grant-30000-for-rainfed-and-70000-per-hectare-for-irrigated-crops-aak11",
     "isNew": true
   },
   {
-    "id": "news-827af03948",
+    "id": "news-1f247d4fea",
     "category": "news",
-    "title": "Weather Prediction Issue: अंदाज की भोंदुगिरी?",
+    "title": "Farmer Crisis : करपलेल्या ४० एकर सोयाबीनवर फिरवला नांगर",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/weather-forecast-accuracy-correct-wrong-predictions-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/farmer-runs-plought-on-40-acres-of-burnt-soybean-crop-aak11",
     "isNew": true
   },
   {
-    "id": "news-42b7b542c6",
+    "id": "news-260c81c262",
     "category": "news",
-    "title": "Flower Farming Crisis: कोमेजलेली फुले प्लॅस्टिक फुलांमुळे पर्यावरण",
+    "title": "Sugarcane Crushing Season: दुष्काळात उसासाठी कारखान्यांची चढाओढ",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/sampadkiya/maharashtra-flower-farmers-plastic-flowers-market-crisis-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/solapur-sugar-mills-sugarcane-crushing-season-competition-abhi47",
     "isNew": true
   },
   {
-    "id": "news-8d3496d462",
+    "id": "news-cc8a540c8a",
     "category": "news",
-    "title": "Maharashtra Water Shortage: राज्यात ४७९ टँकरद्वारे पाणीपुरवठा सुरू",
+    "title": "Monsoon Forecast : पावसाचे अंदाज चुकले का? Weather Model आणि Synoptic Features मधला फरक समजून घ्या",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/maharashtra-water-shortage-479-tankers-supply-rat16",
+    "link": "https://agrowon.esakal.com/video/monsoon-forecast-weather-model-synoptic-features",
     "isNew": true
   },
   {
-    "id": "news-017d505bd0",
+    "id": "news-909d59c90b",
     "category": "news",
-    "title": "Revenue Minister Chandrakant Bawankule: सिमेंट रस्ते, गटारीऐवजी जलसंधारणाला प्राधान्य द्या; महसूलमंत्री बावनकुळे यांचे निर्देश",
+    "title": "Climate Change : हवामान बदलाचा शेतीवर नेमका काय परिणाम? शेतकऱ्यांचे अनुभव काय सांगतात ?",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/maharashtra-drought-water-conservation-bawankule-directives-rat16",
+    "link": "https://agrowon.esakal.com/video/climate-change",
+    "isNew": true
+  },
+  {
+    "id": "news-f11f35319b",
+    "category": "news",
+    "title": "Paddy Leaf Blight: भात पिकातील करप्याचे विविध कारणे आणि उपाय?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/paddy-leaf-blight",
     "isNew": true
   },
   {
@@ -176,19 +184,11 @@
     "isNew": false
   },
   {
-    "id": "news-ef82e8334b",
+    "id": "news-0e25518667",
     "category": "news",
-    "title": "Crop Insurance : दुष्काळामुळे सरसकट भरपाई मिळणार का?",
+    "title": "Agrowon Podcast: सोयाबीन दरात वाढ, बटाटा आवकेत वाढ, कारल्याच्या दरात चढ-उतार, मेथीच्या दरात काहिशी घसरण तर केळीचे दर टिकून",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/crop-insurance-41",
-    "isNew": false
-  },
-  {
-    "id": "news-323088f651",
-    "category": "news",
-    "title": "Drought Madat 2026 : राज्यातील दुष्काळग्रस्त शेतकऱ्यांना पाहणी दौऱ्यादरम्यान मुख्यमंत्री काय शब्द दिला?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/drought-madat-2026",
-    "isNew": false
+    "link": "https://agrowon.esakal.com/market-intelligence/market-bulletin/soybean-prices-rise-potato-arrivals-maharashtra-market-rates-rat16",
+    "isNew": true
   }
 ]
