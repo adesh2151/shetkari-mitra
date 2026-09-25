@@ -96,12 +96,28 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
+    "id": "news-1c0c30df77",
+    "category": "news",
+    "title": "Gram Sowing : खानदेशात हरभरा पेरा स्थिर राहण्याचे संकेत",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/agro-special/khandesh-gram-sowing-likely-to-remain-stable-in-upcomig-rabi-season-aak11",
+    "isNew": true
+  },
+  {
+    "id": "news-777b1f727f",
+    "category": "news",
+    "title": "BBF Technology : बीबीएफ तंत्रज्ञान उपयुक्त : डॉ. मायी",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/agro-special/bbf-technology-is-highly-beneficial-for-farmers-agri-expert-dr-mayee-aak11",
+    "isNew": true
+  },
+  {
     "id": "news-bf2a24857e",
     "category": "news",
     "title": "Crop Subsidy : कोरडवाहू पिकांसाठी हेक्टरी ३० हजार, बागायतीसाठी ७० हजार रुपये अनुदान द्या",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/agro-special/grant-30000-for-rainfed-and-70000-per-hectare-for-irrigated-crops-aak11",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-1f247d4fea",
@@ -109,7 +125,7 @@
     "title": "Farmer Crisis : करपलेल्या ४० एकर सोयाबीनवर फिरवला नांगर",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/agro-special/farmer-runs-plought-on-40-acres-of-burnt-soybean-crop-aak11",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-260c81c262",
@@ -117,15 +133,7 @@
     "title": "Sugarcane Crushing Season: दुष्काळात उसासाठी कारखान्यांची चढाओढ",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/agro-special/solapur-sugar-mills-sugarcane-crushing-season-competition-abhi47",
-    "isNew": true
-  },
-  {
-    "id": "news-cc8a540c8a",
-    "category": "news",
-    "title": "Monsoon Forecast : पावसाचे अंदाज चुकले का? Weather Model आणि Synoptic Features मधला फरक समजून घ्या",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/monsoon-forecast-weather-model-synoptic-features",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-909d59c90b",
@@ -133,7 +141,15 @@
     "title": "Climate Change : हवामान बदलाचा शेतीवर नेमका काय परिणाम? शेतकऱ्यांचे अनुभव काय सांगतात ?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/climate-change",
-    "isNew": true
+    "isNew": false
+  },
+  {
+    "id": "news-cc8a540c8a",
+    "category": "news",
+    "title": "Monsoon Forecast : पावसाचे अंदाज चुकले का? Weather Model आणि Synoptic Features मधला फरक समजून घ्या",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/monsoon-forecast-weather-model-synoptic-features",
+    "isNew": false
   },
   {
     "id": "news-f11f35319b",
@@ -141,7 +157,7 @@
     "title": "Paddy Leaf Blight: भात पिकातील करप्याचे विविध कारणे आणि उपाय?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/paddy-leaf-blight",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-04e1c4c983",
@@ -174,21 +190,5 @@
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/rain-update-146",
     "isNew": false
-  },
-  {
-    "id": "news-308d5df976",
-    "category": "news",
-    "title": "Tomato Sucking Pests: टोमॅटो पिकातील रसशोषक किडींचे नियंत्रण कसे करावे?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/tomato-sucking-pests",
-    "isNew": false
-  },
-  {
-    "id": "news-0e25518667",
-    "category": "news",
-    "title": "Agrowon Podcast: सोयाबीन दरात वाढ, बटाटा आवकेत वाढ, कारल्याच्या दरात चढ-उतार, मेथीच्या दरात काहिशी घसरण तर केळीचे दर टिकून",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/market-intelligence/market-bulletin/soybean-prices-rise-potato-arrivals-maharashtra-market-rates-rat16",
-    "isNew": true
   }
 ]
