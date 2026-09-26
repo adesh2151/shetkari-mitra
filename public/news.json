@@ -96,43 +96,67 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-81bb59c505",
+    "id": "news-bb0aaf4e80",
     "category": "news",
-    "title": "Rabi Season: यंदाच्या रब्बी हंगामासाठी महत्त्वाच्या गोष्टी",
+    "title": "Agrowon Podcast: मूग बाजारात चढ-उतार, कांदा दरात बदल, कोबीच्या आवकेत चढ-उतार, कोथिंबिरीच्या दरात घसरण तर डाळिंब दर तेजीत",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/tips-rabi-farming-under-low-water-availability-ssp-25",
+    "link": "https://agrowon.esakal.com/market-intelligence/market-bulletin/maharashtra-market-rates-moong-onion-cabbage-coriander-pomegranate-rat16",
     "isNew": true
   },
   {
-    "id": "news-f562e408fa",
+    "id": "news-1ba177d5ce",
     "category": "news",
-    "title": "Sugarcane FRP: ...तर टनाला ५ हजार दर जाहीर करा मगच धुराडी पेटवा अन्यथा संघर्ष, राजू शेट्टींचा इशारा",
+    "title": "Maharashtra Rain Update: राज्यात कोणत्या भागात पावसाची शक्यता?",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/sugarcane-frp-maharashtra-raju-shetti-5000-rate-ddb79",
+    "link": "https://agrowon.esakal.com/weather-news/maharashtra-rain-forecast-vidarbha-marathwada-weather-update-rat16",
     "isNew": true
   },
   {
-    "id": "news-14f8c38300",
+    "id": "news-1e8899c773",
     "category": "news",
-    "title": "Berseem Fodder: रब्बीसाठी बरसीम उत्तम चारा पीक! दीड महिन्यात पहिली कापणी, एकूण ४ ते ५ कापण्या",
+    "title": "PM Awas Yojana: पंतप्रधान आवास योजना २०२६ : घरबसल्या यादीत नाव तपासा; जाणून घ्या पात्रता आणि कागदपत्रे",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/animal-care/animal-diseases/berseem-fodder-cultivation-rabi-season-ssp-25",
+    "link": "https://agrowon.esakal.com/agro-special/pm-awas-yojana-2026-beneficiary-list-eligibility-documents-abhi47",
     "isNew": true
   },
   {
-    "id": "news-ca6170a946",
+    "id": "news-84672ba054",
     "category": "news",
-    "title": "Drought Relief Cell: जालन्यात दुष्काळ निवारण कक्ष स्थापन",
+    "title": "Australia Cooperatives: ऑस्ट्रेलियातील सहकारी संस्था अर्थव्यवस्थेचा आधारस्तंभ",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/jalna-drought-relief-cell-drought-like-situation-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/australia-cooperative-societies-economic-pillar-cme-abhi47",
     "isNew": true
   },
   {
-    "id": "news-c51360c448",
+    "id": "news-26415f97d5",
     "category": "news",
-    "title": "Sugarcane FRP: साखर कारखान्यांसाठी सॉफ्ट लोन योजना; कर्जाच्या रकमेतून थकीत एफआरपी देणे बंधनकारक, काय आहेत निकष?",
+    "title": "Free Sewing Machine Scheme: महिलांसाठी मोठी संधी! शिलाई मशीनसाठी मिळणार आर्थिक मदत; जाणून घ्या पात्रता व अर्ज प्रक्रिया",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/sugarcane-frp-maharashtra-sugar-factory-soft-loan-ddb79",
+    "link": "https://agrowon.esakal.com/agro-special/free-sewing-machine-scheme-2026-women-eligibility-application-abhi47",
+    "isNew": true
+  },
+  {
+    "id": "news-1fe4078dde",
+    "category": "news",
+    "title": "Kanda Dalimb Bajarbhav: मूग बाजारात चढ-उतार, कांदा दरात बदल, कोबीच्या आवकेत चढ-उतार, कोथिंबिरीच्या दरात घसरण तर डाळिंब दर तेजीत",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/kanda-dalimb-bajarbhav",
+    "isNew": true
+  },
+  {
+    "id": "news-100c4232c0",
+    "category": "news",
+    "title": "Rain update : राज्यात कोणत्या भागात पावसाची शक्यता?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/rain-update-147",
+    "isNew": true
+  },
+  {
+    "id": "news-bea8c1b057",
+    "category": "news",
+    "title": "Sugarcane Crushing Season: गाळप हंगाम लवकर! उसाची तोडणी केव्हा करावी?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/title-sugarcane-crushing-season",
     "isNew": true
   },
   {
@@ -165,30 +189,6 @@
     "title": "Return monsoon: तीव्र कमी दाब प्रणालीमुळे राज्यात पावसाला पोषक हवामान",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/return-monsoon",
-    "isNew": false
-  },
-  {
-    "id": "news-6fe73067dc",
-    "category": "news",
-    "title": "Farmer Loan Waiver : मुख्यमंत्र्यांनी कोणत्या शेतकऱ्यांची कर्जमाफी करण्याची घोषणा केली?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/farmer-loan-waiver-7",
-    "isNew": false
-  },
-  {
-    "id": "news-31b2e82865",
-    "category": "news",
-    "title": "Soybean Banana Rate: सोयाबीन दरात वाढ, बटाटा आवकेत वाढ, कारल्याच्या दरात चढ-उतार, मेथीच्या दरात काहिशी घसरण तर केळीचे दर टिकून",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/soybean-banana-rate",
-    "isNew": false
-  },
-  {
-    "id": "news-44b5fc8c4b",
-    "category": "news",
-    "title": "Rain Update : विदर्भ आणि मराठवाड्यात पावसाचा जोर किती दिवस?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/rain-update-146",
     "isNew": false
   }
 ]
