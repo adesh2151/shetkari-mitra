@@ -96,43 +96,51 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-bb0aaf4e80",
+    "id": "news-d5074c9148",
     "category": "news",
-    "title": "Agrowon Podcast: मूग बाजारात चढ-उतार, कांदा दरात बदल, कोबीच्या आवकेत चढ-उतार, कोथिंबिरीच्या दरात घसरण तर डाळिंब दर तेजीत",
+    "title": "Farmer Subsidy: शेतकऱ्यांना वीज अनुदान, धानासाठी प्रति क्विंटल २,७०० रुपये हमीभाव, पश्चिम बंगालच्या मुख्यमंत्र्यांची घोषणा",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/market-intelligence/market-bulletin/maharashtra-market-rates-moong-onion-cabbage-coriander-pomegranate-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/farmer-subsidy-west-bengal-paddy-msp-2700-ddb79",
     "isNew": true
   },
   {
-    "id": "news-1ba177d5ce",
+    "id": "news-f57fb1e999",
     "category": "news",
-    "title": "Maharashtra Rain Update: राज्यात कोणत्या भागात पावसाची शक्यता?",
+    "title": "Flower Growers: पातूरच्या शेतकऱ्यांनी जोपासली फुलशेतीची परंपरा",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/weather-news/maharashtra-rain-forecast-vidarbha-marathwada-weather-update-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/patur-farmers-flower-cultivation-tradition-akola-abhi47",
     "isNew": true
   },
   {
-    "id": "news-1e8899c773",
+    "id": "news-27b51624fd",
     "category": "news",
-    "title": "PM Awas Yojana: पंतप्रधान आवास योजना २०२६ : घरबसल्या यादीत नाव तपासा; जाणून घ्या पात्रता आणि कागदपत्रे",
+    "title": "Pokhara 2.0 Scheme: पोकरा 2.0 अंतर्गत हरितगृह, शेडनेटमधील भाजीपाला व फुलांना सहाय्य; जाणून घ्या पात्रता व अर्ज प्रक्रिया",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/pm-awas-yojana-2026-beneficiary-list-eligibility-documents-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/pokhara-2-greenhouse-shadenet-vegetable-flower-farming-abhi47",
     "isNew": true
   },
   {
-    "id": "news-84672ba054",
+    "id": "news-63f63ef009",
     "category": "news",
-    "title": "Australia Cooperatives: ऑस्ट्रेलियातील सहकारी संस्था अर्थव्यवस्थेचा आधारस्तंभ",
+    "title": "Rural Development: कल्पनाताईंनी समर्थपणे सांभाळली ‘ग्राम गौरव’ची धुरा",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/australia-cooperative-societies-economic-pillar-cme-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/kalpanatai-gram-gaurav-rural-development-vilasrao-salunkhe-abhi47",
     "isNew": true
   },
   {
-    "id": "news-26415f97d5",
+    "id": "news-73e3a3e55f",
     "category": "news",
-    "title": "Free Sewing Machine Scheme: महिलांसाठी मोठी संधी! शिलाई मशीनसाठी मिळणार आर्थिक मदत; जाणून घ्या पात्रता व अर्ज प्रक्रिया",
+    "title": "Lakhpati Didi Scheme: लखपती दीदी २.०! महिलांना मिळणार ५ लाखांपर्यंत बिनव्याजी कर्ज; जाणून घ्या पात्रता व अर्ज प्रक्रिया",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/free-sewing-machine-scheme-2026-women-eligibility-application-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/lakhpati-didi-initiative-she-marts-women-entrepreneurs-abhi47",
+    "isNew": true
+  },
+  {
+    "id": "news-87d2009f07",
+    "category": "news",
+    "title": "El Nino Impact : पावसाची तूट कायम राहिल्यास अन्नधान्य महागाई वाढणार?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/el-nino-impact",
     "isNew": true
   },
   {
@@ -141,7 +149,7 @@
     "title": "Kanda Dalimb Bajarbhav: मूग बाजारात चढ-उतार, कांदा दरात बदल, कोबीच्या आवकेत चढ-उतार, कोथिंबिरीच्या दरात घसरण तर डाळिंब दर तेजीत",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/kanda-dalimb-bajarbhav",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-100c4232c0",
@@ -149,7 +157,7 @@
     "title": "Rain update : राज्यात कोणत्या भागात पावसाची शक्यता?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/rain-update-147",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-bea8c1b057",
@@ -157,7 +165,7 @@
     "title": "Sugarcane Crushing Season: गाळप हंगाम लवकर! उसाची तोडणी केव्हा करावी?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/title-sugarcane-crushing-season",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-909d59c90b",
@@ -181,14 +189,6 @@
     "title": "Paddy Leaf Blight: भात पिकातील करप्याचे विविध कारणे आणि उपाय?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/paddy-leaf-blight",
-    "isNew": false
-  },
-  {
-    "id": "news-04e1c4c983",
-    "category": "news",
-    "title": "Return monsoon: तीव्र कमी दाब प्रणालीमुळे राज्यात पावसाला पोषक हवामान",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/return-monsoon",
     "isNew": false
   }
 ]
