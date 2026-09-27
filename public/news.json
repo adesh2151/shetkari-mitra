@@ -96,44 +96,44 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
+    "id": "news-6cb140d6e5",
+    "category": "news",
+    "title": "Amravati Water Crisis : अमरावती जिल्ह्यातील पाच तालुक्यांत भूजलाची चिंता",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/agro-special/rising-groundwater-concerns-in-five-talukas-of-amravati-district-aak11",
+    "isNew": true
+  },
+  {
+    "id": "news-b869dcb12c",
+    "category": "news",
+    "title": "Seva Sankalp Abhiyan : बीड जिल्ह्यात ‘सेवा संकल्प अभियान’ प्रभावीपणे राबविण्याचे निर्देश",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/agro-special/directives-issued-for-effective-implementation-of-seva-sankalp-abhiyan-in-beed-aak11",
+    "isNew": true
+  },
+  {
+    "id": "news-f5fb975bcd",
+    "category": "news",
+    "title": "Krishna River : ‘कृष्णे’वरील उपसाबंदी उठली; दुष्काळी भागास कधी दिलासा?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/agro-special/ban-lifted-on-krishna-river-water-lifting-relief-for-farmers-near-bank-aak11",
+    "isNew": true
+  },
+  {
+    "id": "news-e0aa56b3eb",
+    "category": "news",
+    "title": "Watermelon Farming : कलिंगडास प्रतिकूल वातावरणाचा फटका",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/agro-special/watermelon-crops-hard-hit-by-unfavorable-weather-conditions-aak11",
+    "isNew": true
+  },
+  {
     "id": "news-5f7a7babce",
     "category": "news",
     "title": "Woman Farmer Certificate : महिलांना घरी मिळणार ‘महिला शेतकरी प्रमाणपत्र’",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/agro-special/documents-required-for-mahila-shetkari-pramanpatra-at-home-aak11",
-    "isNew": true
-  },
-  {
-    "id": "news-bc117edb13",
-    "category": "news",
-    "title": "Cotton Harvesting : खानदेशात पूर्वहंगामी कापसाची वेचणी सुरू",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/pre-seasonal-cotton-harvesting-begins-in-khandesh-region-aak11",
-    "isNew": true
-  },
-  {
-    "id": "news-5289d2551c",
-    "category": "news",
-    "title": "Rain Deficit: पुसद तालुक्यात पावसाची २४ टक्के तूट",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/pusad-taluka-24-percent-rainfall-deficit-rat16",
-    "isNew": true
-  },
-  {
-    "id": "news-0a8e4bffa3",
-    "category": "news",
-    "title": "Crop Damage Compensation: सिंधुदुर्ग जिल्ह्यात आंबा, काजू नुकसानभरपाईचे ५९ कोटी शेतकऱ्यांच्या खात्यात",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/sindhudurg-mango-cashew-crop-loss-compensation-59-crore-rat16",
-    "isNew": true
-  },
-  {
-    "id": "news-4a93a8817e",
-    "category": "news",
-    "title": "Agriculture Subsidy: कृषी घटकांसाठी अनुदान; महाडीबीटीवर अर्जाचे आवाहन",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/mahadbt-agricultural-subsidy-farmer-application-rat16",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-51c9413e5e",
@@ -141,7 +141,7 @@
     "title": "Return Monsoon : तीव्र कमी दाब प्रणालीमुळे राज्यात पावसाला पोषक हवामान | Agrowon",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/return-monsoon-agrowon-24",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-bb8cb1535f",
@@ -149,7 +149,7 @@
     "title": "Soybean Crop Damage : कोरड्या दुष्काळाने शिक्षित तरुण शेतकरी संकटात; मदतीची अपेक्षा",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/soybean-crop-damage-2",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-8bf02f1369",
@@ -157,7 +157,7 @@
     "title": "Madgyal Sheep: राष्ट्रीय मान्यता मिळालेल्या माडग्याळ मेंढीची खासियत काय?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/madgyal-sheep",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-87d2009f07",
