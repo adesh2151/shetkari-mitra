@@ -96,43 +96,67 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-ad75d0c6c0",
+    "id": "news-5f7a7babce",
     "category": "news",
-    "title": "Pune Water Shortage: तलावांतील पाणी उपशावर निर्बंध",
+    "title": "Woman Farmer Certificate : महिलांना घरी मिळणार ‘महिला शेतकरी प्रमाणपत्र’",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/pune-percolation-tanks-water-level-low-rainfall-rabi-season-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/documents-required-for-mahila-shetkari-pramanpatra-at-home-aak11",
     "isNew": true
   },
   {
-    "id": "news-6aed015d03",
+    "id": "news-bc117edb13",
     "category": "news",
-    "title": "Someshwar Sugar Factory: ‘सोमेश्वर’चा बॉयलर अग्निप्रदीपन",
+    "title": "Cotton Harvesting : खानदेशात पूर्वहंगामी कापसाची वेचणी सुरू",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/someshwar-sugar-factory-14-lakh-tonne-crushing-25-harvesters-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/pre-seasonal-cotton-harvesting-begins-in-khandesh-region-aak11",
     "isNew": true
   },
   {
-    "id": "news-b41c34796b",
+    "id": "news-5289d2551c",
     "category": "news",
-    "title": "Land Survey Protest: ‘शक्तिपीठ’च्या मोजणीचा डाव शेतकऱ्यांनी हाणून पाडला",
+    "title": "Rain Deficit: पुसद तालुक्यात पावसाची २४ टक्के तूट",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/wangi-farmers-shaktipeeth-highway-land-survey-protest-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/pusad-taluka-24-percent-rainfall-deficit-rat16",
     "isNew": true
   },
   {
-    "id": "news-af736afa05",
+    "id": "news-0a8e4bffa3",
     "category": "news",
-    "title": "Agriculture Production: खानदेशात उडीद, मूग उत्पादन कमी",
+    "title": "Crop Damage Compensation: सिंधुदुर्ग जिल्ह्यात आंबा, काजू नुकसानभरपाईचे ५९ कोटी शेतकऱ्यांच्या खात्यात",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/khandesh-moong-urad-production-decline-rain-gap-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/sindhudurg-mango-cashew-crop-loss-compensation-59-crore-rat16",
     "isNew": true
   },
   {
-    "id": "news-38efd3eb20",
+    "id": "news-4a93a8817e",
     "category": "news",
-    "title": "Sugarcane Farmers Crisis: थकीत ऊसबिलांमुळे कारखान्यांसमोर ऊस मिळविण्याची मोठी कसोटी",
+    "title": "Agriculture Subsidy: कृषी घटकांसाठी अनुदान; महाडीबीटीवर अर्जाचे आवाहन",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/solapur-sugarcane-farmers-328-crore-pending-bills-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/mahadbt-agricultural-subsidy-farmer-application-rat16",
+    "isNew": true
+  },
+  {
+    "id": "news-51c9413e5e",
+    "category": "news",
+    "title": "Return Monsoon : तीव्र कमी दाब प्रणालीमुळे राज्यात पावसाला पोषक हवामान | Agrowon",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/return-monsoon-agrowon-24",
+    "isNew": true
+  },
+  {
+    "id": "news-bb8cb1535f",
+    "category": "news",
+    "title": "Soybean Crop Damage : कोरड्या दुष्काळाने शिक्षित तरुण शेतकरी संकटात; मदतीची अपेक्षा",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/soybean-crop-damage-2",
+    "isNew": true
+  },
+  {
+    "id": "news-8bf02f1369",
+    "category": "news",
+    "title": "Madgyal Sheep: राष्ट्रीय मान्यता मिळालेल्या माडग्याळ मेंढीची खासियत काय?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/madgyal-sheep",
     "isNew": true
   },
   {
@@ -165,30 +189,6 @@
     "title": "Sugarcane Crushing Season: गाळप हंगाम लवकर! उसाची तोडणी केव्हा करावी?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/title-sugarcane-crushing-season",
-    "isNew": false
-  },
-  {
-    "id": "news-909d59c90b",
-    "category": "news",
-    "title": "Climate Change : हवामान बदलाचा शेतीवर नेमका काय परिणाम? शेतकऱ्यांचे अनुभव काय सांगतात ?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/climate-change",
-    "isNew": false
-  },
-  {
-    "id": "news-cc8a540c8a",
-    "category": "news",
-    "title": "Monsoon Forecast : पावसाचे अंदाज चुकले का? Weather Model आणि Synoptic Features मधला फरक समजून घ्या",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/monsoon-forecast-weather-model-synoptic-features",
-    "isNew": false
-  },
-  {
-    "id": "news-f11f35319b",
-    "category": "news",
-    "title": "Paddy Leaf Blight: भात पिकातील करप्याचे विविध कारणे आणि उपाय?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/paddy-leaf-blight",
     "isNew": false
   }
 ]
