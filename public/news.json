@@ -96,43 +96,83 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-e71b8cca18",
+    "id": "news-22415c507e",
     "category": "news",
-    "title": "Drought Management: दुष्काळातून आपण कधी शिकणार?",
+    "title": "Soil Moisture: दुष्काळाच्या परिस्थितीत मातीतील ओलावा कसा टिकवावा?",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/drought-management-new-approach-changing-climate-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/how-to-maintain-soil-moisture-rabi-crops-during-drought-ssp-25",
     "isNew": true
   },
   {
-    "id": "news-aa9cd48a7f",
+    "id": "news-274bb85a6f",
     "category": "news",
-    "title": "El Nino Impact: ‘एल निनो’ परिस्थितीचे केळी पिकावर होणारे परिणाम",
+    "title": "Crop Damage Inspection : नुकसानग्रस्त सोयाबीन, कापूस पिकांची पाहणी",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/el-nino-impact-on-banana-crop-cultivation-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/ground-assessment-begins-inspection-of-damaged-soybean-and-cotton-crops-underway-aak11",
     "isNew": true
   },
   {
-    "id": "news-9fb8efa84f",
+    "id": "news-62042b60ae",
     "category": "news",
-    "title": "Indian Politics: ज्ञानेशकुमार आणि मतदारयाद्यांचे ‘शुद्धीकरण’",
+    "title": "Farmers Issue: नांदेडचे दोन तालुके वगळल्याने शेतकऱ्यांत तीव्र संताप",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/gyanesh-kumar-election-commission-assembly-elections-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/nanded-mukhed-mudkhed-trigger-1-drought-relief-abhi47",
     "isNew": true
   },
   {
-    "id": "news-6aa7adec94",
+    "id": "news-16047d4189",
     "category": "news",
-    "title": "Maharashtra Drought Crisis: अजून किती ‘कळ’ काढणार?",
+    "title": "Water Testing Delay : पाण्याच्या चाचण्या अडकल्या प्रशासकीय दिरंगाईत",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/sampadkiya/maharashtra-drought-farmers-relief-crisis-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/water-quality-testing-stalled-by-administrative-sluggishness-aak11",
     "isNew": true
   },
   {
-    "id": "news-e99ab2b8c0",
+    "id": "news-1e5143cc8b",
     "category": "news",
-    "title": "Maharashtra Drought Crisis: दुष्काळ नैसर्गिक संकट, राजकारण नको; कृषिमंत्री भरणे",
+    "title": "Grape Pruning: रोगमुक्त द्राक्षछाटणी कशी करावी?",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/maharashtra-drought-like-situation-dattatray-bharne-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/grape-pruning-practices-prevent-diseases-ssp-25",
+    "isNew": true
+  },
+  {
+    "id": "news-027bda3313",
+    "category": "news",
+    "title": "food processing : कोण कोणत्या मशीनसाठी मिळते 35 टक्क्यांपर्यंत अनुदान?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/food-processing-machines-35-percent-subsidy-maharashtra",
+    "isNew": true
+  },
+  {
+    "id": "news-64ed601463",
+    "category": "news",
+    "title": "Maharashtra Drought 2026 : राज्यात दुष्काळाची पाहणी केंद्रीय पथक कधी करणार?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/maharashtra-drought-2026-central-team-inspection",
+    "isNew": true
+  },
+  {
+    "id": "news-8f3ff2596a",
+    "category": "news",
+    "title": "Tur Batata Bajarbhav: तूर बाजारात चढ-उतार, गवार दरात वाढ, बटाटा बाजारात आवक वाढली, हिरव्या मिरचीच्या दरात बदल तर पपईचे दर टिकून",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/tur-gawar-potato-green-chilli-papaya-bajarbhav-maharashtra",
+    "isNew": true
+  },
+  {
+    "id": "news-ef86331691",
+    "category": "news",
+    "title": "Rain Update : घाटमाथा, कोकण आणि मध्य महाराष्ट्रात पावसाची शक्यता",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/rain-update-148",
+    "isNew": true
+  },
+  {
+    "id": "news-94b44a3b6a",
+    "category": "news",
+    "title": "Rabi Season Tips: एल निनोच्या काळात रब्बी हंगामात कोणते नियम पाळावेत?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/rabi-season-tips",
     "isNew": true
   },
   {
@@ -149,46 +189,6 @@
     "title": "Soybean Crop Damage : कोरड्या दुष्काळाने शिक्षित तरुण शेतकरी संकटात; मदतीची अपेक्षा",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/soybean-crop-damage-2",
-    "isNew": false
-  },
-  {
-    "id": "news-8bf02f1369",
-    "category": "news",
-    "title": "Madgyal Sheep: राष्ट्रीय मान्यता मिळालेल्या माडग्याळ मेंढीची खासियत काय?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/madgyal-sheep",
-    "isNew": false
-  },
-  {
-    "id": "news-87d2009f07",
-    "category": "news",
-    "title": "El Nino Impact : पावसाची तूट कायम राहिल्यास अन्नधान्य महागाई वाढणार?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/el-nino-impact",
-    "isNew": false
-  },
-  {
-    "id": "news-1fe4078dde",
-    "category": "news",
-    "title": "Kanda Dalimb Bajarbhav: मूग बाजारात चढ-उतार, कांदा दरात बदल, कोबीच्या आवकेत चढ-उतार, कोथिंबिरीच्या दरात घसरण तर डाळिंब दर तेजीत",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/kanda-dalimb-bajarbhav",
-    "isNew": false
-  },
-  {
-    "id": "news-100c4232c0",
-    "category": "news",
-    "title": "Rain update : राज्यात कोणत्या भागात पावसाची शक्यता?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/rain-update-147",
-    "isNew": false
-  },
-  {
-    "id": "news-bea8c1b057",
-    "category": "news",
-    "title": "Sugarcane Crushing Season: गाळप हंगाम लवकर! उसाची तोडणी केव्हा करावी?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/title-sugarcane-crushing-season",
     "isNew": false
   }
 ]
