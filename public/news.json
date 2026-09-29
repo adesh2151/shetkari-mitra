@@ -96,43 +96,75 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-dfd53b7a39",
+    "id": "news-dd44eba0c3",
     "category": "news",
-    "title": "El Nino Impact : एल निनोमुळे जलविद्युत निर्मिती घटणार; देशात कोळसा आयात वाढीची शक्यता",
+    "title": "Agniveer: निवृत्त अग्निवीरांना सरकारी नोकरीची संधी, परीक्षा, प्रशिक्षणाची अट नाही- मुख्यमंत्री फडणवीस",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/weak-rains-rising-power-demand-could-boost-indias-coal-imports-ds98",
+    "link": "https://agrowon.esakal.com/agro-special/agniveer-maharashtra-government-jobs-10-percent-reservation-ddb79",
     "isNew": true
   },
   {
-    "id": "news-07d88d6853",
+    "id": "news-b608f045e9",
     "category": "news",
-    "title": "Modern Livestock Reproductive Technologies: पशुधनातील आधुनिक प्रजनन तंत्र",
+    "title": "Rural Power Supply : वीजपुरवठ्याअभावी पिके संकटात",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/animal-care/animal-diseases/modern-livestock-reproductive-technologies-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/crops-endangered-amid-severe-lack-of-continuous-electricity-supply-aak11",
     "isNew": true
   },
   {
-    "id": "news-dd1a9e56b6",
+    "id": "news-acc5bbcbbb",
     "category": "news",
-    "title": "Goat Sheep Farming: शेळी-मेंढी- कोंबडीपालनाचा ‘राधाई इंटिग्रेडेट फार्म’",
+    "title": "Farmers Demand: धान खरेदीची मर्यादा एकरी २० क्विंटल करा",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/yashogatha/bodkhe-family-integrated-goat-country-chicken-farm-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/sironcha-paddy-procurement-limit-20-quintal-per-acre-abhi47",
     "isNew": true
   },
   {
-    "id": "news-d81cf91d5b",
+    "id": "news-0125299709",
     "category": "news",
-    "title": "Dairy Farming Business: दुग्ध व्यवसायच दुष्काळात तारून नेईल",
+    "title": "Bhima Sugar Factory : ‘भीमा’ कारखान्याकडून यंदा उसाला ३ हजार ११ रुपयांचा दर",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/yashogatha/ektuni-dairy-farming-ravindra-kakade-success-story-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/bhima-sugar-factory-declares-highest-sugarcane-price-of-3011-per-ton-aak11",
     "isNew": true
   },
   {
-    "id": "news-f24eb5e4c8",
+    "id": "news-65832d94b9",
     "category": "news",
-    "title": "Women Farmers: राबते हात, न मिळणारी जमीन",
+    "title": "Sorghum Varieties: कोरडवाहू क्षेत्रासाठी रब्बी ज्वारीचे कोणते वाण वापरावे?",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/women-farmers-land-rights-gender-gap-indian-agriculture-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/best-sorghum-varieties-rainfed-farming-under-drought-conditions-ssp-25",
+    "isNew": true
+  },
+  {
+    "id": "news-27b536ae8f",
+    "category": "news",
+    "title": "Drought Madat : पंचनाम्यांवर शेतकऱ्यांची सही करण्यासंदर्भात मुख्यमंत्री काय म्हणाले?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/drought-relief-panchnama-signature-cm-farmer-compensation",
+    "isNew": true
+  },
+  {
+    "id": "news-3968ba2c7d",
+    "category": "news",
+    "title": "Chana, Santri Bajarbhav: हरभरा दर कायम, ढोबळी मिरचीच्या दरात घसरण, पालकच्या आवकेत घट, ओल्या भुईमुगाच्या दरात चढ-उतार तर संत्र्याचे दर टिकून",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/chana-santri-bajarbhav-capsicum-spinach-groundnut-market-rates",
+    "isNew": true
+  },
+  {
+    "id": "news-4f2ec3fb53",
+    "category": "news",
+    "title": "Rain Update : कोकण, मध्य महाराष्ट्रात पावसाची शक्यता; उन्हाचा चटका वाढला",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/maharashtra-rain-update-konkan-madhya-maharashtra-rain-forecast",
+    "isNew": true
+  },
+  {
+    "id": "news-6e6c2b2e1d",
+    "category": "news",
+    "title": "Rabies Vaccination: जनावरांमधील रेबीज संशयित जनावराची काळजी कशी घ्यावी?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/rabies-vaccination-animal-rabies-symptoms-prevention",
     "isNew": true
   },
   {
@@ -141,7 +173,7 @@
     "title": "Food Processing Machinery : कोण कोणत्या मशीनसाठी मिळते 35 टक्क्यांपर्यंत अनुदान?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/food-processing-machines-35-percent-subsidy-maharashtra",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-64ed601463",
@@ -157,38 +189,6 @@
     "title": "Tur Batata Bajarbhav: तूर बाजारात चढ-उतार, गवार दरात वाढ, बटाटा बाजारात आवक वाढली, हिरव्या मिरचीच्या दरात बदल तर पपईचे दर टिकून",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/tur-gawar-potato-green-chilli-papaya-bajarbhav-maharashtra",
-    "isNew": false
-  },
-  {
-    "id": "news-ef86331691",
-    "category": "news",
-    "title": "Rain Update : घाटमाथा, कोकण आणि मध्य महाराष्ट्रात पावसाची शक्यता",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/rain-update-148",
-    "isNew": false
-  },
-  {
-    "id": "news-94b44a3b6a",
-    "category": "news",
-    "title": "Rabi Season Tips: एल निनोच्या काळात रब्बी हंगामात कोणते नियम पाळावेत?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/rabi-season-tips",
-    "isNew": false
-  },
-  {
-    "id": "news-a6d50286a2",
-    "category": "news",
-    "title": "Return Monsoon : तीव्र कमी दाब प्रणालीमुळे राज्यात पावसाला पोषक हवामान",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/maharashtra-return-monsoon-low-pressure-rain-update",
-    "isNew": true
-  },
-  {
-    "id": "news-bb8cb1535f",
-    "category": "news",
-    "title": "Soybean Crop Damage : कोरड्या दुष्काळाने शिक्षित तरुण शेतकरी संकटात; मदतीची अपेक्षा",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/soybean-crop-damage-drought-young-farmer-crisis",
     "isNew": false
   }
 ]
