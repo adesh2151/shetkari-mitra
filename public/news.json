@@ -96,43 +96,75 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-c8feb5ec8d",
+    "id": "news-02435acb80",
     "category": "news",
-    "title": "New Filtration Technology: सांडपाण्यातील संपूर्ण अमोनिया काढून टाकणारे फिल्ट्रेशन तंत्र विकसित",
+    "title": "Rabi Crops MSP 2027-28: केंद्राकडून रब्बी पिकांच्या हमीभावात वाढीचा निर्णय, करडईत सर्वाधिक, गहू, हरभऱ्यात सर्वात कमी वाढ",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/techno-wan/new-filtration-technology-ammonia-removal-wastewater-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/rabi-crops-msp-2027-28-hike-safflower-wheat-gram-ddb79",
     "isNew": true
   },
   {
-    "id": "news-7e2c7336bc",
+    "id": "news-a53fc29e8c",
     "category": "news",
-    "title": "Poultry Farming: कमी खर्चाच्या तंत्रज्ञानातून कुक्कुटपालनाला नवी दिशा",
+    "title": "Grape Farming : द्राक्ष बागेत पाणी नियोजनासह घडांच्या संख्येवर नियंत्रण गरजेचे",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/techno-wan/low-cost-technology-poultry-farming-new-direction-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/grape-vineyard-management-water-irrigation-cluster-thinning-guide-aak11",
     "isNew": true
   },
   {
-    "id": "news-ed011bc4c1",
+    "id": "news-e26def2606",
     "category": "news",
-    "title": "Killari Earthquake: आठवणीतला विनाशकारी भूकंप",
+    "title": "Wild Vegetable Festival: कोल्हापुरात रानभाजी महोत्सवात ३०० हून अधिक महिला सहभागी",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/devastating-earthquake-maharashtra-history-memories-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/kolhapur-wild-vegetable-festival-300-women-farmers-abhi47",
     "isNew": true
   },
   {
-    "id": "news-3586b24acd",
+    "id": "news-474f4fb73b",
     "category": "news",
-    "title": "Herbicide Regulation: बेकायदेशीरपणाला हवा लगाम",
+    "title": "Sugar Recovery: उसातील साखरेचा उतारा जास्त मिळण्यासाठी १० चुका टाळा",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/sampadkiya/illegal-unregistered-herbicides-sales-farmer-safety-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/how-to-improve-sugar-recovery-sugarcane-ssp-25",
     "isNew": true
   },
   {
-    "id": "news-a75004d026",
+    "id": "news-52d6127e6b",
     "category": "news",
-    "title": "APMC Traders Problems: पुणे बाजारातील व्यापाऱ्यांना समस्यांचा फटका",
+    "title": "Fodder Crisis : सोलापूर जिल्ह्यात चारा वाहतूक बंद; जून २०२७ पर्यंत आदेश",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/agricultural-market-problems-trade-decline-market-development-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/solapur-fodder-transport-ban-collector-issues-orders-till-june-2027-aak11",
+    "isNew": true
+  },
+  {
+    "id": "news-ee0c477eb6",
+    "category": "news",
+    "title": "Farmer Loan Waiver : थकीत कर्जदारांची खाती निरंक कधी होणार?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/farmer-loan-waiver-maharashtra-3000-crore-update",
+    "isNew": true
+  },
+  {
+    "id": "news-9c3f15b790",
+    "category": "news",
+    "title": "Soybean Onion Rate: सोयाबीनचे दर कायम, कांद्याचे दर तेजीतच, टोमॅटोच्या बाजाराच चढ-उतार, मेथीच्या दरात तेजी तर केळीच्या आवकेत बदल",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/soybean-onion-rate-maharashtra-market-bhavs",
+    "isNew": true
+  },
+  {
+    "id": "news-0032575b93",
+    "category": "news",
+    "title": "Rain Update : कोकण, मध्य महाराष्ट्रात विजांसह पावसाचा अंदाज",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/maharashtra-rain-update-rain-showers-forecast",
+    "isNew": true
+  },
+  {
+    "id": "news-0b18cbc11c",
+    "category": "news",
+    "title": "Grape Pruning: द्राक्षाची छाटणी करताना काय काळजी घ्यावी?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/grape-pruning-disease-free-grapevine-tips",
     "isNew": true
   },
   {
@@ -141,7 +173,7 @@
     "title": "Food Processing Subsidy : १० लाखांच्या प्रोजेक्टसाठी स्वतःचे किती भांडवल? बँक कर्ज आणि अनुदानाचं गणित",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/food-processing-subsidy-2",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-27b536ae8f",
@@ -157,38 +189,6 @@
     "title": "Chana, Santri Bajarbhav: हरभरा दर कायम, ढोबळी मिरचीच्या दरात घसरण, पालकच्या आवकेत घट, ओल्या भुईमुगाच्या दरात चढ-उतार तर संत्र्याचे दर टिकून",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/chana-santri-bajarbhav-capsicum-spinach-groundnut-market-rates",
-    "isNew": false
-  },
-  {
-    "id": "news-4f2ec3fb53",
-    "category": "news",
-    "title": "Rain Update : कोकण, मध्य महाराष्ट्रात पावसाची शक्यता; उन्हाचा चटका वाढला",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/maharashtra-rain-update-konkan-madhya-maharashtra-rain-forecast",
-    "isNew": false
-  },
-  {
-    "id": "news-6e6c2b2e1d",
-    "category": "news",
-    "title": "Rabies Vaccination: जनावरांमधील रेबीज संशयित जनावराची काळजी कशी घ्यावी?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/rabies-vaccination-animal-rabies-symptoms-prevention",
-    "isNew": false
-  },
-  {
-    "id": "news-492c2e8a1a",
-    "category": "news",
-    "title": "Food Processing Machinery : कोण कोणत्या मशीनसाठी मिळते 35 टक्क्यांपर्यंत अनुदान?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/food-processing-machines-35-percent-subsidy-maharashtra",
-    "isNew": false
-  },
-  {
-    "id": "news-64ed601463",
-    "category": "news",
-    "title": "Maharashtra Drought 2026 : राज्यात दुष्काळाची पाहणी केंद्रीय पथक कधी करणार?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/maharashtra-drought-2026-central-team-inspection",
     "isNew": false
   }
 ]
