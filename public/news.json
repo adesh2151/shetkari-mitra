@@ -96,43 +96,51 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-02435acb80",
+    "id": "news-012aa7a7f4",
     "category": "news",
-    "title": "Rabi Crops MSP 2027-28: केंद्राकडून रब्बी पिकांच्या हमीभावात वाढीचा निर्णय, करडईत सर्वाधिक, गहू, हरभऱ्यात सर्वात कमी वाढ",
+    "title": "MSP Procurement 2026-27: केंद्र सरकारने तीन राज्यांतून कडधान्य आणि तेलबिया पिकांच्या हमीभाव खरेदीला दिली मंजुरी",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/rabi-crops-msp-2027-28-hike-safflower-wheat-gram-ddb79",
+    "link": "https://agrowon.esakal.com/market-intelligence/tur-soybean-moong-procurement-approved-at-msp-in-three-states-ds98",
     "isNew": true
   },
   {
-    "id": "news-a53fc29e8c",
+    "id": "news-fe983874f1",
     "category": "news",
-    "title": "Grape Farming : द्राक्ष बागेत पाणी नियोजनासह घडांच्या संख्येवर नियंत्रण गरजेचे",
+    "title": "Water Diversion : तुटीच्या मांजरा खोऱ्यात ५० टीएमसी पाणी वळवा",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/grape-vineyard-management-water-irrigation-cluster-thinning-guide-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/divert-50-tmc-floodwater-to-deficit-manjara-basin-water-experts-aak11",
     "isNew": true
   },
   {
-    "id": "news-e26def2606",
+    "id": "news-ff2962f566",
     "category": "news",
-    "title": "Wild Vegetable Festival: कोल्हापुरात रानभाजी महोत्सवात ३०० हून अधिक महिला सहभागी",
+    "title": "Ranvali Dam: ‘रानवली’चा जलसाठा घटला",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/kolhapur-wild-vegetable-festival-300-women-farmers-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/ranvali-dam-water-storage-falls-51-percent-shrivardhan",
     "isNew": true
   },
   {
-    "id": "news-474f4fb73b",
+    "id": "news-69c8f67e84",
     "category": "news",
-    "title": "Sugar Recovery: उसातील साखरेचा उतारा जास्त मिळण्यासाठी १० चुका टाळा",
+    "title": "Global Raisin Market: शेतकऱ्यांनो, जागतिक बेदाणा बाजारपेठ तुम्हाला साद घालतेय...",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/how-to-improve-sugar-recovery-sugarcane-ssp-25",
+    "link": "https://agrowon.esakal.com/agro-special/indian-raisins-global-market-export-opportunity-rat16",
     "isNew": true
   },
   {
-    "id": "news-52d6127e6b",
+    "id": "news-3ce829c62b",
     "category": "news",
-    "title": "Fodder Crisis : सोलापूर जिल्ह्यात चारा वाहतूक बंद; जून २०२७ पर्यंत आदेश",
+    "title": "Maharashtra Drought: अरिष्टाची पहिली कळ",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/solapur-fodder-transport-ban-collector-issues-orders-till-june-2027-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/maharashtra-drought-265-talukas-agriculture-water-rural-economy-rat16",
+    "isNew": true
+  },
+  {
+    "id": "news-5551866ef2",
+    "category": "news",
+    "title": "Soybean Crop : जिरायत सोयाबीनला पावसाची शक्यता नाही? ऑक्टोबर हिटचा तडाका वाढणार",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/soybean-crop-rainfall-october-heat-maharashtra",
     "isNew": true
   },
   {
@@ -141,7 +149,7 @@
     "title": "Farmer Loan Waiver : थकीत कर्जदारांची खाती निरंक कधी होणार?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/farmer-loan-waiver-maharashtra-3000-crore-update",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-9c3f15b790",
@@ -149,7 +157,7 @@
     "title": "Soybean Onion Rate: सोयाबीनचे दर कायम, कांद्याचे दर तेजीतच, टोमॅटोच्या बाजाराच चढ-उतार, मेथीच्या दरात तेजी तर केळीच्या आवकेत बदल",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/soybean-onion-rate-maharashtra-market-bhavs",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-0032575b93",
@@ -157,7 +165,7 @@
     "title": "Rain Update : कोकण, मध्य महाराष्ट्रात विजांसह पावसाचा अंदाज",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/maharashtra-rain-update-rain-showers-forecast",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-0b18cbc11c",
@@ -165,7 +173,7 @@
     "title": "Grape Pruning: द्राक्षाची छाटणी करताना काय काळजी घ्यावी?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/grape-pruning-disease-free-grapevine-tips",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-95adec813d",
@@ -181,14 +189,6 @@
     "title": "Drought Madat : पंचनाम्यांवर शेतकऱ्यांची सही करण्यासंदर्भात मुख्यमंत्री काय म्हणाले?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/drought-relief-panchnama-signature-cm-farmer-compensation",
-    "isNew": false
-  },
-  {
-    "id": "news-3968ba2c7d",
-    "category": "news",
-    "title": "Chana, Santri Bajarbhav: हरभरा दर कायम, ढोबळी मिरचीच्या दरात घसरण, पालकच्या आवकेत घट, ओल्या भुईमुगाच्या दरात चढ-उतार तर संत्र्याचे दर टिकून",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/chana-santri-bajarbhav-capsicum-spinach-groundnut-market-rates",
     "isNew": false
   }
 ]
