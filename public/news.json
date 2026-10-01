@@ -96,43 +96,83 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-012aa7a7f4",
+    "id": "news-b5993a9e2e",
     "category": "news",
-    "title": "MSP Procurement 2026-27: केंद्र सरकारने तीन राज्यांतून कडधान्य आणि तेलबिया पिकांच्या हमीभाव खरेदीला दिली मंजुरी",
+    "title": "Parbhani Rainfall: परभणीत ३२९.२ मिमी, तर हिंगोलीत २४६.७ मिमी पावसाची तूट",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/market-intelligence/tur-soybean-moong-procurement-approved-at-msp-in-three-states-ds98",
+    "link": "https://agrowon.esakal.com/agro-special/rainfall-deficit-triggers-severe-drought-conditions-parbhani-hingoli",
     "isNew": true
   },
   {
-    "id": "news-fe983874f1",
+    "id": "news-c557df5fd8",
     "category": "news",
-    "title": "Water Diversion : तुटीच्या मांजरा खोऱ्यात ५० टीएमसी पाणी वळवा",
+    "title": "Aadhaar Card: दस्त नोंदणीसाठी आधारकार्ड बंधनकारक, १ ऑक्टोबरपासून नियम लागू, मंत्री बावनकुळेंची माहिती",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/divert-50-tmc-floodwater-to-deficit-manjara-basin-water-experts-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/aadhaar-card-mandatory-property-registration-maharashtra-ddb79",
     "isNew": true
   },
   {
-    "id": "news-ff2962f566",
+    "id": "news-dae3e5cf65",
     "category": "news",
-    "title": "Ranvali Dam: ‘रानवली’चा जलसाठा घटला",
+    "title": "Sugarcane Crushing: नांदेड विभागात १.३६ कोटी टन ऊस गाळपाचा अंदाज",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/ranvali-dam-water-storage-falls-51-percent-shrivardhan",
+    "link": "https://agrowon.esakal.com/agro-special/nanded-division-estimates-more-than-one-crore-tonnes-sugarcane-crushing",
     "isNew": true
   },
   {
-    "id": "news-69c8f67e84",
+    "id": "news-3e94f43504",
     "category": "news",
-    "title": "Global Raisin Market: शेतकऱ्यांनो, जागतिक बेदाणा बाजारपेठ तुम्हाला साद घालतेय...",
+    "title": "Monsoon Delay : बळीराजावर पाऊस रुसला",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/indian-raisins-global-market-export-opportunity-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/monsoon-delayed-in-maharashtra-farmers-distressed-aak11",
     "isNew": true
   },
   {
-    "id": "news-3ce829c62b",
+    "id": "news-2086807fc8",
     "category": "news",
-    "title": "Maharashtra Drought: अरिष्टाची पहिली कळ",
+    "title": "Women Farmers Certificate : कोल्हापुरात महिला शेतकरी प्रमाणपत्रासाठी २० हजारांहून अधिक महिलांची नोंदणी",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/maharashtra-drought-265-talukas-agriculture-water-rural-economy-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/over-20000-register-for-women-farmer-certificate-aak11",
+    "isNew": true
+  },
+  {
+    "id": "news-2a326bcf22",
+    "category": "news",
+    "title": "Maharashtra Drought : सरकारी योजनांमधून गावांचा विकास कसा होणार?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/maharashtra-drought-government-schemes-village-development",
+    "isNew": true
+  },
+  {
+    "id": "news-1ebdf2adb4",
+    "category": "news",
+    "title": "Monsoon October : यंदा मॉन्सून हंगामावर 'एल निनो'चा प्रभाव दिसला का?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/monsoon-october-2026-el-nino-impact-maharashtra",
+    "isNew": true
+  },
+  {
+    "id": "news-fd366ea284",
+    "category": "news",
+    "title": "Jowar,Udid Rate: ज्वारी दरात  चढ-उतार, उडीद बाजारात तेजी, वांगी बाजारात चढ-उतार, डाळिंब दर टिकून, कोथिंबीर आवकेत चढ-उतार",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/jowar-udid-rate-brinjal-pomegranate-coriander-bajarbhav",
+    "isNew": true
+  },
+  {
+    "id": "news-608141d524",
+    "category": "news",
+    "title": "Rain Update : कोकण, घाटमाथ्यावर पावसाचा इशारा; ५ दिवसांचा अंदाज काय?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/maharashtra-rain-update-konkan-ghat-rain-forecast",
+    "isNew": true
+  },
+  {
+    "id": "news-69342361df",
+    "category": "news",
+    "title": "Cotton Water Stress: कपाशी पिकातील पाण्याचा ताण कसा कमी करावा?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/cotton-water-stress-management-tips",
     "isNew": true
   },
   {
@@ -141,7 +181,7 @@
     "title": "Soybean Crop : जिरायत सोयाबीनला पावसाची शक्यता नाही? ऑक्टोबर हिटचा तडाका वाढणार",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/soybean-crop-rainfall-october-heat-maharashtra",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-ee0c477eb6",
@@ -149,46 +189,6 @@
     "title": "Farmer Loan Waiver : थकीत कर्जदारांची खाती निरंक कधी होणार?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/farmer-loan-waiver-maharashtra-3000-crore-update",
-    "isNew": false
-  },
-  {
-    "id": "news-9c3f15b790",
-    "category": "news",
-    "title": "Soybean Onion Rate: सोयाबीनचे दर कायम, कांद्याचे दर तेजीतच, टोमॅटोच्या बाजाराच चढ-उतार, मेथीच्या दरात तेजी तर केळीच्या आवकेत बदल",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/soybean-onion-rate-maharashtra-market-bhavs",
-    "isNew": false
-  },
-  {
-    "id": "news-0032575b93",
-    "category": "news",
-    "title": "Rain Update : कोकण, मध्य महाराष्ट्रात विजांसह पावसाचा अंदाज",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/maharashtra-rain-update-rain-showers-forecast",
-    "isNew": false
-  },
-  {
-    "id": "news-0b18cbc11c",
-    "category": "news",
-    "title": "Grape Pruning: द्राक्षाची छाटणी करताना काय काळजी घ्यावी?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/grape-pruning-disease-free-grapevine-tips",
-    "isNew": false
-  },
-  {
-    "id": "news-95adec813d",
-    "category": "news",
-    "title": "Food Processing Subsidy : १० लाखांच्या प्रोजेक्टसाठी स्वतःचे किती भांडवल? बँक कर्ज आणि अनुदानाचं गणित",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/food-processing-subsidy-2",
-    "isNew": false
-  },
-  {
-    "id": "news-27b536ae8f",
-    "category": "news",
-    "title": "Drought Madat : पंचनाम्यांवर शेतकऱ्यांची सही करण्यासंदर्भात मुख्यमंत्री काय म्हणाले?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/drought-relief-panchnama-signature-cm-farmer-compensation",
     "isNew": false
   }
 ]
