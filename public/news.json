@@ -96,43 +96,75 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-4d5a6b5b3f",
+    "id": "news-96bf8376ee",
     "category": "news",
-    "title": "Minimum Support Price: ‘कमी’भाव जाहीर",
+    "title": "Poultry Care: ऑक्टोबर हीटचा कोंबड्यांवरील परिणाम रोखण्यासाठी महत्त्वाचे उपाय",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/sampadkiya/minimum-support-price-msp-meaning-farmers-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/how-to-protect-chickens-from-october-heat-stress-ssp-25",
     "isNew": true
   },
   {
-    "id": "news-3a3a88fa3e",
+    "id": "news-45fa789001",
     "category": "news",
-    "title": "Drought Mitigation: दुष्काळ निवारणाला द्या नवा आयाम",
+    "title": "Drinking Water Crisis: आदिवासी कातकरी वस्ती तहानलेली!",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/sampadkiya/maharashtra-drought-mitigation-new-approach-water-security-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/karjat-katkari-tribal-settlement-drinking-water-crisis-abhi47",
     "isNew": true
   },
   {
-    "id": "news-64dee8b32b",
+    "id": "news-7c9892aeae",
     "category": "news",
-    "title": "El Nino Impact: ‘एल निनो’मुळे राज्याच्या पावसात १९ टक्क्यांची तूट",
+    "title": "Pomegranate Research Centre: कर्नाटकच्या उच्चस्तरीय शिष्टमंडळाची राष्ट्रीय डाळिंब संशोधन केंद्रास भेट",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/weather-news/el-nino-maharashtra-rainfall-deficit-19-percent-2026-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/karnataka-delegation-national-pomegranate-research-centre-solapur-abhi47",
     "isNew": true
   },
   {
-    "id": "news-8dcf5b1b6c",
+    "id": "news-019be31da9",
     "category": "news",
-    "title": "Fruit Sapling Distribution: शेतकऱ्यांना डाळिंब, पेरूच्या कलमांचे वितरण",
+    "title": "Raigad Drought Situation: रायगड जिल्ह्यावर दुष्काळाची छाया",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/pomegranate-guava-saplings-distribution-pune-farmers-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/raigad-drought-rainfall-deficit-paddy-farming-abhi47",
     "isNew": true
   },
   {
-    "id": "news-41afe958f5",
+    "id": "news-6689fd68bd",
     "category": "news",
-    "title": "Drought Crisis: दुष्काळानं माझा लेक न्येला...  त्याची राख बगून",
+    "title": "Solapur District Bank: सोलापूर जिल्हा बँक निवडणूक मतदार यादीवर शेवटच्या दिवशी सर्वाधिक हरकती",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/drought-farmer-family-distress-chhatrapati-sambhajinagar-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/solapur-district-bank-election-voter-list-objections-abhi47",
+    "isNew": true
+  },
+  {
+    "id": "news-f1a3dc3cf2",
+    "category": "news",
+    "title": "Drought Madat : दुष्काळ जाहीर झालेल्या तालुक्यांसाठी राज्य सरकारने पीककर्ज वसुलीसाठी घेतला निर्णय",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/drought-relief-maharashtra-crop-loan-recovery-decision",
+    "isNew": true
+  },
+  {
+    "id": "news-2831b318ee",
+    "category": "news",
+    "title": "Maize Shepu Rate: मका दरात बदल, भेंडीच्या बाजारात चढ-उतार, काकडी आवकेत बदल, शेपूच्या दरात वाढ तर लिंबू दर टिकून",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/maize-shepu-okra-cucumber-lemon-bajarbhav",
+    "isNew": true
+  },
+  {
+    "id": "news-829608586f",
+    "category": "news",
+    "title": "Monsoon Return :कोकणात उष्ण व दमट हवामानाचा इशारा; राज्यात पावसाची उघडीप शक्य",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/monsoon-return-konkan-hot-humid-weather-maharashtra",
+    "isNew": true
+  },
+  {
+    "id": "news-38e53be7f8",
+    "category": "news",
+    "title": "Sugarcane Crushing Season: चांगला साखर उतारा मिळण्यासाठी कोणत्या गोष्टी महत्त्वाच्या?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/sugarcane-crushing-season-sugar-recovery-tips",
     "isNew": true
   },
   {
@@ -157,38 +189,6 @@
     "title": "Jowar,Udid Rate: ज्वारी दरात  चढ-उतार, उडीद बाजारात तेजी, वांगी बाजारात चढ-उतार, डाळिंब दर टिकून, कोथिंबीर आवकेत चढ-उतार",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/jowar-udid-rate-brinjal-pomegranate-coriander-bajarbhav",
-    "isNew": false
-  },
-  {
-    "id": "news-608141d524",
-    "category": "news",
-    "title": "Rain Update : कोकण, घाटमाथ्यावर पावसाचा इशारा; ५ दिवसांचा अंदाज काय?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/maharashtra-rain-update-konkan-ghat-rain-forecast",
-    "isNew": false
-  },
-  {
-    "id": "news-69342361df",
-    "category": "news",
-    "title": "Cotton Water Stress: कपाशी पिकातील पाण्याचा ताण कसा कमी करावा?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/cotton-water-stress-management-tips",
-    "isNew": false
-  },
-  {
-    "id": "news-5551866ef2",
-    "category": "news",
-    "title": "Soybean Crop : जिरायत सोयाबीनला पावसाची शक्यता नाही? ऑक्टोबर हिटचा तडाका वाढणार",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/soybean-crop-rainfall-october-heat-maharashtra",
-    "isNew": false
-  },
-  {
-    "id": "news-ee0c477eb6",
-    "category": "news",
-    "title": "Farmer Loan Waiver : थकीत कर्जदारांची खाती निरंक कधी होणार?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/farmer-loan-waiver-maharashtra-3000-crore-update",
     "isNew": false
   }
 ]
