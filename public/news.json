@@ -96,43 +96,43 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-96bf8376ee",
+    "id": "news-b1ed13b683",
     "category": "news",
-    "title": "Poultry Care: ऑक्टोबर हीटचा कोंबड्यांवरील परिणाम रोखण्यासाठी महत्त्वाचे उपाय",
+    "title": "Maharashtra Drought Crisis: होरपळीच्या सुलतानी झळा",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/how-to-protect-chickens-from-october-heat-stress-ssp-25",
+    "link": "https://agrowon.esakal.com/agro-special/maharashtra-drought-crisis-farmers-crop-livestock-fodder-rat16",
     "isNew": true
   },
   {
-    "id": "news-45fa789001",
+    "id": "news-4c9b153647",
     "category": "news",
-    "title": "Drinking Water Crisis: आदिवासी कातकरी वस्ती तहानलेली!",
+    "title": "Onion Procurement Irregularities: ‘खरे’ उत्तर मिळेल?",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/karjat-katkari-tribal-settlement-drinking-water-crisis-abhi47",
+    "link": "https://agrowon.esakal.com/sampadkiya/onion-procurement-transparency-nafed-nccf-nashik-farmers-rat16",
     "isNew": true
   },
   {
-    "id": "news-7c9892aeae",
+    "id": "news-02eebce44f",
     "category": "news",
-    "title": "Pomegranate Research Centre: कर्नाटकच्या उच्चस्तरीय शिष्टमंडळाची राष्ट्रीय डाळिंब संशोधन केंद्रास भेट",
+    "title": "Water Shortage Management: पुणे जिल्ह्यात टंचाईमुळे पाणी नियोजनाला वेग",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/karnataka-delegation-national-pomegranate-research-centre-solapur-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/pune-district-water-shortage-water-planning-rat16",
     "isNew": true
   },
   {
-    "id": "news-019be31da9",
+    "id": "news-5fa72c7edb",
     "category": "news",
-    "title": "Raigad Drought Situation: रायगड जिल्ह्यावर दुष्काळाची छाया",
+    "title": "Marathwada Climate Monitoring: मराठवाड्यात हवामान अभ्यास, संशोधन केंद्राची गरज",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/raigad-drought-rainfall-deficit-paddy-farming-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/marathwada-climate-change-agriculture-research-centre-rat16",
     "isNew": true
   },
   {
-    "id": "news-6689fd68bd",
+    "id": "news-f079167def",
     "category": "news",
-    "title": "Solapur District Bank: सोलापूर जिल्हा बँक निवडणूक मतदार यादीवर शेवटच्या दिवशी सर्वाधिक हरकती",
+    "title": "Agricultural Pump Theft: दुष्काळात तेरावा महिना; कृषिपंपांसह केबलची चोरी",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/solapur-district-bank-election-voter-list-objections-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/agricultural-pump-theft-farmers-irrigation-crisis-maharashtra-rat16",
     "isNew": true
   },
   {
@@ -141,7 +141,7 @@
     "title": "Drought Madat : दुष्काळ जाहीर झालेल्या तालुक्यांसाठी राज्य सरकारने पीककर्ज वसुलीसाठी घेतला निर्णय",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/drought-relief-maharashtra-crop-loan-recovery-decision",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-2831b318ee",
@@ -149,7 +149,7 @@
     "title": "Maize Shepu Rate: मका दरात बदल, भेंडीच्या बाजारात चढ-उतार, काकडी आवकेत बदल, शेपूच्या दरात वाढ तर लिंबू दर टिकून",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/maize-shepu-okra-cucumber-lemon-bajarbhav",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-829608586f",
@@ -157,7 +157,7 @@
     "title": "Monsoon Return :कोकणात उष्ण व दमट हवामानाचा इशारा; राज्यात पावसाची उघडीप शक्य",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/monsoon-return-konkan-hot-humid-weather-maharashtra",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-38e53be7f8",
@@ -165,7 +165,7 @@
     "title": "Sugarcane Crushing Season: चांगला साखर उतारा मिळण्यासाठी कोणत्या गोष्टी महत्त्वाच्या?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/sugarcane-crushing-season-sugar-recovery-tips",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-2a326bcf22",
