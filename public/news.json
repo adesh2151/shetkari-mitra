@@ -96,43 +96,59 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-7899388c36",
+    "id": "news-01ec2612f8",
     "category": "news",
-    "title": "Baramati Drought Inspection: पुरंदर, जानाई-शिरसाईमुळे शेतीला पाण्याचा आधार; तरीही शंभर टक्के बागायतीचे उद्दिष्ट अपूर्ण : शरद पवार",
+    "title": "Sugarcane FRP: उसाला ५ हजारांवर दर मिळाला तरच ऊस शेती परवडू शकते- राजू शेट्टी",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/purandar-janai-shirsai-irrigation-baramati-sharad-pawar-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/sugarcane-frp-raju-shetti-5000-per-ton-sugar-msp-ddb79",
     "isNew": true
   },
   {
-    "id": "news-1d395bcb0c",
+    "id": "news-59d96a7965",
     "category": "news",
-    "title": "Leopard Roar: विठेवाडी शिवारात बिबट्याचा धुमाकूळ",
+    "title": "Ahilyanagar DCCB : अहिल्यानगर जिल्हा बॅंकेसाठी उमेदवारी अर्जाचा ओघ",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/vithewadi-deola-nashik-leopard-attack-elderly-woman-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/surge-in-nominations-filed-for-ahilyanagar-district-cooperative-bank-elections-aak11",
     "isNew": true
   },
   {
-    "id": "news-cee4c95f90",
+    "id": "news-5404caa8b9",
     "category": "news",
-    "title": "Agrowon Podcast: हरभरा दरात चढ-उतार, मेथीचे दर टिकून, आल्याच्या आवकेत चढ-उतार, बीटचे दर स्थिर तर पेरूच्या भावात वाढ",
+    "title": "Ahilyanagar Vegetable Market : अहिल्यानगरच्या भाजीपाला बाजारात चोरांचे बस्तान",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/market-intelligence/market-bulletin/chana-methi-ginger-beetroot-guava-market-rates-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/rise-in-pickpocketing-and-theft-at-ahilyanagar-vegetable-market-sparks-outrage-aak11",
     "isNew": true
   },
   {
-    "id": "news-807995a1ff",
+    "id": "news-8846db7bdb",
     "category": "news",
-    "title": "Pan Pimpali Farming: पान पिंपळी उत्पादकांना २३ लाखांचे अनुदान वितरित",
+    "title": "Mahagaon Ginning : महागावात जिनिंगच्या उत्पन्नवाढीवर भर",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/akola-pan-pimpali-cultivation-subsidy-60-thousand-per-hectare-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/mahagaon-focuses-on-boosting-revenue-and-growth-of-ginning-industry-aak11",
     "isNew": true
   },
   {
-    "id": "news-1a25ec7fa5",
+    "id": "news-a814499e33",
     "category": "news",
-    "title": "El Nino Banana Care: केळी पिकावरील एल निनोचा परिणाम कसा कमी करावा?",
+    "title": "Latur Drought: दुष्काळात जनावरे जगवण्यासाठी धडपड, लातूरमधील शेतकऱ्यांनी चाऱ्यासाठी उभ्या उसाला लावला कोयता",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/animal-care/animal-diseases/how-to-protect-chickens-october-heat-stress-ssp-25",
+    "link": "https://agrowon.esakal.com/agro-special/latur-drought-fodder-crisis-farmers-sugarcane-livestock-ddb79",
+    "isNew": true
+  },
+  {
+    "id": "news-ad02240619",
+    "category": "news",
+    "title": "Dushkal Madat: पीक नुकसानीची मदत देताना एनडीआरएफचा नियम लावणार ?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/drought-relief-ndrf-crop-loss-compensation-maharashtra",
+    "isNew": true
+  },
+  {
+    "id": "news-f8ed6841e5",
+    "category": "news",
+    "title": "Namo Installment : नमोचा हप्त्याच्या वितरणाची राज्य सरकार माहिती का देत नाही?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/namo-shetkari-installment-payment-date-maharashtra",
     "isNew": true
   },
   {
@@ -141,7 +157,7 @@
     "title": "Chana Methi Rate: हरभरा दरात चढ-उतार, मेथीचे दर टिकून, आल्याच्या आवकेत चढ-उतार, बीटचे दर स्थिर तर पेरूच्या भावात वाढ",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/chana-methi-ginger-beetroot-guava-market-rates",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-b518cbf3c6",
@@ -149,7 +165,7 @@
     "title": "Monsoon Return : मॉन्सूनची महाराष्ट्राच्या बहुतांश भागातून माघार",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/monsoon-return-maharashtra-withdrawal-latest-update",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-1d7c0d2ebd",
@@ -157,7 +173,7 @@
     "title": "Sorghum Varieties: दुष्काळाच्या काळात कोरडवाहू आणि बागायती रब्बी ज्वारीचे वाण?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/sorghum-varieties-rabi-jowar-dryland-irrigated-maharashtra",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-f1a3dc3cf2",
@@ -173,22 +189,6 @@
     "title": "Maize Shepu Rate: मका दरात बदल, भेंडीच्या बाजारात चढ-उतार, काकडी आवकेत बदल, शेपूच्या दरात वाढ तर लिंबू दर टिकून",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/maize-shepu-okra-cucumber-lemon-bajarbhav",
-    "isNew": false
-  },
-  {
-    "id": "news-829608586f",
-    "category": "news",
-    "title": "Monsoon Return :कोकणात उष्ण व दमट हवामानाचा इशारा; राज्यात पावसाची उघडीप शक्य",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/monsoon-return-konkan-hot-humid-weather-maharashtra",
-    "isNew": false
-  },
-  {
-    "id": "news-38e53be7f8",
-    "category": "news",
-    "title": "Sugarcane Crushing Season: चांगला साखर उतारा मिळण्यासाठी कोणत्या गोष्टी महत्त्वाच्या?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/sugarcane-crushing-season-sugar-recovery-tips",
     "isNew": false
   }
 ]
