@@ -96,43 +96,67 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-7b504b35ff",
+    "id": "news-60a61ca7c1",
     "category": "news",
-    "title": "Drought Management: दुष्काळावर रोजगाराच्या हमीचा उतारा",
+    "title": "Banana Crop Insurance : केळी विमाधारकांच्या परताव्याची मागणी",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/drought-relief-employment-guarantee-maharashtra-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/sharp-demand-for-immediate-release-of-banana-crop-insurance-claims-aak11",
     "isNew": true
   },
   {
-    "id": "news-5e32354453",
+    "id": "news-dfec23d544",
     "category": "news",
-    "title": "Integrated Land Management System: जमीन अभिलेख प्रक्रियांसाठी एकात्मिक भूमी व्यवस्थापन प्रणाली",
+    "title": "Drought Relief : दुष्काळसदृश स्थितीत पाणी, चारा, रोजगार हमीच्या उपाययोजनांना गती द्या; जिल्हाधिकारी योगेश कुंभेजकर",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/maharashtra-integrated-land-management-system-land-records-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/collector-yogesh-kumbhejkar-orders-action-on-water-and-fodder-scarcity-aak11",
     "isNew": true
   },
   {
-    "id": "news-17f331609f",
+    "id": "news-e35b7ba527",
     "category": "news",
-    "title": "Namo Farmer Payment Issue: चंद्रपुरात ‘नमो’च्या हप्त्यांच्या प्रतीक्षेत २.४५ लाख शेतकरी",
+    "title": "Beed Crop Damage : बीड जिल्ह्यात २.२३ लाख हेक्टरवरील पीक नुकसानीचे पंचनामे पूर्ण",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/chandrapur-2-45-lakh-farmers-await-namo-shetkari-instalment-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/crop-damage-surveys-completed-across-223-lakh-hectares-aak11",
     "isNew": true
   },
   {
-    "id": "news-4778db4f40",
+    "id": "news-3e39c85a96",
     "category": "news",
-    "title": "Maharashtra Government Departments: सहकार, पणन व वस्त्रोद्योग विभागाचे तीन स्वतंत्र विभाग",
+    "title": "PM Modi Baramati Visit: पंतप्रधान मोदी ३ नोव्हेंबरला बारामती दौऱ्यावर शरद पवार यांची माहिती",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/maharashtra-government-cooperation-marketing-textile-departments-218-posts-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/pm-modi-baramati-visit-november-3-sharad-pawar-rat16",
     "isNew": true
   },
   {
-    "id": "news-8a655cb91d",
+    "id": "news-1ea43d3823",
     "category": "news",
-    "title": "Sugarcane Weighing Scale Inspection: ऊस वजनकाट्यांच्या तपासणीसाठी पथके",
+    "title": "Crop Damage Survey: परभणी जिल्ह्यात पीक नुकसान पंचनामे वेगाने",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/sugarcane-weighing-scale-inspection-maharashtra-2026-27-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/parbhani-crop-damage-panchnama-farmers-drought-rat16",
+    "isNew": true
+  },
+  {
+    "id": "news-3b5266d006",
+    "category": "news",
+    "title": "Grampanchayat Scheme : गावाच्या विकासकामासाठी भ्रष्टाचार करावा लागतो? | Ft. Shekhar Patil",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/gram-panchayat-scheme-village-development-corruption-shekhar-patil",
+    "isNew": true
+  },
+  {
+    "id": "news-63cb5b4828",
+    "category": "news",
+    "title": "Food Processing Scheme : अन्नप्रक्रिया उद्योगात महिलांचा सहभाग किती? योजनेत सहभागी कसे व्हाल?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/food-processing-scheme-women-entrepreneurs-pmfme-maharashtra",
+    "isNew": true
+  },
+  {
+    "id": "news-d181ddd03b",
+    "category": "news",
+    "title": "Berseem Fodder: हेक्टरी ६०० ते ८०० क्विंटल हिरवा चारा देणाऱ्या घोडा घासची लागवड?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/berseem-fodder-cultivation-green-fodder-yield",
     "isNew": true
   },
   {
@@ -165,30 +189,6 @@
     "title": "Monsoon Return : मॉन्सूनची महाराष्ट्राच्या बहुतांश भागातून माघार",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/monsoon-return-maharashtra-withdrawal-latest-update",
-    "isNew": false
-  },
-  {
-    "id": "news-1d7c0d2ebd",
-    "category": "news",
-    "title": "Sorghum Varieties: दुष्काळाच्या काळात कोरडवाहू आणि बागायती रब्बी ज्वारीचे वाण?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/sorghum-varieties-rabi-jowar-dryland-irrigated-maharashtra",
-    "isNew": false
-  },
-  {
-    "id": "news-f1a3dc3cf2",
-    "category": "news",
-    "title": "Drought Madat : दुष्काळ जाहीर झालेल्या तालुक्यांसाठी राज्य सरकारने पीककर्ज वसुलीसाठी घेतला निर्णय",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/drought-relief-maharashtra-crop-loan-recovery-decision",
-    "isNew": false
-  },
-  {
-    "id": "news-2831b318ee",
-    "category": "news",
-    "title": "Maize Shepu Rate: मका दरात बदल, भेंडीच्या बाजारात चढ-उतार, काकडी आवकेत बदल, शेपूच्या दरात वाढ तर लिंबू दर टिकून",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/maize-shepu-okra-cucumber-lemon-bajarbhav",
     "isNew": false
   }
 ]
