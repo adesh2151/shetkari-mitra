@@ -96,44 +96,44 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
+    "id": "news-b53c108195",
+    "category": "news",
+    "title": "Drought Crisis : दुष्काळी संकट तंत्रज्ञानाच्या पलीकडे; दीर्घकालीन नियोजनाची गरज; कुलगुरू डॉ. विलास खर्चे",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/agro-special/dr-vilas-kharche-views-on-long-term-agricultural-planning-for-droughts-aak11",
+    "isNew": true
+  },
+  {
+    "id": "news-42ff8b6395",
+    "category": "news",
+    "title": "Ahilyanagar Crop Damage : अहिल्यानगर जिल्ह्यात पिकांचे पंचनामे सुरू",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/agro-special/joint-surveys-and-assessment-rolled-out-across-the-district-aak11",
+    "isNew": true
+  },
+  {
+    "id": "news-15bc613052",
+    "category": "news",
+    "title": "Maharashtra Agriculture : संकटातून बाहेर काढण्यासाठी सर्वतोपरी प्रयत्न करणार; महसूलमंत्री बावनकुळे",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/agro-special/revenue-minister-chandrashekhar-bawankule-assures-full-support-to-farmers-aak11",
+    "isNew": true
+  },
+  {
+    "id": "news-5b97385ed4",
+    "category": "news",
+    "title": "Sugarcane Price Dispute : ऊसदराचा निर्णय होईपर्यंत कारखाने बंद ठेवा;‘स्वाभिमानी’चा इशारा",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/agro-special/swabhimani-warns-mills-to-halt-operations-until-rate-is-fixed-aak11",
+    "isNew": true
+  },
+  {
     "id": "news-60a61ca7c1",
     "category": "news",
     "title": "Banana Crop Insurance : केळी विमाधारकांच्या परताव्याची मागणी",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/agro-special/sharp-demand-for-immediate-release-of-banana-crop-insurance-claims-aak11",
-    "isNew": true
-  },
-  {
-    "id": "news-dfec23d544",
-    "category": "news",
-    "title": "Drought Relief : दुष्काळसदृश स्थितीत पाणी, चारा, रोजगार हमीच्या उपाययोजनांना गती द्या; जिल्हाधिकारी योगेश कुंभेजकर",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/collector-yogesh-kumbhejkar-orders-action-on-water-and-fodder-scarcity-aak11",
-    "isNew": true
-  },
-  {
-    "id": "news-e35b7ba527",
-    "category": "news",
-    "title": "Beed Crop Damage : बीड जिल्ह्यात २.२३ लाख हेक्टरवरील पीक नुकसानीचे पंचनामे पूर्ण",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/crop-damage-surveys-completed-across-223-lakh-hectares-aak11",
-    "isNew": true
-  },
-  {
-    "id": "news-3e39c85a96",
-    "category": "news",
-    "title": "PM Modi Baramati Visit: पंतप्रधान मोदी ३ नोव्हेंबरला बारामती दौऱ्यावर शरद पवार यांची माहिती",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/pm-modi-baramati-visit-november-3-sharad-pawar-rat16",
-    "isNew": true
-  },
-  {
-    "id": "news-1ea43d3823",
-    "category": "news",
-    "title": "Crop Damage Survey: परभणी जिल्ह्यात पीक नुकसान पंचनामे वेगाने",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/parbhani-crop-damage-panchnama-farmers-drought-rat16",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-3b5266d006",
@@ -141,7 +141,7 @@
     "title": "Grampanchayat Scheme : गावाच्या विकासकामासाठी भ्रष्टाचार करावा लागतो? | Ft. Shekhar Patil",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/gram-panchayat-scheme-village-development-corruption-shekhar-patil",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-63cb5b4828",
@@ -149,7 +149,7 @@
     "title": "Food Processing Scheme : अन्नप्रक्रिया उद्योगात महिलांचा सहभाग किती? योजनेत सहभागी कसे व्हाल?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/food-processing-scheme-women-entrepreneurs-pmfme-maharashtra",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-d181ddd03b",
@@ -157,7 +157,7 @@
     "title": "Berseem Fodder: हेक्टरी ६०० ते ८०० क्विंटल हिरवा चारा देणाऱ्या घोडा घासची लागवड?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/berseem-fodder-cultivation-green-fodder-yield",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-ad02240619",
