@@ -96,43 +96,67 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-7f5af03e61",
+    "id": "news-74edd9d740",
     "category": "news",
-    "title": "Fake Agriculture Input: बनावट निविष्ठांचे जाळे राज्यांच्या सीमापार",
+    "title": "Crop Damage Assessment : नुकसानग्रस्त पिकांचे पंचनामे संवेदनशीलपणे करा",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/fake-agricultural-inputs-network-across-state-borders-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/conduct-damaged-crop-assessment-panchnama-sensitively-marathi-aak1",
     "isNew": true
   },
   {
-    "id": "news-5b5115b128",
+    "id": "news-e6cdfa80d7",
     "category": "news",
-    "title": "Jantar Mantar Protest: जंतरमंतरवरील आंदोलन आणि सप्तपर्णीची अ‍ॅलर्जी",
+    "title": "Tiger Conservation : चार व्याघ्र प्रकल्पांच्या संवर्धन आराखड्यांना मंजुरी का नाही?",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/jantar-mantar-delhi-new-protest-movement-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/delay-in-approval-for-wildlife-conservation-plans-sparks-outrage-aak11",
     "isNew": true
   },
   {
-    "id": "news-4443b660d9",
+    "id": "news-b68f6f7768",
     "category": "news",
-    "title": "Fake Pesticide Issue: बनावट कीडनाशके : हवी सक्षम यंत्रणा",
+    "title": "Ahillyanagar Bank Election : ‘सर्वांना विश्‍वासात घेतल्याशिवाय बिनविरोध करण्याचा निर्णय कसा?",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/sampadkiya/fake-pesticides-strong-management-system-india-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/unopposed-election-decision-controversy-political-dispute-aak11",
     "isNew": true
   },
   {
-    "id": "news-5e4ec061ef",
+    "id": "news-0a5275510b",
     "category": "news",
-    "title": "Tissue Culture Lab Scheme: उती संवर्धन प्रयोगशाळेसाठी अर्जाची संधी",
+    "title": "Safflower Varieties: करडईचे कोणते वाण फायदेशीर? कोरडवाहू आणि बागायतीसाठी ८ पर्याय",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/tissue-culture-laboratory-subsidy-mahadbt-maharashtra-rat16",
+    "link": "https://agrowon.esakal.com/ampstories/web-stories/best-safflower-varieties-for-rainfed-farming-ssp-25",
     "isNew": true
   },
   {
-    "id": "news-73570daa23",
+    "id": "news-8700fae009",
     "category": "news",
-    "title": "Agriculture Services Reform: कृषी विभागाच्या अकरा सेवांचे डिजिटल सुसूत्रीकरण",
+    "title": "Drought Madat : राज्य सरकार दुष्काळग्रस्त शेतकऱ्यांना मदत देणार कधी?",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/maharashtra-agriculture-department-11-services-streamlining-rat16",
+    "link": "https://agrowon.esakal.com/video/drought-relief-maharashtra-farmers-government-assistance",
+    "isNew": true
+  },
+  {
+    "id": "news-1eaa621244",
+    "category": "news",
+    "title": "Tur Soybean Rate: तूर दर तेजीत, सोयाबीन दर टिकून, बटाटा बाजारात नरमाई, कोबीच्या आवकेत चढ-उतार तर पपईच्या दरात चढ-उतार",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/tur-soybean-potato-cabbage-papaya-market-rates",
+    "isNew": true
+  },
+  {
+    "id": "news-431f333064",
+    "category": "news",
+    "title": "Rain Update : कोकण, पश्चिम महाराष्ट्रात पावसाचा सरी शक्य; उन्हाचा चटका कायम",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/monsoon-return-maharashtra-withdrawal-favorable-conditions",
+    "isNew": true
+  },
+  {
+    "id": "news-eb237a0c4e",
+    "category": "news",
+    "title": "Poultry Care in Heat Stress: वाढत्या उष्णतेमध्ये कोंबड्यांची काळजी कशी घ्यावी?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/poultry-care-heat-stress-summer-chicken-management",
     "isNew": true
   },
   {
@@ -165,30 +189,6 @@
     "title": "Dushkal Madat: पीक नुकसानीची मदत देताना एनडीआरएफचा नियम लावणार ?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/drought-relief-ndrf-crop-loss-compensation-maharashtra",
-    "isNew": false
-  },
-  {
-    "id": "news-f8ed6841e5",
-    "category": "news",
-    "title": "Namo Installment : नमोचा हप्त्याच्या वितरणाची राज्य सरकार माहिती का देत नाही?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/namo-shetkari-installment-payment-date-maharashtra",
-    "isNew": false
-  },
-  {
-    "id": "news-f6d050f9bf",
-    "category": "news",
-    "title": "Chana Methi Rate: हरभरा दरात चढ-उतार, मेथीचे दर टिकून, आल्याच्या आवकेत चढ-उतार, बीटचे दर स्थिर तर पेरूच्या भावात वाढ",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/chana-methi-ginger-beetroot-guava-market-rates",
-    "isNew": false
-  },
-  {
-    "id": "news-b518cbf3c6",
-    "category": "news",
-    "title": "Monsoon Return : मॉन्सूनची महाराष्ट्राच्या बहुतांश भागातून माघार",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/monsoon-return-maharashtra-withdrawal-latest-update",
     "isNew": false
   }
 ]
