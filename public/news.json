@@ -96,35 +96,43 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-74edd9d740",
+    "id": "news-ba918e94d1",
     "category": "news",
-    "title": "Crop Damage Assessment : नुकसानग्रस्त पिकांचे पंचनामे संवेदनशीलपणे करा",
+    "title": "Tractor Sales Decline : सप्टेंबरमध्ये ट्रॅक्टरची विक्री घटली; एल निनोमुळे मागणीवर दबाव",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/conduct-damaged-crop-assessment-panchnama-sensitively-marathi-aak1",
+    "link": "https://agrowon.esakal.com/agro-special/tractor-sales-fall-126-in-september-amid-weak-rural-demand-ds98",
     "isNew": true
   },
   {
-    "id": "news-e6cdfa80d7",
+    "id": "news-5470402b36",
     "category": "news",
-    "title": "Tiger Conservation : चार व्याघ्र प्रकल्पांच्या संवर्धन आराखड्यांना मंजुरी का नाही?",
+    "title": "Meat Quality Testing: मांस, पशुजन्य उत्पादन गुणवत्ता तपासणीची गरज",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/delay-in-approval-for-wildlife-conservation-plans-sparks-outrage-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/meat-animal-products-quality-safety-testing-abhi47",
     "isNew": true
   },
   {
-    "id": "news-b68f6f7768",
+    "id": "news-16da8d9395",
     "category": "news",
-    "title": "Ahillyanagar Bank Election : ‘सर्वांना विश्‍वासात घेतल्याशिवाय बिनविरोध करण्याचा निर्णय कसा?",
+    "title": "Agriculture Success Story: सामान्य शेतकरी ते प्रगतिशील, मार्गदर्शक शेतकरी",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/unopposed-election-decision-controversy-political-dispute-aak11",
+    "link": "https://agrowon.esakal.com/yashogatha/manju-devi-progressive-farmer-integrated-farming-success-story-rat16",
     "isNew": true
   },
   {
-    "id": "news-0a5275510b",
+    "id": "news-d0e830e4c6",
     "category": "news",
-    "title": "Safflower Varieties: करडईचे कोणते वाण फायदेशीर? कोरडवाहू आणि बागायतीसाठी ८ पर्याय",
+    "title": "Vegetable Farming: भाजीपाला शेतीतूनच झाली मेथे कुटुंबाची उन्नती",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/ampstories/web-stories/best-safflower-varieties-for-rainfed-farming-ssp-25",
+    "link": "https://agrowon.esakal.com/yashogatha/nanded-farmer-datta-methe-vegetable-farming-success-story-rat16",
+    "isNew": true
+  },
+  {
+    "id": "news-cdb7a1d8a2",
+    "category": "news",
+    "title": "Joyful Learning: आनंदाचा दिवस की आनंददायी शिक्षण",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/agro-special/joyful-learning-beyond-rote-learning-exam-pressure-rat16",
     "isNew": true
   },
   {
@@ -133,7 +141,7 @@
     "title": "Drought Madat : राज्य सरकार दुष्काळग्रस्त शेतकऱ्यांना मदत देणार कधी?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/drought-relief-maharashtra-farmers-government-assistance",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-1eaa621244",
@@ -141,7 +149,7 @@
     "title": "Tur Soybean Rate: तूर दर तेजीत, सोयाबीन दर टिकून, बटाटा बाजारात नरमाई, कोबीच्या आवकेत चढ-उतार तर पपईच्या दरात चढ-उतार",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/tur-soybean-potato-cabbage-papaya-market-rates",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-431f333064",
@@ -149,7 +157,7 @@
     "title": "Rain Update : कोकण, पश्चिम महाराष्ट्रात पावसाचा सरी शक्य; उन्हाचा चटका कायम",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/monsoon-return-maharashtra-withdrawal-favorable-conditions",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-eb237a0c4e",
@@ -157,7 +165,7 @@
     "title": "Poultry Care in Heat Stress: वाढत्या उष्णतेमध्ये कोंबड्यांची काळजी कशी घ्यावी?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/poultry-care-heat-stress-summer-chicken-management",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-3b5266d006",
@@ -181,14 +189,6 @@
     "title": "Berseem Fodder: हेक्टरी ६०० ते ८०० क्विंटल हिरवा चारा देणाऱ्या घोडा घासची लागवड?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/berseem-fodder-cultivation-green-fodder-yield",
-    "isNew": false
-  },
-  {
-    "id": "news-ad02240619",
-    "category": "news",
-    "title": "Dushkal Madat: पीक नुकसानीची मदत देताना एनडीआरएफचा नियम लावणार ?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/drought-relief-ndrf-crop-loss-compensation-maharashtra",
     "isNew": false
   }
 ]
