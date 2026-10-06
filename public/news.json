@@ -96,43 +96,83 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-ba918e94d1",
+    "id": "news-e7ef639a52",
     "category": "news",
-    "title": "Tractor Sales Decline : सप्टेंबरमध्ये ट्रॅक्टरची विक्री घटली; एल निनोमुळे मागणीवर दबाव",
+    "title": "Tiger Death : बरडकिन्हीमध्ये आढळला वाघाचा मृतदेह",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/tractor-sales-fall-126-in-september-amid-weak-rural-demand-ds98",
+    "link": "https://agrowon.esakal.com/agro-special/tiger-death-in-chandrapur-carcass-found-after-infighting-in-brahmapuri-aak11",
     "isNew": true
   },
   {
-    "id": "news-5470402b36",
+    "id": "news-134e980000",
     "category": "news",
-    "title": "Meat Quality Testing: मांस, पशुजन्य उत्पादन गुणवत्ता तपासणीची गरज",
+    "title": "Borewell Crackdown : बोअरवेल खोदण्यापूर्वीच प्रशासनाचा दणका",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/meat-animal-products-quality-safety-testing-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/administration-crackdown-on-illegal-borewell-drilling-during-drought-aak11",
     "isNew": true
   },
   {
-    "id": "news-16da8d9395",
+    "id": "news-ce7e6512c9",
     "category": "news",
-    "title": "Agriculture Success Story: सामान्य शेतकरी ते प्रगतिशील, मार्गदर्शक शेतकरी",
+    "title": "Adinath Sugar Factory : ‘आदिनाथ’ची ४५० कोटींची मालमत्ता १२२ कोटींना विकल्याचा आरोप",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/yashogatha/manju-devi-progressive-farmer-integrated-farming-success-story-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/adinath-sugar-factory-450-crore-property-sold-for-122-crore-allegation-aak11",
     "isNew": true
   },
   {
-    "id": "news-d0e830e4c6",
+    "id": "news-2c0d623a52",
     "category": "news",
-    "title": "Vegetable Farming: भाजीपाला शेतीतूनच झाली मेथे कुटुंबाची उन्नती",
+    "title": "Panchnama Update : सोलापुरात ३५ टक्के दुष्काळी क्षेत्राचे पंचनामे पूर्ण",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/yashogatha/nanded-farmer-datta-methe-vegetable-farming-success-story-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/government-panchnama-for-drought-affected-areas-in-solapur-aak11",
     "isNew": true
   },
   {
-    "id": "news-cdb7a1d8a2",
+    "id": "news-8748eb1c9f",
     "category": "news",
-    "title": "Joyful Learning: आनंदाचा दिवस की आनंददायी शिक्षण",
+    "title": "Ration Card e-KYC: रेशन कार्डधारकांच्या सवलतीवर गदा",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/joyful-learning-beyond-rote-learning-exam-pressure-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/palghar-ration-card-evkyc-pending-subsidised-foodgrain-abhi47",
+    "isNew": true
+  },
+  {
+    "id": "news-44567f04ae",
+    "category": "news",
+    "title": "Crop Insurance : पीकविमा योजनेतील बदल यंदा सरकारच्याच अंगलट",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/crop-insurance-changes-maharashtra-government-burden",
+    "isNew": true
+  },
+  {
+    "id": "news-93344c7bd6",
+    "category": "news",
+    "title": "Cabinet Meeting : राज्य मंत्रिमंडळ बैठकीत ७ निर्णय कोणते झाले?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/maharashtra-cabinet-meeting-7-decisions",
+    "isNew": true
+  },
+  {
+    "id": "news-34eef2e668",
+    "category": "news",
+    "title": "Wheat Banana Rate: गहू दरात चढ-उतार, ओल्या भुईमुगाचे दर टिकून, फ्लॉवरच्या आवकेत बदल, मेथी बाजारात चढ-उतार तर केळीचे दर स्थिर",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/wheat-groundnut-cauliflower-fenugreek-banana-market-rates",
+    "isNew": true
+  },
+  {
+    "id": "news-e67f5fabf6",
+    "category": "news",
+    "title": "Rain Update : राज्यातील ५ जिल्ह्यांत पावसाचा अंदाज; उन्हाचा चटका कायम",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/rain-update-konkan-east-vidarbha-maharashtra-2",
+    "isNew": true
+  },
+  {
+    "id": "news-b9bbac46f7",
+    "category": "news",
+    "title": "Safflower Varieties: करडई पिकाचे कोरडवाहू आणि बागायती वाण कोणते?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/safflower-varieties-rainfed-irrigated-maharashtra",
     "isNew": true
   },
   {
@@ -149,46 +189,6 @@
     "title": "Tur Soybean Rate: तूर दर तेजीत, सोयाबीन दर टिकून, बटाटा बाजारात नरमाई, कोबीच्या आवकेत चढ-उतार तर पपईच्या दरात चढ-उतार",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/tur-soybean-potato-cabbage-papaya-market-rates",
-    "isNew": false
-  },
-  {
-    "id": "news-431f333064",
-    "category": "news",
-    "title": "Rain Update : कोकण, पश्चिम महाराष्ट्रात पावसाचा सरी शक्य; उन्हाचा चटका कायम",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/monsoon-return-maharashtra-withdrawal-favorable-conditions",
-    "isNew": false
-  },
-  {
-    "id": "news-eb237a0c4e",
-    "category": "news",
-    "title": "Poultry Care in Heat Stress: वाढत्या उष्णतेमध्ये कोंबड्यांची काळजी कशी घ्यावी?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/poultry-care-heat-stress-summer-chicken-management",
-    "isNew": false
-  },
-  {
-    "id": "news-3b5266d006",
-    "category": "news",
-    "title": "Grampanchayat Scheme : गावाच्या विकासकामासाठी भ्रष्टाचार करावा लागतो? | Ft. Shekhar Patil",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/gram-panchayat-scheme-village-development-corruption-shekhar-patil",
-    "isNew": false
-  },
-  {
-    "id": "news-63cb5b4828",
-    "category": "news",
-    "title": "Food Processing Scheme : अन्नप्रक्रिया उद्योगात महिलांचा सहभाग किती? योजनेत सहभागी कसे व्हाल?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/food-processing-scheme-women-entrepreneurs-pmfme-maharashtra",
-    "isNew": false
-  },
-  {
-    "id": "news-d181ddd03b",
-    "category": "news",
-    "title": "Berseem Fodder: हेक्टरी ६०० ते ८०० क्विंटल हिरवा चारा देणाऱ्या घोडा घासची लागवड?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/berseem-fodder-cultivation-green-fodder-yield",
     "isNew": false
   }
 ]
