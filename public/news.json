@@ -96,43 +96,75 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-8c241e7416",
+    "id": "news-f2941f0e93",
     "category": "news",
-    "title": "Milk Rate Hike : नंदिनी दुधाच्या विक्री दरात ८ रुपयांची वाढ; कर्नाटक सरकारचा निर्णय",
+    "title": "Pik Avashesh: पीक वाळून गेलं? जाळू नका, ४ गोष्टींसाठी होईल वापर!",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/nandini-milk-price-hiked-by-8-per-litre-in-karnataka-ds98",
+    "link": "https://agrowon.esakal.com/agro-special/how-dried-crop-residues-improve-soil-health-moisture-ssp-25",
     "isNew": true
   },
   {
-    "id": "news-302eb66af8",
+    "id": "news-c21d952334",
     "category": "news",
-    "title": "Drought Orchard Management: दुष्काळी परिस्थितीमध्ये फळबागांचे व्यवस्थापन",
+    "title": "Pimpalgaon APMC : परराज्यातील शिष्टमंडळाचे पिंपळगाव बाजार समितीला भेट",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/techno-wan/drought-fruit-orchard-management-water-scarcity-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/out-of-state-officials-tour-pimpalgaon-apmc-to-replicate-market-design-aak11",
     "isNew": true
   },
   {
-    "id": "news-e439a4ef2a",
+    "id": "news-55855194b4",
     "category": "news",
-    "title": "Soybean Farming: ‘बीबीएफ’सह सुधारित तंत्राने उंचावला सोयाबीन उत्पादनाचा आलेख",
+    "title": "Water Distribution : पाणीवाटपाचे प्रश्न जागेवरच सोडवा",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/techno-wan/solapur-farmer-soybean-yield-bbf-technology-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/resolve-water-distribution-disputes-on-the-spot-strict-instructions-to-irrigation-officials-aak11",
     "isNew": true
   },
   {
-    "id": "news-83c34b1ae8",
+    "id": "news-f6688f9b8a",
     "category": "news",
-    "title": "Microwave Vacuum Dryer: उष्णता संवेदनशील फळे-भाज्यांसाठी मायक्रोवेव्ह साह्यित व्हॅक्यूम ड्रायर",
+    "title": "Chhatrapati Shivaji Maharaj Memorial: कल्याणमध्ये शिवरायांच्या आरमाराचे देशातील पहिले स्मारक!",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/microwave-vacuum-dryer-fruits-vegetables-post-harvest-loss-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/kalyan-chhatrapati-shivaji-maharaj-naval-memorial-abhi47",
     "isNew": true
   },
   {
-    "id": "news-a80ff1a8f9",
+    "id": "news-2379a5a49a",
     "category": "news",
-    "title": "Sugarcane Crushing Season: ऊस गाळप हंगामापुढील तिढा",
+    "title": "Sugarcane Crushing : विनापरवाना कारखान्यांनी गाळप केल्यास कारवाई",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/maharashtra-sugarcane-price-5000-crushing-season-2026-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/maharashtra-warns-sugar-mills-severe-action-if-sugarcane-crushing-starts-without-license-aak11",
+    "isNew": true
+  },
+  {
+    "id": "news-5c87c35a7e",
+    "category": "news",
+    "title": "El Nino 2026 : रब्बी हंगामात एल निनोमुळे तापमान वाढून पिकांना फटका बसणार?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/el-nino-2026-rabi-crops-temperature-impact",
+    "isNew": true
+  },
+  {
+    "id": "news-f00a740b86",
+    "category": "news",
+    "title": "Onion Tomato Rate: उडीद दरात वाढ, कांदा दरात चढ-उतार, टोमॅटोच्या आवकेत चढ-उतार, कोथिंबिरीचे भाव स्थिर तर मोसंबीचे दर टिकून",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/onion-tomato-urad-coriander-mosambi-market-rates",
+    "isNew": true
+  },
+  {
+    "id": "news-a0dffae5ad",
+    "category": "news",
+    "title": "Rain Update :विदर्भात पावसाचा अंदाज; उन्हाचा चटकाही कायम",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/rain-update-maharashtra-heat-temperature-above-35",
+    "isNew": true
+  },
+  {
+    "id": "news-2c78a3cc1b",
+    "category": "news",
+    "title": "Fodder Treatment: वाळलेल्या चाऱ्याला युरियाची प्रक्रिया कशी करावी?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/fodder-treatment-urea-dry-fodder",
     "isNew": true
   },
   {
@@ -157,38 +189,6 @@
     "title": "Wheat Banana Rate: गहू दरात चढ-उतार, ओल्या भुईमुगाचे दर टिकून, फ्लॉवरच्या आवकेत बदल, मेथी बाजारात चढ-उतार तर केळीचे दर स्थिर",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/wheat-groundnut-cauliflower-fenugreek-banana-market-rates",
-    "isNew": false
-  },
-  {
-    "id": "news-e67f5fabf6",
-    "category": "news",
-    "title": "Rain Update : राज्यातील ५ जिल्ह्यांत पावसाचा अंदाज; उन्हाचा चटका कायम",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/rain-update-konkan-east-vidarbha-maharashtra-2",
-    "isNew": false
-  },
-  {
-    "id": "news-b9bbac46f7",
-    "category": "news",
-    "title": "Safflower Varieties: करडई पिकाचे कोरडवाहू आणि बागायती वाण कोणते?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/safflower-varieties-rainfed-irrigated-maharashtra",
-    "isNew": false
-  },
-  {
-    "id": "news-8700fae009",
-    "category": "news",
-    "title": "Drought Madat : राज्य सरकार दुष्काळग्रस्त शेतकऱ्यांना मदत देणार कधी?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/drought-relief-maharashtra-farmers-government-assistance",
-    "isNew": false
-  },
-  {
-    "id": "news-1eaa621244",
-    "category": "news",
-    "title": "Tur Soybean Rate: तूर दर तेजीत, सोयाबीन दर टिकून, बटाटा बाजारात नरमाई, कोबीच्या आवकेत चढ-उतार तर पपईच्या दरात चढ-उतार",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/tur-soybean-potato-cabbage-papaya-market-rates",
     "isNew": false
   }
 ]
