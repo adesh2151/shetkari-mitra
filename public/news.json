@@ -96,43 +96,51 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-f2941f0e93",
+    "id": "news-1982b39d14",
     "category": "news",
-    "title": "Pik Avashesh: पीक वाळून गेलं? जाळू नका, ४ गोष्टींसाठी होईल वापर!",
+    "title": "Shevanti Flower Farming: शेवंतीच्या फुलांनी भरले जीवनात समाधानाचे रंग",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/how-dried-crop-residues-improve-soil-health-moisture-ssp-25",
+    "link": "https://agrowon.esakal.com/yashogatha/kolhapur-chrysanthemum-farming-year-round-income-patil-couple-rat16",
     "isNew": true
   },
   {
-    "id": "news-c21d952334",
+    "id": "news-5e9ffe2cd3",
     "category": "news",
-    "title": "Pimpalgaon APMC : परराज्यातील शिष्टमंडळाचे पिंपळगाव बाजार समितीला भेट",
+    "title": "Nana Patekar Death: ज्येष्ठ अभिनेते नाना पाटेकर यांचे निधन; वयाच्या ७५व्या वर्षी घेतला अखेरचा श्वास",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/out-of-state-officials-tour-pimpalgaon-apmc-to-replicate-market-design-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/nana-patekar-death-at-75-cardiac-arrest-abhi47",
     "isNew": true
   },
   {
-    "id": "news-55855194b4",
+    "id": "news-a6170d3357",
     "category": "news",
-    "title": "Water Distribution : पाणीवाटपाचे प्रश्न जागेवरच सोडवा",
+    "title": "Ginger Intercropping Farming: आले-आंतरपिके पद्धतीचे हुशारीचे तंत्र",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/resolve-water-distribution-disputes-on-the-spot-strict-instructions-to-irrigation-officials-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/satara-farmer-ginger-farming-intercropping-success-story-rat16",
     "isNew": true
   },
   {
-    "id": "news-f6688f9b8a",
+    "id": "news-428a14d6ef",
     "category": "news",
-    "title": "Chhatrapati Shivaji Maharaj Memorial: कल्याणमध्ये शिवरायांच्या आरमाराचे देशातील पहिले स्मारक!",
+    "title": "Maharashtra Drought: दुष्काळ इष्टापत्ती ठरो!",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/kalyan-chhatrapati-shivaji-maharaj-naval-memorial-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/drought-maharashtra-farmers-income-agriculture-sharad-joshi-rat16",
     "isNew": true
   },
   {
-    "id": "news-2379a5a49a",
+    "id": "news-7fbf11408f",
     "category": "news",
-    "title": "Sugarcane Crushing : विनापरवाना कारखान्यांनी गाळप केल्यास कारवाई",
+    "title": "Sugar Production Experiment: क्रांतिकारी प्रयोग",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/maharashtra-warns-sugar-mills-severe-action-if-sugarcane-crushing-starts-without-license-aak11",
+    "link": "https://agrowon.esakal.com/sampadkiya/carbon-dioxide-instead-of-sulfur-sugar-production-maharashtra-rat16",
+    "isNew": true
+  },
+  {
+    "id": "news-5b6b774f66",
+    "category": "news",
+    "title": "Soybean Rate: दिवाळीपर्यंत सोयाबीनचा भाव कसा राहू शकतो ?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/soybean-rate-price-forecast-before-diwali",
     "isNew": true
   },
   {
@@ -141,7 +149,7 @@
     "title": "El Nino 2026 : रब्बी हंगामात एल निनोमुळे तापमान वाढून पिकांना फटका बसणार?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/el-nino-2026-rabi-crops-temperature-impact",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-f00a740b86",
@@ -149,7 +157,7 @@
     "title": "Onion Tomato Rate: उडीद दरात वाढ, कांदा दरात चढ-उतार, टोमॅटोच्या आवकेत चढ-उतार, कोथिंबिरीचे भाव स्थिर तर मोसंबीचे दर टिकून",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/onion-tomato-urad-coriander-mosambi-market-rates",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-a0dffae5ad",
@@ -157,7 +165,7 @@
     "title": "Rain Update :विदर्भात पावसाचा अंदाज; उन्हाचा चटकाही कायम",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/rain-update-maharashtra-heat-temperature-above-35",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-2c78a3cc1b",
@@ -165,7 +173,7 @@
     "title": "Fodder Treatment: वाळलेल्या चाऱ्याला युरियाची प्रक्रिया कशी करावी?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/fodder-treatment-urea-dry-fodder",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-44567f04ae",
@@ -181,14 +189,6 @@
     "title": "Cabinet Meeting : राज्य मंत्रिमंडळ बैठकीत ७ निर्णय कोणते झाले?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/maharashtra-cabinet-meeting-7-decisions",
-    "isNew": false
-  },
-  {
-    "id": "news-34eef2e668",
-    "category": "news",
-    "title": "Wheat Banana Rate: गहू दरात चढ-उतार, ओल्या भुईमुगाचे दर टिकून, फ्लॉवरच्या आवकेत बदल, मेथी बाजारात चढ-उतार तर केळीचे दर स्थिर",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/wheat-groundnut-cauliflower-fenugreek-banana-market-rates",
     "isNew": false
   }
 ]
