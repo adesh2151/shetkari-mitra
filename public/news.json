@@ -96,19 +96,43 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-10eb4b79a0",
+    "id": "news-75324f08d7",
     "category": "news",
-    "title": "Central Team Visit : केंद्रीय पथक दुष्काळ पाहणीसाठी यवतमाळात येणार",
+    "title": "Vanrai Bund Campaign: लोकसहभागातून वनराई बंधाऱ्यासाठी मोहीम",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/central-team-to-visit-yavatmal-for-on-spot-drought-assessment-and-crop-damage-survey-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/sindhudurg-vanrai-bunds-community-participation-water-conservation-abhi47",
     "isNew": true
   },
   {
-    "id": "news-39e8dedfd4",
+    "id": "news-de78ae1643",
     "category": "news",
-    "title": "Soyabean Crop Insurance : गतवर्षीच्या सोयाबीन पीकविम्याच्या प्रतीक्षेत शेतकरी",
+    "title": "Poultry Farming: मालेगाव तालुका झाला अंडी उद्योगाचे क्लस्टर",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/farmers-wait-intensifies-for-last-years-soyabean-crop-insurance-amount-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/malegaon-egg-production-poultry-industry-cluster-abhi47",
+    "isNew": true
+  },
+  {
+    "id": "news-350fead9da",
+    "category": "news",
+    "title": "Nana Patekar Tribute: नानासारखी माणसं मरत नसतात...",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/sampadkiya/mahesh-manjrekar-emotional-nana-patekar-death-abhi47",
+    "isNew": true
+  },
+  {
+    "id": "news-7fb1bababe",
+    "category": "news",
+    "title": "Nana Patekar Tribute: रंग त्याचा वेगळा..",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/sampadkiya/nana-patekar-timeless-artistic-legacy-youth-connection-abhi47",
+    "isNew": true
+  },
+  {
+    "id": "news-95edf3d8cc",
+    "category": "news",
+    "title": "Paddy Crop Damage: जुन्नरमधील भातपीक सापडले संकटात",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/agro-special/junnar-rice-crop-damage-heavy-rain-farmers-crisis-abhi47",
     "isNew": true
   },
   {
@@ -117,23 +141,7 @@
     "title": "Drought Compensation: केंद्राचे पथक कोणकोणत्या जिल्ह्यांमध्ये दुष्काळाची पाहणी करणार ?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/drought-compensation-central-team-maharashtra-district-survey",
-    "isNew": true
-  },
-  {
-    "id": "news-32b8e30705",
-    "category": "news",
-    "title": "Drought Protest : सरसकट दुष्काळासाठी शेतकऱ्यांची तहसीलवर धडक",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/farmers-protest-at-tehsil-office-for-complete-drought-declaration-aak11",
-    "isNew": true
-  },
-  {
-    "id": "news-bc8ae8dd3b",
-    "category": "news",
-    "title": "Crop Damage : सहा तालुक्यांतील ३० हजार हेक्टरवर पंचनामे",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/crop-loss-panchnama-on-30-thousand-hectares-aak11",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-f592439179",
@@ -141,7 +149,7 @@
     "title": "Rabi Season : जमिनीतील ओलावा घटला; रब्बी पिकांसमोर मोठं संकट?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/rabi-season-low-soil-moisture-crop-risk",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-b7c40a048b",
@@ -149,7 +157,7 @@
     "title": "Chana,Carrot Rate: हरभरा बाजारात तेजी,\nमूग दरात चढ-उतार, आल्याच्या आवकेत वाढ, गाजर बाजारात  चढ-उतार, पालक दरात बदल",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/chana-moong-ginger-carrot-spinach-market-rates",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-d721ca1929",
@@ -157,7 +165,7 @@
     "title": "Monsoon Return : महाराष्ट्रातून मॉन्सून परतला; उन्हाचा चटका वाढला",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/monsoon-return-konkan-hot-humid-weather",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-6603fecbd9",
@@ -165,7 +173,7 @@
     "title": "Drought Chana Variety: दुष्काळाच्या परिस्थितीत विभागानुसार हरभऱ्याचे कोणते वाण वापरावे?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/drought-chana-varieties-maharashtra-regional-selection",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-5b6b774f66",
@@ -181,14 +189,6 @@
     "title": "El Nino 2026 : रब्बी हंगामात एल निनोमुळे तापमान वाढून पिकांना फटका बसणार?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/el-nino-2026-rabi-crops-temperature-impact",
-    "isNew": false
-  },
-  {
-    "id": "news-f00a740b86",
-    "category": "news",
-    "title": "Onion Tomato Rate: उडीद दरात वाढ, कांदा दरात चढ-उतार, टोमॅटोच्या आवकेत चढ-उतार, कोथिंबिरीचे भाव स्थिर तर मोसंबीचे दर टिकून",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/onion-tomato-urad-coriander-mosambi-market-rates",
     "isNew": false
   }
 ]
