@@ -96,43 +96,67 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-0a0e51ca37",
+    "id": "news-fd72d20dae",
     "category": "news",
-    "title": "Weekly Weather: उष्ण, कोरड्या हवामानाची शक्यता",
+    "title": "Sustainable Agriculture : दुष्काळी परिस्थितीत एकात्मिक शेती पद्धत हवी",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/weather-news/maharashtra-hot-dry-weather-forecast-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/integrated-farming-system-the-best-solution-to-tackle-drought-conditions-aak11",
     "isNew": true
   },
   {
-    "id": "news-0f3abf34c3",
+    "id": "news-074516a974",
     "category": "news",
-    "title": "Agricultural Crisis: पिकलं नाही, धनी गेले, आता कसं जगायचं?; विधवा शेतकरी महिलेचा आर्त सवाल",
+    "title": "Agriculture Crisis : पेरणीचा खर्चही निघेना, सांगा जगायचे कसे?",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/aarti-wasnik-farmer-family-crisis-crop-loss-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/rising-input-costs-zero-profits-maharashtra-farmers-plunge-into-crisis-aak11",
     "isNew": true
   },
   {
-    "id": "news-e2595c6536",
+    "id": "news-2ceeec419f",
     "category": "news",
-    "title": "Beed Crop Damage: शेतकऱ्यांनी मांडला समस्यांचा डोंगर",
+    "title": "Sugarcane Fire Incident: वीट येथे शॉर्ट सर्किटमुळे ५ एकर ऊस जळून खाक",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/marathwada-drought-beed-crop-damage-65-days-no-rain-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/veet-short-circuit-sugarcane-fire-five-acres-rat16",
     "isNew": true
   },
   {
-    "id": "news-dbc3fb1dbe",
+    "id": "news-e27ecb9bcc",
     "category": "news",
-    "title": "Orange Crop Insurance: ‘पणज मंडलातील संत्रा उत्पादकांना तापमान ट्रिगरचा विमा लाभ द्या’: शेतकऱ्यांची मागणी",
+    "title": "Amravati Water Supply: अमरावतीला उन्हाळ्यापर्यंत पाणीटंचाई भासणार नाही",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/akola-orange-farmers-temperature-trigger-crop-insurance-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/amravati-water-supply-upper-wardha-dam-storage-2027-rat16",
     "isNew": true
   },
   {
-    "id": "news-8f1275ad6f",
+    "id": "news-676facc910",
     "category": "news",
-    "title": "Raju Shetti: उसाला प्रति टन साडेपाच हजार द्या : शेट्टी",
+    "title": "Sugar Factory Water Conservation: साखर कारखान्यांनी पाण्याची काटकसर करावी:जिल्हाधिकारी डॉ. विजय राठोड",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/raju-shetti-demands-5500-sugarcane-price-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/sugar-factories-water-conservation-vijay-rathod-rat16",
+    "isNew": true
+  },
+  {
+    "id": "news-452ce71c3e",
+    "category": "news",
+    "title": "El Nino Impact : एल निनोमध्ये पाणीटंचाई रोखण्यासाठी नियोजन काय?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/el-nino-impact-water-scarcity-planning-dr-jasmin",
+    "isNew": true
+  },
+  {
+    "id": "news-478a4fc399",
+    "category": "news",
+    "title": "Drought Relief : राज्यातील १८ तालुक्यांत पंचनामे; दुष्काळी मदतीचे नवे दर कधी जाहीर होणार?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/maharashtra-drought-relief-18-talukas-panchnama-new-aid-rates",
+    "isNew": true
+  },
+  {
+    "id": "news-d918f3aa96",
+    "category": "news",
+    "title": "Gochid Tap: गोचीड तापाची लक्षणे कोणती? जनावरांवरील उपचार आणि गोठ्यातील गोचीड नियंत्रण",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/gochid-tick-control-cattle-shed-livestock",
     "isNew": true
   },
   {
@@ -141,7 +165,7 @@
     "title": "Cotton Price : दुष्काळाचा कापूस उत्पादनाला मोठ फटका",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/cotton-price-drought-impact-cotton-production-maharashtra",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-1f9fc35eda",
@@ -165,30 +189,6 @@
     "title": "Rain Update : कोकणात उष्ण व दमट हवामानाचा अंदाज; पश्चिम महाराष्ट्रात हलक्या सरी शक्य",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/rain-update-maharashtra-temperature-above-35-degrees",
-    "isNew": false
-  },
-  {
-    "id": "news-f41c9fcc79",
-    "category": "news",
-    "title": "Rabi Season Tips: यंदाच्या रब्बी हंगामाचे नियोजन कसे करावे?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/rabi-season-tips-crop-planning-maharashtra-2026",
-    "isNew": false
-  },
-  {
-    "id": "news-87b34702ea",
-    "category": "news",
-    "title": "Crop Insurance : पीक विमा भरपाईचा बोजा राज्य सरकारवर वाढणार? 80:110 मॉडेलचा पेच काय?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/crop-insurance-80-110-cup-cap-model-maharashtra",
-    "isNew": false
-  },
-  {
-    "id": "news-cc65aa2a9d",
-    "category": "news",
-    "title": "Farmer Loan Waiver : शेतकरी कर्जमाफी आणि प्रोत्साहन अनुदान रखडणार?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/farmer-loan-waiver-incentive-grant-maharashtra-update",
     "isNew": false
   }
 ]
