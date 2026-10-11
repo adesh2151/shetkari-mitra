@@ -96,43 +96,51 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-c41081d45c",
+    "id": "news-0a0e51ca37",
     "category": "news",
-    "title": "Indigenous Farming : माती, गावरान वाण वाचले तरच पुढची पिढी सुरक्षित",
+    "title": "Weekly Weather: उष्ण, कोरड्या हवामानाची शक्यता",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/save-soil-and-native-seeds-to-secure-the-future-generation-aak11",
+    "link": "https://agrowon.esakal.com/weather-news/maharashtra-hot-dry-weather-forecast-rat16",
     "isNew": true
   },
   {
-    "id": "news-7d05368b7d",
+    "id": "news-0f3abf34c3",
     "category": "news",
-    "title": "Drinking Water Reserve: वांद्रीतील साठा सिंचनाएेवजी पिण्यासाठी राखीव",
+    "title": "Agricultural Crisis: पिकलं नाही, धनी गेले, आता कसं जगायचं?; विधवा शेतकरी महिलेचा आर्त सवाल",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/vandri-reservoir-water-reserved-drinking-palghar-paddy-irrigation-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/aarti-wasnik-farmer-family-crisis-crop-loss-rat16",
     "isNew": true
   },
   {
-    "id": "news-587226e8fb",
+    "id": "news-e2595c6536",
     "category": "news",
-    "title": "Tower Line Compensation : मोबदल्याशिवाय टॉवरलाइनचे काम नको",
+    "title": "Beed Crop Damage: शेतकऱ्यांनी मांडला समस्यांचा डोंगर",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/farmers-halt-power-grid-tower-construction-demanding-fair-compensation-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/marathwada-drought-beed-crop-damage-65-days-no-rain-rat16",
     "isNew": true
   },
   {
-    "id": "news-0828b30bfa",
+    "id": "news-dbc3fb1dbe",
     "category": "news",
-    "title": "Green Fodder Sales: डहाणूमध्ये हिरवा चारा विक्रीतून रोजगार",
+    "title": "Orange Crop Insurance: ‘पणज मंडलातील संत्रा उत्पादकांना तापमान ट्रिगरचा विमा लाभ द्या’: शेतकऱ्यांची मागणी",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/dahanu-green-fodder-sales-tribal-employment-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/akola-orange-farmers-temperature-trigger-crop-insurance-rat16",
     "isNew": true
   },
   {
-    "id": "news-a3bd1528ec",
+    "id": "news-8f1275ad6f",
     "category": "news",
-    "title": "Illegal Sand Mining : माण नदीपात्रातून विनापरवाना वाळू वाहतूक करणारी दोन वाहने जप्त",
+    "title": "Raju Shetti: उसाला प्रति टन साडेपाच हजार द्या : शेट्टी",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/illegal-sand-mining-two-vehicles-seized-from-man-river-bed-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/raju-shetti-demands-5500-sugarcane-price-rat16",
+    "isNew": true
+  },
+  {
+    "id": "news-33565c1267",
+    "category": "news",
+    "title": "Cotton Price : दुष्काळाचा कापूस उत्पादनाला मोठ फटका",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/cotton-price-drought-impact-cotton-production-maharashtra",
     "isNew": true
   },
   {
@@ -141,7 +149,7 @@
     "title": "Drought Madat : राज्यातील दुष्काळग्रस्त शेतकऱ्यांना वाढीव दराने मदत मिळेल का?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/drought-relief-maharashtra-farmers-higher-compensation-rates",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-5d91480782",
@@ -149,7 +157,7 @@
     "title": "Tur Green Chilli Rate: तूरीचे भाव तेजीत, भुईमूग दरात वाढ, वांगी दर टिकून, हिरवी मिरची आवकेत वाढ तर पपई दरात चढ-उतार",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/tur-groundnut-brinjal-green-chilli-papaya-market-rates",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-094eb9602f",
@@ -157,7 +165,7 @@
     "title": "Rain Update : कोकणात उष्ण व दमट हवामानाचा अंदाज; पश्चिम महाराष्ट्रात हलक्या सरी शक्य",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/rain-update-maharashtra-temperature-above-35-degrees",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-f41c9fcc79",
@@ -165,7 +173,7 @@
     "title": "Rabi Season Tips: यंदाच्या रब्बी हंगामाचे नियोजन कसे करावे?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/rabi-season-tips-crop-planning-maharashtra-2026",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-87b34702ea",
@@ -181,14 +189,6 @@
     "title": "Farmer Loan Waiver : शेतकरी कर्जमाफी आणि प्रोत्साहन अनुदान रखडणार?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/farmer-loan-waiver-incentive-grant-maharashtra-update",
-    "isNew": false
-  },
-  {
-    "id": "news-f2d4b110e0",
-    "category": "news",
-    "title": "Soybean Jowar Rate: सोयाबीन दरात चढ-उतार, ज्वारीच्या भावात वाढ, गवारची आवक कायम, शेपूच्या दरात स्थिरता तर डाळिंबाचे दर तेजीतच",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/soybean-jowar-guar-dill-pomegranate-market-rates",
     "isNew": false
   }
 ]
