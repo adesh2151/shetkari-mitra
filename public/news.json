@@ -96,43 +96,83 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-bf2760aea3",
+    "id": "news-9807b822e8",
     "category": "news",
-    "title": "Soybean Prices: सोयाबीन ठरणार ‘गोल्डन बीन’",
+    "title": "Farm Loan Waiver Third List: कर्जमाफीची तिसरी यादी जाहीर, ३ लाख ५१ हजार १९२ शेतकऱ्यांचा समावेश",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/market-intelligence/soybean-price-outlook-2026-market-trends-farmers-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/farm-loan-waiver-third-list-maharashtra-ddb79",
     "isNew": true
   },
   {
-    "id": "news-ff957b6763",
+    "id": "news-f5cef138c2",
     "category": "news",
-    "title": "India Rice Export: ‘यूएसडीए’ने घटवला भारतीय तांदूळ निर्यातीचा अंदाज",
+    "title": "Sugar MSP: साखर 'एमएसपी' प्रश्नी दिल्लीतील बैठक निष्फळ, उद्यापासून महाराष्ट्र-कर्नाटकातील महामार्ग रोखणार, राजू शेट्टींचा इशारा",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/usda-reduces-india-rice-export-forecast-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/sugar-msp-raju-shetti-farmers-protest-highway-blockade-ddb79",
     "isNew": true
   },
   {
-    "id": "news-4030b4aed5",
+    "id": "news-75a7323247",
     "category": "news",
-    "title": "Global Economy: जागतिक विकासदर घटण्याचा अंदाज",
+    "title": "Canal Repair : पहिल्या आवर्तनापूर्वी कालव्यांची दुरुस्ती करा",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/global-economic-growth-rate-forecast-2026-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/repair-canals-before-first-water-rotation-farmers-demand-immediate-action-aak11",
     "isNew": true
   },
   {
-    "id": "news-d4e8444cdf",
+    "id": "news-5d74fc7cb8",
     "category": "news",
-    "title": "Delhi Protest Restrictions: पोलिस दिल्लीचे आणि मुंबईचे...",
+    "title": "Solar Irrigation : सातारा जिल्ह्यातील उपसा सिंचन योजना सौर ऊर्जेुळे उजळणार",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/delhi-police-vs-mumbai-police-protest-restrictions-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/solar-energy-to-power-major-district-irrigation-projects-aak11",
     "isNew": true
   },
   {
-    "id": "news-e91c957ce0",
+    "id": "news-98b7ae7d40",
     "category": "news",
-    "title": "Navratri Festival: शक्ती रुपेन संस्थितः",
+    "title": "Water Tanker Surge : टॅंकरच्या संख्येत झपाट्याने वाढ",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/sampadkiya/navratri-women-empowerment-rights-and-respect-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/water-crisis-deepens-rapid-surge-in-water-tankers-across-maharashtra-aak11",
+    "isNew": true
+  },
+  {
+    "id": "news-543c4d2eda",
+    "category": "news",
+    "title": "Soybean Rate : दिवाळीपर्यंत सोयाबीनचे भाव कसे राहतील? आवक वाढल्याचा दरांवर काय परिणाम होणार?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/soybean-rate-price-forecast-until-diwali-maharashtra",
+    "isNew": true
+  },
+  {
+    "id": "news-1c0f4c8267",
+    "category": "news",
+    "title": "Drought Madat : राज्यातील ६५ तालुक्यांत पाहणी केल्यावर केंद्रीय पथकाने काय सांगितले?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/maharashtra-drought-relief-central-team-visit-65-talukas",
+    "isNew": true
+  },
+  {
+    "id": "news-a985eded9b",
+    "category": "news",
+    "title": "Wheat, Guava Rate: गहू दरात सुधारणा, उडीद दर टिकून,बटाटा बाजारात चढ-उतार, पेरू दरात तेजी, चिकू दरात चढ-उतार",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/wheat-guava-urad-potato-sapota-market-rates-maharashtra",
+    "isNew": true
+  },
+  {
+    "id": "news-5639b2ecba",
+    "category": "news",
+    "title": "Monsoon Return : देशाच्या उर्वरित भागांतून मॉन्सूनच्या परतीसाठी पोषक स्थिती; राज्यात उन्हाचा चटका कायम",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/monsoon-return-konkan-hot-humid-weather-maharashtra-2",
+    "isNew": true
+  },
+  {
+    "id": "news-8f0bd52f5a",
+    "category": "news",
+    "title": "Crop Residue Management: वाळून गेलेल्या पिकाला न जाळता शेतीसाठी वापर कसा करावा?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/crop-residue-management-reuse-dried-crops-without-burning",
     "isNew": true
   },
   {
@@ -149,46 +189,6 @@
     "title": "Drought Relief : राज्यातील १८ तालुक्यांत पंचनामे; दुष्काळी मदतीचे नवे दर कधी जाहीर होणार?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/maharashtra-drought-relief-18-talukas-panchnama-new-aid-rates",
-    "isNew": false
-  },
-  {
-    "id": "news-d918f3aa96",
-    "category": "news",
-    "title": "Gochid Tap: गोचीड तापाची लक्षणे कोणती? जनावरांवरील उपचार आणि गोठ्यातील गोचीड नियंत्रण",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/gochid-tick-control-cattle-shed-livestock",
-    "isNew": false
-  },
-  {
-    "id": "news-33565c1267",
-    "category": "news",
-    "title": "Cotton Price : दुष्काळाचा कापूस उत्पादनाला मोठ फटका",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/cotton-price-drought-impact-cotton-production-maharashtra",
-    "isNew": false
-  },
-  {
-    "id": "news-1f9fc35eda",
-    "category": "news",
-    "title": "Drought Madat : राज्यातील दुष्काळग्रस्त शेतकऱ्यांना वाढीव दराने मदत मिळेल का?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/drought-relief-maharashtra-farmers-higher-compensation-rates",
-    "isNew": false
-  },
-  {
-    "id": "news-5d91480782",
-    "category": "news",
-    "title": "Tur Green Chilli Rate: तूरीचे भाव तेजीत, भुईमूग दरात वाढ, वांगी दर टिकून, हिरवी मिरची आवकेत वाढ तर पपई दरात चढ-उतार",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/tur-groundnut-brinjal-green-chilli-papaya-market-rates",
-    "isNew": false
-  },
-  {
-    "id": "news-094eb9602f",
-    "category": "news",
-    "title": "Rain Update : कोकणात उष्ण व दमट हवामानाचा अंदाज; पश्चिम महाराष्ट्रात हलक्या सरी शक्य",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/rain-update-maharashtra-temperature-above-35-degrees",
     "isNew": false
   }
 ]
