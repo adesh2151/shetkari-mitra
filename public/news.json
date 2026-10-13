@@ -96,43 +96,51 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-9807b822e8",
+    "id": "news-66087e9ee4",
     "category": "news",
-    "title": "Farm Loan Waiver Third List: कर्जमाफीची तिसरी यादी जाहीर, ३ लाख ५१ हजार १९२ शेतकऱ्यांचा समावेश",
+    "title": "Vanraj Agri Tourism Centre: शेरकर दांपत्याचे नावारूपाला आलेले वनराज कृषी पर्यटन केंद्र",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/farm-loan-waiver-third-list-maharashtra-ddb79",
+    "link": "https://agrowon.esakal.com/yashogatha/vanraj-agri-tourism-centre-sherkar-couple-junnar-abhi47",
     "isNew": true
   },
   {
-    "id": "news-f5cef138c2",
+    "id": "news-e00b9c3496",
     "category": "news",
-    "title": "Sugar MSP: साखर 'एमएसपी' प्रश्नी दिल्लीतील बैठक निष्फळ, उद्यापासून महाराष्ट्र-कर्नाटकातील महामार्ग रोखणार, राजू शेट्टींचा इशारा",
+    "title": "UPI Charges: गौडबंगाल ‘युपीआय’ मीटरचे",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/sugar-msp-raju-shetti-farmers-protest-highway-blockade-ddb79",
+    "link": "https://agrowon.esakal.com/sampadkiya/upi-payment-fee-claims-2000-rupees-merchant-charges-abhi47",
     "isNew": true
   },
   {
-    "id": "news-75a7323247",
+    "id": "news-013e1cac8b",
     "category": "news",
-    "title": "Canal Repair : पहिल्या आवर्तनापूर्वी कालव्यांची दुरुस्ती करा",
+    "title": "Research Ecosystem: पूरक परिसंस्थेत बहरेल संशोधन",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/repair-canals-before-first-water-rotation-farmers-demand-immediate-action-aak11",
+    "link": "https://agrowon.esakal.com/sampadkiya/supportive-research-ecosystem-india-retain-researchers-abhi47",
     "isNew": true
   },
   {
-    "id": "news-5d74fc7cb8",
+    "id": "news-09597a5315",
     "category": "news",
-    "title": "Solar Irrigation : सातारा जिल्ह्यातील उपसा सिंचन योजना सौर ऊर्जेुळे उजळणार",
+    "title": "Pune Zilla Parishad: पुणे जिल्हा परिषद राज्यात द्वितीय",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/solar-energy-to-power-major-district-irrigation-projects-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/pune-zilla-parishad-second-rank-samruddha-panchayat-raj-abhi47",
     "isNew": true
   },
   {
-    "id": "news-98b7ae7d40",
+    "id": "news-04cc3bbe9c",
     "category": "news",
-    "title": "Water Tanker Surge : टॅंकरच्या संख्येत झपाट्याने वाढ",
+    "title": "Baramati Farmers Suppot: बारामतीच्या शेतकऱ्यांवर अन्याय होऊ देणार नाही : उपमुख्यमंत्री सुनेत्रा पवार",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/water-crisis-deepens-rapid-surge-in-water-tankers-across-maharashtra-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/baramati-farmers-nira-left-canal-water-distribution-abhi47",
+    "isNew": true
+  },
+  {
+    "id": "news-eeb38c5ac1",
+    "category": "news",
+    "title": "Garlic Cultivation: दुष्काळाच्या परिस्थितीत लसणाची लागवड कशी करावी?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/garlic-cultivation-drought-conditions-water-management",
     "isNew": true
   },
   {
@@ -141,7 +149,7 @@
     "title": "Soybean Rate : दिवाळीपर्यंत सोयाबीनचे भाव कसे राहतील? आवक वाढल्याचा दरांवर काय परिणाम होणार?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/soybean-rate-price-forecast-until-diwali-maharashtra",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-1c0f4c8267",
@@ -149,7 +157,7 @@
     "title": "Drought Madat : राज्यातील ६५ तालुक्यांत पाहणी केल्यावर केंद्रीय पथकाने काय सांगितले?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/maharashtra-drought-relief-central-team-visit-65-talukas",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-a985eded9b",
@@ -157,7 +165,7 @@
     "title": "Wheat, Guava Rate: गहू दरात सुधारणा, उडीद दर टिकून,बटाटा बाजारात चढ-उतार, पेरू दरात तेजी, चिकू दरात चढ-उतार",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/wheat-guava-urad-potato-sapota-market-rates-maharashtra",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-5639b2ecba",
@@ -165,7 +173,7 @@
     "title": "Monsoon Return : देशाच्या उर्वरित भागांतून मॉन्सूनच्या परतीसाठी पोषक स्थिती; राज्यात उन्हाचा चटका कायम",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/monsoon-return-konkan-hot-humid-weather-maharashtra-2",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-8f0bd52f5a",
@@ -173,7 +181,7 @@
     "title": "Crop Residue Management: वाळून गेलेल्या पिकाला न जाळता शेतीसाठी वापर कसा करावा?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/crop-residue-management-reuse-dried-crops-without-burning",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-452ce71c3e",
@@ -181,14 +189,6 @@
     "title": "El Nino Impact : एल निनोमध्ये पाणीटंचाई रोखण्यासाठी नियोजन काय?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/el-nino-impact-water-scarcity-planning-dr-jasmin",
-    "isNew": false
-  },
-  {
-    "id": "news-478a4fc399",
-    "category": "news",
-    "title": "Drought Relief : राज्यातील १८ तालुक्यांत पंचनामे; दुष्काळी मदतीचे नवे दर कधी जाहीर होणार?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/maharashtra-drought-relief-18-talukas-panchnama-new-aid-rates",
     "isNew": false
   }
 ]
