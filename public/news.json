@@ -96,43 +96,67 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-66087e9ee4",
+    "id": "news-2523e991bb",
     "category": "news",
-    "title": "Vanraj Agri Tourism Centre: शेरकर दांपत्याचे नावारूपाला आलेले वनराज कृषी पर्यटन केंद्र",
+    "title": "Fruit Crop Insurance : संत्रा, मोसंबी, डाळिंब, केळी, आंबा, पपईचा विम्यात समावेश",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/yashogatha/vanraj-agri-tourism-centre-sherkar-couple-junnar-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/orange-mango-pomegranate-and-banana-included-in-crop-insurance-aak11",
     "isNew": true
   },
   {
-    "id": "news-e00b9c3496",
+    "id": "news-eed1f8c0cf",
     "category": "news",
-    "title": "UPI Charges: गौडबंगाल ‘युपीआय’ मीटरचे",
+    "title": "Paddy Crop Diseases : धान पिकांवर विविध रोगांचा प्रादुर्भाव",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/sampadkiya/upi-payment-fee-claims-2000-rupees-merchant-charges-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/severe-pest-and-disease-infestation-on-rice-crops-aak11",
     "isNew": true
   },
   {
-    "id": "news-013e1cac8b",
+    "id": "news-91eb2c4324",
     "category": "news",
-    "title": "Research Ecosystem: पूरक परिसंस्थेत बहरेल संशोधन",
+    "title": "Soybean Price : आर्णी बाजार समितीत सोयाबीनची आवक वाढली",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/sampadkiya/supportive-research-ecosystem-india-retain-researchers-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/soybean-arrival-surges-at-arni-apmc-market-trading-picks-up-momentum-aak11",
     "isNew": true
   },
   {
-    "id": "news-09597a5315",
+    "id": "news-c0ed5070d7",
     "category": "news",
-    "title": "Pune Zilla Parishad: पुणे जिल्हा परिषद राज्यात द्वितीय",
+    "title": "Pomegranate Farming : सर्कलवाडी येथे डाळिंब बहार व्यवस्थापनासाठी शिवार फेरी",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/pune-zilla-parishad-second-rank-samruddha-panchayat-raj-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/field-visit-organized-at-sarkalwadi-for-pomegranate-bahar-management-techniques-aak11",
     "isNew": true
   },
   {
-    "id": "news-04cc3bbe9c",
+    "id": "news-b8130dcf0e",
     "category": "news",
-    "title": "Baramati Farmers Suppot: बारामतीच्या शेतकऱ्यांवर अन्याय होऊ देणार नाही : उपमुख्यमंत्री सुनेत्रा पवार",
+    "title": "Water Crisis: कासारी नदीचे पात्र कोरडे; १४ गावांतील शेती आणि पिण्याच्या पाण्याचा प्रश्न गंभीर",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/baramati-farmers-nira-left-canal-water-distribution-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/kasari-river-dry-yavluj-porle-barrage-water-leakage-abhi47",
+    "isNew": true
+  },
+  {
+    "id": "news-3b2ed40568",
+    "category": "news",
+    "title": "Maize Price Forecast: मक्याचे भाव आणखी किती दिवस तेजीत राहतील?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/maize-price-forecast-india-rat16",
+    "isNew": true
+  },
+  {
+    "id": "news-75b2aadb5c",
+    "category": "news",
+    "title": "Soybean Onion Rate: सोयाबीनचे भाव तेजीत, कांद्याच्या दरात चढ-उतार, टोमॅटो दरात नरमाई, मेथीच्या बाजारात बदल तर रताळ्याच्या दरात घसरण",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/soybean-onion-tomato-methi-sweet-potato-market-rates",
+    "isNew": true
+  },
+  {
+    "id": "news-2e5b58294a",
+    "category": "news",
+    "title": "Rain Update : राज्यात उन्हाचा चटका कायम; कोकणात उष्ण आणि दमट हवामानाचा इशारा",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/maharashtra-rain-update-temperature-above-35-heat-rise",
     "isNew": true
   },
   {
@@ -141,7 +165,7 @@
     "title": "Garlic Cultivation: दुष्काळाच्या परिस्थितीत लसणाची लागवड कशी करावी?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/garlic-cultivation-drought-conditions-water-management",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-543c4d2eda",
@@ -165,30 +189,6 @@
     "title": "Wheat, Guava Rate: गहू दरात सुधारणा, उडीद दर टिकून,बटाटा बाजारात चढ-उतार, पेरू दरात तेजी, चिकू दरात चढ-उतार",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/wheat-guava-urad-potato-sapota-market-rates-maharashtra",
-    "isNew": false
-  },
-  {
-    "id": "news-5639b2ecba",
-    "category": "news",
-    "title": "Monsoon Return : देशाच्या उर्वरित भागांतून मॉन्सूनच्या परतीसाठी पोषक स्थिती; राज्यात उन्हाचा चटका कायम",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/monsoon-return-konkan-hot-humid-weather-maharashtra-2",
-    "isNew": false
-  },
-  {
-    "id": "news-8f0bd52f5a",
-    "category": "news",
-    "title": "Crop Residue Management: वाळून गेलेल्या पिकाला न जाळता शेतीसाठी वापर कसा करावा?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/crop-residue-management-reuse-dried-crops-without-burning",
-    "isNew": false
-  },
-  {
-    "id": "news-452ce71c3e",
-    "category": "news",
-    "title": "El Nino Impact : एल निनोमध्ये पाणीटंचाई रोखण्यासाठी नियोजन काय?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/el-nino-impact-water-scarcity-planning-dr-jasmin",
     "isNew": false
   }
 ]
