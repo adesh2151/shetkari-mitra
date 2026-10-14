@@ -96,43 +96,67 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-926924504a",
+    "id": "news-d452b447c0",
     "category": "news",
-    "title": "Climate Change Impact: ये तो ट्रेलर है",
+    "title": "Fodder Transport Bans: दुष्काळाच्या पार्श्वभूमीवर पुणे जिल्ह्यातून चारा बाहेर नेण्यास बंदी; जिल्हाधिकाऱ्यांचे आदेश",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/sampadkiya/october-heat-summer-drought-water-scarcity-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/pune-district-fodder-transport-ban-drought-abhi47",
     "isNew": true
   },
   {
-    "id": "news-b149b0a9fe",
+    "id": "news-387ccab1ca",
     "category": "news",
-    "title": "Farmers Loan Interest Refund: पीककर्जाचा दोन वर्षांचा थकीत व्याज परतावा द्या; स्वतंत्र भारत पक्षाची मुख्यमंत्र्यांकडे मागणी",
+    "title": "Solapur Water Crisis : सोलापूर जिल्ह्यात पिण्याच्या पाण्याला प्रथम प्राधान्य",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/crop-loan-pending-interest-refund-farmers-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/drinking-water-given-first-priority-in-solapur-district-administration-meet-aak11",
     "isNew": true
   },
   {
-    "id": "news-36c57950eb",
+    "id": "news-aeda15b80d",
     "category": "news",
-    "title": "Sugarcane Farmers Protest: ऊस उत्पादकांचा एल्गार! कोगनोळी टोलनाक्यावर पुणे-बंगळूर महामार्ग रोखला",
+    "title": "Mustard Cultivation: दुष्काळात मोहरीचे पीक घेण्याचे अनेक फायदे, लागवड कशी कराल?",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/sugarcane-farmers-protest-kognoli-highway-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/how-to-grow-mustard-limited-water-drought-ssp-25",
     "isNew": true
   },
   {
-    "id": "news-0ab33ba082",
+    "id": "news-1a539b42e5",
     "category": "news",
-    "title": "Subsidized Seeds: हरभरा, ज्वारीचे बियाणे अनुदानावर उपलब्ध",
+    "title": "Summer Soybean Sowing: खानदेशात उन्हाळी सोयाबीनचे क्षेत्र कमी राहणार",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/subsidized-chickpea-sorghum-seeds-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/khandesh-summer-soybean-sowing-decline-abhi47",
     "isNew": true
   },
   {
-    "id": "news-c09ff7674c",
+    "id": "news-8566e2152a",
     "category": "news",
-    "title": "Manmodi Rog: वाढत्या उष्णतेमध्ये कोंबड्यांना मानमोडी रोगापासून वाचवा, प्रतिबंधाचे सोपे ३ उपाय",
+    "title": "Drought Relief: ५ हजारांची मदत म्हणजे शेतकऱ्यांची चेष्टा, नमो शेतकरी योजनेचे पैसे का देत नाही? शेतकरी नेत्यांचा सवाल",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/animal-care/animal-diseases/how-to-protect-chickens-newcastle-disease-ssp-25",
+    "link": "https://agrowon.esakal.com/agro-special/drought-relief-maharashtra-farmers-leaders-question-5000-aid-ddb79",
+    "isNew": true
+  },
+  {
+    "id": "news-7a4d5483d7",
+    "category": "news",
+    "title": "Chana Groundnut Rate: हरभऱ्याच्या आवकेत चढ-उतार, ओल्या भुईमुगाचे दर टिकून, मोसंबीचे दर कायम, फ्लॉवरच्या आवकेत बदल तर केळीचे दर जैसे थे",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/chana-wet-groundnut-mosambi-cauliflower-banana-rates",
+    "isNew": true
+  },
+  {
+    "id": "news-9061e865b4",
+    "category": "news",
+    "title": "Rain Alert: रविवारपर्यंत विविध भागात पावसाला पोषक हवामान",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/maharashtra-rain-alert-forecast-until-sunday",
+    "isNew": true
+  },
+  {
+    "id": "news-8f5e048e2c",
+    "category": "news",
+    "title": "Safflower Farming: कमी पाण्यात करडईचे चांगले उत्पादन कसे घ्यावे?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/safflower-farming-less-water-better-yield",
     "isNew": true
   },
   {
@@ -165,30 +189,6 @@
     "title": "Garlic Cultivation: दुष्काळाच्या परिस्थितीत लसणाची लागवड कशी करावी?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/garlic-cultivation-drought-conditions-water-management",
-    "isNew": false
-  },
-  {
-    "id": "news-543c4d2eda",
-    "category": "news",
-    "title": "Soybean Rate : दिवाळीपर्यंत सोयाबीनचे भाव कसे राहतील? आवक वाढल्याचा दरांवर काय परिणाम होणार?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/soybean-rate-price-forecast-until-diwali-maharashtra",
-    "isNew": false
-  },
-  {
-    "id": "news-1c0f4c8267",
-    "category": "news",
-    "title": "Drought Madat : राज्यातील ६५ तालुक्यांत पाहणी केल्यावर केंद्रीय पथकाने काय सांगितले?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/maharashtra-drought-relief-central-team-visit-65-talukas",
-    "isNew": false
-  },
-  {
-    "id": "news-a985eded9b",
-    "category": "news",
-    "title": "Wheat, Guava Rate: गहू दरात सुधारणा, उडीद दर टिकून,बटाटा बाजारात चढ-उतार, पेरू दरात तेजी, चिकू दरात चढ-उतार",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/wheat-guava-urad-potato-sapota-market-rates-maharashtra",
     "isNew": false
   }
 ]
