@@ -96,43 +96,51 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-d452b447c0",
+    "id": "news-37c21c4c5f",
     "category": "news",
-    "title": "Fodder Transport Bans: दुष्काळाच्या पार्श्वभूमीवर पुणे जिल्ह्यातून चारा बाहेर नेण्यास बंदी; जिल्हाधिकाऱ्यांचे आदेश",
+    "title": "Sugarcane Farmers Protest: उद्यापासून कारखाने बंद पाडणार; राजू शेट्टींचा इशारा, पुणे- बंगळूर महामार्गावरील आंदोलन स्थगित",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/pune-district-fodder-transport-ban-drought-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/sugarcane-farmers-protest-raju-shetti-maharashtra-ddb79",
     "isNew": true
   },
   {
-    "id": "news-387ccab1ca",
+    "id": "news-700c070de7",
     "category": "news",
-    "title": "Solapur Water Crisis : सोलापूर जिल्ह्यात पिण्याच्या पाण्याला प्रथम प्राधान्य",
+    "title": "Damage Crop Panchnama : नांदेड जिल्ह्यात पिकांचे पंचनामे पूर्ण",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/drinking-water-given-first-priority-in-solapur-district-administration-meet-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/nanded-district-crop-loss-panchnama-completed-successfully-aak11",
     "isNew": true
   },
   {
-    "id": "news-aeda15b80d",
+    "id": "news-8744b78953",
     "category": "news",
-    "title": "Mustard Cultivation: दुष्काळात मोहरीचे पीक घेण्याचे अनेक फायदे, लागवड कशी कराल?",
+    "title": "Amravati Grazing Ban : अमरावतीत बाहेरील पशुधनाला चराईबंदी",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/how-to-grow-mustard-limited-water-drought-ssp-25",
+    "link": "https://agrowon.esakal.com/agro-special/amravati-grazing-ban-outside-livestock-banned-from-forest-grazing-aak11",
     "isNew": true
   },
   {
-    "id": "news-1a539b42e5",
+    "id": "news-749b631e20",
     "category": "news",
-    "title": "Summer Soybean Sowing: खानदेशात उन्हाळी सोयाबीनचे क्षेत्र कमी राहणार",
+    "title": "Drought Management: सिंधुदुर्गातील पाणीटंचाईसाठी उपाययोजनांच्या सूचना",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/khandesh-summer-soybean-sowing-decline-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/sindhudurg-water-scarcity-private-wells-survey-abhi47",
     "isNew": true
   },
   {
-    "id": "news-8566e2152a",
+    "id": "news-0e2fdaa9a9",
     "category": "news",
-    "title": "Drought Relief: ५ हजारांची मदत म्हणजे शेतकऱ्यांची चेष्टा, नमो शेतकरी योजनेचे पैसे का देत नाही? शेतकरी नेत्यांचा सवाल",
+    "title": "Chhatrapati Sambhajinagar Graduates’ Election: पदवीधर मतदारसंघात एकूण ३ लाख २६ हजार ७०१ मतदार",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/drought-relief-maharashtra-farmers-leaders-question-5000-aid-ddb79",
+    "link": "https://agrowon.esakal.com/agro-special/aurangabad-graduates-constituency-voters-polling-stations-2026-abi47",
+    "isNew": true
+  },
+  {
+    "id": "news-1773add424",
+    "category": "news",
+    "title": "Drought Madat; दुष्काळामुळे पीक नुकसानीची सर्व मदत नेमकी कधी मिळणार ?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/maharashtra-drought-relief-crop-loss-compensation",
     "isNew": true
   },
   {
@@ -141,7 +149,7 @@
     "title": "Chana Groundnut Rate: हरभऱ्याच्या आवकेत चढ-उतार, ओल्या भुईमुगाचे दर टिकून, मोसंबीचे दर कायम, फ्लॉवरच्या आवकेत बदल तर केळीचे दर जैसे थे",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/chana-wet-groundnut-mosambi-cauliflower-banana-rates",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-9061e865b4",
@@ -149,7 +157,7 @@
     "title": "Rain Alert: रविवारपर्यंत विविध भागात पावसाला पोषक हवामान",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/maharashtra-rain-alert-forecast-until-sunday",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-8f5e048e2c",
@@ -157,7 +165,7 @@
     "title": "Safflower Farming: कमी पाण्यात करडईचे चांगले उत्पादन कसे घ्यावे?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/safflower-farming-less-water-better-yield",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-3b2ed40568",
@@ -181,14 +189,6 @@
     "title": "Rain Update : राज्यात उन्हाचा चटका कायम; कोकणात उष्ण आणि दमट हवामानाचा इशारा",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/maharashtra-rain-update-temperature-above-35-heat-rise",
-    "isNew": false
-  },
-  {
-    "id": "news-eeb38c5ac1",
-    "category": "news",
-    "title": "Garlic Cultivation: दुष्काळाच्या परिस्थितीत लसणाची लागवड कशी करावी?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/garlic-cultivation-drought-conditions-water-management",
     "isNew": false
   }
 ]
