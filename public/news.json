@@ -96,43 +96,51 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-e25db3ed3f",
+    "id": "news-e0735be77e",
     "category": "news",
-    "title": "Agrowon Podcast: सोयाबीन बाजारात तेजी, मूग दरात सुधारणा, भेंडी बाजारात मंदी, कोथिंबीर बाजारात चढ-उतार तर डाळिंब दरात घसरण",
+    "title": "Antyodaya Scheme: अहिल्यानगरमधील २७ लाखांहून अधिक लाभार्थ्यांना अन्नधान्याचा लाभ",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/market-intelligence/maharashtra-market-rates-soybean-moong-okra-coriander-pomegranate-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/over-27-lakhs-beneficiaries-food-grains-ahilyanagar",
     "isNew": true
   },
   {
-    "id": "news-74da589a4f",
+    "id": "news-36eb343ca5",
     "category": "news",
-    "title": "Dam Water Planning : कोल्हापूर जिल्ह्यातील धरणातील पाण्याचे नियोजन केले का?",
+    "title": "Drought Relief: दुष्काळग्रस्त शेतकरी, मजुरांना तातडीने मदत द्या : बाळासाहेब थोरात",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/administration-blueprints-dam-water-management-action-plan-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/balasaheb-thorat-demands-immediate-relief-drought-hit-farmers",
     "isNew": true
   },
   {
-    "id": "news-c277c75c1b",
+    "id": "news-4ad897ec94",
     "category": "news",
-    "title": "Sugarcane Nursery Management: निरोगी ऊस रोप निर्मितीचे तंत्र",
+    "title": "Orange Damage: मृगबहार संत्राफळांचे नुकसान",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/maharashtra-rain-forecast-konkan-western-maharashtra-marathwada-abhi47-2",
+    "link": "https://agrowon.esakal.com/agro-special/drought-damages-mrig-bahar-oranges-warud-amaravati",
     "isNew": true
   },
   {
-    "id": "news-5004325012",
+    "id": "news-cd2e26a379",
     "category": "news",
-    "title": "Drip Irrigation : ठिबक बसवा; जास्त पाणी लागणारी पिके घेऊ नका",
+    "title": "Soybean Prices: हमीदरापेक्षा भाव वाढले, उत्पादन मात्र घटले",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/install-drip-irrigation-and-avoid-high-water-consuming-crops-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/soybean-prices-exceed-msp-drought-cuts-production",
     "isNew": true
   },
   {
-    "id": "news-8166ea5b72",
+    "id": "news-9acf2e2e87",
     "category": "news",
-    "title": "Maharashtra Rain Forecast: पश्चिम महाराष्ट्रासह कोकण आणि दक्षिण मराठवाड्यातही पावसाची शक्यता",
+    "title": "Leopard Attack: बिबट्याचा धुमाकूळ, पंढरपुरात १३ कोकरे, करमाळ्यात ५ मेंढ्या फस्त",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/weather-news/maharashtra-rain-forecast-konkan-western-maharashtra-marathwada-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/13-lambs-five-sheep-killed-suspected-leopard-attacks",
+    "isNew": true
+  },
+  {
+    "id": "news-08e3c0b7f9",
+    "category": "news",
+    "title": "Soybean Rate: बाजारातील आवक वाढत असतानाही भावात होतेय सुधारणा",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/soybean-rate-market-arrivals-price-improvement",
     "isNew": true
   },
   {
@@ -141,7 +149,7 @@
     "title": "Soybean, Pomegranate Rate: सोयाबीन बाजारात तेजी, भेंडी बाजारात मंदी, मूग दरात सुधारणा, कोथिंबीर बाजारात चढ-उतार, डाळिंब दरात घसरण",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/maharashtra-market-rates-soybean-okra-moong-pomegranate",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-2601e426d1",
@@ -149,7 +157,7 @@
     "title": "Maharashtra Rain: पश्चिम महाराष्ट्रासह कोकण आणि दक्षिण मराठवाड्यातही पावसाची शक्यता",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/maharashtra-rain-alert-saturday-five-day-forecast",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-f1db68c8c1",
@@ -157,7 +165,7 @@
     "title": "Lucern Cultivation: लसूणघासाची लागवड कशी करावी; वाण कोणते वापरावे?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/lucerne-cultivation-varieties-sowing-fodder-yield",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-1773add424",
@@ -181,14 +189,6 @@
     "title": "Rain Alert: रविवारपर्यंत विविध भागात पावसाला पोषक हवामान",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/maharashtra-rain-alert-forecast-until-sunday",
-    "isNew": false
-  },
-  {
-    "id": "news-8f5e048e2c",
-    "category": "news",
-    "title": "Safflower Farming: कमी पाण्यात करडईचे चांगले उत्पादन कसे घ्यावे?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/safflower-farming-less-water-better-yield",
     "isNew": false
   }
 ]
