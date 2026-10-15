@@ -96,43 +96,67 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-86d9a4f8e8",
+    "id": "news-e25db3ed3f",
     "category": "news",
-    "title": "Pune Rural Water Scarcity: पुणे जिल्ह्यातील ग्रामीण पाणीटंचाईवर मात करण्यासाठी जिल्हा परिषदेच्या उपाययोजना",
+    "title": "Agrowon Podcast: सोयाबीन बाजारात तेजी, मूग दरात सुधारणा, भेंडी बाजारात मंदी, कोथिंबीर बाजारात चढ-उतार तर डाळिंब दरात घसरण",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/pune-district-rural-water-scarcity-measures-rat16",
+    "link": "https://agrowon.esakal.com/market-intelligence/maharashtra-market-rates-soybean-moong-okra-coriander-pomegranate-abhi47",
     "isNew": true
   },
   {
-    "id": "news-450a48b281",
+    "id": "news-74da589a4f",
     "category": "news",
-    "title": "Sugarcane Crushing Season: ऊस हंगामास आजपासून प्रारंभ; शेतकरी संघटनांची हंगाम १५ नोव्हेंबरपासून सुरू करण्याची मागणी",
+    "title": "Dam Water Planning : कोल्हापूर जिल्ह्यातील धरणातील पाण्याचे नियोजन केले का?",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/maharashtra-sugarcane-crushing-season-november-15-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/administration-blueprints-dam-water-management-action-plan-aak11",
     "isNew": true
   },
   {
-    "id": "news-337ea79ac4",
+    "id": "news-c277c75c1b",
     "category": "news",
-    "title": "October Heat Stress: ऑक्टोबर हीटमध्ये पालेभाज्यांवर ताणाची शक्यता, वेळीच घ्या काळजी",
+    "title": "Sugarcane Nursery Management: निरोगी ऊस रोप निर्मितीचे तंत्र",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/october-heat-stress-management-leafy-vegetables-care-ssp-25",
+    "link": "https://agrowon.esakal.com/agro-special/maharashtra-rain-forecast-konkan-western-maharashtra-marathwada-abhi47-2",
     "isNew": true
   },
   {
-    "id": "news-d47b212c89",
+    "id": "news-5004325012",
     "category": "news",
-    "title": "Cooperation Minister's Assurance: सहकारमंत्र्यांच्या आश्वासनाकडे सर्वांचे लक्ष; साखर उद्योग संघटनांनी दिली आठ दिवसांची मुदत",
+    "title": "Drip Irrigation : ठिबक बसवा; जास्त पाणी लागणारी पिके घेऊ नका",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/sugar-industry-eight-day-deadline-maharashtra-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/install-drip-irrigation-and-avoid-high-water-consuming-crops-aak11",
     "isNew": true
   },
   {
-    "id": "news-625cb56238",
+    "id": "news-8166ea5b72",
     "category": "news",
-    "title": "Mahavitaran Employees Protest: ‘महावितरण’विरोधात वीज कर्मचाऱ्यांचा आक्रोश; द्वारसभेतून मागण्यांना आवाज",
+    "title": "Maharashtra Rain Forecast: पश्चिम महाराष्ट्रासह कोकण आणि दक्षिण मराठवाड्यातही पावसाची शक्यता",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/mahavitaran-electricity-workers-protest-meeting-pune-rat16",
+    "link": "https://agrowon.esakal.com/weather-news/maharashtra-rain-forecast-konkan-western-maharashtra-marathwada-abhi47",
+    "isNew": true
+  },
+  {
+    "id": "news-ea3eca2a44",
+    "category": "news",
+    "title": "Soybean, Pomegranate Rate: सोयाबीन बाजारात तेजी, भेंडी बाजारात मंदी, मूग दरात सुधारणा, कोथिंबीर बाजारात चढ-उतार, डाळिंब दरात घसरण",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/maharashtra-market-rates-soybean-okra-moong-pomegranate",
+    "isNew": true
+  },
+  {
+    "id": "news-2601e426d1",
+    "category": "news",
+    "title": "Maharashtra Rain: पश्चिम महाराष्ट्रासह कोकण आणि दक्षिण मराठवाड्यातही पावसाची शक्यता",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/maharashtra-rain-alert-saturday-five-day-forecast",
+    "isNew": true
+  },
+  {
+    "id": "news-f1db68c8c1",
+    "category": "news",
+    "title": "Lucern Cultivation: लसूणघासाची लागवड कशी करावी; वाण कोणते वापरावे?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/lucerne-cultivation-varieties-sowing-fodder-yield",
     "isNew": true
   },
   {
@@ -165,30 +189,6 @@
     "title": "Safflower Farming: कमी पाण्यात करडईचे चांगले उत्पादन कसे घ्यावे?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/safflower-farming-less-water-better-yield",
-    "isNew": false
-  },
-  {
-    "id": "news-3b2ed40568",
-    "category": "news",
-    "title": "Maize Price Forecast: मक्याचे भाव आणखी किती दिवस तेजीत राहतील?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/maize-price-forecast-india-rat16",
-    "isNew": false
-  },
-  {
-    "id": "news-75b2aadb5c",
-    "category": "news",
-    "title": "Soybean Onion Rate: सोयाबीनचे भाव तेजीत, कांद्याच्या दरात चढ-उतार, टोमॅटो दरात नरमाई, मेथीच्या बाजारात बदल तर रताळ्याच्या दरात घसरण",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/soybean-onion-tomato-methi-sweet-potato-market-rates",
-    "isNew": false
-  },
-  {
-    "id": "news-2e5b58294a",
-    "category": "news",
-    "title": "Rain Update : राज्यात उन्हाचा चटका कायम; कोकणात उष्ण आणि दमट हवामानाचा इशारा",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/maharashtra-rain-update-temperature-above-35-heat-rise",
     "isNew": false
   }
 ]
