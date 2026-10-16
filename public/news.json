@@ -96,43 +96,67 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-4a0636f827",
+    "id": "news-89f11d3e66",
     "category": "news",
-    "title": "Farmers Demands: सर्व तालुक्यांत दुष्काळ जाहीर करा",
+    "title": "Drought Relief Maharashtra: दुष्काळ निवारणाच्या कामात हलगर्जीपणा केल्यास निलंबनाची कारवाई, महसूल विभागाचे निर्देश",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/kisan-sabha-demands-drought-declaration-all-pune-talukas-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/drought-relief-maharashtra-government-action-against-negligent-officials-ddb79",
     "isNew": true
   },
   {
-    "id": "news-15222dbbfa",
+    "id": "news-6a477d9718",
     "category": "news",
-    "title": "Sindhudurg Temperature Update: सिंधुदुर्गात तापमानवाढीचा कहर",
+    "title": "Calf Care in October Heat: ऑक्टोबर हीटपासून वासरांच्या संरक्षणाचे ५ उपाय",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/sindhudurg-october-heat-temperature-38-degree-paddy-harvest-abhi47",
+    "link": "https://agrowon.esakal.com/animal-care/animal-diseases/how-to-protect-calves-heat-stress-during-hot-weather-ssp-25",
     "isNew": true
   },
   {
-    "id": "news-221baa8b57",
+    "id": "news-514c5c57e7",
     "category": "news",
-    "title": "Sugar Stock Limit: साखर साठवणुकीवर केंद्राचे निर्बंध",
+    "title": "Fish Production Decline: मत्स्य उत्पादनाची घसरण सुरूच!",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/sugar-stock-limit-1000-quintals-15-days-october-2026-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/konkan-fish-production-decline-81968-metric-tonnes-abhi47",
     "isNew": true
   },
   {
-    "id": "news-4112445289",
+    "id": "news-dfa2489a51",
     "category": "news",
-    "title": "Women Farmer Certificate: महिला शेतकरी प्रमाणपत्र अर्ज स्वीकारण्यास सुरुवात",
+    "title": "Manavlok Sanstha and Babuji: चौफेर कार्य करणारी मानवलोक संस्था आणि बाबूजी...",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/maharashtra-women-farmer-certificate-online-application-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/manavlok-sanstha-babuji-social-work-rat16",
     "isNew": true
   },
   {
-    "id": "news-435a1eb9c6",
+    "id": "news-9b2bd7629a",
     "category": "news",
-    "title": "Livestock Scheme Fraud: मुख्यमंत्री पशुधन योजना सुरू होण्याआधीच फसवणूक",
+    "title": "Natural Farming Training: तळसंदेत कृषी सखींना प्रशिक्षण",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/maharashtra-livestock-scheme-fake-links-fraud-alert-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/krishi-sakhi-natural-farming-training-talsande-kolhapur-abhi47",
+    "isNew": true
+  },
+  {
+    "id": "news-296ee6d2b7",
+    "category": "news",
+    "title": "Onion Tur Rate: तूर बाजारभावात चढ-उतार, कांदा दरात काहिशी घसरण, हिरव्या मिरचीच्या आवकेत घट, पालक दरात बदल तर मोसंबीच्या दरात स्थिरता",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/onion-tur-rates-green-chilli-spinach-mosambi-market-update",
+    "isNew": true
+  },
+  {
+    "id": "news-2e8fd16690",
+    "category": "news",
+    "title": "October Rain: मराठवाडा, विदर्भातील कोणत्या जिल्ह्यात पावसाची शक्यता?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/october-rain-forecast-marathwada-vidarbha-districts",
+    "isNew": true
+  },
+  {
+    "id": "news-95c6e64e96",
+    "category": "news",
+    "title": "Rabi Crops:दुष्काळात हरभरा पीक घेताना काय काळजी घ्यावी?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/chickpea-farming-drought-precautions-harbhara",
     "isNew": true
   },
   {
@@ -165,30 +189,6 @@
     "title": "Lucern Cultivation: लसूणघासाची लागवड कशी करावी; वाण कोणते वापरावे?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/lucerne-cultivation-varieties-sowing-fodder-yield",
-    "isNew": false
-  },
-  {
-    "id": "news-1773add424",
-    "category": "news",
-    "title": "Drought Madat; दुष्काळामुळे पीक नुकसानीची सर्व मदत नेमकी कधी मिळणार ?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/maharashtra-drought-relief-crop-loss-compensation",
-    "isNew": false
-  },
-  {
-    "id": "news-7a4d5483d7",
-    "category": "news",
-    "title": "Chana Groundnut Rate: हरभऱ्याच्या आवकेत चढ-उतार, ओल्या भुईमुगाचे दर टिकून, मोसंबीचे दर कायम, फ्लॉवरच्या आवकेत बदल तर केळीचे दर जैसे थे",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/chana-wet-groundnut-mosambi-cauliflower-banana-rates",
-    "isNew": false
-  },
-  {
-    "id": "news-9061e865b4",
-    "category": "news",
-    "title": "Rain Alert: रविवारपर्यंत विविध भागात पावसाला पोषक हवामान",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/maharashtra-rain-alert-forecast-until-sunday",
     "isNew": false
   }
 ]
