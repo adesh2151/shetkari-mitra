@@ -96,43 +96,51 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-89f11d3e66",
+    "id": "news-8579972375",
     "category": "news",
-    "title": "Drought Relief Maharashtra: दुष्काळ निवारणाच्या कामात हलगर्जीपणा केल्यास निलंबनाची कारवाई, महसूल विभागाचे निर्देश",
+    "title": "Dharashiv Farmer Story: सरकारच्या ५ हजारांच्या अग्रिम मदतीवरुन नाराजी, शेतकऱ्यानं मुख्यमंत्र्यांना सोयाबीनची 'पट्टी'च केली मनी ऑर्डर",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/drought-relief-maharashtra-government-action-against-negligent-officials-ddb79",
+    "link": "https://agrowon.esakal.com/agro-special/dharashiv-farmer-story-soybean-money-order-ddb79",
     "isNew": true
   },
   {
-    "id": "news-6a477d9718",
+    "id": "news-545e7f2611",
     "category": "news",
-    "title": "Calf Care in October Heat: ऑक्टोबर हीटपासून वासरांच्या संरक्षणाचे ५ उपाय",
+    "title": "Integrated Farming: एकात्मिक शेती दुष्काळात फायदेशीर ठरेल : कुलगुरू खर्चे",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/animal-care/animal-diseases/how-to-protect-calves-heat-stress-during-hot-weather-ssp-25",
+    "link": "https://agrowon.esakal.com/agro-special/integrated-farming-drought-climate-resilient-crops-goat-farming-abhi47",
     "isNew": true
   },
   {
-    "id": "news-514c5c57e7",
+    "id": "news-010356383b",
     "category": "news",
-    "title": "Fish Production Decline: मत्स्य उत्पादनाची घसरण सुरूच!",
+    "title": "Agriculture Irrigation Challenges: मोटारपंप बंदीच्या निर्देशांमुळे नवे संकट : किशोर वडेट्टीवार",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/konkan-fish-production-decline-81968-metric-tonnes-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/chandrapur-motor-pump-restrictions-farmer-irrigation-crisis-abhi47",
     "isNew": true
   },
   {
-    "id": "news-dfa2489a51",
+    "id": "news-446588e2a0",
     "category": "news",
-    "title": "Manavlok Sanstha and Babuji: चौफेर कार्य करणारी मानवलोक संस्था आणि बाबूजी...",
+    "title": "Farmers Issue: कर्जमाफीच्या नावाखाली शेतकऱ्यांच्या हाती भोपळा : खासदार अमर काळे",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/manavlok-sanstha-babuji-social-work-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/amar-kale-farmer-loan-waiver-kharif-crop-loss-abhi47",
     "isNew": true
   },
   {
-    "id": "news-9b2bd7629a",
+    "id": "news-219163bf0c",
     "category": "news",
-    "title": "Natural Farming Training: तळसंदेत कृषी सखींना प्रशिक्षण",
+    "title": "Maharashtra Drought Relief: शेतकऱ्यांची चेष्टा होणार नाही, 'एनडीआरएफ'कडूनही मदत मिळेल- बावनकुळे",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/krishi-sakhi-natural-farming-training-talsande-kolhapur-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/maharashtra-drought-relief-ndrf-farmer-compensation-bawankule-ddb79",
+    "isNew": true
+  },
+  {
+    "id": "news-2e6bd7cf2b",
+    "category": "news",
+    "title": "Cotton Rate: कापसाची आवक वाढल्याचा दरावर परिणाम होईल का ?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/cotton-rate-rising-arrivals-market-price-impact",
     "isNew": true
   },
   {
@@ -141,7 +149,7 @@
     "title": "Onion Tur Rate: तूर बाजारभावात चढ-उतार, कांदा दरात काहिशी घसरण, हिरव्या मिरचीच्या आवकेत घट, पालक दरात बदल तर मोसंबीच्या दरात स्थिरता",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/onion-tur-rates-green-chilli-spinach-mosambi-market-update",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-2e8fd16690",
@@ -149,7 +157,7 @@
     "title": "October Rain: मराठवाडा, विदर्भातील कोणत्या जिल्ह्यात पावसाची शक्यता?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/october-rain-forecast-marathwada-vidarbha-districts",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-95c6e64e96",
@@ -157,7 +165,7 @@
     "title": "Rabi Crops:दुष्काळात हरभरा पीक घेताना काय काळजी घ्यावी?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/chickpea-farming-drought-precautions-harbhara",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-08e3c0b7f9",
@@ -181,14 +189,6 @@
     "title": "Maharashtra Rain: पश्चिम महाराष्ट्रासह कोकण आणि दक्षिण मराठवाड्यातही पावसाची शक्यता",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/maharashtra-rain-alert-saturday-five-day-forecast",
-    "isNew": false
-  },
-  {
-    "id": "news-f1db68c8c1",
-    "category": "news",
-    "title": "Lucern Cultivation: लसूणघासाची लागवड कशी करावी; वाण कोणते वापरावे?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/lucerne-cultivation-varieties-sowing-fodder-yield",
     "isNew": false
   }
 ]
