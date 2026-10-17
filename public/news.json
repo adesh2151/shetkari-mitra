@@ -96,43 +96,67 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-ed9ac10522",
+    "id": "news-68f3ef9a4f",
     "category": "news",
-    "title": "Crop Damage Panchnama: पुणे जिल्‍ह्यात ८० टक्के पंचनामे पूर्ण",
+    "title": "Agrowon Podcast: मक्याच्या भावात चढ-उतार, कोबी दर कायम, ढोबळी मिरचीच्या दरात चढ-उतार, मेथीच्या दरात बदल तर केळीच्या आवकेत चढ-उतार",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/pune-district-80-percent-panchnama-completed-rat16",
+    "link": "https://agrowon.esakal.com/market-intelligence/market-bulletin/maize-cabbage-capsicum-fenugreek-banana-market-prices-rat16",
     "isNew": true
   },
   {
-    "id": "news-f696d89ae0",
+    "id": "news-3fa85f710f",
     "category": "news",
-    "title": "Crop Damage: उन्हाच्या तडाख्याने पिके करपली; मदतीच्या दुसऱ्या यादीतही मुळशी तालुका वगळला!",
+    "title": "Maharashtra Rain Forecast: दक्षिण मराठवाड्यात पावसाचा अंदाज; विदर्भ, कोकण आणि मध्य महाराष्ट्रातील काही भागातही पावसाची शक्यता",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/mulshi-crop-damage-farmers-excluded-second-relief-list-rat16",
+    "link": "https://agrowon.esakal.com/weather-news/maharashtra-rain-forecast-south-marathwada-vidarbha-konkan-rat16",
     "isNew": true
   },
   {
-    "id": "news-13219b6b6c",
+    "id": "news-3713d4abab",
     "category": "news",
-    "title": "Rabi Fodder Crops: रब्बीमध्ये मका, ओट, बरसीम की लसूणघास? यंदा कोणते चारा पीक घ्यावे?",
+    "title": "Integrated Farming: एकात्मिक शेतीतूनच शाश्वत शेती शक्य : डॉ. शरद गडाख",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/best-rabi-fodder-crops-for-livestock-drought-ssp-25",
+    "link": "https://agrowon.esakal.com/agro-special/integrated-farming-sustainable-agriculture-modern-technology-abhi47",
     "isNew": true
   },
   {
-    "id": "news-0e1e0d36a7",
+    "id": "news-8f5ef9df5e",
     "category": "news",
-    "title": "Baramati Innovation Valley: बारामतीत उभारणार‘इनोव्हेशन व्हॅली’ : पवार",
+    "title": "Cropping Pattern: पीक पद्धतीत शेतकरीच बदल घडविणार : डॉ. एस. बी. पवार",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/baramati-innovation-valley-sharad-pawar-announcement-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/farmers-role-in-changing-cropping-patterns-abhi47",
     "isNew": true
   },
   {
-    "id": "news-73a0212a1d",
+    "id": "news-f7666f7c1c",
     "category": "news",
-    "title": "Additional Chief Secretary on Leave: महाराष्ट्राच्या मदत व पुनर्वसन विभागाच्या अतिरिक्त मुख्य सचिव रजेवर",
+    "title": "Raju Shetti: पश्चिम महाराष्ट्रात उपसाबंदी लागू करुन ऊस वाळवण्याचे कारस्थान, राजू शेट्टींचा आरोप",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/maharashtra-relief-rehabilitation-additional-chief-secretary-leave-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/raju-shetti-water-lifting-ban-western-maharashtra-sugarcane-ddb79",
+    "isNew": true
+  },
+  {
+    "id": "news-18fa3dfcd9",
+    "category": "news",
+    "title": "Maize Banana Rate: मक्याच्या भावात चढ-उतार, कोबी दर कायम, ढोबळी मिरचीच्या दरात चढ-उतार, मेथीच्या दरात बदल तर केळीच्या आवकेत चढ-उतार",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/maize-banana-rate-cabbage-capsicum-methi-market-update",
+    "isNew": true
+  },
+  {
+    "id": "news-9aef1c33f6",
+    "category": "news",
+    "title": "October Rain: विदर्भ, कोकण आणि मध्य महाराष्ट्रातील काही भागातही पावसाची शक्यता",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/october-rain-forecast-vidarbha-konkan-madhya-maharashtra",
+    "isNew": true
+  },
+  {
+    "id": "news-d927403623",
+    "category": "news",
+    "title": "Mustard Cultivation: दुष्काळी परिस्थितीत मोहरीची लागवड कशी करावी?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/mustard-cultivation-drought-farming-guide",
     "isNew": true
   },
   {
@@ -165,30 +189,6 @@
     "title": "Rabi Crops:दुष्काळात हरभरा पीक घेताना काय काळजी घ्यावी?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/chickpea-farming-drought-precautions-harbhara",
-    "isNew": false
-  },
-  {
-    "id": "news-08e3c0b7f9",
-    "category": "news",
-    "title": "Soybean Rate: बाजारातील आवक वाढत असतानाही भावात होतेय सुधारणा",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/soybean-rate-market-arrivals-price-improvement",
-    "isNew": false
-  },
-  {
-    "id": "news-ea3eca2a44",
-    "category": "news",
-    "title": "Soybean, Pomegranate Rate: सोयाबीन बाजारात तेजी, भेंडी बाजारात मंदी, मूग दरात सुधारणा, कोथिंबीर बाजारात चढ-उतार, डाळिंब दरात घसरण",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/maharashtra-market-rates-soybean-okra-moong-pomegranate",
-    "isNew": false
-  },
-  {
-    "id": "news-2601e426d1",
-    "category": "news",
-    "title": "Maharashtra Rain: पश्चिम महाराष्ट्रासह कोकण आणि दक्षिण मराठवाड्यातही पावसाची शक्यता",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/maharashtra-rain-alert-saturday-five-day-forecast",
     "isNew": false
   }
 ]
