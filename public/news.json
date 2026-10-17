@@ -96,43 +96,51 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-68f3ef9a4f",
+    "id": "news-dc43fedd4f",
     "category": "news",
-    "title": "Agrowon Podcast: मक्याच्या भावात चढ-उतार, कोबी दर कायम, ढोबळी मिरचीच्या दरात चढ-उतार, मेथीच्या दरात बदल तर केळीच्या आवकेत चढ-उतार",
+    "title": "Devendra Fadnavis: 'शेतकऱ्यांचे दुःख मोठे, ५ हजारांची मदत मोठी नाही, पण...'; मुख्यमंत्री फडणवीस असे का म्हणाले?",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/market-intelligence/market-bulletin/maize-cabbage-capsicum-fenugreek-banana-market-prices-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/devendra-fadnavis-farmer-aid-rs-5000-drought-relief-ddb79",
     "isNew": true
   },
   {
-    "id": "news-3fa85f710f",
+    "id": "news-7a8e3fc76a",
     "category": "news",
-    "title": "Maharashtra Rain Forecast: दक्षिण मराठवाड्यात पावसाचा अंदाज; विदर्भ, कोकण आणि मध्य महाराष्ट्रातील काही भागातही पावसाची शक्यता",
+    "title": "Diwali Financial Aid : ‘पाच हजारांत दिवाळी साजरी करून दाखवा; मगच मदत द्या’",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/weather-news/maharashtra-rain-forecast-south-marathwada-vidarbha-konkan-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/maharashtra-government-diwali-financial-help-controversy-aak11",
     "isNew": true
   },
   {
-    "id": "news-3713d4abab",
+    "id": "news-f16271e857",
     "category": "news",
-    "title": "Integrated Farming: एकात्मिक शेतीतूनच शाश्वत शेती शक्य : डॉ. शरद गडाख",
+    "title": "Farmers Protest: शेतीसाठी १७ वर्षांपासून लढा",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/integrated-farming-sustainable-agriculture-modern-technology-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/shirsonwadi-check-dam-repair-farmers-struggle-17-years-abhi47",
     "isNew": true
   },
   {
-    "id": "news-8f5ef9df5e",
+    "id": "news-8454911bf2",
     "category": "news",
-    "title": "Cropping Pattern: पीक पद्धतीत शेतकरीच बदल घडविणार : डॉ. एस. बी. पवार",
+    "title": "Women In Agriculture : महिला शेतकरी दिनानिमित्त कर्तृत्ववान महिलांचा सन्मान",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/farmers-role-in-changing-cropping-patterns-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/honoring-the-undying-spirit-of-successful-women-farmers-this-women-farmers-day-aak11",
     "isNew": true
   },
   {
-    "id": "news-f7666f7c1c",
+    "id": "news-cf6d196fb2",
     "category": "news",
-    "title": "Raju Shetti: पश्चिम महाराष्ट्रात उपसाबंदी लागू करुन ऊस वाळवण्याचे कारस्थान, राजू शेट्टींचा आरोप",
+    "title": "Farmer Certificate: शेतकरी प्रमाणपत्र नोंदणीचा पेच",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/raju-shetti-water-lifting-ban-western-maharashtra-sugarcane-ddb79",
+    "link": "https://agrowon.esakal.com/agro-special/women-farmer-certificate-registration-katkari-women-alibag-abhi47",
+    "isNew": true
+  },
+  {
+    "id": "news-9417b05fcd",
+    "category": "news",
+    "title": "October Rain: पुढील आठवड्यातील पाऊस, तापमान आणि थंडी पिकाला पोषक असेल का ?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/october-rain-temperature-cold-rabi-crop-forecast",
     "isNew": true
   },
   {
@@ -141,7 +149,7 @@
     "title": "Maize Banana Rate: मक्याच्या भावात चढ-उतार, कोबी दर कायम, ढोबळी मिरचीच्या दरात चढ-उतार, मेथीच्या दरात बदल तर केळीच्या आवकेत चढ-उतार",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/maize-banana-rate-cabbage-capsicum-methi-market-update",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-9aef1c33f6",
@@ -149,7 +157,7 @@
     "title": "October Rain: विदर्भ, कोकण आणि मध्य महाराष्ट्रातील काही भागातही पावसाची शक्यता",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/october-rain-forecast-vidarbha-konkan-madhya-maharashtra",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-d927403623",
@@ -157,7 +165,7 @@
     "title": "Mustard Cultivation: दुष्काळी परिस्थितीत मोहरीची लागवड कशी करावी?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/mustard-cultivation-drought-farming-guide",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-2e6bd7cf2b",
@@ -181,14 +189,6 @@
     "title": "October Rain: मराठवाडा, विदर्भातील कोणत्या जिल्ह्यात पावसाची शक्यता?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/october-rain-forecast-marathwada-vidarbha-districts",
-    "isNew": false
-  },
-  {
-    "id": "news-95c6e64e96",
-    "category": "news",
-    "title": "Rabi Crops:दुष्काळात हरभरा पीक घेताना काय काळजी घ्यावी?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/chickpea-farming-drought-precautions-harbhara",
     "isNew": false
   }
 ]
