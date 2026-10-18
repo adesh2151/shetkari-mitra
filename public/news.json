@@ -96,43 +96,59 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-a3a93f2568",
+    "id": "news-40d51e2c40",
     "category": "news",
-    "title": "Gokul Milk Union Election: गोकुळ दूध संघासाठी आज मतदान",
+    "title": "Sugarcane Research: उसावरील उत्कृष्ट संशोधनाने ग्रामीण अर्थव्यवस्थेला बळकटी; डॉ. विलास खर्चे : कृषी विद्यापीठात शेतकऱ्यांना मार्गदर्शन",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/gokul-milk-union-election-voting-today-2026-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/mahatma-phule-agricultural-university-sugarcane-research-rural-economy-rat16",
     "isNew": true
   },
   {
-    "id": "news-2780f0bc28",
+    "id": "news-beac201854",
     "category": "news",
-    "title": "Agricultural Export Opportunities: शेतकऱ्यांना निर्यात संधी उपलब्ध करून देणार: पणनमंत्री रावल",
+    "title": "Farm Electricity: सौर ऊर्जेमुळे ७ हजार शेतीपंपांना दिवसा वीज; शेतकऱ्यांना दिलासा",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/maharashtra-farmers-agricultural-export-opportunities-rawal-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/solar-energy-daytime-electricity-7000-agricultural-pumps-rat16",
     "isNew": true
   },
   {
-    "id": "news-044577b162",
+    "id": "news-76a0ab4ce5",
     "category": "news",
-    "title": "Gokul Election Voting: 'गोकुळ'साठी आज ३५ केंद्रांवर मतदान, चुरशीच्या लढाईत कोण बाजी मारणार?",
+    "title": "Drinking Water Management: पिण्याच्या पाण्याचे काटेकोर नियोजन करा; अकोला जिल्हाधिकारी वर्षा मीना यांचे निर्देश",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/gokul-election-voting-kolhapur-35-polling-centres-ddb79",
+    "link": "https://agrowon.esakal.com/agro-special/akola-drinking-water-planning-ias-varsha-meena-rat16",
     "isNew": true
   },
   {
-    "id": "news-17caba4630",
+    "id": "news-61bbabd22d",
     "category": "news",
-    "title": "Soybean Arrival: बाजार समित्यांत सोयाबीनची आवक वाढू लागली",
+    "title": "Farmer Welfare: दुष्काळग्रस्तांच्या विकासासाठी अंतरवाली सराटी दत्तक घेणार; पंकजा मुंडे यांची घोषणा",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/market-intelligence/soybean-arrivals-increase-maharashtra-market-committees-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/pankaja-munde-adopt-antarwali-sarati-development-rat16",
     "isNew": true
   },
   {
-    "id": "news-f9aa5f2174",
+    "id": "news-83c2ed7a33",
     "category": "news",
-    "title": "Land Acquisition Rule: भूसंपादन नसल्यास टेंडरही नाही",
+    "title": "Drip Irrigation Subsidy: ठिबक सिंचन पूर्वसंमतिपत्रे वाटपासाठी हालचाली",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/maharashtra-water-project-land-acquisition-tender-rules-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/drip-irrigation-pre-approval-letters-distribution-rat16",
+    "isNew": true
+  },
+  {
+    "id": "news-1a7c609978",
+    "category": "news",
+    "title": "Gram Panchayat Yojana : गरीबीमुक्त, आरोग्यदायी आणि जलसमृद्ध गावासाठी कोणत्या योजना?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/gram-panchayat-yojana-sustainable-village-development",
+    "isNew": true
+  },
+  {
+    "id": "news-43cab3b511",
+    "category": "news",
+    "title": "Livestock Drought Managment: दुष्काळात जनावरांवरील उष्णतेचा ताण कसा कमी करावा?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/livestock-drought-management-reduce-heat-stress",
     "isNew": true
   },
   {
@@ -173,22 +189,6 @@
     "title": "Cotton Rate: कापसाची आवक वाढल्याचा दरावर परिणाम होईल का ?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/cotton-rate-rising-arrivals-market-price-impact",
-    "isNew": false
-  },
-  {
-    "id": "news-296ee6d2b7",
-    "category": "news",
-    "title": "Onion Tur Rate: तूर बाजारभावात चढ-उतार, कांदा दरात काहिशी घसरण, हिरव्या मिरचीच्या आवकेत घट, पालक दरात बदल तर मोसंबीच्या दरात स्थिरता",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/onion-tur-rates-green-chilli-spinach-mosambi-market-update",
-    "isNew": false
-  },
-  {
-    "id": "news-2e8fd16690",
-    "category": "news",
-    "title": "October Rain: मराठवाडा, विदर्भातील कोणत्या जिल्ह्यात पावसाची शक्यता?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/october-rain-forecast-marathwada-vidarbha-districts",
     "isNew": false
   }
 ]
