@@ -96,43 +96,51 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-40d51e2c40",
+    "id": "news-faa64ffe29",
     "category": "news",
-    "title": "Sugarcane Research: उसावरील उत्कृष्ट संशोधनाने ग्रामीण अर्थव्यवस्थेला बळकटी; डॉ. विलास खर्चे : कृषी विद्यापीठात शेतकऱ्यांना मार्गदर्शन",
+    "title": "Drought Review : दुष्काळी परिस्थितीचा आढावा; बीड जिल्ह्यात पालकमंत्री पवार यांच्या उपस्थितीत बैठक",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/mahatma-phule-agricultural-university-sugarcane-research-rural-economy-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/guardian-minister-chairs-high-level-meeting-to-tackle-water-crisis-aak11",
     "isNew": true
   },
   {
-    "id": "news-beac201854",
+    "id": "news-86580459bc",
     "category": "news",
-    "title": "Farm Electricity: सौर ऊर्जेमुळे ७ हजार शेतीपंपांना दिवसा वीज; शेतकऱ्यांना दिलासा",
+    "title": "Drought Management : दुष्काळाला सामोरे जातांनाकाटेकोर नियोजन करा; विभागीय आयुक्त जी.श्रीकांत : परभणीत आढावा बैठक",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/solar-energy-daytime-electricity-7000-agricultural-pumps-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/divisional-commissioner-g-shrikant-directs-strict-planning-in-parbhani-aak11",
     "isNew": true
   },
   {
-    "id": "news-76a0ab4ce5",
+    "id": "news-949ef1c3ef",
     "category": "news",
-    "title": "Drinking Water Management: पिण्याच्या पाण्याचे काटेकोर नियोजन करा; अकोला जिल्हाधिकारी वर्षा मीना यांचे निर्देश",
+    "title": "Mahagaon Sugarcane Harvesting : महागाव परिसरात हार्वेस्टरने ऊसतोड सुरू",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/akola-drinking-water-planning-ias-varsha-meena-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/sugarcane-harvesting-ramps-up-in-mahagaon-with-modern-mechanical-harvesters-aak11",
     "isNew": true
   },
   {
-    "id": "news-61bbabd22d",
+    "id": "news-92dba4ec56",
     "category": "news",
-    "title": "Farmer Welfare: दुष्काळग्रस्तांच्या विकासासाठी अंतरवाली सराटी दत्तक घेणार; पंकजा मुंडे यांची घोषणा",
+    "title": "AI In Agriculture : ‘एआय’च्या आधुनिक तंत्रज्ञानामुळे दुष्काळातही फळबागांना संजीवनी; सातारा जिल्ह्यात कृषी विभागाचा उपक्रम",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/pankaja-munde-adopt-antarwali-sarati-development-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/satara-agri-department-uses-artificial-intelligence-to-save-orchards-from-drought-aak11",
     "isNew": true
   },
   {
-    "id": "news-83c2ed7a33",
+    "id": "news-4d83c9740a",
     "category": "news",
-    "title": "Drip Irrigation Subsidy: ठिबक सिंचन पूर्वसंमतिपत्रे वाटपासाठी हालचाली",
+    "title": "Soybean Price: येवला बाजारात सोयाबीनची भरारी; क्विंटलला ७ हजार २५१ रुपयांचा दर",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/drip-irrigation-pre-approval-letters-distribution-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/yeola-soybean-price-7251-per-quintal-rat16",
+    "isNew": true
+  },
+  {
+    "id": "news-37b026a859",
+    "category": "news",
+    "title": "Soybean Rate: सोयाबीनचा भाव १० हजारांवर जाणार? तेजीमागची कारणं काय?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/soybean-rate-10000-price-forecast-market-trends",
     "isNew": true
   },
   {
@@ -141,7 +149,7 @@
     "title": "Gram Panchayat Yojana : गरीबीमुक्त, आरोग्यदायी आणि जलसमृद्ध गावासाठी कोणत्या योजना?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/gram-panchayat-yojana-sustainable-village-development",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-43cab3b511",
@@ -149,7 +157,7 @@
     "title": "Livestock Drought Managment: दुष्काळात जनावरांवरील उष्णतेचा ताण कसा कमी करावा?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/livestock-drought-management-reduce-heat-stress",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-9417b05fcd",
@@ -181,14 +189,6 @@
     "title": "Mustard Cultivation: दुष्काळी परिस्थितीत मोहरीची लागवड कशी करावी?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/mustard-cultivation-drought-farming-guide",
-    "isNew": false
-  },
-  {
-    "id": "news-2e6bd7cf2b",
-    "category": "news",
-    "title": "Cotton Rate: कापसाची आवक वाढल्याचा दरावर परिणाम होईल का ?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/cotton-rate-rising-arrivals-market-price-impact",
     "isNew": false
   }
 ]
