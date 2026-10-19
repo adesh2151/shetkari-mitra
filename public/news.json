@@ -96,43 +96,75 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-3f4eda7725",
+    "id": "news-a223a07a73",
     "category": "news",
-    "title": "Sugar Industry Crisis: उत्पादकांच्या मुळावर उठणारे धोरण; केंद्र सरकारने फेरविचार करावा",
+    "title": "Crop Damage Compensation: पीक नुकसानभरपाईसाठी ई-केवायसीची अट रद्द करा; आमदार दिलीप बनकर यांची मागणी",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/sampadkiya/policy-impact-on-sugarcane-maize-producers-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/scrap-e-kyc-mandate-for-crop-compensation-farmers-demand-immediate-relief-aak11",
     "isNew": true
   },
   {
-    "id": "news-638c2fa699",
+    "id": "news-cbc34a6181",
     "category": "news",
-    "title": "Crop Loss Survey: पिकांच्या नुकसानीचे पंचनामे मुदतीत पूर्ण करा; विभागीय आयुक्त शीतल तेली-उगले यांचे निर्देश",
+    "title": "Kotwal Recruitment: नाशिकमध्ये कोतवाल भरतीसाठी मोठा प्रतिसाद; १५५ रिक्त जागांसाठी ४ हजार ५० अर्ज",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/maharashtra-drought-relief-crop-damage-assessment-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/4050-applications-received-for-155-kotwal-posts-in-district-aak11",
     "isNew": true
   },
   {
-    "id": "news-1ca212e2d8",
+    "id": "news-006b0f03dc",
     "category": "news",
-    "title": "Farmers Protection Act: शेतकऱ्यांच्या हक्कांसाठी संरक्षण कायदा झाला पाहिजे; अण्णा हजारे यांची मागणी",
+    "title": "Khowda in Drought: यंदा खोडवा ठेवावा का? खोडवा ठेवताना कोणत्या गोष्टींची काळजी घ्यावी?",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/anna-hazare-farmers-protection-act-demand-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/sugarcane-ratoon-management-during-drought-ssp-25",
     "isNew": true
   },
   {
-    "id": "news-c4486df99e",
+    "id": "news-f8fa2e9e36",
     "category": "news",
-    "title": "Maharashtra Drought Crisis: दुष्काळी छायेत वायगावची हळद; शेतकरी चिंतेत",
+    "title": "Farmers Water Protest: पाणी सोडण्यासाठी शेतकरी आक्रमक! पुणे-सोलापूर महामार्गावर रास्ता रोको",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/waigaon-turmeric-farmers-rainfall-shortage-samudrapur-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/farmers-block-highway-over-severe-water-scarcity-and-supply-demands-aak11",
     "isNew": true
   },
   {
-    "id": "news-86ef8b2188",
+    "id": "news-1c89c2478b",
     "category": "news",
-    "title": "Khet Bachao Abhiyan 2026: राज्यभरात गुरुवारपासून ‘खेत बचाओ अभियान’; मृदा आरोग्य, संतुलित खत वापर, नैसर्गिक शेतीला प्रोत्साहन",
+    "title": "Water Conservation Initiative: सुलगावमध्ये भावेश्वरी शेतकरी गटाचा वनराई बंधारा उपक्रम",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/khet-bachao-abhiyan-2026-soil-health-natural-farming-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/sulgaon-bhaveshwari-farmers-group-vanrai-bund-abhi47",
+    "isNew": true
+  },
+  {
+    "id": "news-1ef85adddb",
+    "category": "news",
+    "title": "Gram Panchayat Development : टक्केवारी न देता दर्जेदार कामं कशी करायची? सरपंचांनी समजून घ्या",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/gram-panchayat-development-quality-work-transparency",
+    "isNew": true
+  },
+  {
+    "id": "news-e79da4e46b",
+    "category": "news",
+    "title": "Soybean Wheat Rate: सोयाबीनच्या दरात वाढ, गव्हाच्या दरात चढ-उतार, भेंडीच्या दरात बदल, लसणाच्या आवकेत वाढ तर पपईच्या दरात नरमाई",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/soybean-wheat-okra-garlic-papaya-market-rates",
+    "isNew": true
+  },
+  {
+    "id": "news-4533e01460",
+    "category": "news",
+    "title": "Rain Update : कोकण, पश्चिम महाराष्ट्रासह मराठवाड्यात पावसाचा अंदाज; पाच दिवसांचा अंदाज काय?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/maharashtra-rain-update-thunderstorm-warning",
+    "isNew": true
+  },
+  {
+    "id": "news-13159a8912",
+    "category": "news",
+    "title": "Soil Moisture:दुष्काळात जमीन उघडी ठेवण्याऐवजी सेंद्रिय आच्छादन का करावे?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/organic-mulching-drought-soil-moisture-conservation",
     "isNew": true
   },
   {
@@ -157,38 +189,6 @@
     "title": "Livestock Drought Managment: दुष्काळात जनावरांवरील उष्णतेचा ताण कसा कमी करावा?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/livestock-drought-management-reduce-heat-stress",
-    "isNew": false
-  },
-  {
-    "id": "news-9417b05fcd",
-    "category": "news",
-    "title": "October Rain: पुढील आठवड्यातील पाऊस, तापमान आणि थंडी पिकाला पोषक असेल का ?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/october-rain-temperature-cold-rabi-crop-forecast",
-    "isNew": false
-  },
-  {
-    "id": "news-18fa3dfcd9",
-    "category": "news",
-    "title": "Maize Banana Rate: मक्याच्या भावात चढ-उतार, कोबी दर कायम, ढोबळी मिरचीच्या दरात चढ-उतार, मेथीच्या दरात बदल तर केळीच्या आवकेत चढ-उतार",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/maize-banana-rate-cabbage-capsicum-methi-market-update",
-    "isNew": false
-  },
-  {
-    "id": "news-9aef1c33f6",
-    "category": "news",
-    "title": "October Rain: विदर्भ, कोकण आणि मध्य महाराष्ट्रातील काही भागातही पावसाची शक्यता",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/october-rain-forecast-vidarbha-konkan-madhya-maharashtra",
-    "isNew": false
-  },
-  {
-    "id": "news-d927403623",
-    "category": "news",
-    "title": "Mustard Cultivation: दुष्काळी परिस्थितीत मोहरीची लागवड कशी करावी?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/mustard-cultivation-drought-farming-guide",
     "isNew": false
   }
 ]
