@@ -96,43 +96,67 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-0d58c43255",
+    "id": "news-39710801a0",
     "category": "news",
-    "title": "Strawberry Farming Expansion: सीमोल्लंघन स्ट्रॉबेरीचे!",
+    "title": "Women Farmers: आंतरराष्ट्रीय महिला शेतकरी वर्षानिमित्त अकोल्यात महिला शेतकऱ्यांसाठी विशेष उपक्रम",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/sampadkiya/mahabaleshwar-strawberry-farming-expansion-maharashtra-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/women-farmers-natural-soybean-farming-field-day-akola-abhi47",
     "isNew": true
   },
   {
-    "id": "news-92c8fd4e66",
+    "id": "news-0244400d32",
     "category": "news",
-    "title": "Water Scarcity Action Plan: पाणीटंचाई निवारणासाठी कृती आराखडा सादर करा; पुणे जिल्हा परिषदेच्या विभागांना सूचना",
+    "title": "Soybean Fodder Seized: कारंजा तालुक्यात २६० टन सोयाबीन कुटार जप्त; १० कारखान्यांना नोटिसा",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/submit-an-action-plan-to-address-water-scarcity-instructions-issued-to-departments",
+    "link": "https://agrowon.esakal.com/agro-special/karanja-washim-260-tonnes-soybean-fodder-seized-abhi47",
     "isNew": true
   },
   {
-    "id": "news-9fdf216cb9",
+    "id": "news-033cd670b2",
     "category": "news",
-    "title": "Agriculture Department Schemes: शेतकऱ्यांनो, कृषी योजनांसाठी अर्ज करा! कृषी विभागाचे आवाहन",
+    "title": "Orange Orchards Crisis: पाण्याअभावी संत्रा बागा संकटात; वाशीममधील शेतकऱ्यांची चिंता वाढली",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/government-agriculture-subsidy-schemes-farmers-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/washim-vanoja-orange-orchards-water-shortage-crisis-abhi47",
     "isNew": true
   },
   {
-    "id": "news-b4e6a0ca69",
+    "id": "news-0a413bc174",
     "category": "news",
-    "title": "Gokul Dairy Election Result: ‘गोकुळ’च्या निवडणुकीत सतेज पाटील यांचा करिश्मा; महायुतीला धक्का, समविचारी आघाडीची एकहाती सत्ता!",
+    "title": "Mango Variety Research: नवसारी कृषी विद्यापीठाच्या प्रक्षेत्रावर महाराष्ट्रातील शिष्टमंडळाकडून पाहणी",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/gokul-election-satej-patil-samvichari-alliance-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/sonpari-mango-variety-navsari-agricultural-university-maharashtra-abhi47",
     "isNew": true
   },
   {
-    "id": "news-a09069f921",
+    "id": "news-58d7d2ca32",
     "category": "news",
-    "title": "Sugarcane Price Protest: ऊसदरासाठी सोलापुरात आंदोलन पेटले; पंढरपूर-माळशिरसमध्ये १५ ट्रॅक्टरचे टायर फोडले",
+    "title": "Agricultural Labour Protest: दुष्काळाच्या पार्श्वभूमीवर ५ नोव्हेंबरपासून जिल्हाधिकारी कार्यालयासमोर बेमुदत पिठलं-भाकरी आंदोलन",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/solapur-sugarcane-price-protest-15-tractors-damaged-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/chhatrapati-sambhajinagar-indefinite-pithla-bhakri-protest-november-5-abhi47",
+    "isNew": true
+  },
+  {
+    "id": "news-b878d242da",
+    "category": "news",
+    "title": "Monsoon Update: महाराष्ट्रात १९% पावसाची तूट; मराठवाड्यात सर्वाधिक परिणाम का?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/maharashtra-monsoon-19-percent-rainfall-deficit-marathwada",
+    "isNew": true
+  },
+  {
+    "id": "news-efe9868e73",
+    "category": "news",
+    "title": "Women Empowerment : एकल महिलांसाठी बचत गटांची मदत; महिला सरपंचांच्या सक्षमीकरणासाठी काय नियोजन?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/women-empowerment-single-women-self-help-groups-maharashtra",
+    "isNew": true
+  },
+  {
+    "id": "news-44c248a196",
+    "category": "news",
+    "title": "Fruit Orchard in Drought: दुष्काळी परिस्थितीत फळबाग व्यवस्थापनासाठी कमी खर्चातील उपाय",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/fruit-orchard-management-drought-low-cost-tips",
     "isNew": true
   },
   {
@@ -141,7 +165,7 @@
     "title": "Soybean Rate: देशातील उत्पादनात केवळ २ टक्के घट झाल्याचा सोपाचा अंदाज",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/sopa-india-soybean-production-estimate-2-percent-decline",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-1ef85adddb",
@@ -165,30 +189,6 @@
     "title": "Rain Update : कोकण, पश्चिम महाराष्ट्रासह मराठवाड्यात पावसाचा अंदाज; पाच दिवसांचा अंदाज काय?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/maharashtra-rain-update-thunderstorm-warning",
-    "isNew": false
-  },
-  {
-    "id": "news-13159a8912",
-    "category": "news",
-    "title": "Soil Moisture:दुष्काळात जमीन उघडी ठेवण्याऐवजी सेंद्रिय आच्छादन का करावे?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/organic-mulching-drought-soil-moisture-conservation",
-    "isNew": false
-  },
-  {
-    "id": "news-37b026a859",
-    "category": "news",
-    "title": "Soybean Rate: सोयाबीनचा भाव १० हजारांवर जाणार? तेजीमागची कारणं काय?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/soybean-rate-10000-price-forecast-market-trends",
-    "isNew": false
-  },
-  {
-    "id": "news-1a7c609978",
-    "category": "news",
-    "title": "Gram Panchayat Yojana : गरीबीमुक्त, आरोग्यदायी आणि जलसमृद्ध गावासाठी कोणत्या योजना?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/gram-panchayat-yojana-sustainable-village-development",
     "isNew": false
   }
 ]
