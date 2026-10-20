@@ -96,43 +96,51 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-39710801a0",
+    "id": "news-17f27a9fbe",
     "category": "news",
-    "title": "Women Farmers: आंतरराष्ट्रीय महिला शेतकरी वर्षानिमित्त अकोल्यात महिला शेतकऱ्यांसाठी विशेष उपक्रम",
+    "title": "Drought Protest : तात्काळ मदतीची मागणी! दुष्काळग्रस्त भागातील नागरिकांचे उद्यापासून बेमुदत उपोषण",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/women-farmers-natural-soybean-farming-field-day-akola-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/massive-protest-from-tomorrow-demanding-urgent-relief-for-drought-affected-farmers-aak11",
     "isNew": true
   },
   {
-    "id": "news-0244400d32",
+    "id": "news-875be44977",
     "category": "news",
-    "title": "Soybean Fodder Seized: कारंजा तालुक्यात २६० टन सोयाबीन कुटार जप्त; १० कारखान्यांना नोटिसा",
+    "title": "Soybean Seed Storage : सोयाबीन बियाणे सुरक्षित ठेवण्यासाठी कृषी तज्ज्ञांचा मोलाचा सल्ला",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/karanja-washim-260-tonnes-soybean-fodder-seized-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/how-to-store-soybean-seeds-safely-for-the-next-sowing-season-aak11",
     "isNew": true
   },
   {
-    "id": "news-033cd670b2",
+    "id": "news-ce72bc412c",
     "category": "news",
-    "title": "Orange Orchards Crisis: पाण्याअभावी संत्रा बागा संकटात; वाशीममधील शेतकऱ्यांची चिंता वाढली",
+    "title": "Turmeric Crops : हळद उत्पादक शेतकरी हवालदिल! करप्या रोगाच्या प्रादुर्भावामुळे हळद पीक आले अडचणीत",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/washim-vanoja-orange-orchards-water-shortage-crisis-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/turmeric-crops-under-threat-farmers-worry-as-leaf-blotch-disease-spreads-rapidly-aak11",
     "isNew": true
   },
   {
-    "id": "news-0a413bc174",
+    "id": "news-8ff917ddf9",
     "category": "news",
-    "title": "Mango Variety Research: नवसारी कृषी विद्यापीठाच्या प्रक्षेत्रावर महाराष्ट्रातील शिष्टमंडळाकडून पाहणी",
+    "title": "Amravati Teachers Constituency : अमरावती शिक्षक निवडणूक: शिक्षकांच्या मतांवर कोणाचा ताबा? मतविभाजन ठरणार निर्णायक",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/sonpari-mango-variety-navsari-agricultural-university-maharashtra-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/amravati-teachers-constituencythe-big-challenge-of-vote-division-for-candidates-aak11",
     "isNew": true
   },
   {
-    "id": "news-58d7d2ca32",
+    "id": "news-b08cfac14a",
     "category": "news",
-    "title": "Agricultural Labour Protest: दुष्काळाच्या पार्श्वभूमीवर ५ नोव्हेंबरपासून जिल्हाधिकारी कार्यालयासमोर बेमुदत पिठलं-भाकरी आंदोलन",
+    "title": "FFS App Fertilizer Booking : खत खरेदी आता झाली डिजिटल; २२ तारखेपासून घरबसल्या करा ऑनलाईन बुकिंग",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/chhatrapati-sambhajinagar-indefinite-pithla-bhakri-protest-november-5-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/subsidized-fertilizer-sale-via-fffs-app-from-october-22-aak11",
+    "isNew": true
+  },
+  {
+    "id": "news-3ab83ed407",
+    "category": "news",
+    "title": "Cotton Rate: कापसाचे भाव पडणार की तेजी कायम राहणार? विक्रीचे नियोजन कसे करावे?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/cotton-rate-outlook-price-trends-selling-strategy",
     "isNew": true
   },
   {
@@ -141,7 +149,7 @@
     "title": "Monsoon Update: महाराष्ट्रात १९% पावसाची तूट; मराठवाड्यात सर्वाधिक परिणाम का?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/maharashtra-monsoon-19-percent-rainfall-deficit-marathwada",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-efe9868e73",
@@ -149,7 +157,7 @@
     "title": "Women Empowerment : एकल महिलांसाठी बचत गटांची मदत; महिला सरपंचांच्या सक्षमीकरणासाठी काय नियोजन?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/women-empowerment-single-women-self-help-groups-maharashtra",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-44c248a196",
@@ -157,7 +165,7 @@
     "title": "Fruit Orchard in Drought: दुष्काळी परिस्थितीत फळबाग व्यवस्थापनासाठी कमी खर्चातील उपाय",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/fruit-orchard-management-drought-low-cost-tips",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-e344b60f09",
@@ -181,14 +189,6 @@
     "title": "Soybean Wheat Rate: सोयाबीनच्या दरात वाढ, गव्हाच्या दरात चढ-उतार, भेंडीच्या दरात बदल, लसणाच्या आवकेत वाढ तर पपईच्या दरात नरमाई",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/soybean-wheat-okra-garlic-papaya-market-rates",
-    "isNew": false
-  },
-  {
-    "id": "news-4533e01460",
-    "category": "news",
-    "title": "Rain Update : कोकण, पश्चिम महाराष्ट्रासह मराठवाड्यात पावसाचा अंदाज; पाच दिवसांचा अंदाज काय?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/maharashtra-rain-update-thunderstorm-warning",
     "isNew": false
   }
 ]
