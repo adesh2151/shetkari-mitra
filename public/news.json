@@ -96,43 +96,51 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-a223a07a73",
+    "id": "news-0d58c43255",
     "category": "news",
-    "title": "Crop Damage Compensation: पीक नुकसानभरपाईसाठी ई-केवायसीची अट रद्द करा; आमदार दिलीप बनकर यांची मागणी",
+    "title": "Strawberry Farming Expansion: सीमोल्लंघन स्ट्रॉबेरीचे!",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/scrap-e-kyc-mandate-for-crop-compensation-farmers-demand-immediate-relief-aak11",
+    "link": "https://agrowon.esakal.com/sampadkiya/mahabaleshwar-strawberry-farming-expansion-maharashtra-rat16",
     "isNew": true
   },
   {
-    "id": "news-cbc34a6181",
+    "id": "news-92c8fd4e66",
     "category": "news",
-    "title": "Kotwal Recruitment: नाशिकमध्ये कोतवाल भरतीसाठी मोठा प्रतिसाद; १५५ रिक्त जागांसाठी ४ हजार ५० अर्ज",
+    "title": "Water Scarcity Action Plan: पाणीटंचाई निवारणासाठी कृती आराखडा सादर करा; पुणे जिल्हा परिषदेच्या विभागांना सूचना",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/4050-applications-received-for-155-kotwal-posts-in-district-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/submit-an-action-plan-to-address-water-scarcity-instructions-issued-to-departments",
     "isNew": true
   },
   {
-    "id": "news-006b0f03dc",
+    "id": "news-9fdf216cb9",
     "category": "news",
-    "title": "Khowda in Drought: यंदा खोडवा ठेवावा का? खोडवा ठेवताना कोणत्या गोष्टींची काळजी घ्यावी?",
+    "title": "Agriculture Department Schemes: शेतकऱ्यांनो, कृषी योजनांसाठी अर्ज करा! कृषी विभागाचे आवाहन",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/sugarcane-ratoon-management-during-drought-ssp-25",
+    "link": "https://agrowon.esakal.com/agro-special/government-agriculture-subsidy-schemes-farmers-rat16",
     "isNew": true
   },
   {
-    "id": "news-f8fa2e9e36",
+    "id": "news-b4e6a0ca69",
     "category": "news",
-    "title": "Farmers Water Protest: पाणी सोडण्यासाठी शेतकरी आक्रमक! पुणे-सोलापूर महामार्गावर रास्ता रोको",
+    "title": "Gokul Dairy Election Result: ‘गोकुळ’च्या निवडणुकीत सतेज पाटील यांचा करिश्मा; महायुतीला धक्का, समविचारी आघाडीची एकहाती सत्ता!",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/farmers-block-highway-over-severe-water-scarcity-and-supply-demands-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/gokul-election-satej-patil-samvichari-alliance-rat16",
     "isNew": true
   },
   {
-    "id": "news-1c89c2478b",
+    "id": "news-a09069f921",
     "category": "news",
-    "title": "Water Conservation Initiative: सुलगावमध्ये भावेश्वरी शेतकरी गटाचा वनराई बंधारा उपक्रम",
+    "title": "Sugarcane Price Protest: ऊसदरासाठी सोलापुरात आंदोलन पेटले; पंढरपूर-माळशिरसमध्ये १५ ट्रॅक्टरचे टायर फोडले",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/sulgaon-bhaveshwari-farmers-group-vanrai-bund-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/solapur-sugarcane-price-protest-15-tractors-damaged-rat16",
+    "isNew": true
+  },
+  {
+    "id": "news-e344b60f09",
+    "category": "news",
+    "title": "Soybean Rate: देशातील उत्पादनात केवळ २ टक्के घट झाल्याचा सोपाचा अंदाज",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/sopa-india-soybean-production-estimate-2-percent-decline",
     "isNew": true
   },
   {
@@ -141,7 +149,7 @@
     "title": "Gram Panchayat Development : टक्केवारी न देता दर्जेदार कामं कशी करायची? सरपंचांनी समजून घ्या",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/gram-panchayat-development-quality-work-transparency",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-e79da4e46b",
@@ -149,7 +157,7 @@
     "title": "Soybean Wheat Rate: सोयाबीनच्या दरात वाढ, गव्हाच्या दरात चढ-उतार, भेंडीच्या दरात बदल, लसणाच्या आवकेत वाढ तर पपईच्या दरात नरमाई",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/soybean-wheat-okra-garlic-papaya-market-rates",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-4533e01460",
@@ -157,7 +165,7 @@
     "title": "Rain Update : कोकण, पश्चिम महाराष्ट्रासह मराठवाड्यात पावसाचा अंदाज; पाच दिवसांचा अंदाज काय?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/maharashtra-rain-update-thunderstorm-warning",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-13159a8912",
@@ -165,7 +173,7 @@
     "title": "Soil Moisture:दुष्काळात जमीन उघडी ठेवण्याऐवजी सेंद्रिय आच्छादन का करावे?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/organic-mulching-drought-soil-moisture-conservation",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-37b026a859",
@@ -181,14 +189,6 @@
     "title": "Gram Panchayat Yojana : गरीबीमुक्त, आरोग्यदायी आणि जलसमृद्ध गावासाठी कोणत्या योजना?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/gram-panchayat-yojana-sustainable-village-development",
-    "isNew": false
-  },
-  {
-    "id": "news-43cab3b511",
-    "category": "news",
-    "title": "Livestock Drought Managment: दुष्काळात जनावरांवरील उष्णतेचा ताण कसा कमी करावा?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/livestock-drought-management-reduce-heat-stress",
     "isNew": false
   }
 ]
