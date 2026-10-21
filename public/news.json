@@ -96,43 +96,35 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-17f27a9fbe",
+    "id": "news-30ac324cb9",
     "category": "news",
-    "title": "Drought Protest : तात्काळ मदतीची मागणी! दुष्काळग्रस्त भागातील नागरिकांचे उद्यापासून बेमुदत उपोषण",
+    "title": "Nanded Farmer Death: पीक गेलं, कर्ज वाढलं, मुलीच्या शिक्षणाचा खर्चही पेलवेना; नांदेडमध्ये अल्पभूधारक शेतकऱ्याची आत्महत्या",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/massive-protest-from-tomorrow-demanding-urgent-relief-for-drought-affected-farmers-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/nanded-farmer-death-crop-loss-debt-rat16",
     "isNew": true
   },
   {
-    "id": "news-875be44977",
+    "id": "news-c857d4dc85",
     "category": "news",
-    "title": "Soybean Seed Storage : सोयाबीन बियाणे सुरक्षित ठेवण्यासाठी कृषी तज्ज्ञांचा मोलाचा सल्ला",
+    "title": "Annapurti Grain ATM : आता रेशनसाठी रांगेत उभे राहण्याची गरज नाही; नाशिकमध्ये 'अन्नपूर्ती धान्य एटीएम'ची डिजिटल क्रांती",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/how-to-store-soybean-seeds-safely-for-the-next-sowing-season-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/maharashtra-first-automated-grain-atm-location-and-details-aak11",
     "isNew": true
   },
   {
-    "id": "news-ce72bc412c",
+    "id": "news-58f28315ef",
     "category": "news",
-    "title": "Turmeric Crops : हळद उत्पादक शेतकरी हवालदिल! करप्या रोगाच्या प्रादुर्भावामुळे हळद पीक आले अडचणीत",
+    "title": "India-New Zealand FTA: भारत-न्यूझीलंड मुक्त व्यापार करार लागू, याचा शेतकऱ्यांना फायदा होईल का?",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/turmeric-crops-under-threat-farmers-worry-as-leaf-blotch-disease-spreads-rapidly-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/india-new-zealand-free-trade-agreement-ddb79",
     "isNew": true
   },
   {
-    "id": "news-8ff917ddf9",
+    "id": "news-cdd5550234",
     "category": "news",
-    "title": "Amravati Teachers Constituency : अमरावती शिक्षक निवडणूक: शिक्षकांच्या मतांवर कोणाचा ताबा? मतविभाजन ठरणार निर्णायक",
+    "title": "Drought Farming: कमी पाण्यात कोणती आंतरपिके फायदेशीर? ज्वारी, करडई आणि हरभऱ्याचे नियोजन",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/amravati-teachers-constituencythe-big-challenge-of-vote-division-for-candidates-aak11",
-    "isNew": true
-  },
-  {
-    "id": "news-b08cfac14a",
-    "category": "news",
-    "title": "FFS App Fertilizer Booking : खत खरेदी आता झाली डिजिटल; २२ तारखेपासून घरबसल्या करा ऑनलाईन बुकिंग",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/subsidized-fertilizer-sale-via-fffs-app-from-october-22-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/best-low-water-crops-intercropping-during-drought-ssp-25",
     "isNew": true
   },
   {
@@ -141,7 +133,7 @@
     "title": "Cotton Rate: कापसाचे भाव पडणार की तेजी कायम राहणार? विक्रीचे नियोजन कसे करावे?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/cotton-rate-outlook-price-trends-selling-strategy",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-b878d242da",
@@ -190,5 +182,13 @@
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/soybean-wheat-okra-garlic-papaya-market-rates",
     "isNew": false
+  },
+  {
+    "id": "news-4533e01460",
+    "category": "news",
+    "title": "Rain Update : कोकण, पश्चिम महाराष्ट्रासह मराठवाड्यात पावसाचा अंदाज; पाच दिवसांचा अंदाज काय?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/maharashtra-rain-update-thunderstorm-warning",
+    "isNew": true
   }
 ]
