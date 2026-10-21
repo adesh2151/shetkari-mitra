@@ -96,35 +96,67 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-30ac324cb9",
+    "id": "news-d52bb95c1a",
     "category": "news",
-    "title": "Nanded Farmer Death: पीक गेलं, कर्ज वाढलं, मुलीच्या शिक्षणाचा खर्चही पेलवेना; नांदेडमध्ये अल्पभूधारक शेतकऱ्याची आत्महत्या",
+    "title": "BC Sakhi Yojana: महिलांना दरमहा मिळणार ४ हजार रुपये कमवण्याची संधी! काय आहे बीसी सखी योजना? जाणून घ्या योजनेची माहिती",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/nanded-farmer-death-crop-loss-debt-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/bc-sakhi-yojana-2026-eligibility-benefits-apply-rat16",
     "isNew": true
   },
   {
-    "id": "news-c857d4dc85",
+    "id": "news-81e7182718",
     "category": "news",
-    "title": "Annapurti Grain ATM : आता रेशनसाठी रांगेत उभे राहण्याची गरज नाही; नाशिकमध्ये 'अन्नपूर्ती धान्य एटीएम'ची डिजिटल क्रांती",
+    "title": "Maharashtra Schools Timetable: शैक्षणिक वर्ष २०२६-२७ चे वेळापत्रक जाहीर; दिवाळी सुट्टीसह कामकाजाचे दिवस निश्चित",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/maharashtra-first-automated-grain-atm-location-and-details-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/maharashtra-school-academic-calendar-2026-27-diwali-holidays-abh47",
     "isNew": true
   },
   {
-    "id": "news-58f28315ef",
+    "id": "news-19a99fccaa",
     "category": "news",
-    "title": "India-New Zealand FTA: भारत-न्यूझीलंड मुक्त व्यापार करार लागू, याचा शेतकऱ्यांना फायदा होईल का?",
+    "title": "Farmers Protest: दुष्काळग्रस्तांना नुकसान भरपाई, नियमित कर्जफेड करणाऱ्या शेतकऱ्यांना २ लाख देण्याची मागणी, अकोलेत महामुक्काम सत्याग्रह सुरू",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/india-new-zealand-free-trade-agreement-ddb79",
+    "link": "https://agrowon.esakal.com/agro-special/farmers-protest-akole-drought-relief-loan-waiver-demand-ddb79",
     "isNew": true
   },
   {
-    "id": "news-cdd5550234",
+    "id": "news-8c235a75ca",
     "category": "news",
-    "title": "Drought Farming: कमी पाण्यात कोणती आंतरपिके फायदेशीर? ज्वारी, करडई आणि हरभऱ्याचे नियोजन",
+    "title": "Maharashtra Rain Update: कोकण, मध्य महाराष्ट्रात पावसाची शक्यता",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/best-low-water-crops-intercropping-during-drought-ssp-25",
+    "link": "https://agrowon.esakal.com/weather-news/konkan-madhya-maharashtra-rain-forecast-rat16",
+    "isNew": true
+  },
+  {
+    "id": "news-2e0a8d3cc2",
+    "category": "news",
+    "title": "PM Kisan 24th Installment: पीएम किसानचा २४वा हप्ता कधी येणार? खात्यात २००० हवे असतील तर शेतकऱ्यांनी आजच करा ही ३ कामे!",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/agro-special/pm-kisan-24th-installment-date-2000-payment-rat16",
+    "isNew": true
+  },
+  {
+    "id": "news-f3b0faaa74",
+    "category": "news",
+    "title": "Rain Update : कोकण, मध्य महाराष्ट्रात पावसाची शक्यता",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/konkan-weather-update-hot-humid-conditions-rain-forecast",
+    "isNew": true
+  },
+  {
+    "id": "news-4d0f7a9ee9",
+    "category": "news",
+    "title": "Tur Tomato Rate: तूरीच्या दरात वाढ, बटाट्याच्या दरात चढ-उतार, ओल्या भुईमुगाच्या दरात बदल, टोमॅटोच्या आवकेत घट तर संत्री दरात नरमाई",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/tur-potato-groundnut-tomato-orange-market-rates",
+    "isNew": true
+  },
+  {
+    "id": "news-54e71e7c48",
+    "category": "news",
+    "title": "Calf Care in Drought: उष्णतेच्या ताणाचा वासरांच्या आरोग्यावरील परिणाम कमी करण्यासाठी काय करावे?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/calf-care-drought-heat-stress-management",
     "isNew": true
   },
   {
@@ -158,37 +190,5 @@
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/fruit-orchard-management-drought-low-cost-tips",
     "isNew": false
-  },
-  {
-    "id": "news-e344b60f09",
-    "category": "news",
-    "title": "Soybean Rate: देशातील उत्पादनात केवळ २ टक्के घट झाल्याचा सोपाचा अंदाज",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/sopa-india-soybean-production-estimate-2-percent-decline",
-    "isNew": false
-  },
-  {
-    "id": "news-1ef85adddb",
-    "category": "news",
-    "title": "Gram Panchayat Development : टक्केवारी न देता दर्जेदार कामं कशी करायची? सरपंचांनी समजून घ्या",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/gram-panchayat-development-quality-work-transparency",
-    "isNew": false
-  },
-  {
-    "id": "news-e79da4e46b",
-    "category": "news",
-    "title": "Soybean Wheat Rate: सोयाबीनच्या दरात वाढ, गव्हाच्या दरात चढ-उतार, भेंडीच्या दरात बदल, लसणाच्या आवकेत वाढ तर पपईच्या दरात नरमाई",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/soybean-wheat-okra-garlic-papaya-market-rates",
-    "isNew": false
-  },
-  {
-    "id": "news-4533e01460",
-    "category": "news",
-    "title": "Rain Update : कोकण, पश्चिम महाराष्ट्रासह मराठवाड्यात पावसाचा अंदाज; पाच दिवसांचा अंदाज काय?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/maharashtra-rain-update-thunderstorm-warning",
-    "isNew": true
   }
 ]
