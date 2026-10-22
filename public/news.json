@@ -96,35 +96,67 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-2434830119",
+    "id": "news-e9bdb4b22a",
     "category": "news",
-    "title": "Flower Farming: दुष्काळातही फुलशेती टिकवण्यासाठी शेतकऱ्यांचा संघर्ष; टँकरच्या पाण्यावर फुलताहेत बागा",
+    "title": "Digital Crop Survey: पीक पाहणी सहायकांना दिलासा, किमान ६० टक्के शेतकरी पीक नोंदणीची अट रद्द",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/yashogatha/akolner-flower-farming-drought-tanker-water-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/digital-crop-survey-assistant-honorarium-60-percent-registration-condition-cancelled-ddb79",
     "isNew": true
   },
   {
-    "id": "news-22a388bb70",
+    "id": "news-bb325a4540",
     "category": "news",
-    "title": "Bank Privatization: बॅंका होतील भांडवलदार नियंत्रित",
+    "title": "Rabi Season Management: ‘एल निनो’ स्थितीत रब्बी हंगामासाठी आपत्कालीन पीक नियोजन",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/corporate-control-banks-india-banking-sector-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/el-nino-emergency-rabi-crop-planning-marathwada-abhi47",
     "isNew": true
   },
   {
-    "id": "news-69bec8d8dc",
+    "id": "news-43db2e3885",
     "category": "news",
-    "title": "Global Protest: आव्हान जनआंदोलनाचे!",
+    "title": "Jejuri Dasara 2026 : भंडाऱ्याची उधळण आणि तलवारीचे थरार; जेजुरीतील प्रसिद्ध मर्दानी दसरा सोहळा संपन्न",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/global-protests-gen-z-economic-crisis-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/devotion-peaks-at-jejuri-as-traditional-khandoba-dasara-festival-comes-to-a-close-aak11",
     "isNew": true
   },
   {
-    "id": "news-8ced47c723",
+    "id": "news-54ecc26908",
     "category": "news",
-    "title": "Pune Drought: पुणे जिल्ह्यातील १० तालुक्यांत दुष्काळ जाहीर; पंचनाम्यांना वेग, ८५ टक्के काम पूर्ण!",
+    "title": "Panchganga River Water: नांदणीत डोहातून पाणी उपसण्याची वेळ; पंचगंगा काठावरील गावे धास्तावली",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/pune-district-drought-kharif-2026-crop-survey-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/panchganga-river-water-levels-fall-threatening-crops-kolhapur",
+    "isNew": true
+  },
+  {
+    "id": "news-97a939b254",
+    "category": "news",
+    "title": "Vegetable Farming: दुष्काळाच्या झळांनी भाजीपाला शेती होरपळली",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/agro-special/drought-threatens-vegetable-farming-sangli",
+    "isNew": true
+  },
+  {
+    "id": "news-56105e7d42",
+    "category": "news",
+    "title": "Soybean, Mosambi Rate: सोयाबीन दर टिकून, उडीद बाजारात चढ-उतार, कांदा आवकेत वाढ, मेथी भाजी दरात तेजी, मोसंबी आवकेत  चढ-उतार",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/soybean-urad-onion-fenugreek-mosambi-market-rates",
+    "isNew": true
+  },
+  {
+    "id": "news-2da6c9adb4",
+    "category": "news",
+    "title": "Rain Update : राज्यात उन्हाचा चटका कायम; काही ठिकाणी पावसाची शक्यता",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/konkan-weather-update-hot-humid-weather-warning",
+    "isNew": true
+  },
+  {
+    "id": "news-9a7a73c44c",
+    "category": "news",
+    "title": "Ratoon Sugarcane in Drought: दुष्काळी परिस्थितीत खोडवा ठेवताना कोणत्या गोष्टी तपासाव्या?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/ratoon-sugarcane-drought-management-checklist",
     "isNew": true
   },
   {
@@ -157,38 +189,6 @@
     "title": "Calf Care in Drought: उष्णतेच्या ताणाचा वासरांच्या आरोग्यावरील परिणाम कमी करण्यासाठी काय करावे?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/calf-care-drought-heat-stress-management",
-    "isNew": false
-  },
-  {
-    "id": "news-3ab83ed407",
-    "category": "news",
-    "title": "Cotton Rate: कापसाचे भाव पडणार की तेजी कायम राहणार? विक्रीचे नियोजन कसे करावे?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/cotton-rate-outlook-price-trends-selling-strategy",
-    "isNew": false
-  },
-  {
-    "id": "news-b878d242da",
-    "category": "news",
-    "title": "Monsoon Update: महाराष्ट्रात १९% पावसाची तूट; मराठवाड्यात सर्वाधिक परिणाम का?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/maharashtra-monsoon-19-percent-rainfall-deficit-marathwada",
-    "isNew": false
-  },
-  {
-    "id": "news-efe9868e73",
-    "category": "news",
-    "title": "Women Empowerment : एकल महिलांसाठी बचत गटांची मदत; महिला सरपंचांच्या सक्षमीकरणासाठी काय नियोजन?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/women-empowerment-single-women-self-help-groups-maharashtra",
-    "isNew": false
-  },
-  {
-    "id": "news-44c248a196",
-    "category": "news",
-    "title": "Fruit Orchard in Drought: दुष्काळी परिस्थितीत फळबाग व्यवस्थापनासाठी कमी खर्चातील उपाय",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/fruit-orchard-management-drought-low-cost-tips",
     "isNew": false
   }
 ]
