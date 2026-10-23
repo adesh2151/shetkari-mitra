@@ -96,43 +96,51 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-67ac7e2a2c",
+    "id": "news-a165c5f3e1",
     "category": "news",
-    "title": "Sugarcane Price Demand: साताऱ्यात ऊसदराचा तिढा चिघळला; पहिली उचल जाहीर करण्याची मागणी",
+    "title": "Water Supply Schemes Issue: निधीअभावी जलजीवन मिशनच्या ६८ पाणीपुरवठा योजना रखडल्या",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/satara-sugarcane-price-dispute-crushing-season-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/jal-jeevan-mission-68-water-supply-schemes-stalled-rajura-abhi47",
     "isNew": true
   },
   {
-    "id": "news-9e7d3e0dd0",
+    "id": "news-ca21ff7639",
     "category": "news",
-    "title": "Indian Agriculture Export: भारतीय शेतीमाल निर्यातीला वाढती संधी",
+    "title": "Cotton Farming Techniques: हेक्टरी १२ ते १४ क्विंटल कापूस उत्पादनाचे उद्दिष्ट; शास्त्रीय तंत्रज्ञानाचा अवलंब करा",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/india-agricultural-exports-us-largest-market-2026-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/cotton-production-target-12-14-quintals-per-hectare-abhi47",
     "isNew": true
   },
   {
-    "id": "news-114ad88b88",
+    "id": "news-6c33699f34",
     "category": "news",
-    "title": "Warana Sugar Factory: ‘वारणा’चा गळीत हंगाम सुरू; यंदा १३ लाख टन गाळपाचे लक्ष्य",
+    "title": "Farmer Loan Waiver: नांदेडमध्ये एक लाख शेतकऱ्यांना कर्जमुक्ती",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/warana-sugar-factory-pending-sugarcane-payment-october-26-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/nanded-farmer-loan-waiver-scheme-2026-abhi47",
     "isNew": true
   },
   {
-    "id": "news-970a329a87",
+    "id": "news-279279cbbd",
     "category": "news",
-    "title": "Agniveer Recruitment: २८२ नौदल अग्निवीरांना पोलिस शिपाई म्हणून नियुक्ती, मुख्यमंत्री फडणवीसांची माहिती",
+    "title": "PM Kisan 24th Installment: शेतकऱ्यांना दिवाळीआधी २ हजार मिळणार; 'पीएम किसान'च्या २४ व्या हप्त्याची अधिकृत तारीख जाहीर",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/agniveer-recruitment-maharashtra-282-navy-agniveers-police-constable-jobs-ddb79",
+    "link": "https://agrowon.esakal.com/agro-special/pm-kisan-24th-installment-date-2026-2000-diwali-ddb79",
     "isNew": true
   },
   {
-    "id": "news-411f47e41a",
+    "id": "news-99f335dd29",
     "category": "news",
-    "title": "Sangli District Bank: सांगली जिल्हा बँकेच्या १५ जागा बिनविरोध; सहा जागासाठी निवडणूक",
+    "title": "Food Conservation: अन्नाची बचत हीच अन्ननिर्मिती; अन्न-पाण्याची नासाडी टाळा : डॉ. इंद्र मणी मिश्रा",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/sangli-district-bank-election-15-seats-unopposed-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/food-water-wastage-prevention-parbhani-abhi47",
+    "isNew": true
+  },
+  {
+    "id": "news-da7d480baa",
+    "category": "news",
+    "title": "Kharif Crop Insurance: खरिपातील पीकविमा भरपाईसाठी राज्यात किती कापणी प्रयोग होतील ?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/maharashtra-kharif-crop-insurance-crop-cutting-experiments",
     "isNew": true
   },
   {
@@ -141,7 +149,7 @@
     "title": "Drought Madat : दुष्काळ तालुक्यातील शेतकऱ्यांना अग्रीम मदत कधीपासून मिळणार?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/maharashtra-drought-relief-advance-assistance-farmers",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-8dfd50caf5",
@@ -149,7 +157,7 @@
     "title": "Wheat Jowar Rate: गव्हाच्या दरात चढ-उतार, ज्वारीच्या दरात वाढ, शेवग्याच्या दरात बदल, टोमॅटोच्या आवकेत घट तर डाळिंबाचे दर टिकून",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/maharashtra-rain-update-heat-weather-forecast-2",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-4a2d559639",
@@ -157,7 +165,7 @@
     "title": "Rain Update : कोकणात उष्ण व दमट हवामानाचा अंदाज; काही भागात पावसाची शक्यता",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/maharashtra-rain-update-heat-weather-forecast",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-99fd7ede0c",
@@ -165,7 +173,7 @@
     "title": "Citrus Care in Drought: दुष्काळी परिस्थितीत लिंबूवर्गीय बागेतील उष्णतेचा ताण कसा कमी करावा?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/citrus-care-drought-heat-stress-orchard-management",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-95e53a1524",
@@ -181,14 +189,6 @@
     "title": "Drought Madat : कर्नाटक सरकारने कोणत्या शेतकऱ्यांना अडीच हजारांची मदत केली?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/karnataka-drought-relief-2500-farmer-assistance",
-    "isNew": false
-  },
-  {
-    "id": "news-56105e7d42",
-    "category": "news",
-    "title": "Soybean, Mosambi Rate: सोयाबीन दर टिकून, उडीद बाजारात चढ-उतार, कांदा आवकेत वाढ, मेथी भाजी दरात तेजी, मोसंबी आवकेत  चढ-उतार",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/soybean-urad-onion-fenugreek-mosambi-market-rates",
     "isNew": false
   }
 ]
