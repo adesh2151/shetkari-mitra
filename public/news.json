@@ -96,43 +96,59 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-ad780f87b3",
+    "id": "news-25b8e231a4",
     "category": "news",
-    "title": "Drought Relief Issue: खरीप पिकांचे मोठे नुकसान; हातकणंगलेला दुष्काळग्रस्त घोषित करण्याची मागणी : आमदार डॉ. अशोक माने",
+    "title": "Sugarcane Rate: ऊसदरावर तोडगा नाही, पहिली उचल ४,५०० रुपये द्या, राजू शेट्टींची मागणी",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/hatkanangale-drought-affected-list-inclusion-demand-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/sugarcane-rate-raju-shetti-rs-4500-first-payment-ddb79",
     "isNew": true
   },
   {
-    "id": "news-862b53bb43",
+    "id": "news-0b31571aa1",
     "category": "news",
-    "title": "Farmer ID: देशात ११ कोटी शेतकऱ्यांचे 'फार्मर आयडी' तयार; मार्च २०२७ चे उद्दिष्ट ५ महिने आधीच पूर्ण- शिवराज सिंह चौहान",
+    "title": "Stress in Turmeric Crop: दुष्काळाचा हळद पिकाला फटका; फुटवे वाढवण्यासाठी आणि उत्पादन वाचवण्यासाठी काय कराल?",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/farmer-id-centre-creates-11-crore-ids-under-agristack-ddb79",
+    "link": "https://agrowon.esakal.com/agro-special/how-to-manage-drought-stress-turmeric-crops-ssp-25",
     "isNew": true
   },
   {
-    "id": "news-0d6ac7f949",
+    "id": "news-23a7b41c73",
     "category": "news",
-    "title": "Tur Crop Flowering: खानदेशात पूर्वहंगामी तूर पीक आलेय फुलोऱ्यावर",
+    "title": "Sugar Workers Strike : कामगारांच्या हक्कासाठी 'सीटू' मैदानात; साखर कामगारांच्या संपाला बळ",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/khandesh-early-season-tur-crop-flowering-stage-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/citu-declares-full-support-to-sugar-industry-workers-strike-aak11",
     "isNew": true
   },
   {
-    "id": "news-48c6bc3730",
+    "id": "news-211442d54f",
     "category": "news",
-    "title": "Pressmud Benefits: साखर कारखान्यातील प्रेसमड शेतकऱ्यांसाठी कसा उपयुक्त? माती आणि जनावरांसाठी फायदेच फायदे",
+    "title": "Manual Sugarcane Harvesting: धाराशिवमध्ये ७० टक्के उसाची मजुरांमार्फत तोडणी करण्याचे जिल्हाधिकाऱ्यांचे आदेश",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/benefits-pressmud-organic-manure-agriculture-ssp-25",
+    "link": "https://agrowon.esakal.com/agro-special/dharashiv-sugarcane-manual-harvesting-fodder-reserve-orders-abhi47",
     "isNew": true
   },
   {
-    "id": "news-2d2da5d4cb",
+    "id": "news-4249ca904b",
     "category": "news",
-    "title": "Mrig Bahar Banana Update: मृग बहर केळी ५१ हजार हेक्टरवर",
+    "title": "Drought Crisis : दुष्काळाचा सामना करण्यासाठी पाण्याचे चोख नियोजन करा: एस. कार्तिकेयन",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/khandesh-mrig-bahar-banana-cultivation-51000-hectares-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/crucial-water-planning-insights-by-s-karthikeyan-aak11",
+    "isNew": true
+  },
+  {
+    "id": "news-b35ecfb75c",
+    "category": "news",
+    "title": "Cotton Rate: How can the cotton market in the country survive for the next two months?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/cotton-rate-forecast-india-next-two-months",
+    "isNew": true
+  },
+  {
+    "id": "news-c5b682e26c",
+    "category": "news",
+    "title": "Farmer Loan Waiver : राज्य सरकार शेतकऱ्यांना कर्जमाफीचा लाभ कधी देणार?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/maharashtra-farmer-loan-waiver-benefits-update",
     "isNew": true
   },
   {
@@ -141,7 +157,7 @@
     "title": "Soybean Green Chilli Rate: सोयाबीन दर तेजीतच, आले दरात स्थिरता, काकडीच्या आवकेत वाढ, हिरव्या मिरचीच्या दरात चढ-उतार तर पेरु दरात घसरण",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/soybean-green-chilli-ginger-cucumber-guava-market-rates",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-d38b7e2427",
@@ -149,7 +165,7 @@
     "title": "Rain Update : काही ठिकाणी पावसाचा अंदाज;  उर्वरित राज्यात ऑक्टोबर हिट तापदायक",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/maharashtra-october-heat-weather-rain-update",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-232cc4c39f",
@@ -157,7 +173,7 @@
     "title": "Chia Cultivation: दुष्काळात चिया पिकाची लागवड कशी करावी?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/chia-cultivation-drought-low-water-farming-guide",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-da7d480baa",
@@ -173,22 +189,6 @@
     "title": "Drought Madat : दुष्काळ तालुक्यातील शेतकऱ्यांना अग्रीम मदत कधीपासून मिळणार?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/maharashtra-drought-relief-advance-assistance-farmers",
-    "isNew": false
-  },
-  {
-    "id": "news-8dfd50caf5",
-    "category": "news",
-    "title": "Wheat Jowar Rate: गव्हाच्या दरात चढ-उतार, ज्वारीच्या दरात वाढ, शेवग्याच्या दरात बदल, टोमॅटोच्या आवकेत घट तर डाळिंबाचे दर टिकून",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/maharashtra-rain-update-heat-weather-forecast-2",
-    "isNew": false
-  },
-  {
-    "id": "news-4a2d559639",
-    "category": "news",
-    "title": "Rain Update : कोकणात उष्ण व दमट हवामानाचा अंदाज; काही भागात पावसाची शक्यता",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/maharashtra-rain-update-heat-weather-forecast",
     "isNew": false
   }
 ]
