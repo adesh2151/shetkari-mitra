@@ -96,35 +96,67 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-79bfa6806d",
+    "id": "news-ad004a07e8",
     "category": "news",
-    "title": "Weekly Weather: किमान तापमानात घट सुरू; सकाळी थंड हवामान",
+    "title": "Drought Relief : दुष्काळी उपाययोजनांची प्रभावी अंमलबजावणी करा; जिल्हाधिकारी योगेश कुंभेजकर यांचे कडक निर्देश",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/weather-news/maharashtra-minimum-temperature-drop-cool-morning-weather-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/act-swiftly-on-water-scarcity-collector-yogesh-kumbhejkar-orders-officials-aak11",
     "isNew": true
   },
   {
-    "id": "news-3cf3a957ff",
+    "id": "news-d45a8bb03a",
     "category": "news",
-    "title": "Sugarcane Price Dispute: ऊसदराचा तिढा कायम! आबिटकर, राजू शेट्टींच्या बैठकीत तोडगा नाही",
+    "title": "Marathwada Agriculture Crisis : पाण्यासाठी बळीराजा चिंतेत; बीड, जालना आणि संभाजीनगर जिल्ह्यात रब्बी पेरण्या थंडावल्या",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/maharashtra-sugarcane-price-deadlock-meeting-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/farmers-distressed-as-water-scarcity-hits-rabi-sowing-in-key-maharashtra-districts-aak11",
     "isNew": true
   },
   {
-    "id": "news-84be8658c6",
+    "id": "news-3849265078",
     "category": "news",
-    "title": "Fodder Security Plan: चारा टंचाई रोखण्यासाठी जिल्हा प्रशासनाचा मोठा प्लॅन; १० हजार हेक्टरवर चारा लागवडीचे नियोजन",
+    "title": "Plowman's Folly: प्लोमॅन्स फॉली : विना नांगरणी शेतीतील प्रयोगांचे सार",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/district-fodder-security-plan-10000-hectares-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/plowmans-folly-edward-faulkner-moldboard-plowing-soil-health-rat16",
     "isNew": true
   },
   {
-    "id": "news-e91a3480e6",
+    "id": "news-a07ca58ac7",
     "category": "news",
-    "title": "Animal Fertility in Drought: दुष्काळाचा जनावरांच्या प्रजननावर परिणाम! गाई-म्हशींमध्ये कोणत्या अडचणी येतात?",
+    "title": "Solapur DCC Bank Election: सोलापूर जिल्हा बँक निवडणुकीचा बिगूल अखेर वाजला; आठ वर्षांनंतर निवडणूक प्रक्रियेला सुरुवात",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/how-drought-affects-reproductive-performance-cows-buffaloes-ssp-25",
+    "link": "https://agrowon.esakal.com/agro-special/solapur-district-central-cooperative-bank-election-process-rat16",
+    "isNew": true
+  },
+  {
+    "id": "news-d39b6a1575",
+    "category": "news",
+    "title": "Ahilyanagar District Bank Election: अहिल्यानगर जिल्हा बँक निवडणुकीत महिला मतदारसंघाकडे सर्वांचे लक्ष; दोन जागांसाठी सात उमेदवार",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/agro-special/ahilyanagar-district-bank-election-women-candidates-rat16",
+    "isNew": true
+  },
+  {
+    "id": "news-90407e7b20",
+    "category": "news",
+    "title": "Rabi Sowing: ऑक्टोबर हिटनंतर थंडी कधी पडणार? रब्बीची पेरणी करावी का?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/maharashtra-october-heat-weather-rain-update-2",
+    "isNew": true
+  },
+  {
+    "id": "news-63e8c336ee",
+    "category": "news",
+    "title": "Drought Madat: ५ हजारांची अग्रीम मदत कधी मिळणार? पंचनामे, फार्मर आयडी, ई-केवायसीबाबत अपडेट",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/maharashtra-drought-relief-5000-farmer-id-ekyc-update",
+    "isNew": true
+  },
+  {
+    "id": "news-7bcd35355e",
+    "category": "news",
+    "title": "Sheep Goat Pregnancy: शेळ्या मेंढ्यांमध्ये गर्भनिदान करण्याच्या विविध पद्धती कोणत्या?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/sheep-goat-pregnancy-diagnosis-methods",
     "isNew": true
   },
   {
@@ -158,37 +190,5 @@
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/maharashtra-october-heat-weather-rain-update",
     "isNew": false
-  },
-  {
-    "id": "news-232cc4c39f",
-    "category": "news",
-    "title": "Chia Cultivation: दुष्काळात चिया पिकाची लागवड कशी करावी?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/chia-cultivation-drought-low-water-farming-guide",
-    "isNew": false
-  },
-  {
-    "id": "news-da7d480baa",
-    "category": "news",
-    "title": "Kharif Crop Insurance: खरिपातील पीकविमा भरपाईसाठी राज्यात किती कापणी प्रयोग होतील ?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/maharashtra-kharif-crop-insurance-crop-cutting-experiments",
-    "isNew": false
-  },
-  {
-    "id": "news-7e214be18c",
-    "category": "news",
-    "title": "Drought Madat : दुष्काळ तालुक्यातील शेतकऱ्यांना अग्रीम मदत कधीपासून मिळणार?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/maharashtra-drought-relief-advance-assistance-farmers",
-    "isNew": false
-  },
-  {
-    "id": "news-8dfd50caf5",
-    "category": "news",
-    "title": "Wheat Jowar Rate: गव्हाच्या दरात चढ-उतार, ज्वारीच्या दरात वाढ, शेवग्याच्या दरात बदल, टोमॅटोच्या आवकेत घट तर डाळिंबाचे दर टिकून",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/maharashtra-rain-update-heat-weather-forecast-2",
-    "isNew": true
   }
 ]
