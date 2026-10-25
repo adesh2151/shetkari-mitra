@@ -96,43 +96,43 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-ad004a07e8",
+    "id": "news-6e9a6197e4",
     "category": "news",
-    "title": "Drought Relief : दुष्काळी उपाययोजनांची प्रभावी अंमलबजावणी करा; जिल्हाधिकारी योगेश कुंभेजकर यांचे कडक निर्देश",
+    "title": "Massive Agricultural Crisis : बळीराजा उद्ध्वस्त! ८ लाख हेक्टरवरील पिके मातीमोल",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/act-swiftly-on-water-scarcity-collector-yogesh-kumbhejkar-orders-officials-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/8-lakh-hectares-of-agriculture-land-affected-by-severe-crop-loss-aak11",
     "isNew": true
   },
   {
-    "id": "news-d45a8bb03a",
+    "id": "news-1442ff769e",
     "category": "news",
-    "title": "Marathwada Agriculture Crisis : पाण्यासाठी बळीराजा चिंतेत; बीड, जालना आणि संभाजीनगर जिल्ह्यात रब्बी पेरण्या थंडावल्या",
+    "title": "Satara Rabi Season : सातारा जिल्ह्यात 'रब्बी'ची केवळ ५ टक्केच पेरणी पूर्ण; पाऊस गायब झाल्याने बळीराजा संकटात!",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/farmers-distressed-as-water-scarcity-hits-rabi-sowing-in-key-maharashtra-districts-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/only-5-rabi-sowing-completed-due-to-dry-spell-aak11",
     "isNew": true
   },
   {
-    "id": "news-3849265078",
+    "id": "news-8e869eee33",
     "category": "news",
-    "title": "Plowman's Folly: प्लोमॅन्स फॉली : विना नांगरणी शेतीतील प्रयोगांचे सार",
+    "title": "Nar-Par Girna Project : नार-पार, गिरणा नदीजोड प्रकल्पाला तीव्र विरोध; जमिनी आणि पाणी वाचवण्यासाठी शेतकरी एकवटले!",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/plowmans-folly-edward-faulkner-moldboard-plowing-soil-health-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/the-nar-par-and-girna-river-interlinking-project-facing-severe-backlash-aak11",
     "isNew": true
   },
   {
-    "id": "news-a07ca58ac7",
+    "id": "news-aa3c99bf97",
     "category": "news",
-    "title": "Solapur DCC Bank Election: सोलापूर जिल्हा बँक निवडणुकीचा बिगूल अखेर वाजला; आठ वर्षांनंतर निवडणूक प्रक्रियेला सुरुवात",
+    "title": "Agriculture Electricity : शेतीपंपांच्या विजेसाठी चामोर्शीत बळीराजा आक्रमक; संतप्त शेतकऱ्यांनी मुख्य रस्त्यावर केला चक्काजाम!",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/solapur-district-central-cooperative-bank-election-process-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/resolve-agri-power-issue-immediately-or-face-indefinite-sit-in-stir-warn-chamorshi-farmers-aak11",
     "isNew": true
   },
   {
-    "id": "news-d39b6a1575",
+    "id": "news-ab93cf3a8d",
     "category": "news",
-    "title": "Ahilyanagar District Bank Election: अहिल्यानगर जिल्हा बँक निवडणुकीत महिला मतदारसंघाकडे सर्वांचे लक्ष; दोन जागांसाठी सात उमेदवार",
+    "title": "Hingoli Agriculture Crisis : हिंगोली जिल्ह्यात शेती वाचवा अभियान सुरू",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/ahilyanagar-district-bank-election-women-candidates-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/save-farms-campaign-launched-in-hingoli-district-to-tackle-severe-drought-situation-aak1",
     "isNew": true
   },
   {
@@ -141,7 +141,7 @@
     "title": "Rabi Sowing: ऑक्टोबर हिटनंतर थंडी कधी पडणार? रब्बीची पेरणी करावी का?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/maharashtra-october-heat-weather-rain-update-2",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-63e8c336ee",
@@ -149,7 +149,7 @@
     "title": "Drought Madat: ५ हजारांची अग्रीम मदत कधी मिळणार? पंचनामे, फार्मर आयडी, ई-केवायसीबाबत अपडेट",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/maharashtra-drought-relief-5000-farmer-id-ekyc-update",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-7bcd35355e",
@@ -157,7 +157,7 @@
     "title": "Sheep Goat Pregnancy: शेळ्या मेंढ्यांमध्ये गर्भनिदान करण्याच्या विविध पद्धती कोणत्या?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/sheep-goat-pregnancy-diagnosis-methods",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-b35ecfb75c",
