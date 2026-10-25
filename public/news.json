@@ -96,43 +96,35 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-25b8e231a4",
+    "id": "news-79bfa6806d",
     "category": "news",
-    "title": "Sugarcane Rate: ऊसदरावर तोडगा नाही, पहिली उचल ४,५०० रुपये द्या, राजू शेट्टींची मागणी",
+    "title": "Weekly Weather: किमान तापमानात घट सुरू; सकाळी थंड हवामान",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/sugarcane-rate-raju-shetti-rs-4500-first-payment-ddb79",
+    "link": "https://agrowon.esakal.com/weather-news/maharashtra-minimum-temperature-drop-cool-morning-weather-abhi47",
     "isNew": true
   },
   {
-    "id": "news-0b31571aa1",
+    "id": "news-3cf3a957ff",
     "category": "news",
-    "title": "Stress in Turmeric Crop: दुष्काळाचा हळद पिकाला फटका; फुटवे वाढवण्यासाठी आणि उत्पादन वाचवण्यासाठी काय कराल?",
+    "title": "Sugarcane Price Dispute: ऊसदराचा तिढा कायम! आबिटकर, राजू शेट्टींच्या बैठकीत तोडगा नाही",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/how-to-manage-drought-stress-turmeric-crops-ssp-25",
+    "link": "https://agrowon.esakal.com/agro-special/maharashtra-sugarcane-price-deadlock-meeting-rat16",
     "isNew": true
   },
   {
-    "id": "news-23a7b41c73",
+    "id": "news-84be8658c6",
     "category": "news",
-    "title": "Sugar Workers Strike : कामगारांच्या हक्कासाठी 'सीटू' मैदानात; साखर कामगारांच्या संपाला बळ",
+    "title": "Fodder Security Plan: चारा टंचाई रोखण्यासाठी जिल्हा प्रशासनाचा मोठा प्लॅन; १० हजार हेक्टरवर चारा लागवडीचे नियोजन",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/citu-declares-full-support-to-sugar-industry-workers-strike-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/district-fodder-security-plan-10000-hectares-rat16",
     "isNew": true
   },
   {
-    "id": "news-211442d54f",
+    "id": "news-e91a3480e6",
     "category": "news",
-    "title": "Manual Sugarcane Harvesting: धाराशिवमध्ये ७० टक्के उसाची मजुरांमार्फत तोडणी करण्याचे जिल्हाधिकाऱ्यांचे आदेश",
+    "title": "Animal Fertility in Drought: दुष्काळाचा जनावरांच्या प्रजननावर परिणाम! गाई-म्हशींमध्ये कोणत्या अडचणी येतात?",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/dharashiv-sugarcane-manual-harvesting-fodder-reserve-orders-abhi47",
-    "isNew": true
-  },
-  {
-    "id": "news-4249ca904b",
-    "category": "news",
-    "title": "Drought Crisis : दुष्काळाचा सामना करण्यासाठी पाण्याचे चोख नियोजन करा: एस. कार्तिकेयन",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/crucial-water-planning-insights-by-s-karthikeyan-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/how-drought-affects-reproductive-performance-cows-buffaloes-ssp-25",
     "isNew": true
   },
   {
@@ -141,7 +133,7 @@
     "title": "Cotton Rate: How can the cotton market in the country survive for the next two months?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/cotton-rate-forecast-india-next-two-months",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-c5b682e26c",
@@ -149,7 +141,7 @@
     "title": "Farmer Loan Waiver : राज्य सरकार शेतकऱ्यांना कर्जमाफीचा लाभ कधी देणार?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/maharashtra-farmer-loan-waiver-benefits-update",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-ef3c13459f",
@@ -190,5 +182,13 @@
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/maharashtra-drought-relief-advance-assistance-farmers",
     "isNew": false
+  },
+  {
+    "id": "news-8dfd50caf5",
+    "category": "news",
+    "title": "Wheat Jowar Rate: गव्हाच्या दरात चढ-उतार, ज्वारीच्या दरात वाढ, शेवग्याच्या दरात बदल, टोमॅटोच्या आवकेत घट तर डाळिंबाचे दर टिकून",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/maharashtra-rain-update-heat-weather-forecast-2",
+    "isNew": true
   }
 ]
