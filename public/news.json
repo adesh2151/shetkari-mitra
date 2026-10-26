@@ -96,43 +96,75 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-38f7fa7ce7",
+    "id": "news-6ad7fa0082",
     "category": "news",
-    "title": "India Soybean Price: सोयाबीनच्या तेजीमागे दुष्काळ की साठेबाजी ?",
+    "title": "MSRTC Employee Salary: एसटी कर्मचाऱ्यांची दिवाळी गोड होणार? वेतनाबाबत प्रताप सरनाईकांचे प्रशासनाला आदेश",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/market-intelligence/soybean-price-rise-drought-or-stockpiling-india-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/msrtc-employees-november-salary-before-diwali-abhi47",
     "isNew": true
   },
   {
-    "id": "news-281c0f6c36",
+    "id": "news-8436fe5e6e",
     "category": "news",
-    "title": "Indian Politics: ‘एसआयआर’विरोधी आंदोलन निर्णायक वळणावर",
+    "title": "Drought Inspection :  दुष्काळाची भीषणता: आमदार आणि जिल्हाधिकाऱ्यांकडून थेट बांधावर जाऊन परिस्थितीची पाहणी!",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/rahul-gandhi-anti-sir-protest-opposition-strategy-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/order-for-crop-damage-panchnama-by-district-collector-during-drought-aak11",
     "isNew": true
   },
   {
-    "id": "news-0a81866b48",
+    "id": "news-cfd5ef81ca",
     "category": "news",
-    "title": "Torrent Project Controversy: ‘टोरंट’ वादळ",
+    "title": "Drought Affects Area: पुरंदर तालुक्यात २३ हजार ६८४ हेक्टर क्षेत्राला दुष्काळाची झळ",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/sampadkiya/torrent-project-opposition-local-residents-environmentalists-article-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/purandar-drought-affected-farmers-crop-compensation-abhi47",
     "isNew": true
   },
   {
-    "id": "news-d83dfb9c77",
+    "id": "news-528258feb7",
     "category": "news",
-    "title": "Sugarcane Price Announcement: ऊसदर जाहीर करा, अन्यथा राजकीय नेत्यांना गावबंदी; ऊसदर संघर्ष समितीचा इशारा",
+    "title": "Drought Crisis : पशुधनावरही दुष्काळाचे सावट! चाऱ्याअभावी जनावरांचे हाल; शेतकरी हवालदील",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/sugarcane-price-demand-pandharpur-farmers-protest-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/severe-drought-and-fodder-scarcity-threaten-cattle-wealth-aak11",
     "isNew": true
   },
   {
-    "id": "news-43eec5cb29",
+    "id": "news-27dbd4156f",
     "category": "news",
-    "title": "Swabhimani Motorcycle Rally: ऊसदरासाठी ‘स्वाभिमानी’चे शक्तिप्रदर्शन; मोटारसायकल रॅलीमध्ये हजारो शेतकऱ्यांचा सहभाग",
+    "title": "Akole Mumbai Long March: शेतकरी, कष्टकऱ्यांच्या मागण्यांसाठी लाल वादळ मुंबईच्या दिशेने! अकोले- मुंबई लाँग मार्च सुरु",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/swabhimani-sugarcane-price-motorcycle-rally-farmers-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/akole-mumbai-farmers-long-march-kisan-sabha-2026-ddb79",
+    "isNew": true
+  },
+  {
+    "id": "news-4c97988815",
+    "category": "news",
+    "title": "Kharif Price : देशातील कोणत्या राज्यांमध्ये खरीप हंगाम धोक्यात आहे?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/kharif-crop-crisis-seven-states-india",
+    "isNew": true
+  },
+  {
+    "id": "news-5218b05b88",
+    "category": "news",
+    "title": "Soybean Tur Rate: सोयाबीन दर तेजीतच, तुर दर कायम, कांद्याच्या दरात वाढ, मेथीच्या दरात चढ-उतार तर केळीचे दर स्थिर",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/soybean-tur-onion-methi-banana-market-rates",
+    "isNew": true
+  },
+  {
+    "id": "news-efdf84f9f6",
+    "category": "news",
+    "title": "Rain Update : अर्णब चक्रीवादळामुळे राज्यात पावसाचा इशारा; पाच दिवसांचा अंदाज काय?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/cyclone-arnab-vidarbha-heavy-rain-forecast",
+    "isNew": true
+  },
+  {
+    "id": "news-8750342187",
+    "category": "news",
+    "title": "Farm Pond:शेततळ्यातले पाणी झपाट्याने आटत असल्यास करा ३ उपाय",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/farm-pond-water-evaporation-reduction-tips",
     "isNew": true
   },
   {
@@ -157,38 +189,6 @@
     "title": "Sheep Goat Pregnancy: शेळ्या मेंढ्यांमध्ये गर्भनिदान करण्याच्या विविध पद्धती कोणत्या?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/sheep-goat-pregnancy-diagnosis-methods",
-    "isNew": false
-  },
-  {
-    "id": "news-b35ecfb75c",
-    "category": "news",
-    "title": "Cotton Rate: How can the cotton market in the country survive for the next two months?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/cotton-rate-forecast-india-next-two-months",
-    "isNew": false
-  },
-  {
-    "id": "news-c5b682e26c",
-    "category": "news",
-    "title": "Farmer Loan Waiver : राज्य सरकार शेतकऱ्यांना कर्जमाफीचा लाभ कधी देणार?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/maharashtra-farmer-loan-waiver-benefits-update",
-    "isNew": false
-  },
-  {
-    "id": "news-ef3c13459f",
-    "category": "news",
-    "title": "Soybean Green Chilli Rate: सोयाबीन दर तेजीतच, आले दरात स्थिरता, काकडीच्या आवकेत वाढ, हिरव्या मिरचीच्या दरात चढ-उतार तर पेरु दरात घसरण",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/soybean-green-chilli-ginger-cucumber-guava-market-rates",
-    "isNew": false
-  },
-  {
-    "id": "news-d38b7e2427",
-    "category": "news",
-    "title": "Rain Update : काही ठिकाणी पावसाचा अंदाज;  उर्वरित राज्यात ऑक्टोबर हिट तापदायक",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/maharashtra-october-heat-weather-rain-update",
     "isNew": false
   }
 ]
