@@ -96,43 +96,51 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-6e01abe0ad",
+    "id": "news-1de7beb6ae",
     "category": "news",
-    "title": "Maharashtra Farmer Relief: शेतकऱ्यांच्या खात्यात ५ हजार कधी जमा होणार? मुख्यमंत्री फडणवीसांची महत्त्वाची माहिती",
+    "title": "Maharashtra Drought Relief: कोणत्या शेतकऱ्यांना ५ हजारांची मदत मिळणार? ई-केवायसी करावी लागेल का? निकष जाहीर",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/maharashtra-farmer-relief-5000-payment-diwali-2026-ddb79",
+    "link": "https://agrowon.esakal.com/agro-special/maharashtra-drought-relief-5000-farmers-ekyc-criteria-ddb79",
     "isNew": true
   },
   {
-    "id": "news-a5007f7fd5",
+    "id": "news-0543faed60",
     "category": "news",
-    "title": "Incomplete Projects : अपूर्ण प्रकल्पांचा शेतकऱ्यांना मोठा फटका! रखडलेल्या योजनांमुळे बळीराजा संतापला",
+    "title": "Mahabeej Seeds Production : शेतकऱ्यांसाठी आनंदाची बातमी! 'महाबीज'चे यंदा तब्बल २२५० हेक्टरवर बियाणे उत्पादन",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/delayed-irrigation-schemes-leave-farmers-stranded-and-furious-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/seed-production-planned-on-2250-hectares-this-year-aak11",
     "isNew": true
   },
   {
-    "id": "news-b255894bcc",
+    "id": "news-dd7cdcec19",
     "category": "news",
-    "title": "Farmer Loan Recovery: शेतकऱ्यांना कर्जवसुलीसाठी त्रास देऊ नका; एकनाथ शिंदेंचा फायनान्स कंपन्यांना इशारा",
+    "title": "Ahilyanagar Fodder Crisis : अहिल्यानगर जिल्हा तीव्र चारा टंचाईच्या उंबरठ्यावर! मुक्या जनावरांच्या चाऱ्याचा प्रश्न गंभीर",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/eknath-shinde-warning-coercive-loan-recovery-farmer-harassment-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/ahilyanagar-district-on-the-verge-of-a-severe-cattle-fodder-scarcity-aak11",
     "isNew": true
   },
   {
-    "id": "news-67b5ac59a7",
+    "id": "news-ead5166eab",
     "category": "news",
-    "title": "Solar Power Project: पडळ-माजगावमध्ये ५ मेगावॉटचा सौर प्रकल्प कार्यान्वित; अडीच हजार शेतकऱ्यांना दिलासा",
+    "title": "Goat Feeding in Drought: दुष्काळात शेळ्यांना किती चारा द्यावा? आहार व्यवस्थापनातील महत्त्वाच्या गोष्टी",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/padal-majgaon-5mw-solar-project-farmers-daytime-electricity-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/how-fodder-goats-during-drought-ssp-25",
     "isNew": true
   },
   {
-    "id": "news-d270737423",
+    "id": "news-092882f8ca",
     "category": "news",
-    "title": "Banana Cultivation Update: दीपोत्सवापूर्वी कांदेबाग केळी लागवडीची लगबग; खानदेशात ११ हजार हेक्टरवर लागवड पूर्ण",
+    "title": "Unlock Farmer Accounts : दुष्काळग्रस्त शेतकऱ्यांची लॉक केलेली बँक खाती खुली करा",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/khandesh-kandedbag-banana-planting-before-diwali-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/unlock-frozen-bank-accounts-of-drought-hit-farmers-on-priority-aak11",
+    "isNew": true
+  },
+  {
+    "id": "news-270c0eda1c",
+    "category": "news",
+    "title": "El Nino 2027: पुढील मान्सूनमध्ये एल निनोचा प्रभाव राहणार? २०२७ च्या पावसाबाबत तज्ज्ञांचा अंदाज",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/el-nino-impact-india-monsoon-forecast-2027-rat16",
     "isNew": true
   },
   {
@@ -141,7 +149,7 @@
     "title": "Rabi Crop Loan: राज्यात रब्बी पीककर्ज वाटप संथ का आहे?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/maharashtra-rabi-crop-loan-disbursement-slow-rat16",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-d34a33bec4",
@@ -149,7 +157,7 @@
     "title": "Cotton Moong Rate: कापूस दर टिकून, मूग बाजारात सुधारणा, बटाटा भावात चढ-उतार, पालक दरात घसरण तर चिकू दरात नरमाई",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/cotton-moong-potato-spinach-sapota-market-rates-maharashtra",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-286385b86a",
@@ -157,7 +165,7 @@
     "title": "Rain Update : पूर्व विदर्भात पावसाचा अंदाज; उर्वरित राज्यात उन्हाचा चटका कायम",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/maharashtra-rain-update-forecast-three-districts",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-70bfaa06c7",
@@ -165,7 +173,7 @@
     "title": "Intercropping in Drought: रब्बी हंगामात कोरडवाहू शेतीत कोणती आंतरपीके घ्यावी?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/intercropping-drought-rabi-season-dryland-farming",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-20ea4a1964",
@@ -181,14 +189,6 @@
     "title": "Kharif Price : देशातील कोणत्या राज्यांमध्ये खरीप हंगाम धोक्यात आहे?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/kharif-crop-crisis-seven-states-india",
-    "isNew": false
-  },
-  {
-    "id": "news-5218b05b88",
-    "category": "news",
-    "title": "Soybean Tur Rate: सोयाबीन दर तेजीतच, तुर दर कायम, कांद्याच्या दरात वाढ, मेथीच्या दरात चढ-उतार तर केळीचे दर स्थिर",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/soybean-tur-onion-methi-banana-market-rates",
     "isNew": false
   }
 ]
