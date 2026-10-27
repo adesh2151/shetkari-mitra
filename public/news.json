@@ -96,43 +96,51 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-6ad7fa0082",
+    "id": "news-e1450c55b6",
     "category": "news",
-    "title": "MSRTC Employee Salary: एसटी कर्मचाऱ्यांची दिवाळी गोड होणार? वेतनाबाबत प्रताप सरनाईकांचे प्रशासनाला आदेश",
+    "title": "Maharashtra Drought Crisis: दुष्काळात स्थलांतरित दुर्लक्षितच",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/msrtc-employees-november-salary-before-diwali-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/maharashtra-drought-relief-policy-migrant-workers-rat16",
     "isNew": true
   },
   {
-    "id": "news-8436fe5e6e",
+    "id": "news-042df2e0ce",
     "category": "news",
-    "title": "Drought Inspection :  दुष्काळाची भीषणता: आमदार आणि जिल्हाधिकाऱ्यांकडून थेट बांधावर जाऊन परिस्थितीची पाहणी!",
+    "title": "Maharashtra MLC Election Results 2026: विधानपरिषदेच्या ३ पदवीधर, २ शिक्षक मतदारसंघातील जागांसाठी मतमोजणी सुरु",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/order-for-crop-damage-panchnama-by-district-collector-during-drought-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/maharashtra-mlc-election-results-2026-vote-counting-ddb79",
     "isNew": true
   },
   {
-    "id": "news-cfd5ef81ca",
+    "id": "news-12e291bf85",
     "category": "news",
-    "title": "Drought Affects Area: पुरंदर तालुक्यात २३ हजार ६८४ हेक्टर क्षेत्राला दुष्काळाची झळ",
+    "title": "Hunger Index 2026: भुकेची ‘गंभीर’ आपत्ती",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/purandar-drought-affected-farmers-crop-compensation-abhi47",
+    "link": "https://agrowon.esakal.com/sampadkiya/global-hunger-index-2026-india-rank-score-rat16",
     "isNew": true
   },
   {
-    "id": "news-528258feb7",
+    "id": "news-9dd1150c75",
     "category": "news",
-    "title": "Drought Crisis : पशुधनावरही दुष्काळाचे सावट! चाऱ्याअभावी जनावरांचे हाल; शेतकरी हवालदील",
+    "title": "Rabi Jowar Cultivation: रब्बी ज्वारी लागवडीला प्रोत्साहन! १५ हजार बियाणे मिनीकिटचे १० नोव्हेंबरपूर्वी वाटप होणार",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/severe-drought-and-fodder-scarcity-threaten-cattle-wealth-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/rabi-jowar-cultivation-15000-seed-mini-kits-distribution-rat16",
     "isNew": true
   },
   {
-    "id": "news-27dbd4156f",
+    "id": "news-a7f066f366",
     "category": "news",
-    "title": "Akole Mumbai Long March: शेतकरी, कष्टकऱ्यांच्या मागण्यांसाठी लाल वादळ मुंबईच्या दिशेने! अकोले- मुंबई लाँग मार्च सुरु",
+    "title": "Fodder Shortage: पुणे जिल्ह्यात चारा टंचाईचे संकट! जनावरांसाठी केवळ पाच महिने पुरेल इतकाच चारा",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/akole-mumbai-farmers-long-march-kisan-sabha-2026-ddb79",
+    "link": "https://agrowon.esakal.com/agro-special/pune-district-five-months-fodder-stock-shortage-rat16",
+    "isNew": true
+  },
+  {
+    "id": "news-20ea4a1964",
+    "category": "news",
+    "title": "Cotton Rate: पुढील २ महिने कापसाचे भाव टिकणार? अमेरिकेच्या निर्यातीचा बाजाराला आधार",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/cotton-rate-forecast-next-two-months-us-cotton-exports",
     "isNew": true
   },
   {
@@ -141,7 +149,7 @@
     "title": "Kharif Price : देशातील कोणत्या राज्यांमध्ये खरीप हंगाम धोक्यात आहे?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/kharif-crop-crisis-seven-states-india",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-5218b05b88",
@@ -149,7 +157,7 @@
     "title": "Soybean Tur Rate: सोयाबीन दर तेजीतच, तुर दर कायम, कांद्याच्या दरात वाढ, मेथीच्या दरात चढ-उतार तर केळीचे दर स्थिर",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/soybean-tur-onion-methi-banana-market-rates",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-efdf84f9f6",
@@ -157,7 +165,7 @@
     "title": "Rain Update : अर्णब चक्रीवादळामुळे राज्यात पावसाचा इशारा; पाच दिवसांचा अंदाज काय?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/cyclone-arnab-vidarbha-heavy-rain-forecast",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-8750342187",
@@ -165,7 +173,7 @@
     "title": "Farm Pond:शेततळ्यातले पाणी झपाट्याने आटत असल्यास करा ३ उपाय",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/farm-pond-water-evaporation-reduction-tips",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-90407e7b20",
@@ -181,14 +189,6 @@
     "title": "Drought Madat: ५ हजारांची अग्रीम मदत कधी मिळणार? पंचनामे, फार्मर आयडी, ई-केवायसीबाबत अपडेट",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/maharashtra-drought-relief-5000-farmer-id-ekyc-update",
-    "isNew": false
-  },
-  {
-    "id": "news-7bcd35355e",
-    "category": "news",
-    "title": "Sheep Goat Pregnancy: शेळ्या मेंढ्यांमध्ये गर्भनिदान करण्याच्या विविध पद्धती कोणत्या?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/sheep-goat-pregnancy-diagnosis-methods",
     "isNew": false
   }
 ]
