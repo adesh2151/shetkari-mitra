@@ -96,43 +96,51 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-d5bf6e8804",
+    "id": "news-3aa67e33c8",
     "category": "news",
-    "title": "Ladki Bahin Yojana: लाडकी बहीण योजनेच्या ८१ लाख महिलांना पुन्हा मिळणार १,५०० रुपये? केवायसीबाबत मुख्यमंत्र्यांची सकारात्मक भूमिका",
+    "title": "Maharashtra Drought Crisis: ‘कॅग’च्या तपासणीत जलयुक्त शिवार फेल",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/ladki-bahin-yojana-81-lakh-women-1500-kyc-update-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/maharashtra-drought-water-management-crisis-rat16",
     "isNew": true
   },
   {
-    "id": "news-cc6945e9b6",
+    "id": "news-ef71b51c9b",
     "category": "news",
-    "title": "BJP Morcha : भाजपचा ४ नोव्हेंबरला सोलापुरात मोर्चा",
+    "title": "Soymeal Imports: आयातीची अवास्तव मागणी",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/bjp-announces-massive-protest-rally-in-solapur-on-november-4-aak11",
+    "link": "https://agrowon.esakal.com/sampadkiya/poultry-industry-soymeal-import-demand-soybean-production-rat16",
     "isNew": true
   },
   {
-    "id": "news-abc12a761a",
+    "id": "news-cdce108bd6",
     "category": "news",
-    "title": "Water Extraction Ban: एल निनोचा प्रभाव; सांगली जिल्हा परिषदेच्या जलस्रोतांवरील पाणी उपसा बंद",
+    "title": "Sugarcane Weight Fraud: थकीत एफआरपी अन् काटामारीचा मुद्दा तापला! साखर आयुक्तालयासमोर शेतकरी संघटनांचे आंदोलन",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/sangli-water-extraction-ban-el-nino-drought-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/maharashtra-farmers-protest-pending-frp-katamari-rat16",
     "isNew": true
   },
   {
-    "id": "news-1bae70ec28",
+    "id": "news-dad0a2299f",
     "category": "news",
-    "title": "Rabi Crop Loans: रब्बी पीककर्ज वितरणाची तयारी सुरू",
+    "title": "Maharashtra MLC Election: पदवीधर मतदारसंघांत चुरस; सायंकाळी पाचपर्यंत पुणे, नागपूर, मराठवाड्यात मोजणी सुरू",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/khandesh-rabi-crop-loan-distribution-preparations-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/maharashtra-mlc-graduate-teachers-constituency-vote-counting-rat16",
     "isNew": true
   },
   {
-    "id": "news-e2cfd510d4",
+    "id": "news-4c90cfd5d5",
     "category": "news",
-    "title": "DA Hike: केंद्रीय कर्मचाऱ्यांना दिवाळीची भेट, महागाई भत्त्यात ३ टक्क्यांची वाढ",
+    "title": "Drought Crisis: हवेलीच्या पूर्व भागात दुष्काळ जाहीर करा! शिवसेनेची जिल्हाधिकाऱ्यांकडे मागणी",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/da-hike-central-government-employees-3-percent-increase-2026-ddb79",
+    "link": "https://agrowon.esakal.com/agro-special/eastern-haveli-drought-declaration-farmer-relief-demand-rat16",
+    "isNew": true
+  },
+  {
+    "id": "news-9adc7fd9ed",
+    "category": "news",
+    "title": "Farmer Relief :राज्यातील कोणकोणते शेतकरी मदतीसाठी पात्र ठरणार ?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/maharashtra-farmer-relief-eligibility-criteria",
     "isNew": true
   },
   {
@@ -141,7 +149,7 @@
     "title": "Soybean Urad Rate: सोयाबीन दर टिकून, उडदाचे दर स्थिर, मेथीच्या दरात बदल, गवारीच्या दरात चढ-उतार तर मोसंबीच्या दरात घसरण",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/soybean-urad-methi-gawar-mosambi-market-rates",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-4bebd68775",
@@ -149,7 +157,7 @@
     "title": "Arnab Cyclone: राज्यातील काही भागात तीन दिवस पावसाला पोषक वातावरण",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/arnab-cyclone-maharashtra-three-day-rain-forecast",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-0f5aa47c5b",
@@ -157,7 +165,7 @@
     "title": "Tur Care in Drought: दुष्काळात तुरीला कोणत्या फवारण्या कराव्या?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/tur-care-drought-pigeon-pea-crop-spray-management",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-270c0eda1c",
@@ -181,14 +189,6 @@
     "title": "Cotton Moong Rate: कापूस दर टिकून, मूग बाजारात सुधारणा, बटाटा भावात चढ-उतार, पालक दरात घसरण तर चिकू दरात नरमाई",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/cotton-moong-potato-spinach-sapota-market-rates-maharashtra",
-    "isNew": false
-  },
-  {
-    "id": "news-286385b86a",
-    "category": "news",
-    "title": "Rain Update : पूर्व विदर्भात पावसाचा अंदाज; उर्वरित राज्यात उन्हाचा चटका कायम",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/maharashtra-rain-update-forecast-three-districts",
     "isNew": false
   }
 ]
