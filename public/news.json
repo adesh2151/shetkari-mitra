@@ -1,42 +1,146 @@
 [
   {
-    "id": "news-c43bac217b",
+    "id": "gr-c28902d144",
+    "category": "gr",
+    "title": "बियाणे उत्पादक",
+    "source": "कृषी विभाग, महाराष्ट्र",
+    "isNew": true,
+    "link": "https://krishi.maharashtra.gov.in:443/Site/Upload/Pdf/MahaParwana_Firms_Data_Seed_7_QC.pdf?MenuID=1036"
+  },
+  {
+    "id": "gr-0d5055bba4",
+    "category": "gr",
+    "title": "मे २०१४ पासून खतांचे कमाल विक्री किंमत",
+    "source": "कृषी विभाग, महाराष्ट्र",
+    "isNew": true,
+    "link": "https://krishi.maharashtra.gov.in:443/Site/Common/ViewGr.aspx?Doctype=e762e1c7-c389-4033-bab7-26c2566704d5?MenuID=1043"
+  },
+  {
+    "id": "gr-872762cffd",
+    "category": "gr",
+    "title": "द्रव्याधारित अनुदान",
+    "source": "कृषी विभाग, महाराष्ट्र",
+    "isNew": true,
+    "link": "https://krishi.maharashtra.gov.in:443/Site/Common/ViewGr.aspx?Doctype=aebc71f7-5f5f-4bb5-a149-9bc2fac19d1a?MenuID=1044"
+  },
+  {
+    "id": "gr-3e84960dee",
+    "category": "gr",
+    "title": "खतांचे परवाने",
+    "source": "कृषी विभाग, महाराष्ट्र",
+    "isNew": true,
+    "link": "https://krishi.maharashtra.gov.in:443/Site/Upload/Pdf/Fertilizers_Approved_license_list.xlsx?MenuID=1045"
+  },
+  {
+    "id": "gr-87a7b2c2b3",
+    "category": "gr",
+    "title": "कीटकनाशकांचा वापर",
+    "source": "कृषी विभाग, महाराष्ट्र",
+    "isNew": true,
+    "link": "https://krishi.maharashtra.gov.in:443/Site/Common/ViewGr.aspx?Doctype=b37a31ad-ba3e-48a2-b2cd-ea017a658a78?MenuID=1051"
+  },
+  {
+    "id": "gr-bc3acf2524",
+    "category": "gr",
+    "title": "पीकपेरणी अहवाल",
+    "source": "कृषी विभाग, महाराष्ट्र",
+    "isNew": true,
+    "link": "https://krishi.maharashtra.gov.in:443/Site/Common/ViewGr.aspx?Doctype=e8bdd10e-d33d-4ea0-865f-140a5284a2bc?MenuID=2906"
+  },
+  {
+    "id": "gr-10418e2b72",
+    "category": "gr",
+    "title": "पीकांची आकडेवारी (क्षेत्र, उत्पादन, उत्पादकता)",
+    "source": "कृषी विभाग, महाराष्ट्र",
+    "isNew": true,
+    "link": "https://krishi.maharashtra.gov.in/"
+  },
+  {
+    "id": "gr-bd106eeb01",
+    "category": "gr",
+    "title": "प्रधानमंत्री पिक विमा योजना",
+    "source": "कृषी विभाग, महाराष्ट्र",
+    "isNew": true,
+    "link": "https://krishi.maharashtra.gov.in:443/Site/Common/ViewGr.aspx?Doctype=ed5a4ceb-ad07-4189-b236-f9d191d5752d?MenuID=2918"
+  },
+  {
+    "id": "gr-4186e5dd9d",
+    "category": "gr",
+    "title": "गोपीनाथ मुंडे शे.अ. विमा योजना",
+    "source": "कृषी विभाग, महाराष्ट्र",
+    "isNew": true,
+    "link": "https://krishi.maharashtra.gov.in:443/Site/Common/ViewGr.aspx?Doctype=e2e11ed5-3d93-4e5b-9560-0124f4324636?MenuID=2912"
+  },
+  {
+    "id": "gr-7cdea14952",
+    "category": "gr",
+    "title": "शेतकरी कॉर्नर (कट्टा)",
+    "source": "कृषी विभाग, महाराष्ट्र",
+    "isNew": true,
+    "link": "https://krishi.maharashtra.gov.in/"
+  },
+  {
+    "id": "gr-48218ad93c",
+    "category": "gr",
+    "title": "शेतकरी मासिक",
+    "source": "कृषी विभाग, महाराष्ट्र",
+    "isNew": true,
+    "link": "https://krishi.maharashtra.gov.in:443/Site/Common/ViewGr.aspx?Doctype=1c340af5-c4d2-4915-bf1b-870a749d98b5?MenuID=1089"
+  },
+  {
+    "id": "gr-35817637d4",
+    "category": "gr",
+    "title": "महिला शेतकरी प्रमाणपत्र पोर्टल",
+    "source": "कृषी विभाग, महाराष्ट्र",
+    "isNew": true,
+    "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
+  },
+  {
+    "id": "news-5834a6da3c",
     "category": "news",
-    "title": "Gokul Chairman Election: गोकुळ सभा कोरमअभावी तहकूब, 'समविचारी आघाडी'कडून समांतर सभा अन् एकतर्फी अध्यक्ष निवड, नेमकं काय घडलं?",
+    "title": "PM Kisan 24th Instalment: दिवाळीपूर्वी शेतकऱ्यांच्या खात्यात २ हजार रुपये जमा, पीएम किसानचा २४ वा हप्ता वितरित",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/gokul-chairman-election-shashikant-patil-chuyekar-parallel-meeting-ddb79",
+    "link": "https://agrowon.esakal.com/agro-special/pm-kisan-yojana-24th-instalment-released-934-crore-farmers-ddb79",
     "isNew": true
   },
   {
-    "id": "news-896e8cdeb5",
+    "id": "news-31a9bba894",
     "category": "news",
-    "title": "Soybean Price : फुलसावंगी उपबाजारात सोयाबीनची धूम! मिळाला तब्बल ७,२५० रुपये भाव",
+    "title": "Benefits of Mycorrhiza Fungi: पिकांना स्फुरद आणि सूक्ष्म अन्नद्रव्ये मिळवून देण्यासाठी मायकोरायझा ठरणार फायदेशीर!",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/soybean-price-touches-7250-per-quintal-at-phulsavangi-sub-market-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/mycorrhiza-benefits-phosphorus-micronutrient-availability-rat16",
     "isNew": true
   },
   {
-    "id": "news-67c097964a",
+    "id": "news-c5f8bc6ebf",
     "category": "news",
-    "title": "Hingoli Farmers : हिंगोलीच्या बळीराजाला दिलासा? ३३२.३९ कोटींच्या मदत निधीची प्रतीक्षा!",
+    "title": "Adachiwadi Village Success Story: दुष्काळाशी दोन हात करणारी आडाचीवाडी",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/hingoli-district-expects-33239-crore-relief-fund-for-affected-farmers-aak11",
+    "link": "https://agrowon.esakal.com/yashogatha/adachiwadi-village-first-samruddha-panchayat-raj-abhiyan-abhi47",
     "isNew": true
   },
   {
-    "id": "news-5ee9a2cfa0",
+    "id": "news-6aac72edaf",
     "category": "news",
-    "title": "Alibaug Oceanarium: अलिबागमध्ये सागरी मत्स्यालय, ६० टक्के काम पूर्णत्वास; मार्च २०२७ पर्यंत सेवेत",
+    "title": "Jalyukt Shivar Scheme: पाणी साठले, पण दुष्काळ हटला का?",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/alibaug-oceanarium-project-60-percent-complete-opening-planned-march-2027",
+    "link": "https://agrowon.esakal.com/sampadkiya/jalyukt-shivar-scheme-sustainable-water-impact-abhi47",
     "isNew": true
   },
   {
-    "id": "news-111374dd78",
+    "id": "news-16b1dc188e",
     "category": "news",
-    "title": "Agrowon Podcast: तूरीचा दर टिकून, हरभरा बाजारात चढ-उतार, टोमॅटो बाजारात मंदी, कोथिंबीर आवकेत चढ-उतार तर डाळिंब दरात चढ-उतार",
+    "title": "Examination System: परीक्षा सरकारची",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/market-intelligence/maharashtra-tur-gram-tomato-coriander-pomegranate-market-rates-abhi47",
+    "link": "https://agrowon.esakal.com/sampadkiya/exam-government-responsibility-student-future-abhi47",
+    "isNew": true
+  },
+  {
+    "id": "news-b71effe921",
+    "category": "news",
+    "title": "Cotton Import: सरकार कापूस आयातीला किती मुदतवाढ देईल ?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/cotton-import-extension-impact-on-india-cotton-prices",
     "isNew": true
   },
   {
@@ -45,7 +149,7 @@
     "title": "Tur,Chana Rate: तूरीचा दर टिकून, हरभरा बाजारात चढ-उतार, टोमॅटो बाजारात मंदी, कोथिंबीर आवकेत चढ-उतार, डाळिंब दरात चढ-उतार",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/tur-chana-tomato-coriander-pomegranate-market-rates",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-23518afd02",
@@ -53,7 +157,7 @@
     "title": "October Rain: विदर्भासह मध्य महाराष्ट्रात काही ठिकाणी पावसाला पोषक हवामान",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/arnab-cyclone-maharashtra-three-day-rain-forecast-2",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-71ddce26ee",
@@ -61,7 +165,7 @@
     "title": "Turmeric Care in Drought: दुष्काळी वातावरणाचा हळदीला फटका, उत्पादन वाचवण्यासाठी काय करावे?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/turmeric-crop-care-drought-yield-protection",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-9adc7fd9ed",
@@ -85,14 +189,6 @@
     "title": "Arnab Cyclone: राज्यातील काही भागात तीन दिवस पावसाला पोषक वातावरण",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/arnab-cyclone-maharashtra-three-day-rain-forecast",
-    "isNew": false
-  },
-  {
-    "id": "news-0f5aa47c5b",
-    "category": "news",
-    "title": "Tur Care in Drought: दुष्काळात तुरीला कोणत्या फवारण्या कराव्या?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/tur-care-drought-pigeon-pea-crop-spray-management",
     "isNew": false
   }
 ]
