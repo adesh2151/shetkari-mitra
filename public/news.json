@@ -4,7 +4,7 @@
     "category": "gr",
     "title": "बियाणे उत्पादक",
     "source": "कृषी विभाग, महाराष्ट्र",
-    "isNew": true,
+    "isNew": false,
     "link": "https://krishi.maharashtra.gov.in:443/Site/Upload/Pdf/MahaParwana_Firms_Data_Seed_7_QC.pdf?MenuID=1036"
   },
   {
@@ -12,7 +12,7 @@
     "category": "gr",
     "title": "मे २०१४ पासून खतांचे कमाल विक्री किंमत",
     "source": "कृषी विभाग, महाराष्ट्र",
-    "isNew": true,
+    "isNew": false,
     "link": "https://krishi.maharashtra.gov.in:443/Site/Common/ViewGr.aspx?Doctype=e762e1c7-c389-4033-bab7-26c2566704d5?MenuID=1043"
   },
   {
@@ -20,7 +20,7 @@
     "category": "gr",
     "title": "द्रव्याधारित अनुदान",
     "source": "कृषी विभाग, महाराष्ट्र",
-    "isNew": true,
+    "isNew": false,
     "link": "https://krishi.maharashtra.gov.in:443/Site/Common/ViewGr.aspx?Doctype=aebc71f7-5f5f-4bb5-a149-9bc2fac19d1a?MenuID=1044"
   },
   {
@@ -28,7 +28,7 @@
     "category": "gr",
     "title": "खतांचे परवाने",
     "source": "कृषी विभाग, महाराष्ट्र",
-    "isNew": true,
+    "isNew": false,
     "link": "https://krishi.maharashtra.gov.in:443/Site/Upload/Pdf/Fertilizers_Approved_license_list.xlsx?MenuID=1045"
   },
   {
@@ -36,7 +36,7 @@
     "category": "gr",
     "title": "कीटकनाशकांचा वापर",
     "source": "कृषी विभाग, महाराष्ट्र",
-    "isNew": true,
+    "isNew": false,
     "link": "https://krishi.maharashtra.gov.in:443/Site/Common/ViewGr.aspx?Doctype=b37a31ad-ba3e-48a2-b2cd-ea017a658a78?MenuID=1051"
   },
   {
@@ -44,7 +44,7 @@
     "category": "gr",
     "title": "पीकपेरणी अहवाल",
     "source": "कृषी विभाग, महाराष्ट्र",
-    "isNew": true,
+    "isNew": false,
     "link": "https://krishi.maharashtra.gov.in:443/Site/Common/ViewGr.aspx?Doctype=e8bdd10e-d33d-4ea0-865f-140a5284a2bc?MenuID=2906"
   },
   {
@@ -52,7 +52,7 @@
     "category": "gr",
     "title": "पीकांची आकडेवारी (क्षेत्र, उत्पादन, उत्पादकता)",
     "source": "कृषी विभाग, महाराष्ट्र",
-    "isNew": true,
+    "isNew": false,
     "link": "https://krishi.maharashtra.gov.in/"
   },
   {
@@ -60,7 +60,7 @@
     "category": "gr",
     "title": "प्रधानमंत्री पिक विमा योजना",
     "source": "कृषी विभाग, महाराष्ट्र",
-    "isNew": true,
+    "isNew": false,
     "link": "https://krishi.maharashtra.gov.in:443/Site/Common/ViewGr.aspx?Doctype=ed5a4ceb-ad07-4189-b236-f9d191d5752d?MenuID=2918"
   },
   {
@@ -68,7 +68,7 @@
     "category": "gr",
     "title": "गोपीनाथ मुंडे शे.अ. विमा योजना",
     "source": "कृषी विभाग, महाराष्ट्र",
-    "isNew": true,
+    "isNew": false,
     "link": "https://krishi.maharashtra.gov.in:443/Site/Common/ViewGr.aspx?Doctype=e2e11ed5-3d93-4e5b-9560-0124f4324636?MenuID=2912"
   },
   {
@@ -76,7 +76,7 @@
     "category": "gr",
     "title": "शेतकरी कॉर्नर (कट्टा)",
     "source": "कृषी विभाग, महाराष्ट्र",
-    "isNew": true,
+    "isNew": false,
     "link": "https://krishi.maharashtra.gov.in/"
   },
   {
@@ -84,7 +84,7 @@
     "category": "gr",
     "title": "शेतकरी मासिक",
     "source": "कृषी विभाग, महाराष्ट्र",
-    "isNew": true,
+    "isNew": false,
     "link": "https://krishi.maharashtra.gov.in:443/Site/Common/ViewGr.aspx?Doctype=1c340af5-c4d2-4915-bf1b-870a749d98b5?MenuID=1089"
   },
   {
@@ -92,47 +92,71 @@
     "category": "gr",
     "title": "महिला शेतकरी प्रमाणपत्र पोर्टल",
     "source": "कृषी विभाग, महाराष्ट्र",
-    "isNew": true,
+    "isNew": false,
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-5834a6da3c",
+    "id": "news-ef6b3a4266",
     "category": "news",
-    "title": "PM Kisan 24th Instalment: दिवाळीपूर्वी शेतकऱ्यांच्या खात्यात २ हजार रुपये जमा, पीएम किसानचा २४ वा हप्ता वितरित",
+    "title": "Financial Assistance for Farmers: शेतकरी, शेतमजुरांना स्वतंत्र आर्थिक साह्य द्या; खासदार भगरे यांची मुख्यमंत्री फडणवीस यांच्याकडे मागणी",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/pm-kisan-yojana-24th-instalment-released-934-crore-farmers-ddb79",
+    "link": "https://agrowon.esakal.com/agro-special/separate-financial-aid-farmers-farm-labourers-bhaskar-bhagare-rat16",
     "isNew": true
   },
   {
-    "id": "news-31a9bba894",
+    "id": "news-bb44350b77",
     "category": "news",
-    "title": "Benefits of Mycorrhiza Fungi: पिकांना स्फुरद आणि सूक्ष्म अन्नद्रव्ये मिळवून देण्यासाठी मायकोरायझा ठरणार फायदेशीर!",
+    "title": "Climate Change Impact: स्ट्रॉबेरी उत्पादक शेतकऱ्यांसमोर नवे संकट! हवामान बदलामुळे पिकावर परिणाम होण्याची शक्यता",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/mycorrhiza-benefits-phosphorus-micronutrient-availability-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/climate-change-impact-on-strawberry-crop-rat16",
     "isNew": true
   },
   {
-    "id": "news-c5f8bc6ebf",
+    "id": "news-86dc0395dc",
     "category": "news",
-    "title": "Adachiwadi Village Success Story: दुष्काळाशी दोन हात करणारी आडाचीवाडी",
+    "title": "Pandharpur Sugarcane Price Protest: पंढरपूरमध्ये ऊस दरवाढीसाठी शेतकरी संघटना आक्रमक, दोन कारखान्यांचे गाळप बंद",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/yashogatha/adachiwadi-village-first-samruddha-panchayat-raj-abhiyan-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/pandharpur-sugarcane-price-protest-sugar-factories-ddb79",
     "isNew": true
   },
   {
-    "id": "news-6aac72edaf",
+    "id": "news-179bd62ba2",
     "category": "news",
-    "title": "Jalyukt Shivar Scheme: पाणी साठले, पण दुष्काळ हटला का?",
+    "title": "Nagpur Graduates Constituency Result: भाजपच्या बालेकिल्ल्यात काँग्रेसचा विजय; निकालाने राजकीय समीकरणे बदलली",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/sampadkiya/jalyukt-shivar-scheme-sustainable-water-impact-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/congress-victory-in-bjp-stronghold-election-result-rat16",
     "isNew": true
   },
   {
-    "id": "news-16b1dc188e",
+    "id": "news-900b97b8c2",
     "category": "news",
-    "title": "Examination System: परीक्षा सरकारची",
+    "title": "Samruddhi Mahamarg Protest: समृद्धी महामार्ग रोखण्याचा प्रयत्न, पोलिस- आंदोलकांमध्ये झटापट, शेतकऱ्यांना हेक्टरी एक लाखाच्या मदतीची मागणी",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/sampadkiya/exam-government-responsibility-student-future-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/samruddhi-mahamarg-protest-farmers-compensation-ddb79",
+    "isNew": true
+  },
+  {
+    "id": "news-74b7b17653",
+    "category": "news",
+    "title": "Soybean, Maize Rate: सोयाबीन दर टिकून, मका बाजारात तेजी, आल्याच्या आवकेत चढ-उतार, शेपू बाजारात तेजी, लिंबू बाजारात चढ-उतार",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/soybean-maize-ginger-shepu-lemon-market-rates",
+    "isNew": true
+  },
+  {
+    "id": "news-e1380a13ab",
+    "category": "news",
+    "title": "Rain Update : राज्यात ९ जिल्ह्यांत पावसाचा इशारा",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/maharashtra-rain-update-9-districts-weather-alert",
+    "isNew": true
+  },
+  {
+    "id": "news-69c5b1dfa2",
+    "category": "news",
+    "title": "Banana in Drought: दुष्काळात कांदेबाग केळीची लागवड करताना कोणत्या गोष्टी तपासाव्या?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/kande-baug-banana-planting-drought-precautions",
     "isNew": true
   },
   {
@@ -141,7 +165,7 @@
     "title": "Cotton Import: सरकार कापूस आयातीला किती मुदतवाढ देईल ?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/cotton-import-extension-impact-on-india-cotton-prices",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-5baa341d52",
@@ -165,30 +189,6 @@
     "title": "Turmeric Care in Drought: दुष्काळी वातावरणाचा हळदीला फटका, उत्पादन वाचवण्यासाठी काय करावे?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/turmeric-crop-care-drought-yield-protection",
-    "isNew": false
-  },
-  {
-    "id": "news-9adc7fd9ed",
-    "category": "news",
-    "title": "Farmer Relief :राज्यातील कोणकोणते शेतकरी मदतीसाठी पात्र ठरणार ?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/maharashtra-farmer-relief-eligibility-criteria",
-    "isNew": false
-  },
-  {
-    "id": "news-2bdc9d4ecd",
-    "category": "news",
-    "title": "Soybean Urad Rate: सोयाबीन दर टिकून, उडदाचे दर स्थिर, मेथीच्या दरात बदल, गवारीच्या दरात चढ-उतार तर मोसंबीच्या दरात घसरण",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/soybean-urad-methi-gawar-mosambi-market-rates",
-    "isNew": false
-  },
-  {
-    "id": "news-4bebd68775",
-    "category": "news",
-    "title": "Arnab Cyclone: राज्यातील काही भागात तीन दिवस पावसाला पोषक वातावरण",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/arnab-cyclone-maharashtra-three-day-rain-forecast",
     "isNew": false
   }
 ]
