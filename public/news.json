@@ -96,43 +96,67 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-0f0c05ca25",
+    "id": "news-f982b212e9",
     "category": "news",
-    "title": "Cotton Import: कापसातील तेजीला लगाम बसणार; शुल्कमुक्त कापूस आयातीला डिसेंबरपर्यंत मुदतवाढ",
+    "title": "Agrowon Podcast: हरभरा दरात बदल, गहू दरात चढ-उतार, कांदा दरात टिकून, कोथिंबीर आवकेत चढ-उतार तर पेरू दरात चढ-उतार",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/india-extends-duty-free-cotton-imports-till-december-end",
+    "link": "https://agrowon.esakal.com/market-intelligence/maharashtra-market-rates-chana-wheat-onion-coriander-guava-abhi47",
     "isNew": true
   },
   {
-    "id": "news-486e593d9d",
+    "id": "news-135717586f",
     "category": "news",
-    "title": "Maharashtra Political: महायुती, आघाड्यांची गाजराची पुंगी",
+    "title": "Sangli Drought: उपलब्ध पाणी नियोजनात पशुधनाच्या पाण्याचा विसर",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/sampadkiya/mahayuti-maha-vikas-aghadi-alliance-politics-balasaheb-patil-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/water-planning-covers-farming-people-ignores-livestock-needs",
     "isNew": true
   },
   {
-    "id": "news-3e1b619ef5",
+    "id": "news-5002055172",
     "category": "news",
-    "title": "Farmer ID Issues: त्रांगडे ‘फार्मर आयडी’चे",
+    "title": "E-Pik Pahani Problem: पीक पेरा नोंदीअभावी अनेक जण केळी पीकविमा योजनेपासून दूर",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/sampadkiya/farmer-id-registration-problems-maharashtra-farmers-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/e-crop-survey-issues-banana-farmers-away-crop-insurance",
     "isNew": true
   },
   {
-    "id": "news-bffca7f7ac",
+    "id": "news-cc5ff5ca5e",
     "category": "news",
-    "title": "Water Crisis: नीरा नदीकाठच्या गावांवर जलसंकट; इंदापूर, माळशिरसमधील बंधारे कोरडे",
+    "title": "Rain Update: राज्यातील काही भागात पावसाचा अंदाज",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/nira-river-water-scarcity-indapur-malshiras-dry-barrages-abhi47",
+    "link": "https://agrowon.esakal.com/weather-news/maharashtra-weather-rain-forecast-vidarbha-thunderstorm-alert-abhi47",
     "isNew": true
   },
   {
-    "id": "news-bb1f6dbade",
+    "id": "news-ffdc514700",
     "category": "news",
-    "title": "Rabi Jowar Cultivation: रब्बी पेरण्यांबाबत अनिश्चितता; ज्वारी बियाण्याच्या मिनीकिटचे वाटप होणार",
+    "title": "Khandesh Rivers: नद्यांचा प्रवाह बंद; गिरणा, अनेर कोरड्या",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/low-water-sorghum-cultivation-seed-minikits-rabi-season-abhi",
+    "link": "https://agrowon.esakal.com/agro-special/rivers-run-dry-jalgaon-water-scarcity-concerns-grow",
+    "isNew": true
+  },
+  {
+    "id": "news-57c3c65743",
+    "category": "news",
+    "title": "Chana, Wheat Rate: हरभरा दरात बदल, गहू दरात चढ-उतार, कांदा दरात टिकून, कोथिंबीर आवकेत चढ-उतार, पेरू दरात चढ-उतार",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/chana-wheat-onion-coriander-guava-market-rates",
+    "isNew": true
+  },
+  {
+    "id": "news-e29ddaef80",
+    "category": "news",
+    "title": "Rain Update : राज्यातील काही भागात पावसाचा अंदाज",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/vidarbha-rain-update-district-wise-weather-alert",
+    "isNew": true
+  },
+  {
+    "id": "news-5a71cf4ee0",
+    "category": "news",
+    "title": "Cotton Residue Management: कपाशीची पऱ्हाटी जाळू नका, श्रेडरने जमिनीचे आरोग्य टिकवण्यासाठी होईल मदत",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/cotton-residue-management-stalk-shredder-soil-health",
     "isNew": true
   },
   {
@@ -141,7 +165,7 @@
     "title": "Soybean Market : उद्योगांनी ऑक्टोबर महिन्यातच सोयापेंड आयातीची मागणी का केली ?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/gm-soymeal-imports-why-is-the-poultry-industry-demanding-them",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-74b7b17653",
@@ -165,30 +189,6 @@
     "title": "Banana in Drought: दुष्काळात कांदेबाग केळीची लागवड करताना कोणत्या गोष्टी तपासाव्या?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/kande-baug-banana-planting-drought-precautions",
-    "isNew": false
-  },
-  {
-    "id": "news-b71effe921",
-    "category": "news",
-    "title": "Cotton Import: सरकार कापूस आयातीला किती मुदतवाढ देईल ?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/cotton-import-extension-impact-on-india-cotton-prices",
-    "isNew": false
-  },
-  {
-    "id": "news-5baa341d52",
-    "category": "news",
-    "title": "Tur,Chana Rate: तूरीचा दर टिकून, हरभरा बाजारात चढ-उतार, टोमॅटो बाजारात मंदी, कोथिंबीर आवकेत चढ-उतार, डाळिंब दरात चढ-उतार",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/tur-chana-tomato-coriander-pomegranate-market-rates",
-    "isNew": false
-  },
-  {
-    "id": "news-23518afd02",
-    "category": "news",
-    "title": "October Rain: विदर्भासह मध्य महाराष्ट्रात काही ठिकाणी पावसाला पोषक हवामान",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/arnab-cyclone-maharashtra-three-day-rain-forecast-2",
     "isNew": false
   }
 ]
