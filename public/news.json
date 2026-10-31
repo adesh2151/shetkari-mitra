@@ -96,43 +96,51 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-ef6b3a4266",
+    "id": "news-0f0c05ca25",
     "category": "news",
-    "title": "Financial Assistance for Farmers: शेतकरी, शेतमजुरांना स्वतंत्र आर्थिक साह्य द्या; खासदार भगरे यांची मुख्यमंत्री फडणवीस यांच्याकडे मागणी",
+    "title": "Cotton Import: कापसातील तेजीला लगाम बसणार; शुल्कमुक्त कापूस आयातीला डिसेंबरपर्यंत मुदतवाढ",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/separate-financial-aid-farmers-farm-labourers-bhaskar-bhagare-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/india-extends-duty-free-cotton-imports-till-december-end",
     "isNew": true
   },
   {
-    "id": "news-bb44350b77",
+    "id": "news-486e593d9d",
     "category": "news",
-    "title": "Climate Change Impact: स्ट्रॉबेरी उत्पादक शेतकऱ्यांसमोर नवे संकट! हवामान बदलामुळे पिकावर परिणाम होण्याची शक्यता",
+    "title": "Maharashtra Political: महायुती, आघाड्यांची गाजराची पुंगी",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/climate-change-impact-on-strawberry-crop-rat16",
+    "link": "https://agrowon.esakal.com/sampadkiya/mahayuti-maha-vikas-aghadi-alliance-politics-balasaheb-patil-abhi47",
     "isNew": true
   },
   {
-    "id": "news-86dc0395dc",
+    "id": "news-3e1b619ef5",
     "category": "news",
-    "title": "Pandharpur Sugarcane Price Protest: पंढरपूरमध्ये ऊस दरवाढीसाठी शेतकरी संघटना आक्रमक, दोन कारखान्यांचे गाळप बंद",
+    "title": "Farmer ID Issues: त्रांगडे ‘फार्मर आयडी’चे",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/pandharpur-sugarcane-price-protest-sugar-factories-ddb79",
+    "link": "https://agrowon.esakal.com/sampadkiya/farmer-id-registration-problems-maharashtra-farmers-abhi47",
     "isNew": true
   },
   {
-    "id": "news-179bd62ba2",
+    "id": "news-bffca7f7ac",
     "category": "news",
-    "title": "Nagpur Graduates Constituency Result: भाजपच्या बालेकिल्ल्यात काँग्रेसचा विजय; निकालाने राजकीय समीकरणे बदलली",
+    "title": "Water Crisis: नीरा नदीकाठच्या गावांवर जलसंकट; इंदापूर, माळशिरसमधील बंधारे कोरडे",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/congress-victory-in-bjp-stronghold-election-result-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/nira-river-water-scarcity-indapur-malshiras-dry-barrages-abhi47",
     "isNew": true
   },
   {
-    "id": "news-900b97b8c2",
+    "id": "news-bb1f6dbade",
     "category": "news",
-    "title": "Samruddhi Mahamarg Protest: समृद्धी महामार्ग रोखण्याचा प्रयत्न, पोलिस- आंदोलकांमध्ये झटापट, शेतकऱ्यांना हेक्टरी एक लाखाच्या मदतीची मागणी",
+    "title": "Rabi Jowar Cultivation: रब्बी पेरण्यांबाबत अनिश्चितता; ज्वारी बियाण्याच्या मिनीकिटचे वाटप होणार",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/samruddhi-mahamarg-protest-farmers-compensation-ddb79",
+    "link": "https://agrowon.esakal.com/agro-special/low-water-sorghum-cultivation-seed-minikits-rabi-season-abhi",
+    "isNew": true
+  },
+  {
+    "id": "news-0a5df07657",
+    "category": "news",
+    "title": "Soybean Market : उद्योगांनी ऑक्टोबर महिन्यातच सोयापेंड आयातीची मागणी का केली ?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/gm-soymeal-imports-why-is-the-poultry-industry-demanding-them",
     "isNew": true
   },
   {
@@ -141,7 +149,7 @@
     "title": "Soybean, Maize Rate: सोयाबीन दर टिकून, मका बाजारात तेजी, आल्याच्या आवकेत चढ-उतार, शेपू बाजारात तेजी, लिंबू बाजारात चढ-उतार",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/soybean-maize-ginger-shepu-lemon-market-rates",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-e1380a13ab",
@@ -149,7 +157,7 @@
     "title": "Rain Update : राज्यात ९ जिल्ह्यांत पावसाचा इशारा",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/maharashtra-rain-update-9-districts-weather-alert",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-69c5b1dfa2",
@@ -157,7 +165,7 @@
     "title": "Banana in Drought: दुष्काळात कांदेबाग केळीची लागवड करताना कोणत्या गोष्टी तपासाव्या?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/kande-baug-banana-planting-drought-precautions",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-b71effe921",
@@ -181,14 +189,6 @@
     "title": "October Rain: विदर्भासह मध्य महाराष्ट्रात काही ठिकाणी पावसाला पोषक हवामान",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/arnab-cyclone-maharashtra-three-day-rain-forecast-2",
-    "isNew": false
-  },
-  {
-    "id": "news-71ddce26ee",
-    "category": "news",
-    "title": "Turmeric Care in Drought: दुष्काळी वातावरणाचा हळदीला फटका, उत्पादन वाचवण्यासाठी काय करावे?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/turmeric-crop-care-drought-yield-protection",
     "isNew": false
   }
 ]
