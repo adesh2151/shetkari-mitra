@@ -96,43 +96,59 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-28892ecba8",
+    "id": "news-f53607b996",
     "category": "news",
-    "title": "Maharashtra Drought: ...तर यंदा दुष्काळाचा सामना करावा लागला नसता : नितीन गडकरी",
+    "title": "Ujani Floating Solar Project: उजनी जलाशयावर केवळ नऊ टक्के क्षेत्रावरच ‘फ्लोटिंग सोलार’ प्रकल्प; जिल्हाधिकारी एस. कार्तिकेयन यांचे स्पष्टीकरण",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/nitin-gadkari-maharashtra-drought-water-conservation-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/ujani-reservoir-floating-solar-project-only-9-percent-area-rat16",
     "isNew": true
   },
   {
-    "id": "news-fbbd77f9b2",
+    "id": "news-2125f5030e",
     "category": "news",
-    "title": "Post Harvest Technology: शेतीमाल प्रक्रिया, मूल्यवर्धनासाठी ‘आंतरराष्ट्रीय केंद्र’ उभारणार : पणनमंत्री जयकुमार रावल",
+    "title": "Wild Boar Attack: शेतशिवारात रानडुकरांचा हैदोस; कपाशी पिकाचे नुकसान",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/international-centre-nipht-post-harvest-processing-agricultural-value-addition-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/wild-boar-menace-destroys-cotton-crops-farmers-loss-rat16",
     "isNew": true
   },
   {
-    "id": "news-0ddc75a09b",
+    "id": "news-d859ca1942",
     "category": "news",
-    "title": "Safflower Production: साताऱ्यातील अशोक लाड करडई उत्पादनात राज्यात प्रथम",
+    "title": "Drought Management: बांधबंदिस्ती, जलसंधारण, पीक नियोजनानेच दुष्काळावर मात शक्य; पोपटराव पवार",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/satara-farmer-ashok-lad-first-safflower-production-44-20-quintals-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/popatrao-pawar-drought-management-water-conservation-solapur-rat16",
     "isNew": true
   },
   {
-    "id": "news-b958dc31d8",
+    "id": "news-2a325b580d",
     "category": "news",
-    "title": "Fodder Shortage: राज्यात चारा टंचाई टाळण्यासाठी परराज्यांत चारा पाठविण्यावर निर्बंध",
+    "title": "Ahilyanagar District Bank Election: अहिल्यानगरला जिल्हा बॅंकेच्या दहा जागांसाठी उद्या मतदान; एकूण सत्तावीस उमेदवार; मंगळवारी मतमोजणी",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/maharashtra-fodder-restrictions-drought-action-plan-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/ahilyanagar-district-bank-election-voting-27-candidates-rat16",
     "isNew": true
   },
   {
-    "id": "news-aa7d0a484f",
+    "id": "news-cd91e32258",
     "category": "news",
-    "title": "Farmers Protest: उजनी प्रकल्पांविरोधात शेतकऱ्यांचा ‘रास्ता रोको’",
+    "title": "Maize Trading: चांदूरबाजारमध्ये मक्याची उलाढाल वाढली",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/ujani-dam-projects-farmers-protest-road-blockade-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/chandur-bazar-maize-market-trading-increases-rat16",
+    "isNew": true
+  },
+  {
+    "id": "news-c3507f2023",
+    "category": "news",
+    "title": "Soybean Rate: ३० लाख टन जीएम सोयापेंड आयातीची मागणी; सोयाबीन विक्रीची घाई करू नका?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/soybean-rate-30-lakh-tonnes-gm-soymeal-import-demand",
+    "isNew": true
+  },
+  {
+    "id": "news-292f83702c",
+    "category": "news",
+    "title": "Monsoon Rainfall: पावसाची १० ते १५% तूटही ठरली शेतकऱ्यांसाठी घातक!",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/monsoon-rainfall-deficit-10-15-percent-impact-farmers",
     "isNew": true
   },
   {
@@ -141,7 +157,7 @@
     "title": "Livestock Pregnancy in Drought: दुष्काळात जनावरांच्या प्रजनन सुरळीत होण्यासाठी उपाययोजना काय?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/livestock-pregnancy-reproduction-management-drought",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-059fafe16a",
@@ -149,7 +165,7 @@
     "title": "Cotton Import: उद्योगांना स्वस्त कापसासाठी शुल्कमुक्त आयातीला मुदतवाढ",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/cotton-import-duty-free-extension-textile-industry",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-57c3c65743",
@@ -173,22 +189,6 @@
     "title": "Cotton Residue Management: कपाशीची पऱ्हाटी जाळू नका, श्रेडरने जमिनीचे आरोग्य टिकवण्यासाठी होईल मदत",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/cotton-residue-management-stalk-shredder-soil-health",
-    "isNew": false
-  },
-  {
-    "id": "news-0a5df07657",
-    "category": "news",
-    "title": "Soybean Market : उद्योगांनी ऑक्टोबर महिन्यातच सोयापेंड आयातीची मागणी का केली ?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/gm-soymeal-imports-why-is-the-poultry-industry-demanding-them",
-    "isNew": false
-  },
-  {
-    "id": "news-74b7b17653",
-    "category": "news",
-    "title": "Soybean, Maize Rate: सोयाबीन दर टिकून, मका बाजारात तेजी, आल्याच्या आवकेत चढ-उतार, शेपू बाजारात तेजी, लिंबू बाजारात चढ-उतार",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/soybean-maize-ginger-shepu-lemon-market-rates",
     "isNew": false
   }
 ]
