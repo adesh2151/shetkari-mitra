@@ -96,43 +96,59 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-f982b212e9",
+    "id": "news-28892ecba8",
     "category": "news",
-    "title": "Agrowon Podcast: हरभरा दरात बदल, गहू दरात चढ-उतार, कांदा दरात टिकून, कोथिंबीर आवकेत चढ-उतार तर पेरू दरात चढ-उतार",
+    "title": "Maharashtra Drought: ...तर यंदा दुष्काळाचा सामना करावा लागला नसता : नितीन गडकरी",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/market-intelligence/maharashtra-market-rates-chana-wheat-onion-coriander-guava-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/nitin-gadkari-maharashtra-drought-water-conservation-abhi47",
     "isNew": true
   },
   {
-    "id": "news-135717586f",
+    "id": "news-fbbd77f9b2",
     "category": "news",
-    "title": "Sangli Drought: उपलब्ध पाणी नियोजनात पशुधनाच्या पाण्याचा विसर",
+    "title": "Post Harvest Technology: शेतीमाल प्रक्रिया, मूल्यवर्धनासाठी ‘आंतरराष्ट्रीय केंद्र’ उभारणार : पणनमंत्री जयकुमार रावल",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/water-planning-covers-farming-people-ignores-livestock-needs",
+    "link": "https://agrowon.esakal.com/agro-special/international-centre-nipht-post-harvest-processing-agricultural-value-addition-abhi47",
     "isNew": true
   },
   {
-    "id": "news-5002055172",
+    "id": "news-0ddc75a09b",
     "category": "news",
-    "title": "E-Pik Pahani Problem: पीक पेरा नोंदीअभावी अनेक जण केळी पीकविमा योजनेपासून दूर",
+    "title": "Safflower Production: साताऱ्यातील अशोक लाड करडई उत्पादनात राज्यात प्रथम",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/e-crop-survey-issues-banana-farmers-away-crop-insurance",
+    "link": "https://agrowon.esakal.com/agro-special/satara-farmer-ashok-lad-first-safflower-production-44-20-quintals-abhi47",
     "isNew": true
   },
   {
-    "id": "news-cc5ff5ca5e",
+    "id": "news-b958dc31d8",
     "category": "news",
-    "title": "Rain Update: राज्यातील काही भागात पावसाचा अंदाज",
+    "title": "Fodder Shortage: राज्यात चारा टंचाई टाळण्यासाठी परराज्यांत चारा पाठविण्यावर निर्बंध",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/weather-news/maharashtra-weather-rain-forecast-vidarbha-thunderstorm-alert-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/maharashtra-fodder-restrictions-drought-action-plan-abhi47",
     "isNew": true
   },
   {
-    "id": "news-ffdc514700",
+    "id": "news-aa7d0a484f",
     "category": "news",
-    "title": "Khandesh Rivers: नद्यांचा प्रवाह बंद; गिरणा, अनेर कोरड्या",
+    "title": "Farmers Protest: उजनी प्रकल्पांविरोधात शेतकऱ्यांचा ‘रास्ता रोको’",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/rivers-run-dry-jalgaon-water-scarcity-concerns-grow",
+    "link": "https://agrowon.esakal.com/agro-special/ujani-dam-projects-farmers-protest-road-blockade-abhi47",
+    "isNew": true
+  },
+  {
+    "id": "news-f320bbe123",
+    "category": "news",
+    "title": "Livestock Pregnancy in Drought: दुष्काळात जनावरांच्या प्रजनन सुरळीत होण्यासाठी उपाययोजना काय?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/livestock-pregnancy-reproduction-management-drought",
+    "isNew": true
+  },
+  {
+    "id": "news-059fafe16a",
+    "category": "news",
+    "title": "Cotton Import: उद्योगांना स्वस्त कापसासाठी शुल्कमुक्त आयातीला मुदतवाढ",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/cotton-import-duty-free-extension-textile-industry",
     "isNew": true
   },
   {
@@ -141,7 +157,7 @@
     "title": "Chana, Wheat Rate: हरभरा दरात बदल, गहू दरात चढ-उतार, कांदा दरात टिकून, कोथिंबीर आवकेत चढ-उतार, पेरू दरात चढ-उतार",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/chana-wheat-onion-coriander-guava-market-rates",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-e29ddaef80",
@@ -149,7 +165,7 @@
     "title": "Rain Update : राज्यातील काही भागात पावसाचा अंदाज",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/vidarbha-rain-update-district-wise-weather-alert",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-5a71cf4ee0",
@@ -157,7 +173,7 @@
     "title": "Cotton Residue Management: कपाशीची पऱ्हाटी जाळू नका, श्रेडरने जमिनीचे आरोग्य टिकवण्यासाठी होईल मदत",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/cotton-residue-management-stalk-shredder-soil-health",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-0a5df07657",
@@ -173,22 +189,6 @@
     "title": "Soybean, Maize Rate: सोयाबीन दर टिकून, मका बाजारात तेजी, आल्याच्या आवकेत चढ-उतार, शेपू बाजारात तेजी, लिंबू बाजारात चढ-उतार",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/soybean-maize-ginger-shepu-lemon-market-rates",
-    "isNew": false
-  },
-  {
-    "id": "news-e1380a13ab",
-    "category": "news",
-    "title": "Rain Update : राज्यात ९ जिल्ह्यांत पावसाचा इशारा",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/maharashtra-rain-update-9-districts-weather-alert",
-    "isNew": false
-  },
-  {
-    "id": "news-69c5b1dfa2",
-    "category": "news",
-    "title": "Banana in Drought: दुष्काळात कांदेबाग केळीची लागवड करताना कोणत्या गोष्टी तपासाव्या?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/kande-baug-banana-planting-drought-precautions",
     "isNew": false
   }
 ]
