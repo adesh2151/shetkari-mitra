@@ -96,43 +96,75 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-1bda329de2",
+    "id": "news-cd72335bcf",
     "category": "news",
-    "title": "Pune Rain: पुणे जिल्ह्यात धुवांधार पाऊस, कोकणातही हजेरी, कापणी केलेल्या भात पिकाला फटका",
+    "title": "Maharashtra Drought Relief: शेतकऱ्यांच्या खात्यात ५ हजार जमा होण्यास सुरुवात, जयकुमार गोरेंची माहिती",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/weather-news/pune-rain-update-maharashtra-weather-konkan-paddy-crop-damage-ddb79",
+    "link": "https://agrowon.esakal.com/agro-special/maharashtra-drought-relief-5000-farmer-payment-starts-ddb79",
     "isNew": true
   },
   {
-    "id": "news-6ebaf39724",
+    "id": "news-7e9762ae7e",
     "category": "news",
-    "title": "Watermelon in Drought: यावर्षी टरबूज लागवड करताना कोणत्या गोष्टी लक्षात ठेवाव्या?",
+    "title": "Nagpur Agriculture : नागपुरात कृषी विभागाचा कारभार रामभरोसे; पदे रिक्त असल्याने योजनांच्या अंमलबजावणीला ब्रेक!",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/how-to-grow-watermelon-drought-efficient-water-management-ssp-25",
+    "link": "https://agrowon.esakal.com/agro-special/government-agriculture-department-recruitment-updates-in-nagpur-division-aak11",
     "isNew": true
   },
   {
-    "id": "news-5b79062d3b",
+    "id": "news-a10eb90db5",
     "category": "news",
-    "title": "Torrent Power Project: टोरंट प्रकल्पाला विरोध करणे कितपत योग्य?",
+    "title": "Karjmafi Glitches : शेतकऱ्यांची कोंडी: सरकारच्या तांत्रिक चक्रव्यूहात अखेरची कर्जमुक्ती योजना अडकली!",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/torrent-power-karjat-project-protest-clean-energy-environmental-impact-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/district-wise-pending-list-of-farmers-due-to-loan-waiver-portal-errors-aak11",
     "isNew": true
   },
   {
-    "id": "news-7054458cba",
+    "id": "news-f97631fcaf",
     "category": "news",
-    "title": "Seed Production: बीजोत्पादन कौशल्यातून उभारला दोन भावंडांचा संसार",
+    "title": "November Rain: नोव्हेंबरमध्ये एमजेओमुळे पावसाचे प्रमाण वाढणार आहे का ?",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/nanded-brothers-success-story-seed-production-farming-abhi47",
+    "link": "https://agrowon.esakal.com/video/november-rain-mjo-impact-rainfall-forecast",
     "isNew": true
   },
   {
-    "id": "news-44245fecf0",
+    "id": "news-7744a72196",
     "category": "news",
-    "title": "Cotton Import Policy: कापूस बाजाराची दोर शेतकऱ्यांच्या हाती",
+    "title": "Scheme Glitches : सातारा जिल्ह्यात शासकीय योजनांच्या त्रुटींचा जाच; लाभाऐवजी शेतकऱ्यांनाच सहन करावा लागतोय मनस्ताप!",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/market-intelligence/india-cotton-import-extension-december-farmers-crisis-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/technical-problems-faced-by-farmers-in-satara-government-portals-aak11",
+    "isNew": true
+  },
+  {
+    "id": "news-f3f3fd1f7f",
+    "category": "news",
+    "title": "Farmer Loan Waiver : कर्जमाफीचा लाभ आत्तापर्यंत किती पात्र शेतकऱ्यांना मिळाला?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/maharashtra-farmer-loan-waiver-beneficiaries-update",
+    "isNew": true
+  },
+  {
+    "id": "news-7f5e9136bd",
+    "category": "news",
+    "title": "Chana Maize Rate: हरभरा दर टिकून, मक्याच्या आवकेत बदल, वांग्याच्या दरात चढ-उतार, पालकाच्या दरात नरमाई तर सीताफळाच्या दरात घसरण",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/chana-maize-brinjal-spinach-custard-apple-market-rates",
+    "isNew": true
+  },
+  {
+    "id": "news-39448d85ab",
+    "category": "news",
+    "title": "Rain Update : मुरासू चक्रीवादळामुळे पावसाचा अंदाज; तीन दिवस कोणत्या भागात पाऊस पडणार?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/murasu-cyclone-maharashtra-rain-forecast-update",
+    "isNew": true
+  },
+  {
+    "id": "news-86a92053dd",
+    "category": "news",
+    "title": "Irrigation Restart Checkup: बंद सिंचनाचा संच पुन्हा सुरु करताना काय काळजी घ्यावी?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/irrigation-system-restart-checkup-maintenance-tips",
     "isNew": true
   },
   {
@@ -157,38 +189,6 @@
     "title": "Livestock Pregnancy in Drought: दुष्काळात जनावरांच्या प्रजनन सुरळीत होण्यासाठी उपाययोजना काय?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/livestock-pregnancy-reproduction-management-drought",
-    "isNew": false
-  },
-  {
-    "id": "news-059fafe16a",
-    "category": "news",
-    "title": "Cotton Import: उद्योगांना स्वस्त कापसासाठी शुल्कमुक्त आयातीला मुदतवाढ",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/cotton-import-duty-free-extension-textile-industry",
-    "isNew": false
-  },
-  {
-    "id": "news-57c3c65743",
-    "category": "news",
-    "title": "Chana, Wheat Rate: हरभरा दरात बदल, गहू दरात चढ-उतार, कांदा दरात टिकून, कोथिंबीर आवकेत चढ-उतार, पेरू दरात चढ-उतार",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/chana-wheat-onion-coriander-guava-market-rates",
-    "isNew": false
-  },
-  {
-    "id": "news-e29ddaef80",
-    "category": "news",
-    "title": "Rain Update : राज्यातील काही भागात पावसाचा अंदाज",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/vidarbha-rain-update-district-wise-weather-alert",
-    "isNew": false
-  },
-  {
-    "id": "news-5a71cf4ee0",
-    "category": "news",
-    "title": "Cotton Residue Management: कपाशीची पऱ्हाटी जाळू नका, श्रेडरने जमिनीचे आरोग्य टिकवण्यासाठी होईल मदत",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/cotton-residue-management-stalk-shredder-soil-health",
     "isNew": false
   }
 ]
