@@ -96,35 +96,75 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-65a5c56dd3",
+    "id": "news-0af022e20a",
     "category": "news",
-    "title": "Pulse Production: प्रगत तंत्रज्ञानातून वाढवा कडधान्य उत्पादकता",
+    "title": "Soybean Rate Update : सोयाबीन बाजारात मोठी उलथापालथ! आवक कमालीची मंदावली",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/advanced-technology-to-increase-pulse-productivity-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/soybean-market-crisis-market-arrivals-slow-down-drastically-in-maharashtra-aak11",
     "isNew": true
   },
   {
-    "id": "news-ffff2fc988",
+    "id": "news-dfe2fd3c54",
     "category": "news",
-    "title": "Poultry Shed Management: पोल्ट्री शेडमधील अमोनिया, आर्द्रता व्यवस्थापन",
+    "title": "Nashik Bird Symbol : नाशिकचे अधिकृत पक्षी मानचिन्ह कोणते? कावळा की गिधाड?",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/poultry-shed-ammonia-humidity-management-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/nashiks-environmental-identity-vote-online-to-choose-between-crow-and-vulture-as-city-emblem-aak11",
     "isNew": true
   },
   {
-    "id": "news-7a551e62f2",
+    "id": "news-fe848576d5",
     "category": "news",
-    "title": "Silage Making Machines: मुरघास निर्मिती ठरतोय उत्तम स्टार्टअप, मुरघास तयार करण्यासाठी कोणती यंत्रे आवश्यक",
+    "title": "Nashik Vegetable Cluster : नाशिकमध्ये कृषी क्रांती! १२४ कोटींच्या 'भाजीपाला क्लस्टर' प्रकल्पाची घोषणा; शेतकऱ्यांना होणार थेट फायदा",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/start-silage-production-business-essential-machines-ssp-25",
+    "link": "https://agrowon.esakal.com/agro-special/agricultural-revolution-in-nashik-124-crore-vegetable-cluster-project-announced-aak11",
     "isNew": true
   },
   {
-    "id": "news-d53a1ecb86",
+    "id": "news-be008d0224",
     "category": "news",
-    "title": "Orange Farming: जलसंधारणाचा ध्यास, फळबाग विकासाची आस; प्रभाकर मानकरांची प्रेरणादायी शेती",
+    "title": "DCCB Election : अहिल्यानगर जिल्हा बँकेसाठी दुपारी २ पर्यंत ८५.४४% मतदानाची नोंद",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/yashogatha/prabhakar-mankar-33-acre-orange-farming-success-story-akola-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/ahilyanagar-district-bank-election-sees-8544-polling-by-2-pm-aak11",
+    "isNew": true
+  },
+  {
+    "id": "news-6abf7d5c2d",
+    "category": "news",
+    "title": "Gokul Chairman Election: 'गोकुळ'मधील संख्याबळ फिरवण्याची चर्चा, मग निवडणुका घ्यायच्या कशाला? सतेज पाटील यांचा सवाल",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/agro-special/gokul-chairman-election-satej-patil-statement-kolhapur-politics-ddb79",
+    "isNew": true
+  },
+  {
+    "id": "news-1761a92cc7",
+    "category": "news",
+    "title": "Dushkal Madat: राज्यातील शेतकऱ्यांना किती हेक्टरसाठी मदत मिळणार ?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/maharashtra-farmers-relief-compensation-hectare-limit-rat16",
+    "isNew": true
+  },
+  {
+    "id": "news-7a54169694",
+    "category": "news",
+    "title": "Drought Madat : शेतकऱ्यांना दुष्काळाची मदत किती मिळणार?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/maharashtra-drought-relief-amount-farmers-update",
+    "isNew": true
+  },
+  {
+    "id": "news-3d9556ba48",
+    "category": "news",
+    "title": "Soybean Orange Rate: सोयाबीन दर तेजीत, बटाटा दरात स्थिरता, मेथीच्या आवकेत बदल तर गाजर आणि संत्री दरात चढ-उतार",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/soybean-orange-potato-carrot-methi-market-rates",
+    "isNew": true
+  },
+  {
+    "id": "news-93696f589c",
+    "category": "news",
+    "title": "Rain Update : राज्यात काही भागात पावसाचा अंदाज; तापमानात चढ-उतार",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/maharashtra-rain-update-konkan-central-maharashtra-marathwada",
     "isNew": true
   },
   {
@@ -133,7 +173,7 @@
     "title": "Onion Varieties: यंदा कांद्याच्या चांगल्या उत्पादनासाठी कोणते वाण वापरावे?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/best-onion-varieties-for-high-yield-cultivation",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-f97631fcaf",
@@ -149,46 +189,6 @@
     "title": "Farmer Loan Waiver : कर्जमाफीचा लाभ आत्तापर्यंत किती पात्र शेतकऱ्यांना मिळाला?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/maharashtra-farmer-loan-waiver-beneficiaries-update",
-    "isNew": false
-  },
-  {
-    "id": "news-7f5e9136bd",
-    "category": "news",
-    "title": "Chana Maize Rate: हरभरा दर टिकून, मक्याच्या आवकेत बदल, वांग्याच्या दरात चढ-उतार, पालकाच्या दरात नरमाई तर सीताफळाच्या दरात घसरण",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/chana-maize-brinjal-spinach-custard-apple-market-rates",
-    "isNew": false
-  },
-  {
-    "id": "news-39448d85ab",
-    "category": "news",
-    "title": "Rain Update : मुरासू चक्रीवादळामुळे पावसाचा अंदाज; तीन दिवस कोणत्या भागात पाऊस पडणार?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/murasu-cyclone-maharashtra-rain-forecast-update",
-    "isNew": false
-  },
-  {
-    "id": "news-86a92053dd",
-    "category": "news",
-    "title": "Irrigation Restart Checkup: बंद सिंचनाचा संच पुन्हा सुरु करताना काय काळजी घ्यावी?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/irrigation-system-restart-checkup-maintenance-tips",
-    "isNew": false
-  },
-  {
-    "id": "news-c3507f2023",
-    "category": "news",
-    "title": "Soybean Rate: ३० लाख टन जीएम सोयापेंड आयातीची मागणी; सोयाबीन विक्रीची घाई करू नका?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/soybean-rate-30-lakh-tonnes-gm-soymeal-import-demand",
-    "isNew": false
-  },
-  {
-    "id": "news-292f83702c",
-    "category": "news",
-    "title": "Monsoon Rainfall: पावसाची १० ते १५% तूटही ठरली शेतकऱ्यांसाठी घातक!",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/monsoon-rainfall-deficit-10-15-percent-impact-farmers",
     "isNew": false
   }
 ]
