@@ -96,27 +96,43 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-cd72335bcf",
+    "id": "news-65a5c56dd3",
     "category": "news",
-    "title": "Maharashtra Drought Relief: शेतकऱ्यांच्या खात्यात ५ हजार जमा होण्यास सुरुवात, जयकुमार गोरेंची माहिती",
+    "title": "Pulse Production: प्रगत तंत्रज्ञानातून वाढवा कडधान्य उत्पादकता",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/maharashtra-drought-relief-5000-farmer-payment-starts-ddb79",
+    "link": "https://agrowon.esakal.com/agro-special/advanced-technology-to-increase-pulse-productivity-abhi47",
     "isNew": true
   },
   {
-    "id": "news-7e9762ae7e",
+    "id": "news-ffff2fc988",
     "category": "news",
-    "title": "Nagpur Agriculture : नागपुरात कृषी विभागाचा कारभार रामभरोसे; पदे रिक्त असल्याने योजनांच्या अंमलबजावणीला ब्रेक!",
+    "title": "Poultry Shed Management: पोल्ट्री शेडमधील अमोनिया, आर्द्रता व्यवस्थापन",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/government-agriculture-department-recruitment-updates-in-nagpur-division-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/poultry-shed-ammonia-humidity-management-abhi47",
     "isNew": true
   },
   {
-    "id": "news-a10eb90db5",
+    "id": "news-7a551e62f2",
     "category": "news",
-    "title": "Karjmafi Glitches : शेतकऱ्यांची कोंडी: सरकारच्या तांत्रिक चक्रव्यूहात अखेरची कर्जमुक्ती योजना अडकली!",
+    "title": "Silage Making Machines: मुरघास निर्मिती ठरतोय उत्तम स्टार्टअप, मुरघास तयार करण्यासाठी कोणती यंत्रे आवश्यक",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/district-wise-pending-list-of-farmers-due-to-loan-waiver-portal-errors-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/start-silage-production-business-essential-machines-ssp-25",
+    "isNew": true
+  },
+  {
+    "id": "news-d53a1ecb86",
+    "category": "news",
+    "title": "Orange Farming: जलसंधारणाचा ध्यास, फळबाग विकासाची आस; प्रभाकर मानकरांची प्रेरणादायी शेती",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/yashogatha/prabhakar-mankar-33-acre-orange-farming-success-story-akola-rat16",
+    "isNew": true
+  },
+  {
+    "id": "news-ebb42c9c45",
+    "category": "news",
+    "title": "Onion Varieties: यंदा कांद्याच्या चांगल्या उत्पादनासाठी कोणते वाण वापरावे?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/best-onion-varieties-for-high-yield-cultivation",
     "isNew": true
   },
   {
@@ -125,15 +141,7 @@
     "title": "November Rain: नोव्हेंबरमध्ये एमजेओमुळे पावसाचे प्रमाण वाढणार आहे का ?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/november-rain-mjo-impact-rainfall-forecast",
-    "isNew": true
-  },
-  {
-    "id": "news-7744a72196",
-    "category": "news",
-    "title": "Scheme Glitches : सातारा जिल्ह्यात शासकीय योजनांच्या त्रुटींचा जाच; लाभाऐवजी शेतकऱ्यांनाच सहन करावा लागतोय मनस्ताप!",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/technical-problems-faced-by-farmers-in-satara-government-portals-aak11",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-f3f3fd1f7f",
@@ -141,7 +149,7 @@
     "title": "Farmer Loan Waiver : कर्जमाफीचा लाभ आत्तापर्यंत किती पात्र शेतकऱ्यांना मिळाला?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/maharashtra-farmer-loan-waiver-beneficiaries-update",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-7f5e9136bd",
@@ -149,7 +157,7 @@
     "title": "Chana Maize Rate: हरभरा दर टिकून, मक्याच्या आवकेत बदल, वांग्याच्या दरात चढ-उतार, पालकाच्या दरात नरमाई तर सीताफळाच्या दरात घसरण",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/chana-maize-brinjal-spinach-custard-apple-market-rates",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-39448d85ab",
@@ -157,7 +165,7 @@
     "title": "Rain Update : मुरासू चक्रीवादळामुळे पावसाचा अंदाज; तीन दिवस कोणत्या भागात पाऊस पडणार?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/murasu-cyclone-maharashtra-rain-forecast-update",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-86a92053dd",
@@ -165,7 +173,7 @@
     "title": "Irrigation Restart Checkup: बंद सिंचनाचा संच पुन्हा सुरु करताना काय काळजी घ्यावी?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/irrigation-system-restart-checkup-maintenance-tips",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-c3507f2023",
@@ -181,14 +189,6 @@
     "title": "Monsoon Rainfall: पावसाची १० ते १५% तूटही ठरली शेतकऱ्यांसाठी घातक!",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/monsoon-rainfall-deficit-10-15-percent-impact-farmers",
-    "isNew": false
-  },
-  {
-    "id": "news-f320bbe123",
-    "category": "news",
-    "title": "Livestock Pregnancy in Drought: दुष्काळात जनावरांच्या प्रजनन सुरळीत होण्यासाठी उपाययोजना काय?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/livestock-pregnancy-reproduction-management-drought",
     "isNew": false
   }
 ]
