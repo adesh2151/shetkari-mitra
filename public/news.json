@@ -96,43 +96,83 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-5e7b85dc2f",
+    "id": "news-a4ae75fdcf",
     "category": "news",
-    "title": "Sugarcane Trash Burning: उसाचे पाचट कचरा नाही, शेतातील सोनं! जाळल्याने जमिनीचे नुकसान कसे होते?",
+    "title": "Farmer Crisis : कष्टाच्या घामाची किंमत अवघी १० रुपये! गरिबांच्या संघर्षाची कहाणी",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/why-farmers-should-not-burn-sugarcane-trash-ssp-25",
+    "link": "https://agrowon.esakal.com/agro-special/a-farmers-sweat-worth-just-10-rupees-the-heartbreaking-reality-of-indian-agriculture-aak11",
     "isNew": true
   },
   {
-    "id": "news-579b4c02e5",
+    "id": "news-111fefa228",
     "category": "news",
-    "title": "Modern Sugarcane Harvesters: ऊस तोडणी यंत्राचा वापर",
+    "title": "Agrarian Crisis : ५७ बळींनंतरही प्रशासन ढिम्म; शेतकरी आत्महत्या रोखण्यात शासकीय यंत्रणा अपयशी?",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/techno-wan/sugarcane-mechanical-harvesting-benefits-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/57-farmer-suicides-reality-check-administrations-relief-measures-fail-to-save-lives-aak11",
     "isNew": true
   },
   {
-    "id": "news-eee8607848",
+    "id": "news-27b5881536",
     "category": "news",
-    "title": "Sugarcane Price Protest: ऊसदराचा तोडगा न निघाल्यास मुंबईचा भाजीपाला, दूध रोखणार; राजू शेट्टींचा कारखानदारांना इशारा",
+    "title": "Satara DCC Bank Election : सातारकरांचा कौल! जिल्हा बँकेत भाजपची मुसंडी; ९ जागांवर विजय!",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/sugarcane-price-protest-raju-shetty-kini-toll-plaza-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/satara-district-central-cooperative-bank-election-result-updates-2026-aak11",
     "isNew": true
   },
   {
-    "id": "news-aa0fb1d926",
+    "id": "news-d677e84001",
     "category": "news",
-    "title": "Interview with Dattatray Bharane: शक्य त्या सर्व योजनांद्वारे शेतकऱ्यांना करणार दुष्काळात मदत",
+    "title": "Agniveers: अग्निवीरांसाठी आनंदाची बातमी; कार्यकाळात २ वर्षांची वाढ, २५ टक्के उमेदवार बनणार नियमित सैनिक",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/maharashtra-drought-relief-plan-dattatray-bharane-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/agniveers-service-extension-2-years-agnipath-scheme-ddb79",
     "isNew": true
   },
   {
-    "id": "news-94d67c270e",
+    "id": "news-3abbc08398",
     "category": "news",
-    "title": "Kolhapur Gokul Politics: 'गोकुळ'वरील सत्तेसाठी सतेज पाटलांकडून भावनिकतेची ढाल; 'महायुती'चा टोला",
+    "title": "Ahilyanagar DCC Bank : अहिल्यानगर जिल्हा बँकेत 'थोरात-विखे' पॅनेलचा धमाका; १८ जागांवर दणदणीत विजय!",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/kolhapur-gokul-politics-satej-patil-mahayuti-emotional-appeal-ddb79",
+    "link": "https://agrowon.esakal.com/agro-special/impact-of-thorat-and-vikhe-patil-alliance-on-maharashtra-cooperative-politics-aak11",
+    "isNew": true
+  },
+  {
+    "id": "news-9df336bc2f",
+    "category": "news",
+    "title": "Dushkal Madat : दिवाळीच्या आधी उरलेल्या शेतकऱ्यांच्या खात्यात मदत जमा होईल का ?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/maharashtra-drought-relief-pending-farmers-payment-before-diwali",
+    "isNew": true
+  },
+  {
+    "id": "news-f160159325",
+    "category": "news",
+    "title": "EL Nino 2026 : एल निनोची तीव्रता कितीपर्यंत वाढू शकते?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/el-nino-2026-intensity-strong-el-nino-forecast",
+    "isNew": true
+  },
+  {
+    "id": "news-34e1815699",
+    "category": "news",
+    "title": "Tur Green Chilli Rate: तुरीच्या बाजारात तेजी, हिरवी मिरची आणि डाळिंब दरात चढ-उतार, हळदीचे दर टिकून, तर, शेपूच्या आवकेत बदल",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/tur-green-chilli-pomegranate-turmeric-market-rates",
+    "isNew": true
+  },
+  {
+    "id": "news-30c9cd2ff9",
+    "category": "news",
+    "title": "Rain Update : दक्षिण कोकण, दक्षिण मध्य महाराष्ट्रात हलक्या सरींचा अंदाज",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/maharashtra-rain-update-south-konkan-south-central-maharashtra",
+    "isNew": true
+  },
+  {
+    "id": "news-b9897e5f7d",
+    "category": "news",
+    "title": "Onion In Dought: दुष्काळात कांद्याची लागवड करताना कोणत्या गोष्टी तपासाव्या?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/onion-cultivation-drought-precautions-farming-tips",
     "isNew": true
   },
   {
@@ -149,46 +189,6 @@
     "title": "Drought Madat : शेतकऱ्यांना दुष्काळाची मदत किती मिळणार?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/maharashtra-drought-relief-amount-farmers-update",
-    "isNew": false
-  },
-  {
-    "id": "news-3d9556ba48",
-    "category": "news",
-    "title": "Soybean Orange Rate: सोयाबीन दर तेजीत, बटाटा दरात स्थिरता, मेथीच्या आवकेत बदल तर गाजर आणि संत्री दरात चढ-उतार",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/soybean-orange-potato-carrot-methi-market-rates",
-    "isNew": false
-  },
-  {
-    "id": "news-93696f589c",
-    "category": "news",
-    "title": "Rain Update : राज्यात काही भागात पावसाचा अंदाज; तापमानात चढ-उतार",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/maharashtra-rain-update-konkan-central-maharashtra-marathwada",
-    "isNew": false
-  },
-  {
-    "id": "news-ebb42c9c45",
-    "category": "news",
-    "title": "Onion Varieties: यंदा कांद्याच्या चांगल्या उत्पादनासाठी कोणते वाण वापरावे?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/best-onion-varieties-for-high-yield-cultivation",
-    "isNew": false
-  },
-  {
-    "id": "news-f97631fcaf",
-    "category": "news",
-    "title": "November Rain: नोव्हेंबरमध्ये एमजेओमुळे पावसाचे प्रमाण वाढणार आहे का ?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/november-rain-mjo-impact-rainfall-forecast",
-    "isNew": false
-  },
-  {
-    "id": "news-f3f3fd1f7f",
-    "category": "news",
-    "title": "Farmer Loan Waiver : कर्जमाफीचा लाभ आत्तापर्यंत किती पात्र शेतकऱ्यांना मिळाला?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/maharashtra-farmer-loan-waiver-beneficiaries-update",
     "isNew": false
   }
 ]
