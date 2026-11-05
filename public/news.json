@@ -96,43 +96,51 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-a4ae75fdcf",
+    "id": "news-a364408b46",
     "category": "news",
-    "title": "Farmer Crisis : कष्टाच्या घामाची किंमत अवघी १० रुपये! गरिबांच्या संघर्षाची कहाणी",
+    "title": "Rahul Gandhi Post On Gokul: 'ही तर मतचोरी, दूध उत्पादक कधीही विसरणार नाही,' 'गोकुळ'वरुन राहुल गांधींचा भाजपवर हल्लाबोल",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/a-farmers-sweat-worth-just-10-rupees-the-heartbreaking-reality-of-indian-agriculture-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/rahul-gandhi-criticises-bjp-gokul-director-appointment-vote-chori-ddb79",
     "isNew": true
   },
   {
-    "id": "news-111fefa228",
+    "id": "news-2c91e6a3d8",
     "category": "news",
-    "title": "Agrarian Crisis : ५७ बळींनंतरही प्रशासन ढिम्म; शेतकरी आत्महत्या रोखण्यात शासकीय यंत्रणा अपयशी?",
+    "title": "Cow Dung Products Business: शेणापासून मूल्यवर्धित वस्तूंची निर्मिती; बुलडाण्यातील महिलेचा उद्योगप्रवास",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/57-farmer-suicides-reality-check-administrations-relief-measures-fail-to-save-lives-aak11",
+    "link": "https://agrowon.esakal.com/yashogatha/jayashree-uberhande-buldhana-cow-dung-products-business-success-story-rat16",
     "isNew": true
   },
   {
-    "id": "news-27b5881536",
+    "id": "news-5fe9897c36",
     "category": "news",
-    "title": "Satara DCC Bank Election : सातारकरांचा कौल! जिल्हा बँकेत भाजपची मुसंडी; ९ जागांवर विजय!",
+    "title": "Vasubaras Festival: प्रतिकूलतेच्या प्रभावातील वसुबारस",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/satara-district-central-cooperative-bank-election-result-updates-2026-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/vasubaras-2026-cow-worship-festival-maharashtra-traditions-rat16",
     "isNew": true
   },
   {
-    "id": "news-d677e84001",
+    "id": "news-f7bbe5c4e3",
     "category": "news",
-    "title": "Agniveers: अग्निवीरांसाठी आनंदाची बातमी; कार्यकाळात २ वर्षांची वाढ, २५ टक्के उमेदवार बनणार नियमित सैनिक",
+    "title": "Indigenous Pyoxaniliprole: दिशादर्शक संशोधन",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/agniveers-service-extension-2-years-agnipath-scheme-ddb79",
+    "link": "https://agrowon.esakal.com/sampadkiya/indigenous-pyoxaniliprole-india-agrochemical-research-innovation-rat16",
     "isNew": true
   },
   {
-    "id": "news-3abbc08398",
+    "id": "news-696a1d1051",
     "category": "news",
-    "title": "Ahilyanagar DCC Bank : अहिल्यानगर जिल्हा बँकेत 'थोरात-विखे' पॅनेलचा धमाका; १८ जागांवर दणदणीत विजय!",
+    "title": "Sugarcane Crushing Report: साखर कारखान्यांकडून आतापर्यंत २० लाख ३४ हजार टन उसाचे गाळप",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/impact-of-thorat-and-vikhe-patil-alliance-on-maharashtra-cooperative-politics-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/maharashtra-sugar-mills-20-34-lakh-tonnes-sugarcane-crushing-rat16",
+    "isNew": true
+  },
+  {
+    "id": "news-c6a9f0f9c7",
+    "category": "news",
+    "title": "Wheat Varieties: गहू पेरताना पेरणीची वेळ आणि वाणाची निवड योग्य का असावी?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/wheat-varieties-sowing-time-seed-selection-guide",
     "isNew": true
   },
   {
@@ -141,7 +149,7 @@
     "title": "Dushkal Madat : दिवाळीच्या आधी उरलेल्या शेतकऱ्यांच्या खात्यात मदत जमा होईल का ?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/maharashtra-drought-relief-pending-farmers-payment-before-diwali",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-f160159325",
@@ -149,7 +157,7 @@
     "title": "EL Nino 2026 : एल निनोची तीव्रता कितीपर्यंत वाढू शकते?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/el-nino-2026-intensity-strong-el-nino-forecast",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-34e1815699",
@@ -157,7 +165,7 @@
     "title": "Tur Green Chilli Rate: तुरीच्या बाजारात तेजी, हिरवी मिरची आणि डाळिंब दरात चढ-उतार, हळदीचे दर टिकून, तर, शेपूच्या आवकेत बदल",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/tur-green-chilli-pomegranate-turmeric-market-rates",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-30c9cd2ff9",
@@ -165,7 +173,7 @@
     "title": "Rain Update : दक्षिण कोकण, दक्षिण मध्य महाराष्ट्रात हलक्या सरींचा अंदाज",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/maharashtra-rain-update-south-konkan-south-central-maharashtra",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-b9897e5f7d",
@@ -173,7 +181,7 @@
     "title": "Onion In Dought: दुष्काळात कांद्याची लागवड करताना कोणत्या गोष्टी तपासाव्या?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/onion-cultivation-drought-precautions-farming-tips",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-1761a92cc7",
@@ -181,14 +189,6 @@
     "title": "Dushkal Madat: राज्यातील शेतकऱ्यांना किती हेक्टरसाठी मदत मिळणार ?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/maharashtra-farmers-relief-compensation-hectare-limit-rat16",
-    "isNew": false
-  },
-  {
-    "id": "news-7a54169694",
-    "category": "news",
-    "title": "Drought Madat : शेतकऱ्यांना दुष्काळाची मदत किती मिळणार?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/maharashtra-drought-relief-amount-farmers-update",
     "isNew": false
   }
 ]
