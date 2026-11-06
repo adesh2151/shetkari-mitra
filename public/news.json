@@ -88,51 +88,83 @@
     "link": "https://krishi.maharashtra.gov.in:443/Site/Common/ViewGr.aspx?Doctype=1c340af5-c4d2-4915-bf1b-870a749d98b5?MenuID=1089"
   },
   {
-    "id": "gr-35817637d4",
+    "id": "gr-8e765d3369",
     "category": "gr",
-    "title": "महिला शेतकरी प्रमाणपत्र पोर्टल",
+    "title": "शेतकरी मित्र पोर्टल",
     "source": "कृषी विभाग, महाराष्ट्र",
-    "isNew": false,
-    "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
+    "isNew": true,
+    "link": "https://krishi.maharashtra.gov.in:443/FarmerFriend/Default.aspx"
   },
   {
-    "id": "news-9cf2498199",
+    "id": "news-2467857d00",
     "category": "news",
-    "title": "Gokul Chairman Election: 'गोकुळ'साठी सतेज पाटलांनी फॉर्म्युला द्यावा, अपेक्षित कारभार होईल- हसन मुश्रीफ",
+    "title": "Maharashtra Drought Relief: दिवाळीत शेतकऱ्यांना दिलासा, ८७ लाख ४५ हजार शेतकऱ्यांच्या खात्यांत ४,३७२ कोटी मदत जमा",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/gokul-chairman-election-hasan-mushrif-satej-patil-formula-kolhapur-ddb79",
+    "link": "https://agrowon.esakal.com/agro-special/maharashtra-drought-relief-rs-4372-crore-distributed-farmers-ddb79",
     "isNew": true
   },
   {
-    "id": "news-1b84d12f3a",
+    "id": "news-f1372223e2",
     "category": "news",
-    "title": "Farmers Demand: ऊस उत्पादक शेतकऱ्यांची लूट करण्याचे कारखानदारांचे धोरण : सदाभाऊ खोत",
+    "title": "Ahilyanagar Politics : सर्वपक्षीय राजकीय ‘आपलेपणा’ फक्त बॅंकेपुरता की पुढेही राहणार?",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/sadabhau-khot-demands-rs-5000-per-tonne-sugarcane-price-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/all-party-political-unity-only-for-ahilyanagar-district-bank-elections-or-beyond-aak11",
     "isNew": true
   },
   {
-    "id": "news-37d4408a41",
+    "id": "news-3125c82340",
     "category": "news",
-    "title": "Sugarcane Price Meeting: सांगलीतील ऊसदराची बैठक निष्फळ",
+    "title": "Satara Sugarcane Protest : साताऱ्यात ऊसदर आंदोलन पेटले! महामार्ग पूर्णपणे ठप्प",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/sangli-sugarcane-price-meeting-fails-swabhimani-4200-demand-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/swabhimani-shetkari-sanghatana-demands-4500ton-first-advance-aak11",
     "isNew": true
   },
   {
-    "id": "news-ebb42c9c45",
+    "id": "news-3960c940cd",
     "category": "news",
-    "title": "Onion Varieties: यंदा कांद्याच्या चांगल्या उत्पादनासाठी कोणते वाण वापरावे?",
+    "title": "Fruit Crop Insurance : फळ पीकविमा आवाहनाचा व्हिडिओच झाला भलताच ट्रोल!",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/best-onion-varieties-drought-rabi-season-yield-tss-storage-capacity-ssp-25",
+    "link": "https://agrowon.esakal.com/agro-special/fruit-crop-insurance-appeal-video-trolled-massively-by-angry-farmers-aak11",
     "isNew": true
   },
   {
-    "id": "news-2b4a37dd86",
+    "id": "news-f2ba42bb65",
     "category": "news",
-    "title": "Sugarcane Price Dispute: स्वाभिमानीच्या महामार्ग रोको आंदोलनावर तोडगा काढण्यासाठी बैठक सुरू",
+    "title": "ST Bus NCMC Card: एसटी प्रवास करणाऱ्या महिलांना दिलासा; एनसीएमसी कार्डसाठी नवीन वर्षापर्यंत मुदतवाढ",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/swabhimani-shetkari-highway-protest-sugarcane-price-meeting-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/st-bus-ncmc-smart-card-deadline-extension-2027-maharashtra-ddb79",
+    "isNew": true
+  },
+  {
+    "id": "news-f6f5c3e992",
+    "category": "news",
+    "title": "Crop Insurance : पीकविम्याची भरपाई रब्बी हंगामात आधार देण्याची शक्यता",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/crop-insurance-compensation-rabi-season-maharashtra",
+    "isNew": true
+  },
+  {
+    "id": "news-f192ae4fca",
+    "category": "news",
+    "title": "Fertilizer Sales : खतांच्या काळाबाजाराला लगाम घातल्याचा केंद्र सरकारचा दावा",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/fertilizer-sales-fss-black-marketing-india",
+    "isNew": true
+  },
+  {
+    "id": "news-31be2bd36f",
+    "category": "news",
+    "title": "Cotton Wheat Rate: कापसाच्या भावात चढ-उतार, गहू बाजारात चढ-उतार, टोमॅटो दरात नरमाई, वांगी आवक घटली तर केळी बाजारातील दर घसरले",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/cotton-wheat-tomato-brinjal-banana-market-rates-maharashtra",
+    "isNew": true
+  },
+  {
+    "id": "news-dbf21d9955",
+    "category": "news",
+    "title": "Hawaman Andaj: राज्यातील काही भागात किमान तापमानात घट",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/maharashtra-weather-forecast-minimum-temperature-drop",
     "isNew": true
   },
   {
@@ -141,7 +173,7 @@
     "title": "Marigold Care: जास्त उष्णता असलेल्या काळात फुलांची साठवण कशी करावी?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/marigold-care-flower-storage-hot-weather-management",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-f8f63d47d0",
@@ -157,38 +189,6 @@
     "title": "Madat GR 2026 : राज्य सरकारने शेती पिकं आणि जमिनीच्या नुकसानीसाठी शासन निर्णय केला प्रसिध्द",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/madat-gr-2026",
-    "isNew": false
-  },
-  {
-    "id": "news-88adb82b38",
-    "category": "news",
-    "title": "Soybean, Sweet lime Rate: सोयाबीन दर कायम, उडीद दरात तेजी, कांदा बाजारात चढ-उतार, मोसंबी बाजारात मंदी, कोथिंबीर दरात वाढ",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/soybean-urad-onion-mosambi-coriander-market-rates-maharashtra",
-    "isNew": false
-  },
-  {
-    "id": "news-9c59b8149d",
-    "category": "news",
-    "title": "Hawaman Andaj: राज्यातील बहुतांशी ठिकाणी तापमानात ३ अंशांपर्यंत वाढ",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/maharashtra-weather-temperature-rise-3-degrees-update",
-    "isNew": false
-  },
-  {
-    "id": "news-c6a9f0f9c7",
-    "category": "news",
-    "title": "Wheat Varieties: गहू पेरताना पेरणीची वेळ आणि वाणाची निवड योग्य का असावी?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/wheat-varieties-sowing-time-seed-selection-guide",
-    "isNew": false
-  },
-  {
-    "id": "news-9df336bc2f",
-    "category": "news",
-    "title": "Dushkal Madat : दिवाळीच्या आधी उरलेल्या शेतकऱ्यांच्या खात्यात मदत जमा होईल का ?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/maharashtra-drought-relief-pending-farmers-payment-before-diwali",
     "isNew": false
   }
 ]
