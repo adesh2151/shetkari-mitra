@@ -96,43 +96,51 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-a0dd39d787",
+    "id": "news-9cf2498199",
     "category": "news",
-    "title": "Sugarcane Workers: पोटासाठी गाव सोडले; लेकरांचे बालपणही हरवले",
+    "title": "Gokul Chairman Election: 'गोकुळ'साठी सतेज पाटलांनी फॉर्म्युला द्यावा, अपेक्षित कारभार होईल- हसन मुश्रीफ",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/migrant-sugarcane-workers-harsh-living-conditions-in-maharashtra",
+    "link": "https://agrowon.esakal.com/agro-special/gokul-chairman-election-hasan-mushrif-satej-patil-formula-kolhapur-ddb79",
     "isNew": true
   },
   {
-    "id": "news-007d513b0f",
+    "id": "news-1b84d12f3a",
     "category": "news",
-    "title": "Seed Subsidy: अखेर शेतकऱ्यांना बियाणे मिळणार!",
+    "title": "Farmers Demand: ऊस उत्पादक शेतकऱ्यांची लूट करण्याचे कारखानदारांचे धोरण : सदाभाऊ खोत",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/yavatmal-farmers-subsidised-chickpea-seeds-list-confusion",
+    "link": "https://agrowon.esakal.com/agro-special/sadabhau-khot-demands-rs-5000-per-tonne-sugarcane-price-abhi47",
     "isNew": true
   },
   {
-    "id": "news-630d1474dc",
+    "id": "news-37d4408a41",
     "category": "news",
-    "title": "Amravati Water Shortage: अमरावती जिल्ह्यातील १०२८ गावांना पाणीटंचाईची झळ",
+    "title": "Sugarcane Price Meeting: सांगलीतील ऊसदराची बैठक निष्फळ",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/water-scarcity-threatens-1028-villages-amravati-district",
+    "link": "https://agrowon.esakal.com/agro-special/sangli-sugarcane-price-meeting-fails-swabhimani-4200-demand-abhi47",
     "isNew": true
   },
   {
-    "id": "news-f64247fccf",
+    "id": "news-ebb42c9c45",
     "category": "news",
-    "title": "Parbhani Paisewari: परभणी जिल्ह्याची खरिपाची सुधारित हंगामी पैसेवारी ३४.७१",
+    "title": "Onion Varieties: यंदा कांद्याच्या चांगल्या उत्पादनासाठी कोणते वाण वापरावे?",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/parbhanis-revised-kharif-season-paisewari-recorded-34",
+    "link": "https://agrowon.esakal.com/agro-special/best-onion-varieties-drought-rabi-season-yield-tss-storage-capacity-ssp-25",
     "isNew": true
   },
   {
-    "id": "news-5fc5e7c8b3",
+    "id": "news-2b4a37dd86",
     "category": "news",
-    "title": "Madat GR 2026 : राज्य सरकारने शेती पिकं आणि जमिनीच्या नुकसानीसाठी शासन निर्णय केला प्रसिध्द",
+    "title": "Sugarcane Price Dispute: स्वाभिमानीच्या महामार्ग रोको आंदोलनावर तोडगा काढण्यासाठी बैठक सुरू",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/madat-gr-2026",
+    "link": "https://agrowon.esakal.com/agro-special/swabhimani-shetkari-highway-protest-sugarcane-price-meeting-abhi47",
+    "isNew": true
+  },
+  {
+    "id": "news-bb73fcc6d2",
+    "category": "news",
+    "title": "Marigold Care: जास्त उष्णता असलेल्या काळात फुलांची साठवण कशी करावी?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/marigold-care-flower-storage-hot-weather-management",
     "isNew": true
   },
   {
@@ -141,7 +149,15 @@
     "title": "Cotton Rate : कापसाचा भाव आयातीनंतरही १० हजारांचा टप्पा गाठेल का?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/cotton-rate-forecast-10000-price-duty-free-import-impact",
-    "isNew": true
+    "isNew": false
+  },
+  {
+    "id": "news-5fc5e7c8b3",
+    "category": "news",
+    "title": "Madat GR 2026 : राज्य सरकारने शेती पिकं आणि जमिनीच्या नुकसानीसाठी शासन निर्णय केला प्रसिध्द",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/madat-gr-2026",
+    "isNew": false
   },
   {
     "id": "news-88adb82b38",
@@ -149,7 +165,7 @@
     "title": "Soybean, Sweet lime Rate: सोयाबीन दर कायम, उडीद दरात तेजी, कांदा बाजारात चढ-उतार, मोसंबी बाजारात मंदी, कोथिंबीर दरात वाढ",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/soybean-urad-onion-mosambi-coriander-market-rates-maharashtra",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-9c59b8149d",
@@ -157,7 +173,7 @@
     "title": "Hawaman Andaj: राज्यातील बहुतांशी ठिकाणी तापमानात ३ अंशांपर्यंत वाढ",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/maharashtra-weather-temperature-rise-3-degrees-update",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-c6a9f0f9c7",
@@ -173,22 +189,6 @@
     "title": "Dushkal Madat : दिवाळीच्या आधी उरलेल्या शेतकऱ्यांच्या खात्यात मदत जमा होईल का ?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/maharashtra-drought-relief-pending-farmers-payment-before-diwali",
-    "isNew": false
-  },
-  {
-    "id": "news-f160159325",
-    "category": "news",
-    "title": "EL Nino 2026 : एल निनोची तीव्रता कितीपर्यंत वाढू शकते?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/el-nino-2026-intensity-strong-el-nino-forecast",
-    "isNew": false
-  },
-  {
-    "id": "news-34e1815699",
-    "category": "news",
-    "title": "Tur Green Chilli Rate: तुरीच्या बाजारात तेजी, हिरवी मिरची आणि डाळिंब दरात चढ-उतार, हळदीचे दर टिकून, तर, शेपूच्या आवकेत बदल",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/tur-green-chilli-pomegranate-turmeric-market-rates",
     "isNew": false
   }
 ]
