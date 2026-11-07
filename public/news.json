@@ -92,47 +92,47 @@
     "category": "gr",
     "title": "शेतकरी मित्र पोर्टल",
     "source": "कृषी विभाग, महाराष्ट्र",
-    "isNew": true,
+    "isNew": false,
     "link": "https://krishi.maharashtra.gov.in:443/FarmerFriend/Default.aspx"
   },
   {
-    "id": "news-2467857d00",
+    "id": "news-1b6d971b91",
     "category": "news",
-    "title": "Maharashtra Drought Relief: दिवाळीत शेतकऱ्यांना दिलासा, ८७ लाख ४५ हजार शेतकऱ्यांच्या खात्यांत ४,३७२ कोटी मदत जमा",
+    "title": "VB-G RAM G Scheme: प्रत्येक ग्रामपंचायतीत ‘व्हीबी-जी राम जी’च्या कामांना गती द्या; जिल्हाधिकारी योगेश कुंभेजकर यांचे निर्देश",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/maharashtra-drought-relief-rs-4372-crore-distributed-farmers-ddb79",
+    "link": "https://agrowon.esakal.com/agro-special/vb-g-ram-g-works-every-gram-panchayat-yogesh-kumbhejkar-rat16",
     "isNew": true
   },
   {
-    "id": "news-f1372223e2",
+    "id": "news-8e9c9b081a",
     "category": "news",
-    "title": "Ahilyanagar Politics : सर्वपक्षीय राजकीय ‘आपलेपणा’ फक्त बॅंकेपुरता की पुढेही राहणार?",
+    "title": "MPSC Recruitment: स्पर्धा परीक्षा उमेदवारांना संधी; एमपीएससी गट-क पदसंख्येत मोठी वाढ, १६ हजार ७१७ पदांसाठी भरती",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/all-party-political-unity-only-for-ahilyanagar-district-bank-elections-or-beyond-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/mpsc-recruitment-group-c-16717-posts-maharashtra-ddb79",
     "isNew": true
   },
   {
-    "id": "news-3125c82340",
+    "id": "news-ebc64220df",
     "category": "news",
-    "title": "Satara Sugarcane Protest : साताऱ्यात ऊसदर आंदोलन पेटले! महामार्ग पूर्णपणे ठप्प",
+    "title": "Onion Nursery Management: दुष्काळात कांद्याची रोपवाटिका तयार करताय? कमी पाण्यात निरोगी रोपे तयार करण्यासाठी टिप्स",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/swabhimani-shetkari-sanghatana-demands-4500ton-first-advance-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/onion-nursery-management-during-drought-conditions",
     "isNew": true
   },
   {
-    "id": "news-3960c940cd",
+    "id": "news-3aec9912a2",
     "category": "news",
-    "title": "Fruit Crop Insurance : फळ पीकविमा आवाहनाचा व्हिडिओच झाला भलताच ट्रोल!",
+    "title": "Farmers Welfare Initiative: आत्महत्याग्रस्त शेतकरी कुटुंबांना मोठा आधार; शिव गोरक्ष आश्रम ट्रस्टकडून प्रत्येकी २५ हजारांची मदत",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/fruit-crop-insurance-appeal-video-trolled-massively-by-angry-farmers-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/shiv-goraksh-ashram-trust-farmer-families-financial-aid-rat16",
     "isNew": true
   },
   {
-    "id": "news-f2ba42bb65",
+    "id": "news-556420d5b8",
     "category": "news",
-    "title": "ST Bus NCMC Card: एसटी प्रवास करणाऱ्या महिलांना दिलासा; एनसीएमसी कार्डसाठी नवीन वर्षापर्यंत मुदतवाढ",
+    "title": "Modern Grape Farming: ‘पद्‍मदीप’द्वारे द्राक्ष पिकात नव्या आशेची रुजवात",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/st-bus-ncmc-smart-card-deadline-extension-2027-maharashtra-ddb79",
+    "link": "https://agrowon.esakal.com/yashogatha/sangli-farmers-new-patented-grape-varieties-padmadeep-fpc-rat16",
     "isNew": true
   },
   {
@@ -141,7 +141,7 @@
     "title": "Crop Insurance : पीकविम्याची भरपाई रब्बी हंगामात आधार देण्याची शक्यता",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/crop-insurance-compensation-rabi-season-maharashtra",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-f192ae4fca",
@@ -149,7 +149,7 @@
     "title": "Fertilizer Sales : खतांच्या काळाबाजाराला लगाम घातल्याचा केंद्र सरकारचा दावा",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/fertilizer-sales-fss-black-marketing-india",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-31be2bd36f",
@@ -157,7 +157,7 @@
     "title": "Cotton Wheat Rate: कापसाच्या भावात चढ-उतार, गहू बाजारात चढ-उतार, टोमॅटो दरात नरमाई, वांगी आवक घटली तर केळी बाजारातील दर घसरले",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/cotton-wheat-tomato-brinjal-banana-market-rates-maharashtra",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-dbf21d9955",
@@ -165,7 +165,7 @@
     "title": "Hawaman Andaj: राज्यातील काही भागात किमान तापमानात घट",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/maharashtra-weather-forecast-minimum-temperature-drop",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-bb73fcc6d2",
