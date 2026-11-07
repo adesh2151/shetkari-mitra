@@ -96,43 +96,67 @@
     "link": "https://krishi.maharashtra.gov.in:443/FarmerFriend/Default.aspx"
   },
   {
-    "id": "news-1b6d971b91",
+    "id": "news-191279b5a4",
     "category": "news",
-    "title": "VB-G RAM G Scheme: प्रत्येक ग्रामपंचायतीत ‘व्हीबी-जी राम जी’च्या कामांना गती द्या; जिल्हाधिकारी योगेश कुंभेजकर यांचे निर्देश",
+    "title": "Farmer ID: सरकारी योजनांपासून वंचित १ लाख ६० हजार शेतकऱ्यांना फार्मर आयडी मिळणार; मंत्री बावनकुळेंची माहिती",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/vb-g-ram-g-works-every-gram-panchayat-yogesh-kumbhejkar-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/farmer-id-maharashtra-farmers-government-schemes-ddb79",
     "isNew": true
   },
   {
-    "id": "news-8e9c9b081a",
+    "id": "news-ce9918d910",
     "category": "news",
-    "title": "MPSC Recruitment: स्पर्धा परीक्षा उमेदवारांना संधी; एमपीएससी गट-क पदसंख्येत मोठी वाढ, १६ हजार ७१७ पदांसाठी भरती",
+    "title": "Rabi Crop Insurance : पीक नुकसानीची चिंता सोडा! रब्बी पीकविमा योजनेत सहभागी होण्याचे डॉ. जाधवांचे आवाहन",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/mpsc-recruitment-group-c-16717-posts-maharashtra-ddb79",
+    "link": "https://agrowon.esakal.com/agro-special/enroll-in-rabi-crop-insurance-scheme-now-advises-dr-jadhav-aak11",
     "isNew": true
   },
   {
-    "id": "news-ebc64220df",
+    "id": "news-a55d36b032",
     "category": "news",
-    "title": "Onion Nursery Management: दुष्काळात कांद्याची रोपवाटिका तयार करताय? कमी पाण्यात निरोगी रोपे तयार करण्यासाठी टिप्स",
+    "title": "Surabhi Powder: कोरड्या चाऱ्याचे पोषणमूल्य वाढवणारी ‘सुरभी’ पाचक पावडर",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/onion-nursery-management-during-drought-conditions",
+    "link": "https://agrowon.esakal.com/animal-care/animal-diseases/surabhi-digestive-powder-solution-improve-dry-fodder-nutrition-ssp-25",
     "isNew": true
   },
   {
-    "id": "news-3aec9912a2",
+    "id": "news-7e1119593f",
     "category": "news",
-    "title": "Farmers Welfare Initiative: आत्महत्याग्रस्त शेतकरी कुटुंबांना मोठा आधार; शिव गोरक्ष आश्रम ट्रस्टकडून प्रत्येकी २५ हजारांची मदत",
+    "title": "Sugar Mills : २२ साखर कारखान्यांना गाळप परवाने वितरीत, ५ कारखाने अद्याप प्रतीक्षेत",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/shiv-goraksh-ashram-trust-farmer-families-financial-aid-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/sugar-season-22-sugar-mills-granted-crushing-licenses-in-maharashtra-aak11",
     "isNew": true
   },
   {
-    "id": "news-556420d5b8",
+    "id": "news-0fdf5c3d68",
     "category": "news",
-    "title": "Modern Grape Farming: ‘पद्‍मदीप’द्वारे द्राक्ष पिकात नव्या आशेची रुजवात",
+    "title": "Maharashtra Winter Session: हिवाळी अधिवेशनावर पाणीटंचाईचे सावट; पाण्याचा अपव्यय रोखण्यासाठी विशेष पथक तैनात",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/yashogatha/sangli-farmers-new-patented-grape-varieties-padmadeep-fpc-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/maharashtra-winter-session-water-scarcity-special-squad-rat16",
+    "isNew": true
+  },
+  {
+    "id": "news-97584a1a7a",
+    "category": "news",
+    "title": "Soybean Maize Rate: सोयाबीन दर टिकून, मका आवकेत चढ-उतार, काकडीच्या दरात घसरण, झेंडूच्या बाजारात चढ-उतार तर चिकूचे दर टिकून",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/soybean-maize-cucumber-marigold-chikoo-market-rates",
+    "isNew": true
+  },
+  {
+    "id": "news-f8c3cc3101",
+    "category": "news",
+    "title": "Hawaman Andaj : राज्यातील बहुतांशी भागात तापमानातील चढ उतार कायम",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/maharashtra-weather-update-temperature-fluctuations",
+    "isNew": true
+  },
+  {
+    "id": "news-75e508b21e",
+    "category": "news",
+    "title": "Paddy Harvesting Machine: भात कापणीसाठी वापरल्या जाणाऱ्या रिपरचे विविध प्रकार कोणते?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/paddy-harvesting-machine-reaper-types",
     "isNew": true
   },
   {
@@ -165,30 +189,6 @@
     "title": "Hawaman Andaj: राज्यातील काही भागात किमान तापमानात घट",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/maharashtra-weather-forecast-minimum-temperature-drop",
-    "isNew": false
-  },
-  {
-    "id": "news-bb73fcc6d2",
-    "category": "news",
-    "title": "Marigold Care: जास्त उष्णता असलेल्या काळात फुलांची साठवण कशी करावी?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/marigold-care-flower-storage-hot-weather-management",
-    "isNew": false
-  },
-  {
-    "id": "news-f8f63d47d0",
-    "category": "news",
-    "title": "Cotton Rate : कापसाचा भाव आयातीनंतरही १० हजारांचा टप्पा गाठेल का?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/cotton-rate-forecast-10000-price-duty-free-import-impact",
-    "isNew": false
-  },
-  {
-    "id": "news-5fc5e7c8b3",
-    "category": "news",
-    "title": "Madat GR 2026 : राज्य सरकारने शेती पिकं आणि जमिनीच्या नुकसानीसाठी शासन निर्णय केला प्रसिध्द",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/madat-gr-2026",
     "isNew": false
   }
 ]
