@@ -96,43 +96,59 @@
     "link": "https://krishi.maharashtra.gov.in:443/FarmerFriend/Default.aspx"
   },
   {
-    "id": "news-191279b5a4",
+    "id": "news-a45d6728e1",
     "category": "news",
-    "title": "Farmer ID: सरकारी योजनांपासून वंचित १ लाख ६० हजार शेतकऱ्यांना फार्मर आयडी मिळणार; मंत्री बावनकुळेंची माहिती",
+    "title": "Watermelon Seedling Prices: खानदेशात कलिंगड रोपांचेही दर घसरले",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/farmer-id-maharashtra-farmers-government-schemes-ddb79",
+    "link": "https://agrowon.esakal.com/agro-special/khandesh-watermelon-seedling-prices-early-planting-ramadan-abhi47",
     "isNew": true
   },
   {
-    "id": "news-ce9918d910",
+    "id": "news-9f006d4bfa",
     "category": "news",
-    "title": "Rabi Crop Insurance : पीक नुकसानीची चिंता सोडा! रब्बी पीकविमा योजनेत सहभागी होण्याचे डॉ. जाधवांचे आवाहन",
+    "title": "Mango Season: आंबा-काजू हंगामाची मदार आता थंडीवर",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/enroll-in-rabi-crop-insurance-scheme-now-advises-dr-jadhav-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/sindhudurg-mango-cashew-season-winter-temperature-low-rainfall-abhi47",
     "isNew": true
   },
   {
-    "id": "news-a55d36b032",
+    "id": "news-3e04d4750a",
     "category": "news",
-    "title": "Surabhi Powder: कोरड्या चाऱ्याचे पोषणमूल्य वाढवणारी ‘सुरभी’ पाचक पावडर",
+    "title": "Sugarcane Harvester: हार्वेस्टर वापरावर बंदी, कर्जाचे हप्ते फेडायचे कसे?",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/animal-care/animal-diseases/surabhi-digestive-powder-solution-improve-dry-fodder-nutrition-ssp-25",
+    "link": "https://agrowon.esakal.com/agro-special/solapur-sugarcane-harvester-ban-loan-repayment-abhi47",
     "isNew": true
   },
   {
-    "id": "news-7e1119593f",
+    "id": "news-5481eee017",
     "category": "news",
-    "title": "Sugar Mills : २२ साखर कारखान्यांना गाळप परवाने वितरीत, ५ कारखाने अद्याप प्रतीक्षेत",
+    "title": "Kharif Crop Insurance: हिंगोलीत खरीप पीकविम्याचे २० हजार ९६८ अर्ज रिव्हर्ट",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/sugar-season-22-sugar-mills-granted-crushing-licenses-in-maharashtra-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/hingoli-kharif-crop-insurance-20968-reverted-applications-abhi47",
     "isNew": true
   },
   {
-    "id": "news-0fdf5c3d68",
+    "id": "news-cfbbd97d9a",
     "category": "news",
-    "title": "Maharashtra Winter Session: हिवाळी अधिवेशनावर पाणीटंचाईचे सावट; पाण्याचा अपव्यय रोखण्यासाठी विशेष पथक तैनात",
+    "title": "Maharashtra Agri Tourism: राज्यात कृषी पर्यटनाला मिळणार चालना",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/maharashtra-winter-session-water-scarcity-special-squad-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/maharashtra-agritourism-five-year-partnership-rural-employment-abhi47",
+    "isNew": true
+  },
+  {
+    "id": "news-35f2631584",
+    "category": "news",
+    "title": "Soybean Seed Storage: पुढच्यावर्षी बियाणे टंचाईची शक्यता, सोयाबीनची घरच्या घरी कशी कराल?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/soybean-seed-storage-at-home-next-season",
+    "isNew": true
+  },
+  {
+    "id": "news-086eff01b2",
+    "category": "news",
+    "title": "Soybean Rate: देशातील बाजारात सोयाबीनच्या भावात पुन्हा सुधारणा होईल का ?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/soybean-price-forecast-india-market-rate-recovery",
     "isNew": true
   },
   {
@@ -141,7 +157,7 @@
     "title": "Soybean Maize Rate: सोयाबीन दर टिकून, मका आवकेत चढ-उतार, काकडीच्या दरात घसरण, झेंडूच्या बाजारात चढ-उतार तर चिकूचे दर टिकून",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/soybean-maize-cucumber-marigold-chikoo-market-rates",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-f8c3cc3101",
@@ -149,7 +165,7 @@
     "title": "Hawaman Andaj : राज्यातील बहुतांशी भागात तापमानातील चढ उतार कायम",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/maharashtra-weather-update-temperature-fluctuations",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-75e508b21e",
@@ -157,7 +173,7 @@
     "title": "Paddy Harvesting Machine: भात कापणीसाठी वापरल्या जाणाऱ्या रिपरचे विविध प्रकार कोणते?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/paddy-harvesting-machine-reaper-types",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-f6f5c3e992",
@@ -173,22 +189,6 @@
     "title": "Fertilizer Sales : खतांच्या काळाबाजाराला लगाम घातल्याचा केंद्र सरकारचा दावा",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/fertilizer-sales-fss-black-marketing-india",
-    "isNew": false
-  },
-  {
-    "id": "news-31be2bd36f",
-    "category": "news",
-    "title": "Cotton Wheat Rate: कापसाच्या भावात चढ-उतार, गहू बाजारात चढ-उतार, टोमॅटो दरात नरमाई, वांगी आवक घटली तर केळी बाजारातील दर घसरले",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/cotton-wheat-tomato-brinjal-banana-market-rates-maharashtra",
-    "isNew": false
-  },
-  {
-    "id": "news-dbf21d9955",
-    "category": "news",
-    "title": "Hawaman Andaj: राज्यातील काही भागात किमान तापमानात घट",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/maharashtra-weather-forecast-minimum-temperature-drop",
     "isNew": false
   }
 ]
