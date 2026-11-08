@@ -96,43 +96,59 @@
     "link": "https://krishi.maharashtra.gov.in:443/FarmerFriend/Default.aspx"
   },
   {
-    "id": "news-a45d6728e1",
+    "id": "news-550a2599bd",
     "category": "news",
-    "title": "Watermelon Seedling Prices: खानदेशात कलिंगड रोपांचेही दर घसरले",
+    "title": "Sangli Drought Action Plan : पाणी टंचाईवर प्रशासनाचा मोठा निर्णय! सांगलीतील दुष्काळी भागात विहिरी, कूपनलिकांचे अधिग्रहण सुरू",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/khandesh-watermelon-seedling-prices-early-planting-ramadan-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/sangli-drought-action-plan-private-wells-and-borewells-acquired-for-water-supply-aak11",
     "isNew": true
   },
   {
-    "id": "news-9f006d4bfa",
+    "id": "news-694e73d46a",
     "category": "news",
-    "title": "Mango Season: आंबा-काजू हंगामाची मदार आता थंडीवर",
+    "title": "Sangli Water Crisis : सांगली जिल्ह्यात जलसंकटाचा भडका! तब्बल ५५० हून अधिक गावे टंचाईग्रस्त होणार",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/sindhudurg-mango-cashew-season-winter-temperature-low-rainfall-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/sangli-district-water-scarcity-over-550-villages-set-to-face-severe-crisis-aak11",
     "isNew": true
   },
   {
-    "id": "news-3e04d4750a",
+    "id": "news-01f19a884c",
     "category": "news",
-    "title": "Sugarcane Harvester: हार्वेस्टर वापरावर बंदी, कर्जाचे हप्ते फेडायचे कसे?",
+    "title": "Rabi Crop Loan : ऐन हंगामात रब्बी पीककर्जाचे १० टक्केही वितरण नाही; शेतकरी संकटात",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/solapur-sugarcane-harvester-ban-loan-repayment-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/rabi-crop-loan-distribution-hits-rock-bottom-fails-to-reach-even-10-aak11",
     "isNew": true
   },
   {
-    "id": "news-5481eee017",
+    "id": "news-8dd67e4603",
     "category": "news",
-    "title": "Kharif Crop Insurance: हिंगोलीत खरीप पीकविम्याचे २० हजार ९६८ अर्ज रिव्हर्ट",
+    "title": "Cotton Processing Stalls : जिनिंग-प्रेसिंग कारखान्यांमध्ये कापूस प्रक्रिया अद्याप संथचं",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/hingoli-kharif-crop-insurance-20968-reverted-applications-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/cotton-processing-stalls-sluggish-operations-in-ginning-pressing-mills-aak11",
     "isNew": true
   },
   {
-    "id": "news-cfbbd97d9a",
+    "id": "news-8679bfd761",
     "category": "news",
-    "title": "Maharashtra Agri Tourism: राज्यात कृषी पर्यटनाला मिळणार चालना",
+    "title": "Integrated Farming System : शेतकऱ्यांच्या प्रगतीचे नवे सूत्र! एकात्मिक शेती पद्धतीच समृद्धीचा मार्ग: डॉ. गडाख",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/maharashtra-agritourism-five-year-partnership-rural-employment-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/shift-to-integrated-farming-for-financial-stability-suggests-dr-gadakh-aak11",
+    "isNew": true
+  },
+  {
+    "id": "news-538f1eae22",
+    "category": "news",
+    "title": "Winter Forecast & Cyclone Names: यंदा थंडी किती कमी जाणवणार? चक्रीवादळांची नावं कशी ठरतात?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/winter-forecast-2026-cyclone-names-naming-system",
+    "isNew": true
+  },
+  {
+    "id": "news-a65e263c1a",
+    "category": "news",
+    "title": "Drought Impact: पाण्याअभावी शेतकऱ्याने चार एकर मोसंबीची बाग काढली; दुष्काळाचा फळबागेला फटका",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/drought-impact-mosambi-orchard-water-shortage",
     "isNew": true
   },
   {
@@ -141,7 +157,7 @@
     "title": "Soybean Seed Storage: पुढच्यावर्षी बियाणे टंचाईची शक्यता, सोयाबीनची घरच्या घरी कशी कराल?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/soybean-seed-storage-at-home-next-season",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-086eff01b2",
@@ -149,7 +165,7 @@
     "title": "Soybean Rate: देशातील बाजारात सोयाबीनच्या भावात पुन्हा सुधारणा होईल का ?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/soybean-price-forecast-india-market-rate-recovery",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-97584a1a7a",
@@ -173,22 +189,6 @@
     "title": "Paddy Harvesting Machine: भात कापणीसाठी वापरल्या जाणाऱ्या रिपरचे विविध प्रकार कोणते?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/paddy-harvesting-machine-reaper-types",
-    "isNew": false
-  },
-  {
-    "id": "news-f6f5c3e992",
-    "category": "news",
-    "title": "Crop Insurance : पीकविम्याची भरपाई रब्बी हंगामात आधार देण्याची शक्यता",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/crop-insurance-compensation-rabi-season-maharashtra",
-    "isNew": false
-  },
-  {
-    "id": "news-f192ae4fca",
-    "category": "news",
-    "title": "Fertilizer Sales : खतांच्या काळाबाजाराला लगाम घातल्याचा केंद्र सरकारचा दावा",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/fertilizer-sales-fss-black-marketing-india",
     "isNew": false
   }
 ]
