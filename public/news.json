@@ -96,43 +96,51 @@
     "link": "https://krishi.maharashtra.gov.in:443/FarmerFriend/Default.aspx"
   },
   {
-    "id": "news-550a2599bd",
+    "id": "news-8058e8db1b",
     "category": "news",
-    "title": "Sangli Drought Action Plan : पाणी टंचाईवर प्रशासनाचा मोठा निर्णय! सांगलीतील दुष्काळी भागात विहिरी, कूपनलिकांचे अधिग्रहण सुरू",
+    "title": "Agricultural Processing Business: ‘अनुकरण’ने शोधली  मिरची, हळदीतील संधी",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/sangli-drought-action-plan-private-wells-and-borewells-acquired-for-water-supply-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/anukaran-fpc-spice-crop-value-addition-turmeric-chilli-hingoli-abhi47",
     "isNew": true
   },
   {
-    "id": "news-694e73d46a",
+    "id": "news-e443015c82",
     "category": "news",
-    "title": "Sangli Water Crisis : सांगली जिल्ह्यात जलसंकटाचा भडका! तब्बल ५५० हून अधिक गावे टंचाईग्रस्त होणार",
+    "title": "Gokul Sangharsh Morcha: 'सत्तेसाठी रडीचा डाव खेळणाऱ्यांना पायतान हाणा..!' 'गोकुळ'साठी कोल्हापूरमधील संघर्ष मोर्चात झळकले बॅनर्स",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/sangli-district-water-scarcity-over-550-villages-set-to-face-severe-crisis-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/gokul-sangharsh-morcha-kolhapur-protest-satej-patil-ddb79",
     "isNew": true
   },
   {
-    "id": "news-01f19a884c",
+    "id": "news-32e4f5862a",
     "category": "news",
-    "title": "Rabi Crop Loan : ऐन हंगामात रब्बी पीककर्जाचे १० टक्केही वितरण नाही; शेतकरी संकटात",
+    "title": "Tur Prices: ‘एल निनो’ अन् तूर भावाचा विक्रम",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/rabi-crop-loan-distribution-hits-rock-bottom-fails-to-reach-even-10-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/el-nino-tur-prices-record-low-production-india-abhi47",
     "isNew": true
   },
   {
-    "id": "news-8dd67e4603",
+    "id": "news-259aa6be8c",
     "category": "news",
-    "title": "Cotton Processing Stalls : जिनिंग-प्रेसिंग कारखान्यांमध्ये कापूस प्रक्रिया अद्याप संथचं",
+    "title": "Air Pollution: प्रदूषण हवेचे आणि निष्फळ चर्चेचे",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/cotton-processing-stalls-sluggish-operations-in-ginning-pressing-mills-aak11",
+    "link": "https://agrowon.esakal.com/sampadkiya/delhi-air-pollution-political-will-permanent-solutions-abhi47",
     "isNew": true
   },
   {
-    "id": "news-8679bfd761",
+    "id": "news-7c59a7c461",
     "category": "news",
-    "title": "Integrated Farming System : शेतकऱ्यांच्या प्रगतीचे नवे सूत्र! एकात्मिक शेती पद्धतीच समृद्धीचा मार्ग: डॉ. गडाख",
+    "title": "Diwali Festival: दुष्काळाची पिडा टळू दे...",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/shift-to-integrated-farming-for-financial-stability-suggests-dr-gadakh-aak11",
+    "link": "https://agrowon.esakal.com/sampadkiya/diwali-hope-drought-affected-farmers-rural-development-abhi47",
+    "isNew": true
+  },
+  {
+    "id": "news-9b11628d18",
+    "category": "news",
+    "title": "Pressmud Uses: प्रेसमडचा वापर करून दुष्काळात जमिनीतील ओलावा कसा टिकवावा?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/pressmud-uses-soil-moisture-drought-management",
     "isNew": true
   },
   {
@@ -141,7 +149,7 @@
     "title": "Winter Forecast & Cyclone Names: यंदा थंडी किती कमी जाणवणार? चक्रीवादळांची नावं कशी ठरतात?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/winter-forecast-2026-cyclone-names-naming-system",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-a65e263c1a",
@@ -149,7 +157,7 @@
     "title": "Drought Impact: पाण्याअभावी शेतकऱ्याने चार एकर मोसंबीची बाग काढली; दुष्काळाचा फळबागेला फटका",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/drought-impact-mosambi-orchard-water-shortage",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-35f2631584",
@@ -181,14 +189,6 @@
     "title": "Hawaman Andaj : राज्यातील बहुतांशी भागात तापमानातील चढ उतार कायम",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/maharashtra-weather-update-temperature-fluctuations",
-    "isNew": false
-  },
-  {
-    "id": "news-75e508b21e",
-    "category": "news",
-    "title": "Paddy Harvesting Machine: भात कापणीसाठी वापरल्या जाणाऱ्या रिपरचे विविध प्रकार कोणते?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/paddy-harvesting-machine-reaper-types",
     "isNew": false
   }
 ]
