@@ -96,43 +96,51 @@
     "link": "https://krishi.maharashtra.gov.in:443/FarmerFriend/Default.aspx"
   },
   {
-    "id": "news-8058e8db1b",
+    "id": "news-47ebc076f9",
     "category": "news",
-    "title": "Agricultural Processing Business: ‘अनुकरण’ने शोधली  मिरची, हळदीतील संधी",
+    "title": "Gokul Chairman Election: 'गोकुळ'मध्ये आमचाच अध्यक्ष होईल; 'महायुती'च्या नेत्यांचा दावा",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/anukaran-fpc-spice-crop-value-addition-turmeric-chilli-hingoli-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/gokul-chairman-election-mahayuti-leaders-kolhapur-ddb79",
     "isNew": true
   },
   {
-    "id": "news-e443015c82",
+    "id": "news-c608046b48",
     "category": "news",
-    "title": "Gokul Sangharsh Morcha: 'सत्तेसाठी रडीचा डाव खेळणाऱ्यांना पायतान हाणा..!' 'गोकुळ'साठी कोल्हापूरमधील संघर्ष मोर्चात झळकले बॅनर्स",
+    "title": "Fodder Scarcity : चारा टंचाईवर मोठा उपाय! आता जनावरांच्या खाद्यासाठी ‘बगॅस’ ठरणार उत्तम पर्याय",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/gokul-sangharsh-morcha-kolhapur-protest-satej-patil-ddb79",
+    "link": "https://agrowon.esakal.com/agro-special/sugarcane-bagasse-for-fodder-scarcity-solution-for-cattle-feed-aak11",
     "isNew": true
   },
   {
-    "id": "news-32e4f5862a",
+    "id": "news-49a5179db4",
     "category": "news",
-    "title": "Tur Prices: ‘एल निनो’ अन् तूर भावाचा विक्रम",
+    "title": "Illegal Money lending : सावकारी पाशातून अखेर सुटका! प्रशासनाच्या दणक्याने दोघा शेतकऱ्यांच्या जमिनी झाल्या मुक्त",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/el-nino-tur-prices-record-low-production-india-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/land-freed-from-illegal-moneylenders-big-relief-for-two-farmers-aak1",
     "isNew": true
   },
   {
-    "id": "news-259aa6be8c",
+    "id": "news-5dcb049518",
     "category": "news",
-    "title": "Air Pollution: प्रदूषण हवेचे आणि निष्फळ चर्चेचे",
+    "title": "Sugarcane Farming : पाणी टंचाईवर मात: ‘एक आड एक सरी’ पाचट आच्छादनाने उसाचे उत्पादन वाढवा",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/sampadkiya/delhi-air-pollution-political-will-permanent-solutions-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/alternate-furrow-sugarcane-trash-mulching-technique-aak11",
     "isNew": true
   },
   {
-    "id": "news-7c59a7c461",
+    "id": "news-5b6ea02a48",
     "category": "news",
-    "title": "Diwali Festival: दुष्काळाची पिडा टळू दे...",
+    "title": "Rabi Crop Insurance : कोल्हापूर जिल्ह्यासाठी रब्बी पीकविमा योजनेची घोषणा",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/sampadkiya/diwali-hope-drought-affected-farmers-rural-development-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/kolhapur-district-rabi-crop-insurance-scheme-launched-aak11",
+    "isNew": true
+  },
+  {
+    "id": "news-34a46f54b2",
+    "category": "news",
+    "title": "November Rain: नोव्हेंबरमध्ये तिसरं चक्रीवादळ येणार?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/november-rain-third-cyclone-forecast-2026",
     "isNew": true
   },
   {
@@ -141,7 +149,7 @@
     "title": "Pressmud Uses: प्रेसमडचा वापर करून दुष्काळात जमिनीतील ओलावा कसा टिकवावा?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/pressmud-uses-soil-moisture-drought-management",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-538f1eae22",
@@ -181,14 +189,6 @@
     "title": "Soybean Maize Rate: सोयाबीन दर टिकून, मका आवकेत चढ-उतार, काकडीच्या दरात घसरण, झेंडूच्या बाजारात चढ-उतार तर चिकूचे दर टिकून",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/soybean-maize-cucumber-marigold-chikoo-market-rates",
-    "isNew": false
-  },
-  {
-    "id": "news-f8c3cc3101",
-    "category": "news",
-    "title": "Hawaman Andaj : राज्यातील बहुतांशी भागात तापमानातील चढ उतार कायम",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/maharashtra-weather-update-temperature-fluctuations",
     "isNew": false
   }
 ]
