@@ -96,43 +96,51 @@
     "link": "https://krishi.maharashtra.gov.in:443/FarmerFriend/Default.aspx"
   },
   {
-    "id": "news-2a35d649a3",
+    "id": "news-07d8d6dee1",
     "category": "news",
-    "title": "Sustainable Wheat Farming: आपत्कालीन परिस्थितीत शाश्‍वत गहू उत्पादनाची सूत्रे",
+    "title": "Water Conservation : पाणी टंचाईवर कायमस्वरूपी तोडगा! 'गाळमुक्त धरण व जलयुक्त शिवार' मोहिमेला सरकारचे सर्वोच्च प्राधान्य",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/sustainable-wheat-production-emergency-management-maharashtra-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/galmukt-dharan-jalyukt-shivar-given-top-priority-aak11",
     "isNew": true
   },
   {
-    "id": "news-c613349b62",
+    "id": "news-6937badbad",
     "category": "news",
-    "title": "Livestock Reproductive Management: दुष्काळी परिस्थितीत गाई, म्हशींच्या प्रजननाचे नियोजन",
+    "title": "Bank Inspection : संशयास्पद आर्थिक व्यवहारांवर भरारी पथकाची करडी नजर, बँकांची होणार तपासणी",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/cow-buffalo-reproductive-management-drought-conditions-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/nanded-bank-inspection-flying-squad-to-check-accounts-aak11",
     "isNew": true
   },
   {
-    "id": "news-97f8127685",
+    "id": "news-114ede3e00",
     "category": "news",
-    "title": "Dairy Processing Business: संघर्षातून घेतली दुग्ध प्रक्रिया उद्योगात भरारी",
+    "title": "Diwali With Farmers : प्रोटोकॉल बाजूला सारून थेट बळीराजाच्या दारात! उद्योगमंत्री डॉ. सामंत यांची शेतकऱ्यांसोबत अनोखी दिवाळी",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/sandeep-nalawade-adarsh-dairy-processing-entrepreneurship-success-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/dr-uday-samant-celebrates-diwali-with-farmers-maharashtra-news-aak11",
     "isNew": true
   },
   {
-    "id": "news-31d703b130",
+    "id": "news-223c469efb",
     "category": "news",
-    "title": "Cotton Pest Management: कपाशीवरील गुलाबी बोंडअळी नियंत्रणासाठी राहा सज्ज",
+    "title": "Ghod River : प्रशासनाच्या आश्वासनानंतर घोड नदी पात्रातील तीव्र आंदोलन अखेर स्थगित!",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/pink-bollworm-control-integrated-management-cotton-crop-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/ghod-river-bed-agitation-suspended-water-crisis-latest-news-aak11",
     "isNew": true
   },
   {
-    "id": "news-1fcc6ddd80",
+    "id": "news-552b9eb7f2",
     "category": "news",
-    "title": "Gokul Dairy Politics: ‘सहकार’वरच घाला!",
+    "title": "Farmer Loan Waiver : शेतकऱ्यांना मोठा दिलासा! कर्जमाफीच्या चौथ्या यादीतील ८,४८४ शेतकरी झाले कर्जमुक्त",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/sampadkiya/gokul-dairy-kolhapur-maharashtra-cooperative-model-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/farmer-loan-waiver-4th-list-8484-farmers-debt-free-aak11",
+    "isNew": true
+  },
+  {
+    "id": "news-fbab4b5c35",
+    "category": "news",
+    "title": "Drought Relief: एलनिनोचा अंदाज, दुष्काळ नियोजन आणि १५ ते १६ हजार कोटींची मदत?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/maharashtra-drought-relief-el-nino-planning-financial-aid",
     "isNew": true
   },
   {
@@ -141,7 +149,7 @@
     "title": "Goat & Sheep in Drought: दुष्काळात शेळी-मेंढीपालनासाठी कोणत्या जाती निवडाव्यात?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/goat-sheep-breeds-drought-conditions-india",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-34a46f54b2",
@@ -181,14 +189,6 @@
     "title": "Soybean Seed Storage: पुढच्यावर्षी बियाणे टंचाईची शक्यता, सोयाबीनची घरच्या घरी कशी कराल?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/soybean-seed-storage-at-home-next-season",
-    "isNew": false
-  },
-  {
-    "id": "news-086eff01b2",
-    "category": "news",
-    "title": "Soybean Rate: देशातील बाजारात सोयाबीनच्या भावात पुन्हा सुधारणा होईल का ?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/soybean-price-forecast-india-market-rate-recovery",
     "isNew": false
   }
 ]
