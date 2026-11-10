@@ -96,43 +96,51 @@
     "link": "https://krishi.maharashtra.gov.in:443/FarmerFriend/Default.aspx"
   },
   {
-    "id": "news-47ebc076f9",
+    "id": "news-2a35d649a3",
     "category": "news",
-    "title": "Gokul Chairman Election: 'गोकुळ'मध्ये आमचाच अध्यक्ष होईल; 'महायुती'च्या नेत्यांचा दावा",
+    "title": "Sustainable Wheat Farming: आपत्कालीन परिस्थितीत शाश्‍वत गहू उत्पादनाची सूत्रे",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/gokul-chairman-election-mahayuti-leaders-kolhapur-ddb79",
+    "link": "https://agrowon.esakal.com/agro-special/sustainable-wheat-production-emergency-management-maharashtra-abhi47",
     "isNew": true
   },
   {
-    "id": "news-c608046b48",
+    "id": "news-c613349b62",
     "category": "news",
-    "title": "Fodder Scarcity : चारा टंचाईवर मोठा उपाय! आता जनावरांच्या खाद्यासाठी ‘बगॅस’ ठरणार उत्तम पर्याय",
+    "title": "Livestock Reproductive Management: दुष्काळी परिस्थितीत गाई, म्हशींच्या प्रजननाचे नियोजन",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/sugarcane-bagasse-for-fodder-scarcity-solution-for-cattle-feed-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/cow-buffalo-reproductive-management-drought-conditions-abhi47",
     "isNew": true
   },
   {
-    "id": "news-49a5179db4",
+    "id": "news-97f8127685",
     "category": "news",
-    "title": "Illegal Money lending : सावकारी पाशातून अखेर सुटका! प्रशासनाच्या दणक्याने दोघा शेतकऱ्यांच्या जमिनी झाल्या मुक्त",
+    "title": "Dairy Processing Business: संघर्षातून घेतली दुग्ध प्रक्रिया उद्योगात भरारी",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/land-freed-from-illegal-moneylenders-big-relief-for-two-farmers-aak1",
+    "link": "https://agrowon.esakal.com/agro-special/sandeep-nalawade-adarsh-dairy-processing-entrepreneurship-success-abhi47",
     "isNew": true
   },
   {
-    "id": "news-5dcb049518",
+    "id": "news-31d703b130",
     "category": "news",
-    "title": "Sugarcane Farming : पाणी टंचाईवर मात: ‘एक आड एक सरी’ पाचट आच्छादनाने उसाचे उत्पादन वाढवा",
+    "title": "Cotton Pest Management: कपाशीवरील गुलाबी बोंडअळी नियंत्रणासाठी राहा सज्ज",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/alternate-furrow-sugarcane-trash-mulching-technique-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/pink-bollworm-control-integrated-management-cotton-crop-abhi47",
     "isNew": true
   },
   {
-    "id": "news-5b6ea02a48",
+    "id": "news-1fcc6ddd80",
     "category": "news",
-    "title": "Rabi Crop Insurance : कोल्हापूर जिल्ह्यासाठी रब्बी पीकविमा योजनेची घोषणा",
+    "title": "Gokul Dairy Politics: ‘सहकार’वरच घाला!",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/kolhapur-district-rabi-crop-insurance-scheme-launched-aak11",
+    "link": "https://agrowon.esakal.com/sampadkiya/gokul-dairy-kolhapur-maharashtra-cooperative-model-abhi47",
+    "isNew": true
+  },
+  {
+    "id": "news-527b6e4d90",
+    "category": "news",
+    "title": "Goat & Sheep in Drought: दुष्काळात शेळी-मेंढीपालनासाठी कोणत्या जाती निवडाव्यात?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/goat-sheep-breeds-drought-conditions-india",
     "isNew": true
   },
   {
@@ -141,7 +149,7 @@
     "title": "November Rain: नोव्हेंबरमध्ये तिसरं चक्रीवादळ येणार?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/november-rain-third-cyclone-forecast-2026",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-9b11628d18",
@@ -181,14 +189,6 @@
     "title": "Soybean Rate: देशातील बाजारात सोयाबीनच्या भावात पुन्हा सुधारणा होईल का ?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/soybean-price-forecast-india-market-rate-recovery",
-    "isNew": false
-  },
-  {
-    "id": "news-97584a1a7a",
-    "category": "news",
-    "title": "Soybean Maize Rate: सोयाबीन दर टिकून, मका आवकेत चढ-उतार, काकडीच्या दरात घसरण, झेंडूच्या बाजारात चढ-उतार तर चिकूचे दर टिकून",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/soybean-maize-cucumber-marigold-chikoo-market-rates",
     "isNew": false
   }
 ]
