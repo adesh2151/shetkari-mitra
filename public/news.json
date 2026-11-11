@@ -96,12 +96,36 @@
     "link": "https://krishi.maharashtra.gov.in:443/FarmerFriend/Default.aspx"
   },
   {
+    "id": "news-e8dfd6c191",
+    "category": "news",
+    "title": "Agrowon Diwali Article: दुषकाळाच्या बांधावरून...",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/agro-special/drought-nine-rainy-nakshatras-farmer-story-abhi47",
+    "isNew": true
+  },
+  {
+    "id": "news-79edd5f21e",
+    "category": "news",
+    "title": "Agrowon Diwali Article: इंडसटिल : शेतकऱ्यांचे कष्ट कमी करणारे तंत्रज्ञान",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/agro-special/pune-agritech-startup-innovative-farming-technology-10-states-rat16",
+    "isNew": true
+  },
+  {
+    "id": "news-449a5dc6d2",
+    "category": "news",
+    "title": "Agrowon Diwali Article: बायोमी : माती जिवंत ठेवण्यासाठी...",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/agro-special/biome-technologies-soil-microbial-activity-testing-device-rat16",
+    "isNew": true
+  },
+  {
     "id": "news-e77f8cb312",
     "category": "news",
     "title": "Anganwadi Workers: अंगणवाडी सेविका, मदतनीसांना दिलासा मिळणार; प्रोत्साहन भत्ता वाढीवर सरकार सकारात्मक",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/agro-special/anganwadi-workers-incentive-allowance-hike-maharashtra-ddb79",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-12159fe932",
@@ -109,30 +133,14 @@
     "title": "Vanrai Bund : दुष्काळाशी दोन हात: गावकऱ्यांनी एकत्र येत श्रमदानाने साकारले ‘यशवंत वनराई बंधारे’, पाणी टंचाई मिटणार!",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/agro-special/yashwant-vanrai-bunds-built-through-shramdan-water-conservation-aak11",
-    "isNew": true
+    "isNew": false
   },
   {
-    "id": "news-ac00a2bc29",
+    "id": "news-00d7c44681",
     "category": "news",
-    "title": "Flower Prices : सणासुदीत ग्राहकांना झटका! फुलांची आवक घटल्याने किरकोळ बाजारात दरात मोठी वाढ",
+    "title": "El Nino 2027: २०२७ च्या मान्सूनची आत्ताच चिंता नको? एल निनो, आयओडीबाबत तज्ज्ञांनी काय सांगितलं?",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/flower-prices-hike-in-retail-market-due-to-low-supply-aak11",
-    "isNew": true
-  },
-  {
-    "id": "news-8fcca1fb13",
-    "category": "news",
-    "title": "Diwali With Farmers : पालकमंत्र्यांनी थेट शेतकऱ्यांच्या बांधावर जाऊन साजरी केली यंदाची दिवाळी",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/guardian-minister-celebrates-diwali-with-farmers-on-field-rural-news-aak11",
-    "isNew": true
-  },
-  {
-    "id": "news-129ff6e480",
-    "category": "news",
-    "title": "APMC Update : बाजार समित्यांवरील प्रशासक नियुक्ती योग्यच! उच्च न्यायालयाचा मोठा निर्वाळा",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/apmc-administrator-appointment-justified-maharashtra-cooperative-news-aak11",
+    "link": "https://agrowon.esakal.com/video/el-nino-2027-india-monsoon-forecast-iod-expert-opinion",
     "isNew": true
   },
   {
@@ -141,7 +149,7 @@
     "title": "Sugarcane Trash Burning: उसाचं पाचट जाळल्याचा थेट परिणाम पुढच्या उत्पादनावर कसा होतो?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/sugarcane-trash-burning-effects-on-soil-and-yield",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-fbab4b5c35",
@@ -181,14 +189,6 @@
     "title": "Winter Forecast & Cyclone Names: यंदा थंडी किती कमी जाणवणार? चक्रीवादळांची नावं कशी ठरतात?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/winter-forecast-2026-cyclone-names-naming-system",
-    "isNew": false
-  },
-  {
-    "id": "news-a65e263c1a",
-    "category": "news",
-    "title": "Drought Impact: पाण्याअभावी शेतकऱ्याने चार एकर मोसंबीची बाग काढली; दुष्काळाचा फळबागेला फटका",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/drought-impact-mosambi-orchard-water-shortage",
     "isNew": false
   }
 ]
