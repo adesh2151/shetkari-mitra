@@ -96,43 +96,51 @@
     "link": "https://krishi.maharashtra.gov.in:443/FarmerFriend/Default.aspx"
   },
   {
-    "id": "news-07d8d6dee1",
+    "id": "news-e77f8cb312",
     "category": "news",
-    "title": "Water Conservation : पाणी टंचाईवर कायमस्वरूपी तोडगा! 'गाळमुक्त धरण व जलयुक्त शिवार' मोहिमेला सरकारचे सर्वोच्च प्राधान्य",
+    "title": "Anganwadi Workers: अंगणवाडी सेविका, मदतनीसांना दिलासा मिळणार; प्रोत्साहन भत्ता वाढीवर सरकार सकारात्मक",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/galmukt-dharan-jalyukt-shivar-given-top-priority-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/anganwadi-workers-incentive-allowance-hike-maharashtra-ddb79",
     "isNew": true
   },
   {
-    "id": "news-6937badbad",
+    "id": "news-12159fe932",
     "category": "news",
-    "title": "Bank Inspection : संशयास्पद आर्थिक व्यवहारांवर भरारी पथकाची करडी नजर, बँकांची होणार तपासणी",
+    "title": "Vanrai Bund : दुष्काळाशी दोन हात: गावकऱ्यांनी एकत्र येत श्रमदानाने साकारले ‘यशवंत वनराई बंधारे’, पाणी टंचाई मिटणार!",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/nanded-bank-inspection-flying-squad-to-check-accounts-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/yashwant-vanrai-bunds-built-through-shramdan-water-conservation-aak11",
     "isNew": true
   },
   {
-    "id": "news-114ede3e00",
+    "id": "news-ac00a2bc29",
     "category": "news",
-    "title": "Diwali With Farmers : प्रोटोकॉल बाजूला सारून थेट बळीराजाच्या दारात! उद्योगमंत्री डॉ. सामंत यांची शेतकऱ्यांसोबत अनोखी दिवाळी",
+    "title": "Flower Prices : सणासुदीत ग्राहकांना झटका! फुलांची आवक घटल्याने किरकोळ बाजारात दरात मोठी वाढ",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/dr-uday-samant-celebrates-diwali-with-farmers-maharashtra-news-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/flower-prices-hike-in-retail-market-due-to-low-supply-aak11",
     "isNew": true
   },
   {
-    "id": "news-223c469efb",
+    "id": "news-8fcca1fb13",
     "category": "news",
-    "title": "Ghod River : प्रशासनाच्या आश्वासनानंतर घोड नदी पात्रातील तीव्र आंदोलन अखेर स्थगित!",
+    "title": "Diwali With Farmers : पालकमंत्र्यांनी थेट शेतकऱ्यांच्या बांधावर जाऊन साजरी केली यंदाची दिवाळी",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/ghod-river-bed-agitation-suspended-water-crisis-latest-news-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/guardian-minister-celebrates-diwali-with-farmers-on-field-rural-news-aak11",
     "isNew": true
   },
   {
-    "id": "news-552b9eb7f2",
+    "id": "news-129ff6e480",
     "category": "news",
-    "title": "Farmer Loan Waiver : शेतकऱ्यांना मोठा दिलासा! कर्जमाफीच्या चौथ्या यादीतील ८,४८४ शेतकरी झाले कर्जमुक्त",
+    "title": "APMC Update : बाजार समित्यांवरील प्रशासक नियुक्ती योग्यच! उच्च न्यायालयाचा मोठा निर्वाळा",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/farmer-loan-waiver-4th-list-8484-farmers-debt-free-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/apmc-administrator-appointment-justified-maharashtra-cooperative-news-aak11",
+    "isNew": true
+  },
+  {
+    "id": "news-dfd1e198f1",
+    "category": "news",
+    "title": "Sugarcane Trash Burning: उसाचं पाचट जाळल्याचा थेट परिणाम पुढच्या उत्पादनावर कसा होतो?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/sugarcane-trash-burning-effects-on-soil-and-yield",
     "isNew": true
   },
   {
@@ -141,7 +149,7 @@
     "title": "Drought Relief: एलनिनोचा अंदाज, दुष्काळ नियोजन आणि १५ ते १६ हजार कोटींची मदत?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/maharashtra-drought-relief-el-nino-planning-financial-aid",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-527b6e4d90",
@@ -181,14 +189,6 @@
     "title": "Drought Impact: पाण्याअभावी शेतकऱ्याने चार एकर मोसंबीची बाग काढली; दुष्काळाचा फळबागेला फटका",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/drought-impact-mosambi-orchard-water-shortage",
-    "isNew": false
-  },
-  {
-    "id": "news-35f2631584",
-    "category": "news",
-    "title": "Soybean Seed Storage: पुढच्यावर्षी बियाणे टंचाईची शक्यता, सोयाबीनची घरच्या घरी कशी कराल?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/soybean-seed-storage-at-home-next-season",
     "isNew": false
   }
 ]
