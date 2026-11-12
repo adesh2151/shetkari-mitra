@@ -92,47 +92,55 @@
     "category": "gr",
     "title": "महिला शेतकरी प्रमाणपत्र पोर्टल",
     "source": "कृषी विभाग, महाराष्ट्र",
-    "isNew": true,
+    "isNew": false,
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-3e97915521",
+    "id": "news-00a316beda",
     "category": "news",
-    "title": "Fertilizer Subsidy: 'रब्बी'साठी स्फुरद, पालाशयुक्त खतांच्या अनुदान रकमेत वाढ; 'डीएपी'ची पिशवी १,३५० रुपयांनाच",
+    "title": "Gir Cow Milk: मध्य प्रदेशातील गीर गायीचा विक्रम; १९.७६ लिटर दूध उत्पादन",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/fertilizer-subsidy-rs-62370-crore-approved-rabi-season-dap-price-ddb79",
+    "link": "https://agrowon.esakal.com/agro-special/gir-cow-milk-production-record-madhya-pradesh-ujjain-ddb79",
     "isNew": true
   },
   {
-    "id": "news-92bcdcc74f",
+    "id": "news-0c19105941",
     "category": "news",
-    "title": "Farmer Government Schemes: जमीन कसणाऱ्या शेतकऱ्यांनाही सरकारी योजनांचा लाभ मिळणार, सरकारचा महत्त्वाचा निर्णय",
+    "title": "Agrowon Diwali Article: ‘एआय’ हा सहायक, मालक तुम्हीच!",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/farmer-government-schemes-actual-land-cultivators-maharashtra-sop-ddb79",
+    "link": "https://agrowon.esakal.com/agro-special/ai-satellite-mapping-orchard-farming-satara-abhi47",
     "isNew": true
   },
   {
-    "id": "news-20ee56a3e5",
+    "id": "news-665db42f89",
     "category": "news",
-    "title": "Agrowon Diwali Article: ‘कृषिगती’चा इलेक्ट्रिक साथी’",
+    "title": "Agrowon Diwali Article: केरळची नवी पिढी",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/krushigati-electric-farming-companion-small-farmers-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/kerala-new-generation-youth-aspirations-rat16",
     "isNew": true
   },
   {
-    "id": "news-1aa4e55d00",
+    "id": "news-4ec8ef5eec",
     "category": "news",
-    "title": "Agrowon Diwali Article: गावकुसातील तरुण ‘क्रिएटर्स’",
+    "title": "Agrowon Diwali Article: पोल्ट्री उद्योगाला नवा आयाम",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/rural-youth-video-content-creators-digital-opportunities-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/ai-satellite-mapping-sustainable-orchard-farming-satara-abhi47",
     "isNew": true
   },
   {
-    "id": "news-3856e91a85",
+    "id": "news-46b0267d3e",
     "category": "news",
-    "title": "Soil Mulching: जमिनीतील ओलावा टिकवण्यासाठी आच्छादन करताना काय काळजी घ्यावी?",
+    "title": "Nitin Gadkari: आम्हाला खंत, एकट्या कोल्हापूर जिल्ह्यातील दूध उत्पादन सगळ्या विदर्भापेक्षाही अधिक- नितीन गडकरी",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/important-precautions-applying-organic-plastic-mulch-ssp-25",
+    "link": "https://agrowon.esakal.com/agro-special/nitin-gadkari-kolhapur-vidarbha-milk-production-ddb79",
+    "isNew": true
+  },
+  {
+    "id": "news-fb2821586e",
+    "category": "news",
+    "title": "Crop Insurance : पीक विम्यात प्रॉक्सी ट्रिगर्स का हटवले? यंदा भरपाई कमी मिळाल्यास सरकार मदत करणार?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/crop-insurance-proxy-triggers-removal-compensation-maharashtra",
     "isNew": true
   },
   {
@@ -141,7 +149,7 @@
     "title": "Zero Tillage in Drought: दुष्काळी परिस्थितीत शून्य मशागत उपयुक्त ठरते का?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/zero-tillage-in-drought-soil-moisture-conservation",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-00d7c44681",
@@ -181,14 +189,6 @@
     "title": "November Rain: नोव्हेंबरमध्ये तिसरं चक्रीवादळ येणार?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/november-rain-third-cyclone-forecast-2026",
-    "isNew": false
-  },
-  {
-    "id": "news-9b11628d18",
-    "category": "news",
-    "title": "Pressmud Uses: प्रेसमडचा वापर करून दुष्काळात जमिनीतील ओलावा कसा टिकवावा?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/pressmud-uses-soil-moisture-drought-management",
     "isNew": false
   }
 ]
