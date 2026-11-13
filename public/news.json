@@ -96,43 +96,51 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-00a316beda",
+    "id": "news-064cf16000",
     "category": "news",
-    "title": "Gir Cow Milk: मध्य प्रदेशातील गीर गायीचा विक्रम; १९.७६ लिटर दूध उत्पादन",
+    "title": "Drought Management: आमदारांनो, दुष्काळाकडे गांभीर्याने पाहा...",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/gir-cow-milk-production-record-madhya-pradesh-ujjain-ddb79",
+    "link": "https://agrowon.esakal.com/agro-special/drought-management-collective-action-elected-representatives",
     "isNew": true
   },
   {
-    "id": "news-0c19105941",
+    "id": "news-7c0d10c8ce",
     "category": "news",
-    "title": "Agrowon Diwali Article: ‘एआय’ हा सहायक, मालक तुम्हीच!",
+    "title": "Super El Nino: पृथ्वीचा ‘ताप’ कधी उतरविणार?",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/ai-satellite-mapping-orchard-farming-satara-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/el-nino-climate-change-why-earth-getting-hotter",
     "isNew": true
   },
   {
-    "id": "news-665db42f89",
+    "id": "news-27a16df9aa",
     "category": "news",
-    "title": "Agrowon Diwali Article: केरळची नवी पिढी",
+    "title": "Youth in Agriculture: यूथपॉवर संकटात",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/kerala-new-generation-youth-aspirations-rat16",
+    "link": "https://agrowon.esakal.com/sampadkiya/youth-employment-crisis-29-percent-maharashtras-young-people-depend-agriculture",
     "isNew": true
   },
   {
-    "id": "news-4ec8ef5eec",
+    "id": "news-d66171dd58",
     "category": "news",
-    "title": "Agrowon Diwali Article: पोल्ट्री उद्योगाला नवा आयाम",
+    "title": "Ahilyanagar District Bank: अहिल्यानगर जिल्हा बँकेच्या अध्यक्षपदी डॉ. सुजय विखे पाटील",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/ai-satellite-mapping-sustainable-orchard-farming-satara-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/dr-sujay-vikhe-patil-elected-ahilyanagar-district-bank-chairman",
     "isNew": true
   },
   {
-    "id": "news-46b0267d3e",
+    "id": "news-ee3d3e64b4",
     "category": "news",
-    "title": "Nitin Gadkari: आम्हाला खंत, एकट्या कोल्हापूर जिल्ह्यातील दूध उत्पादन सगळ्या विदर्भापेक्षाही अधिक- नितीन गडकरी",
+    "title": "Cotton Prices: मानवत बाजार समितीत कापसाला ९६०० रुपये दर",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/nitin-gadkari-kolhapur-vidarbha-milk-production-ddb79",
+    "link": "https://agrowon.esakal.com/agro-special/cotton-prices-reach-9600-per-quintal-manwat-market",
+    "isNew": true
+  },
+  {
+    "id": "news-67635a71dc",
+    "category": "news",
+    "title": "Watermelon in Drought: दुष्काळात टरबुजाची लागवड करताना कोणत्या गोष्टी तपासाव्या?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/watermelon-farming-in-drought-conditions",
     "isNew": true
   },
   {
@@ -141,7 +149,7 @@
     "title": "Crop Insurance : पीक विम्यात प्रॉक्सी ट्रिगर्स का हटवले? यंदा भरपाई कमी मिळाल्यास सरकार मदत करणार?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/crop-insurance-proxy-triggers-removal-compensation-maharashtra",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-914515c7c7",
@@ -181,14 +189,6 @@
     "title": "Goat & Sheep in Drought: दुष्काळात शेळी-मेंढीपालनासाठी कोणत्या जाती निवडाव्यात?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/goat-sheep-breeds-drought-conditions-india",
-    "isNew": false
-  },
-  {
-    "id": "news-34a46f54b2",
-    "category": "news",
-    "title": "November Rain: नोव्हेंबरमध्ये तिसरं चक्रीवादळ येणार?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/november-rain-third-cyclone-forecast-2026",
     "isNew": false
   }
 ]
