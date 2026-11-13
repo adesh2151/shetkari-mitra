@@ -96,43 +96,67 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-064cf16000",
+    "id": "news-8b16508dc6",
     "category": "news",
-    "title": "Drought Management: आमदारांनो, दुष्काळाकडे गांभीर्याने पाहा...",
+    "title": "Farmers Protest: रविकांत तुपकरांच्या 'दुष्काळ संघर्ष यात्रे'चा उद्या मलकापुरातून शंखनाद, ४ डिसेंबरला बुलढाण्यात एल्गार महामोर्चा",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/drought-management-collective-action-elected-representatives",
+    "link": "https://agrowon.esakal.com/agro-special/farmers-protest-ravikant-tupkar-drought-sangharsh-yatra-buldhana-ddb79",
     "isNew": true
   },
   {
-    "id": "news-7c0d10c8ce",
+    "id": "news-0bdba5207e",
     "category": "news",
-    "title": "Super El Nino: पृथ्वीचा ‘ताप’ कधी उतरविणार?",
+    "title": "Drought Mitigation : लोकसहभागातून कामे; दुष्काळावर मात करण्यासाठी गावकऱ्यांची अनोखी मोहीम, जलसंधारणाला मिळाली मोठी गती",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/el-nino-climate-change-why-earth-getting-hotter",
+    "link": "https://agrowon.esakal.com/agro-special/public-participation-campaign-to-overcome-drought-and-water-scarcity-in-maharashtra-aak11",
     "isNew": true
   },
   {
-    "id": "news-27a16df9aa",
+    "id": "news-902f9f6c6e",
     "category": "news",
-    "title": "Youth in Agriculture: यूथपॉवर संकटात",
+    "title": "Agriculture News : इगतपुरीत भातानंतर जवस, मोहरी लागवडीचा उत्तम पर्याय; कमी पाण्यात शेतकऱ्यांना मिळणार दुहेरी नफा",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/sampadkiya/youth-employment-crisis-29-percent-maharashtras-young-people-depend-agriculture",
+    "link": "https://agrowon.esakal.com/agro-special/linseed-and-mustard-cultivation-after-paddy-harvest-in-igatpuri-nashik-aak11",
     "isNew": true
   },
   {
-    "id": "news-d66171dd58",
+    "id": "news-a4a81fad66",
     "category": "news",
-    "title": "Ahilyanagar District Bank: अहिल्यानगर जिल्हा बँकेच्या अध्यक्षपदी डॉ. सुजय विखे पाटील",
+    "title": "Ladki Bahin Yojana: लाडकी बहीण योजनेला अजितदादांचं नाव देणार? आदिती तटकरेंची महत्त्वाची माहिती",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/dr-sujay-vikhe-patil-elected-ahilyanagar-district-bank-chairman",
+    "link": "https://agrowon.esakal.com/agro-special/ladki-bahin-yojana-named-after-late-ajit-pawar-ddb79",
     "isNew": true
   },
   {
-    "id": "news-ee3d3e64b4",
+    "id": "news-07f941aeae",
     "category": "news",
-    "title": "Cotton Prices: मानवत बाजार समितीत कापसाला ९६०० रुपये दर",
+    "title": "Sugarcane Price : बळीराजाची मागणी: वाढत्या उत्पादन खर्चामुळे उसाला चार हजार रुपये पहिली उचल जाहीर करा",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/cotton-prices-reach-9600-per-quintal-manwat-market",
+    "link": "https://agrowon.esakal.com/agro-special/sugarcane-rate-dispute-maharashtra-farmer-unions-insist-on-4000-advance-payment-aak11",
+    "isNew": true
+  },
+  {
+    "id": "news-6942b8d977",
+    "category": "news",
+    "title": "Drought 2026: ट्रिगर-२ आणि महामदत पोर्टलबाबत कृषिमंत्र्यांचं स्पष्टीकरण",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/onion-cultivation-drought-precautions-farming-tips-2",
+    "isNew": true
+  },
+  {
+    "id": "news-e32247a305",
+    "category": "news",
+    "title": "Soybean Cotton Rate: सोयाबीन दरात वाढ, कापूस दर टिकून, गव्हाच्या आवकेत चढ-उतार, कांदा दरात चढ-उतार तर केळीचे दर स्थिर",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/soybean-cotton-wheat-onion-banana-market-rates-maharashtra",
+    "isNew": true
+  },
+  {
+    "id": "news-fcb1e2b5a2",
+    "category": "news",
+    "title": "November Cold : सकाळच्या किमान तापमानात घट झाल्याने गारठा वाढला",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/maharashtra-november-cold-minimum-temperature-drop",
     "isNew": true
   },
   {
@@ -141,7 +165,7 @@
     "title": "Watermelon in Drought: दुष्काळात टरबुजाची लागवड करताना कोणत्या गोष्टी तपासाव्या?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/watermelon-farming-in-drought-conditions",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-fb2821586e",
@@ -165,30 +189,6 @@
     "title": "El Nino 2027: २०२७ च्या मान्सूनची आत्ताच चिंता नको? एल निनो, आयओडीबाबत तज्ज्ञांनी काय सांगितलं?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/el-nino-2027-india-monsoon-forecast-iod-expert-opinion",
-    "isNew": false
-  },
-  {
-    "id": "news-dfd1e198f1",
-    "category": "news",
-    "title": "Sugarcane Trash Burning: उसाचं पाचट जाळल्याचा थेट परिणाम पुढच्या उत्पादनावर कसा होतो?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/sugarcane-trash-burning-effects-on-soil-and-yield",
-    "isNew": false
-  },
-  {
-    "id": "news-fbab4b5c35",
-    "category": "news",
-    "title": "Drought Relief: एलनिनोचा अंदाज, दुष्काळ नियोजन आणि १५ ते १६ हजार कोटींची मदत?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/maharashtra-drought-relief-el-nino-planning-financial-aid",
-    "isNew": false
-  },
-  {
-    "id": "news-527b6e4d90",
-    "category": "news",
-    "title": "Goat & Sheep in Drought: दुष्काळात शेळी-मेंढीपालनासाठी कोणत्या जाती निवडाव्यात?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/goat-sheep-breeds-drought-conditions-india",
     "isNew": false
   }
 ]
