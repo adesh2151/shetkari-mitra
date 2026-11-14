@@ -96,43 +96,75 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-da54e3eeb3",
+    "id": "news-5a6aeb676b",
     "category": "news",
-    "title": "Maharashtra Politics: दुष्काळातले सरकारी ‘इव्हेंट’",
+    "title": "District Bank Elections: मुख्यमंत्र्यांचा ‘मेसेज’ की ‘जिल्ह्यातच निर्णय’?",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/diwali-stay-farmers-drought-relief-government-action-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/satara-district-bank-chairman-election-mahayuti-leaders-power-sharing-formula",
     "isNew": true
   },
   {
-    "id": "news-485b91f58b",
+    "id": "news-57ec47de5c",
     "category": "news",
-    "title": "Maharashtra Drought: संवेदनशीलतेचा नको ‘दुष्काळ’",
+    "title": "Soybean Utpadak Shetkari: सोयाबीन उत्पादक शेतकरी संकटात",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/sampadkiya/community-support-for-drought-affected-farmers-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/wardha-soybean-farmers-crisis-low-yield-rainfall-deficit-higher-market-prices",
     "isNew": true
   },
   {
-    "id": "news-6780639db9",
+    "id": "news-3ea806f7b8",
     "category": "news",
-    "title": "Memorandum of Understanding: वसंतराव नाईक मराठवाडा कृषी विद्यापीठ आणि एनएचआरडीएफ यांच्यात सामंजस्य करार",
+    "title": "Farmers Protest: तुपकरांच्या नेतृत्त्वात 'दुष्काळ संघर्ष यात्रा' सुरु; सरसकट कर्जमाफीसह हेक्टरी १ लाखाच्या भरपाईची मागणी",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/vnmkv-nhrdf-horticulture-research-mou-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/farmers-protest-drought-struggle-yatra-ravikant-tupkar-ddb79",
     "isNew": true
   },
   {
-    "id": "news-dacda31a3d",
+    "id": "news-a8b73f7ae0",
     "category": "news",
-    "title": "Turmeric Farming Crisis: दुष्काळाचा हळदीला फटका! वायगावमधील हळद उत्पादक शेतकरी संकटात",
+    "title": "Sugar Industry: वेळेवर निर्णय होत नसल्यामुळे साखर उद्योग अडचणीत",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/waigaon-turmeric-farming-drought-crisis-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/sugar-industry-financial-crisis-delayed-ethanol-policy-decisions",
     "isNew": true
   },
   {
-    "id": "news-13d0bfde7a",
+    "id": "news-2e1af27ef3",
     "category": "news",
-    "title": "New Borewell: नवीन बोअरवेलसाठी शेतकऱ्यांची धावाधाव",
+    "title": "Sangli District Bank: जिल्हा बँक अध्यक्षपदाची माळ कोणाच्या गळ्यात?",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/farmers-rush-to-dig-new-borewells-water-shortage-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/sangli-district-bank-elect-new-chairman-vice-chairman-november-18",
+    "isNew": true
+  },
+  {
+    "id": "news-4cf8f6e32b",
+    "category": "news",
+    "title": "Krushi Samruddhi Yojana: कृषी समृद्धी योजनेचे ५ हजार कोटी कधी मिळणार? मंत्रिमंडळात प्रस्ताव मांडणार",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/krushi-samruddhi-yojana-5000-crore-maharashtra",
+    "isNew": true
+  },
+  {
+    "id": "news-79b6c65e0e",
+    "category": "news",
+    "title": "Chana Ginger Rate: हरभरा दरात चढ-उतार, आले बाजारात बदल, कोबीच्या आवकेत वाढ, कोथिंबिरीच्या दरात चढ-उतार तर डाळिंब आवकेत चढ-उतार",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/maharashtra-chana-ginger-cabbage-coriander-pomegranate-market-rates",
+    "isNew": true
+  },
+  {
+    "id": "news-b1b5f8867e",
+    "category": "news",
+    "title": "Hawaman Andaj : राज्यातील अनेक भागात सकाळी गारवा वाढला",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/maharashtra-weather-update-morning-chill-temperature-forecast",
+    "isNew": true
+  },
+  {
+    "id": "news-51800a2d03",
+    "category": "news",
+    "title": "Soil Mulching: जमिनीवर आच्छादन करताना कोणत्या चुका टाळाव्या?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/soil-mulching-mistakes-to-avoid",
     "isNew": true
   },
   {
@@ -157,38 +189,6 @@
     "title": "November Cold : सकाळच्या किमान तापमानात घट झाल्याने गारठा वाढला",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/maharashtra-november-cold-minimum-temperature-drop",
-    "isNew": false
-  },
-  {
-    "id": "news-67635a71dc",
-    "category": "news",
-    "title": "Watermelon in Drought: दुष्काळात टरबुजाची लागवड करताना कोणत्या गोष्टी तपासाव्या?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/watermelon-farming-in-drought-conditions",
-    "isNew": false
-  },
-  {
-    "id": "news-fb2821586e",
-    "category": "news",
-    "title": "Crop Insurance : पीक विम्यात प्रॉक्सी ट्रिगर्स का हटवले? यंदा भरपाई कमी मिळाल्यास सरकार मदत करणार?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/crop-insurance-proxy-triggers-removal-compensation-maharashtra",
-    "isNew": false
-  },
-  {
-    "id": "news-914515c7c7",
-    "category": "news",
-    "title": "Zero Tillage in Drought: दुष्काळी परिस्थितीत शून्य मशागत उपयुक्त ठरते का?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/zero-tillage-in-drought-soil-moisture-conservation",
-    "isNew": false
-  },
-  {
-    "id": "news-00d7c44681",
-    "category": "news",
-    "title": "El Nino 2027: २०२७ च्या मान्सूनची आत्ताच चिंता नको? एल निनो, आयओडीबाबत तज्ज्ञांनी काय सांगितलं?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/el-nino-2027-india-monsoon-forecast-iod-expert-opinion",
     "isNew": false
   }
 ]
