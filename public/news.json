@@ -96,43 +96,75 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-a78cf21903",
+    "id": "news-7fd2e6e576",
     "category": "news",
-    "title": "Mulberry Pest Management: तुती पिकावरील फुलकिडे, कोळी किडीचा प्रादुर्भाव",
+    "title": "Abhay Yojana : वीज थकबाकीदारांना मोठा दिलासा: महावितरणची ‘अभय योजना’ जाहीर; व्याज १००% माफ आणि मूळ रकमेतही सवलत!",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/mulberry-crop-thrips-mite-infestation-leaf-quality-cocoon-production-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/installment-facility-for-permanently-disconnected-electricity-consumers-in-maharashtra-aak11",
     "isNew": true
   },
   {
-    "id": "news-396d7c45de",
+    "id": "news-d4e9924e61",
     "category": "news",
-    "title": "Agricultural Advisory: कृषी सल्ला : कोकण विभाग",
+    "title": "Krushi Jalsinchan : ‘विठाई कृषी जलसिंचन’ अभियानास शेवगावात प्रारंभ; आधुनिक सिंचन पद्धतींमुळे शेती उत्पादनात होणार मोठी वाढ",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/konkan-agriculture-advisory-nachni-harvesting-kulith-sowing-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/vithai-krushi-jalsinchan-campaign-launched-in-shevgaon-aak11",
     "isNew": true
   },
   {
-    "id": "news-f37aed777c",
+    "id": "news-1ddd523828",
     "category": "news",
-    "title": "Agrim Madat: अग्रिम मदतीची ५० लाख शेतकऱ्यांना प्रतिक्षा; मदत रखडल्याचे कारणही कळेना",
+    "title": "Sugarcane Price : साताऱ्यात ऊसदराचा तिढा कायम; प्रति टन दरावर एकमत नसल्याने बळीराजा आक्रमक",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/maharashtra-agrim-madat-5000-payment-delay-50-lakh-farmers-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/impact-of-sugarcane-rate-dispute-on-crushing-season-in-satara-maharashtra-aak11",
     "isNew": true
   },
   {
-    "id": "news-5132668e18",
+    "id": "news-729287f51f",
     "category": "news",
-    "title": "Young Farmer Success Story: भाजीपाला पिकातून सुधारले कुटुंबाचे अर्थकारण",
+    "title": "Farmers Protest : ऊस दराचा भडका: उसाच्या पहिल्या उचलसाठी सोलापुरात आज शेतकरी संघटनांचे मोठे शक्तिप्रदर्शन!",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/yashogatha/parbhani-farmer-vegetable-farming-regular-income-ravi-shendre-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/sugarcane-farmers-show-of-strength-in-solapur-today-for-first-installment-price-aak11",
     "isNew": true
   },
   {
-    "id": "news-d42c75c08c",
+    "id": "news-cc3493e155",
     "category": "news",
-    "title": "Interview with Neeraj Hatekar: ग्रामीण अर्थव्यवस्थेला सावरण्यासाठी धोरणात्मक बदल हवेत",
+    "title": "Agrim Madat: नांदेडमध्ये तीन लाखांवर ‘अग्रिम’पासून वंचित",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/policy-changes-needed-to-revive-rural-economy-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/nanded-farmers-5000-advance-relief-payment-delay-abhi47",
+    "isNew": true
+  },
+  {
+    "id": "news-3a7c068ef7",
+    "category": "news",
+    "title": "Maize Rate: मक्याचे भाव ३५०० रुपयांपर्यंत जाणार? इथेनॉलची मागणी वाढल्याने दराला आधार",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/maize-rate-3500-ethanol-demand-price-forecast",
+    "isNew": true
+  },
+  {
+    "id": "news-5debdaf088",
+    "category": "news",
+    "title": "NDRF Madat : दुष्काळग्रस्त शेतकऱ्यांना एनडीआरची मदत कधी मिळणार?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/ndrf-relief-maharashtra-drought-farmers-compensation",
+    "isNew": true
+  },
+  {
+    "id": "news-3b4dc3b61d",
+    "category": "news",
+    "title": "Tur Maize Rate: तूर दरात चढ-उतार, मक्याचे भाव स्थिर, भेंडीच्या आवकेत किंचीत वाढ, मेथीच्या दरात बदल तर मोसंबीच्या दरात चढ-उतार",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/tur-maize-okra-fenugreek-sweet-lime-market-rates",
+    "isNew": true
+  },
+  {
+    "id": "news-8424113bfa",
+    "category": "news",
+    "title": "Weather Update : राज्यात तापमानात चढ-उतार शक्य",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/maharashtra-weather-update-temperature-fluctuation",
     "isNew": true
   },
   {
@@ -141,7 +173,7 @@
     "title": "Fodder Management:जनावरांच्या हिरव्या चाऱ्यासाठी बिनकाटेरी निवडुंग फायदेशीर का ठरतो?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/spineless-cactus-benefits-for-livestock-fodder-management",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-1fe12bdee1",
@@ -157,38 +189,6 @@
     "title": "Chana Rate: आयात हरभऱ्याचे भाव वाढल्याने देशातील तेजी वाढेल का ?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/chana-rate-imported-chana-price-market-update",
-    "isNew": false
-  },
-  {
-    "id": "news-da589b90f5",
-    "category": "news",
-    "title": "Crop Insurance: पीक विम्यात तांत्रिक उत्पादनाचा ५०% वाटा",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/crop-insurance-technical-yield-50-percent-weightage",
-    "isNew": false
-  },
-  {
-    "id": "news-62031c26f1",
-    "category": "news",
-    "title": "PoultryShed in Winter: हिवाळ्यात पोल्ट्रीशेडमध्ये काय बदल करावे?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/poultry-shed-management-in-winter",
-    "isNew": false
-  },
-  {
-    "id": "news-4cf8f6e32b",
-    "category": "news",
-    "title": "Krushi Samruddhi Yojana: कृषी समृद्धी योजनेचे ५ हजार कोटी कधी मिळणार? मंत्रिमंडळात प्रस्ताव मांडणार",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/krushi-samruddhi-yojana-5000-crore-maharashtra",
-    "isNew": false
-  },
-  {
-    "id": "news-79b6c65e0e",
-    "category": "news",
-    "title": "Chana Ginger Rate: हरभरा दरात चढ-उतार, आले बाजारात बदल, कोबीच्या आवकेत वाढ, कोथिंबिरीच्या दरात चढ-उतार तर डाळिंब आवकेत चढ-उतार",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/maharashtra-chana-ginger-cabbage-coriander-pomegranate-market-rates",
     "isNew": false
   }
 ]
