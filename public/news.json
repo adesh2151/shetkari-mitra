@@ -96,43 +96,51 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-e8df61bbb4",
+    "id": "news-a78cf21903",
     "category": "news",
-    "title": "Orange Growers : वरुड तालुक्यातील संत्रा उत्पादक दुहेरी संकटात: निसर्गाचा लहरीपणा आणि पडलेल्या दरामुळे बळीराजा हवालदिल!",
+    "title": "Mulberry Pest Management: तुती पिकावरील फुलकिडे, कोळी किडीचा प्रादुर्भाव",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/citrus-farmers-battle-twin-challenges-of-pest-attack-and-price-crash-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/mulberry-crop-thrips-mite-infestation-leaf-quality-cocoon-production-abhi47",
     "isNew": true
   },
   {
-    "id": "news-208a9c051b",
+    "id": "news-396d7c45de",
     "category": "news",
-    "title": "Livestock Farming : पशुपालकांसाठी मोठी संधी: रोजगार हमी योजनेतून करा चारा पिकांची लागवड; जिल्हाधिकारी कर्डिले यांचे आवाहन",
+    "title": "Agricultural Advisory: कृषी सल्ला : कोकण विभाग",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/documents-required-for-fodder-cultivation-under-employment-guarantee-scheme-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/konkan-agriculture-advisory-nachni-harvesting-kulith-sowing-abhi47",
     "isNew": true
   },
   {
-    "id": "news-ae1d4ce3cc",
+    "id": "news-f37aed777c",
     "category": "news",
-    "title": "Sugarcane Farmers : ऊस उत्पादक शेतकऱ्यांना मोठा दिलासा! पाण्याअभावी वाळणाऱ्या उसाला प्राधान्याने तोड देण्याचे आमदार अमित देशमुख यांचे आदेश",
+    "title": "Agrim Madat: अग्रिम मदतीची ५० लाख शेतकऱ्यांना प्रतिक्षा; मदत रखडल्याचे कारणही कळेना",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/mla-amit-deshmukh-instructions-to-sugar-factories-for-sugarcane-cutting-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/maharashtra-agrim-madat-5000-payment-delay-50-lakh-farmers-abhi47",
     "isNew": true
   },
   {
-    "id": "news-e6bc1aaec6",
+    "id": "news-5132668e18",
     "category": "news",
-    "title": "Sangli Rabi Sowing : सांगली जिल्ह्यात रब्बी हंगामाला वेग! आतापर्यंत ३० टक्के क्षेत्रावर पेरण्या पूर्ण",
+    "title": "Young Farmer Success Story: भाजीपाला पिकातून सुधारले कुटुंबाचे अर्थकारण",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/rabi-sowing-reaches-30-mark-in-sangli-district-of-maharashtra-aak11",
+    "link": "https://agrowon.esakal.com/yashogatha/parbhani-farmer-vegetable-farming-regular-income-ravi-shendre-abhi47",
     "isNew": true
   },
   {
-    "id": "news-ab44767a8b",
+    "id": "news-d42c75c08c",
     "category": "news",
-    "title": "Cotton Market : पांढऱ्या सोन्याची आवक मंदावली! खानदेशातील बाजारपेठांमध्ये कापसाची अल्प आवक, दरात सुधारणा होणार का?",
+    "title": "Interview with Neeraj Hatekar: ग्रामीण अर्थव्यवस्थेला सावरण्यासाठी धोरणात्मक बदल हवेत",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/low-cotton-arrivals-recorded-across-khandesh-markets-in-maharashtra-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/policy-changes-needed-to-revive-rural-economy-rat16",
+    "isNew": true
+  },
+  {
+    "id": "news-707bad0c74",
+    "category": "news",
+    "title": "Fodder Management:जनावरांच्या हिरव्या चाऱ्यासाठी बिनकाटेरी निवडुंग फायदेशीर का ठरतो?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/spineless-cactus-benefits-for-livestock-fodder-management",
     "isNew": true
   },
   {
@@ -141,7 +149,7 @@
     "title": "Tur Rate: सरकार तुरीची आयात करून भाव पाडू शकेल का ?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/tur-rate-government-import-price-market-update",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-fe12bd4d64",
@@ -149,7 +157,7 @@
     "title": "Chana Rate: आयात हरभऱ्याचे भाव वाढल्याने देशातील तेजी वाढेल का ?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/chana-rate-imported-chana-price-market-update",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-da589b90f5",
@@ -157,7 +165,7 @@
     "title": "Crop Insurance: पीक विम्यात तांत्रिक उत्पादनाचा ५०% वाटा",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/crop-insurance-technical-yield-50-percent-weightage",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-62031c26f1",
@@ -181,14 +189,6 @@
     "title": "Chana Ginger Rate: हरभरा दरात चढ-उतार, आले बाजारात बदल, कोबीच्या आवकेत वाढ, कोथिंबिरीच्या दरात चढ-उतार तर डाळिंब आवकेत चढ-उतार",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/maharashtra-chana-ginger-cabbage-coriander-pomegranate-market-rates",
-    "isNew": false
-  },
-  {
-    "id": "news-b1b5f8867e",
-    "category": "news",
-    "title": "Hawaman Andaj : राज्यातील अनेक भागात सकाळी गारवा वाढला",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/maharashtra-weather-update-morning-chill-temperature-forecast",
     "isNew": false
   }
 ]
