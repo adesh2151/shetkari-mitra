@@ -96,43 +96,43 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-7fd2e6e576",
+    "id": "news-c9e5932179",
     "category": "news",
-    "title": "Abhay Yojana : वीज थकबाकीदारांना मोठा दिलासा: महावितरणची ‘अभय योजना’ जाहीर; व्याज १००% माफ आणि मूळ रकमेतही सवलत!",
+    "title": "Solapur Sugarcane Price Protest: सोलापूरमधील ऊसदराचं आंदोलन स्थगित, १९ नोव्हेंबरला तोडगा न निघाल्यास महामार्ग, रेल्वे रोखण्याचा इशारा",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/installment-facility-for-permanently-disconnected-electricity-consumers-in-maharashtra-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/solapur-sugarcane-price-protest-suspend-november-19-decision-ddb79",
     "isNew": true
   },
   {
-    "id": "news-d4e9924e61",
+    "id": "news-65734d9c60",
     "category": "news",
-    "title": "Krushi Jalsinchan : ‘विठाई कृषी जलसिंचन’ अभियानास शेवगावात प्रारंभ; आधुनिक सिंचन पद्धतींमुळे शेती उत्पादनात होणार मोठी वाढ",
+    "title": "Chana Cultivation Technology: उत्पादकता वाढीसाठी हरभरा लागवड तंत्रज्ञान",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/vithai-krushi-jalsinchan-campaign-launched-in-shevgaon-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/chickpea-cultivation-technology-increase-productivity-abhi47",
     "isNew": true
   },
   {
-    "id": "news-1ddd523828",
+    "id": "news-a80a9c4ab3",
     "category": "news",
-    "title": "Sugarcane Price : साताऱ्यात ऊसदराचा तिढा कायम; प्रति टन दरावर एकमत नसल्याने बळीराजा आक्रमक",
+    "title": "Global Warming: परिषदांचा ‘एल निनो’ : कृतीचा दुष्काळ आणि आश्‍वासनांची ढगफुटी",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/impact-of-sugarcane-rate-dispute-on-crushing-season-in-satara-maharashtra-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/cop31-climate-action-global-warming-promises-abhi47",
     "isNew": true
   },
   {
-    "id": "news-729287f51f",
+    "id": "news-e1793def7b",
     "category": "news",
-    "title": "Farmers Protest : ऊस दराचा भडका: उसाच्या पहिल्या उचलसाठी सोलापुरात आज शेतकरी संघटनांचे मोठे शक्तिप्रदर्शन!",
+    "title": "Sugarcane Price Dispute: ऊसदरावरील बोलणी फिस्कटली; शेतकऱ्यांचा ठिय्या",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/sugarcane-farmers-show-of-strength-in-solapur-today-for-first-installment-price-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/maharashtra-sugarcane-farmers-demand-3500-price-raju-shetti-protest-rat16",
     "isNew": true
   },
   {
-    "id": "news-cc3493e155",
+    "id": "news-16d048416a",
     "category": "news",
-    "title": "Agrim Madat: नांदेडमध्ये तीन लाखांवर ‘अग्रिम’पासून वंचित",
+    "title": "Horse Gram Cultivation: कमी पाणी आणि कमी खर्चात येणाऱ्या कुळीथ पिकाची लागवड कशी करावी?",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/nanded-farmers-5000-advance-relief-payment-delay-abhi47",
+    "link": "https://agrowon.esakal.com/video/horse-gram-cultivation-low-water-low-cost-farming",
     "isNew": true
   },
   {
@@ -141,7 +141,7 @@
     "title": "Maize Rate: मक्याचे भाव ३५०० रुपयांपर्यंत जाणार? इथेनॉलची मागणी वाढल्याने दराला आधार",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/maize-rate-3500-ethanol-demand-price-forecast",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-5debdaf088",
@@ -149,7 +149,7 @@
     "title": "NDRF Madat : दुष्काळग्रस्त शेतकऱ्यांना एनडीआरची मदत कधी मिळणार?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/ndrf-relief-maharashtra-drought-farmers-compensation",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-3b4dc3b61d",
@@ -157,7 +157,7 @@
     "title": "Tur Maize Rate: तूर दरात चढ-उतार, मक्याचे भाव स्थिर, भेंडीच्या आवकेत किंचीत वाढ, मेथीच्या दरात बदल तर मोसंबीच्या दरात चढ-उतार",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/tur-maize-okra-fenugreek-sweet-lime-market-rates",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-8424113bfa",
@@ -165,7 +165,7 @@
     "title": "Weather Update : राज्यात तापमानात चढ-उतार शक्य",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/maharashtra-weather-update-temperature-fluctuation",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-707bad0c74",
