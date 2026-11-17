@@ -96,35 +96,67 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-c9e5932179",
+    "id": "news-6819280400",
     "category": "news",
-    "title": "Solapur Sugarcane Price Protest: सोलापूरमधील ऊसदराचं आंदोलन स्थगित, १९ नोव्हेंबरला तोडगा न निघाल्यास महामार्ग, रेल्वे रोखण्याचा इशारा",
+    "title": "Crop Insurance : परभणी, हिंगोली जिल्ह्यात ३,३९० हेक्टरवरील पिकांना विमा कवच; शेतकऱ्यांचा मोठा प्रतिसाद!",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/solapur-sugarcane-price-protest-suspend-november-19-decision-ddb79",
+    "link": "https://agrowon.esakal.com/agro-special/crop-insurance-update-3390-hectares-covered-across-parbhani-and-hingoli-districts-aak11",
     "isNew": true
   },
   {
-    "id": "news-65734d9c60",
+    "id": "news-73555aceba",
     "category": "news",
-    "title": "Chana Cultivation Technology: उत्पादकता वाढीसाठी हरभरा लागवड तंत्रज्ञान",
+    "title": "Maharashtra Farmers : चूका प्रशासनाच्या, फटका शेतकऱ्यांना! सरकारी गलथान कारभारामुळे बळीराजा संकटात",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/chickpea-cultivation-technology-increase-productivity-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/administrative-blunders-hurt-farmers-annadata-bears-the-brunt-of-official-negligence-aak11",
     "isNew": true
   },
   {
-    "id": "news-a80a9c4ab3",
+    "id": "news-b811c9e90d",
     "category": "news",
-    "title": "Global Warming: परिषदांचा ‘एल निनो’ : कृतीचा दुष्काळ आणि आश्‍वासनांची ढगफुटी",
+    "title": "Maharashtra Drought: आणखी ४ तालुक्यांत दुष्काळ जाहीर करण्यास मान्यता, इतर तालुक्यांचेही संपूर्ण सर्वेक्षण करण्याचे निर्देश",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/cop31-climate-action-global-warming-promises-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/maharashtra-drought-declaration-four-more-talukas-approved-ddb79",
     "isNew": true
   },
   {
-    "id": "news-e1793def7b",
+    "id": "news-836eb39328",
     "category": "news",
-    "title": "Sugarcane Price Dispute: ऊसदरावरील बोलणी फिस्कटली; शेतकऱ्यांचा ठिय्या",
+    "title": "Water User Association : दुष्काळावर मात करायची असेल तर ‘पाणी वापर संस्था’ बळकट करा; शेतकऱ्यांना मोलाचा सल्ला",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/maharashtra-sugarcane-farmers-demand-3500-price-raju-shetti-protest-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/farmers-must-understand-the-importance-of-water-user-associations-for-sustainable-agriculture-aak11",
+    "isNew": true
+  },
+  {
+    "id": "news-69379b77fb",
+    "category": "news",
+    "title": "Sugarcane Price Protest: ऊसदरासाठी येडशी टोलनाक्याजवळ राष्ट्रीय महामार्ग रोखला",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/agro-special/dharashiv-yedshi-highway-blockade-sugarcane-price-protest-abhi47",
+    "isNew": true
+  },
+  {
+    "id": "news-70d7afcf7c",
+    "category": "news",
+    "title": "Dushkal Madat: दुष्काळाच्या मदतीपासून वंचित शेतकऱ्यांचा आकडा किती?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/maharashtra-drought-relief-farmer-assistance-beneficiary-status",
+    "isNew": true
+  },
+  {
+    "id": "news-4d4feda76c",
+    "category": "news",
+    "title": "Soybean Onion Rate: सोयाबीन दरात वाढ, कांदा दरात सुधारणा, पालक आवक वाढली, फ्लॉवर दरात चढ-उतार, तर चिकूचे भाव कायम",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/soybean-onion-vegetable-market-rates-maharashtra",
+    "isNew": true
+  },
+  {
+    "id": "news-d4ae91d097",
+    "category": "news",
+    "title": "Weather Update : राज्यात अंशत: ढगाळ हवामानाचा अंदाज; तापमानात चढ-उतार",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/maharashtra-weather-update-partly-cloudy-temperature-fluctuation",
     "isNew": true
   },
   {
@@ -133,7 +165,7 @@
     "title": "Horse Gram Cultivation: कमी पाणी आणि कमी खर्चात येणाऱ्या कुळीथ पिकाची लागवड कशी करावी?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/horse-gram-cultivation-low-water-low-cost-farming",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-3a7c068ef7",
@@ -157,38 +189,6 @@
     "title": "Tur Maize Rate: तूर दरात चढ-उतार, मक्याचे भाव स्थिर, भेंडीच्या आवकेत किंचीत वाढ, मेथीच्या दरात बदल तर मोसंबीच्या दरात चढ-उतार",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/tur-maize-okra-fenugreek-sweet-lime-market-rates",
-    "isNew": false
-  },
-  {
-    "id": "news-8424113bfa",
-    "category": "news",
-    "title": "Weather Update : राज्यात तापमानात चढ-उतार शक्य",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/maharashtra-weather-update-temperature-fluctuation",
-    "isNew": false
-  },
-  {
-    "id": "news-707bad0c74",
-    "category": "news",
-    "title": "Fodder Management:जनावरांच्या हिरव्या चाऱ्यासाठी बिनकाटेरी निवडुंग फायदेशीर का ठरतो?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/spineless-cactus-benefits-for-livestock-fodder-management",
-    "isNew": false
-  },
-  {
-    "id": "news-1fe12bdee1",
-    "category": "news",
-    "title": "Tur Rate: सरकार तुरीची आयात करून भाव पाडू शकेल का ?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/tur-rate-government-import-price-market-update",
-    "isNew": false
-  },
-  {
-    "id": "news-fe12bd4d64",
-    "category": "news",
-    "title": "Chana Rate: आयात हरभऱ्याचे भाव वाढल्याने देशातील तेजी वाढेल का ?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/chana-rate-imported-chana-price-market-update",
     "isNew": false
   }
 ]
