@@ -96,43 +96,51 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-6819280400",
+    "id": "news-9e616dbfe2",
     "category": "news",
-    "title": "Crop Insurance : परभणी, हिंगोली जिल्ह्यात ३,३९० हेक्टरवरील पिकांना विमा कवच; शेतकऱ्यांचा मोठा प्रतिसाद!",
+    "title": "Nano Feed Supplements: नॅनो तंत्रज्ञानावर आधारित पशुखाद्य पूरकांचा वापर",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/crop-insurance-update-3390-hectares-covered-across-parbhani-and-hingoli-districts-aak11",
+    "link": "https://agrowon.esakal.com/techno-wan/nanotechnology-based-livestock-feed-supplements-nano-minerals-abhi47",
     "isNew": true
   },
   {
-    "id": "news-73555aceba",
+    "id": "news-3b5f7b16c2",
     "category": "news",
-    "title": "Maharashtra Farmers : चूका प्रशासनाच्या, फटका शेतकऱ्यांना! सरकारी गलथान कारभारामुळे बळीराजा संकटात",
+    "title": "Poultry Water Management: पिंजरा पद्धतीच्या पोल्ट्रीमधील जलप्रणाली",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/administrative-blunders-hurt-farmers-annadata-bears-the-brunt-of-official-negligence-aak11",
+    "link": "https://agrowon.esakal.com/techno-wan/cage-poultry-farming-automatic-water-management-system-abhi47",
     "isNew": true
   },
   {
-    "id": "news-b811c9e90d",
+    "id": "news-f03389b281",
     "category": "news",
-    "title": "Maharashtra Drought: आणखी ४ तालुक्यांत दुष्काळ जाहीर करण्यास मान्यता, इतर तालुक्यांचेही संपूर्ण सर्वेक्षण करण्याचे निर्देश",
+    "title": "Supriya Sule: ऊसदर प्रश्नी सरकारनं लक्ष घालून शेतकऱ्यांना न्याय द्यावा- सुप्रिया सुळे",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/maharashtra-drought-declaration-four-more-talukas-approved-ddb79",
+    "link": "https://agrowon.esakal.com/agro-special/supriya-sule-on-sugarcane-price-farmers-protest-ddb79",
     "isNew": true
   },
   {
-    "id": "news-836eb39328",
+    "id": "news-d3025cfe1a",
     "category": "news",
-    "title": "Water User Association : दुष्काळावर मात करायची असेल तर ‘पाणी वापर संस्था’ बळकट करा; शेतकऱ्यांना मोलाचा सल्ला",
+    "title": "Thornless Cactus Benefits: पशुखाद्यासाठी काटेविरहित निवडुंग फायदेशीर",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/farmers-must-understand-the-importance-of-water-user-associations-for-sustainable-agriculture-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/thornless-cactus-livestock-feed-drought-fodder-benefits-abhi47",
     "isNew": true
   },
   {
-    "id": "news-69379b77fb",
+    "id": "news-0af2a0951e",
     "category": "news",
-    "title": "Sugarcane Price Protest: ऊसदरासाठी येडशी टोलनाक्याजवळ राष्ट्रीय महामार्ग रोखला",
+    "title": "Sugarcane in Drought: दुष्काळात उसाची वाढ टिकवण्यासाठी उपयुक्त फवारण्या कोणत्या?",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/dharashiv-yedshi-highway-blockade-sugarcane-price-protest-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/how-to-reduce-water-stress-sugarcane-drought-ssp-25",
+    "isNew": true
+  },
+  {
+    "id": "news-918ae6f840",
+    "category": "news",
+    "title": "Grape Care in Drought: पाण्याची कमतरता असल्यावर द्राक्ष बागेचे उत्पादन क्षमता किती ठेवावी?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/grape-care-drought-water-scarcity-vineyard-production",
     "isNew": true
   },
   {
@@ -141,7 +149,7 @@
     "title": "Dushkal Madat: दुष्काळाच्या मदतीपासून वंचित शेतकऱ्यांचा आकडा किती?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/maharashtra-drought-relief-farmer-assistance-beneficiary-status",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-4d4feda76c",
@@ -149,7 +157,7 @@
     "title": "Soybean Onion Rate: सोयाबीन दरात वाढ, कांदा दरात सुधारणा, पालक आवक वाढली, फ्लॉवर दरात चढ-उतार, तर चिकूचे भाव कायम",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/soybean-onion-vegetable-market-rates-maharashtra",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-d4ae91d097",
@@ -157,7 +165,7 @@
     "title": "Weather Update : राज्यात अंशत: ढगाळ हवामानाचा अंदाज; तापमानात चढ-उतार",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/maharashtra-weather-update-partly-cloudy-temperature-fluctuation",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-16d048416a",
@@ -181,14 +189,6 @@
     "title": "NDRF Madat : दुष्काळग्रस्त शेतकऱ्यांना एनडीआरची मदत कधी मिळणार?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/ndrf-relief-maharashtra-drought-farmers-compensation",
-    "isNew": false
-  },
-  {
-    "id": "news-3b4dc3b61d",
-    "category": "news",
-    "title": "Tur Maize Rate: तूर दरात चढ-उतार, मक्याचे भाव स्थिर, भेंडीच्या आवकेत किंचीत वाढ, मेथीच्या दरात बदल तर मोसंबीच्या दरात चढ-उतार",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/tur-maize-okra-fenugreek-sweet-lime-market-rates",
     "isNew": false
   }
 ]
