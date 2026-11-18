@@ -96,43 +96,75 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-9e616dbfe2",
+    "id": "news-b635b04014",
     "category": "news",
-    "title": "Nano Feed Supplements: नॅनो तंत्रज्ञानावर आधारित पशुखाद्य पूरकांचा वापर",
+    "title": "E-Pik Pahani : ई-पीक पाहणी आणि ई-फेरफार नोंदींबाबत महसूल विभागाचे नवे आदेश जारी",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/techno-wan/nanotechnology-based-livestock-feed-supplements-nano-minerals-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/maharashtra-revenue-department-orders-to-prevent-duplicate-entries-during-crop-survey-extension-aak11",
     "isNew": true
   },
   {
-    "id": "news-3b5f7b16c2",
+    "id": "news-eb174a0537",
     "category": "news",
-    "title": "Poultry Water Management: पिंजरा पद्धतीच्या पोल्ट्रीमधील जलप्रणाली",
+    "title": "Land Unauthorized Sale: सांगली बाजार समितीच्या प्लॉटची परस्पर विक्री",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/techno-wan/cage-poultry-farming-automatic-water-management-system-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/sangli-market-committee-plot-sale-vasantdada-market-yard-abhi47",
     "isNew": true
   },
   {
-    "id": "news-f03389b281",
+    "id": "news-25fccd5d7f",
     "category": "news",
-    "title": "Supriya Sule: ऊसदर प्रश्नी सरकारनं लक्ष घालून शेतकऱ्यांना न्याय द्यावा- सुप्रिया सुळे",
+    "title": "Lemon Harvester : अहिल्यानगर महात्मा फुले कृषी विद्यापीठाचे मोठे यश! शेतकऱ्यांचे कष्ट वाचवणाऱ्या लिंबू काढणी उपकरणाला पेटंट",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/supriya-sule-on-sugarcane-price-farmers-protest-ddb79",
+    "link": "https://agrowon.esakal.com/agro-special/mahatma-phule-krishi-vidyapeeth-gets-patent-for-lemon-harvesting-device-aak11",
     "isNew": true
   },
   {
-    "id": "news-d3025cfe1a",
+    "id": "news-6bc9176952",
     "category": "news",
-    "title": "Thornless Cactus Benefits: पशुखाद्यासाठी काटेविरहित निवडुंग फायदेशीर",
+    "title": "Maharashtra Farmers : आत्महत्याग्रस्त कुटुंबासोबत ग्रामपंचायत अधिकाऱ्यांची दिवाळी",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/thornless-cactus-livestock-feed-drought-fodder-benefits-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/social-initiative-by-maharashtra-village-officials-to-support-farmer-widows-aak11",
     "isNew": true
   },
   {
-    "id": "news-0af2a0951e",
+    "id": "news-894ad39fe2",
     "category": "news",
-    "title": "Sugarcane in Drought: दुष्काळात उसाची वाढ टिकवण्यासाठी उपयुक्त फवारण्या कोणत्या?",
+    "title": "Winter Animal Feeding: दूध उत्पादन टिकवण्यासाठी हिवाळ्यात जनावरांचे आहार नियोजन",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/how-to-reduce-water-stress-sugarcane-drought-ssp-25",
+    "link": "https://agrowon.esakal.com/agro-special/winter-feeding-management-dairy-animals-ssp-25",
+    "isNew": true
+  },
+  {
+    "id": "news-353b1759d9",
+    "category": "news",
+    "title": "Cotton Rate: डिसेंबरनंतर कापसाच्या भावात तेजी येईल का ?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/cotton-rate-after-december-price-forecast-2026",
+    "isNew": true
+  },
+  {
+    "id": "news-f199ae251e",
+    "category": "news",
+    "title": "Drought 2026 : ३२७ जाणकार आणि तज्ज्ञांनी मुख्यमंत्री देवेंद्र फडणवीस का लिहिलं?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/maharashtra-drought-2026-327-experts-letter-devendra-fadnavis",
+    "isNew": true
+  },
+  {
+    "id": "news-a7fa2a2c6d",
+    "category": "news",
+    "title": "Cotton Maize Rate: मका दरात चढ-उतार, कापसाचे भाव टिकून, टोमॅटो आवकेत नरमाई, लसूण दरात चढ-उतार, सिताफळाला कमी भाव",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/maharashtra-market-rates-cotton-maize-tomato-garlic-custard-apple",
+    "isNew": true
+  },
+  {
+    "id": "news-b25d4e53fa",
+    "category": "news",
+    "title": "Weather Update : चक्रीवादळामुळे ढगाळ हवामानाचा अंदाज; तापमानात चढ-उतार सुरु",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/maharashtra-weather-update-cyclone-cloudy-weather-temperature-fluctuation",
     "isNew": true
   },
   {
@@ -141,7 +173,7 @@
     "title": "Grape Care in Drought: पाण्याची कमतरता असल्यावर द्राक्ष बागेचे उत्पादन क्षमता किती ठेवावी?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/grape-care-drought-water-scarcity-vineyard-production",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-70d7afcf7c",
@@ -157,38 +189,6 @@
     "title": "Soybean Onion Rate: सोयाबीन दरात वाढ, कांदा दरात सुधारणा, पालक आवक वाढली, फ्लॉवर दरात चढ-उतार, तर चिकूचे भाव कायम",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/soybean-onion-vegetable-market-rates-maharashtra",
-    "isNew": false
-  },
-  {
-    "id": "news-d4ae91d097",
-    "category": "news",
-    "title": "Weather Update : राज्यात अंशत: ढगाळ हवामानाचा अंदाज; तापमानात चढ-उतार",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/maharashtra-weather-update-partly-cloudy-temperature-fluctuation",
-    "isNew": false
-  },
-  {
-    "id": "news-16d048416a",
-    "category": "news",
-    "title": "Horse Gram Cultivation: कमी पाणी आणि कमी खर्चात येणाऱ्या कुळीथ पिकाची लागवड कशी करावी?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/horse-gram-cultivation-low-water-low-cost-farming",
-    "isNew": false
-  },
-  {
-    "id": "news-3a7c068ef7",
-    "category": "news",
-    "title": "Maize Rate: मक्याचे भाव ३५०० रुपयांपर्यंत जाणार? इथेनॉलची मागणी वाढल्याने दराला आधार",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/maize-rate-3500-ethanol-demand-price-forecast",
-    "isNew": false
-  },
-  {
-    "id": "news-5debdaf088",
-    "category": "news",
-    "title": "NDRF Madat : दुष्काळग्रस्त शेतकऱ्यांना एनडीआरची मदत कधी मिळणार?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/ndrf-relief-maharashtra-drought-farmers-compensation",
     "isNew": false
   }
 ]
