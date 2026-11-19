@@ -96,43 +96,67 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-13ce22a873",
+    "id": "news-12cc2d8440",
     "category": "news",
-    "title": "Solapur Sugarcane Price: सोलापुरातील ऊसदराची बैठक निष्फळ, कारखानदार ३,१५० रुपयांवर ठाम, शेतकरी संघटनांना दर अमान्य",
+    "title": "Ladki Bahin Yojana: लाडकी बहीण योजनेची ई-केवायसी पुन्हा सुरू झाली का? मोबाईलवरील मेसेजमुळे महिलांमध्ये संभ्रम",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/solapur-sugarcane-price-meeting-ended-without-decision-ddb79",
+    "link": "https://agrowon.esakal.com/agro-special/ladki-bahin-yojana-ekyc-update-mobile-message-fraud-alert-abhi47",
     "isNew": true
   },
   {
-    "id": "news-8c04ae92f6",
+    "id": "news-023fec585e",
     "category": "news",
-    "title": "Akola Farmers Compensation: अकोल्यातील ८२ हजार शेतकरी ‘अग्रिम’पासून वंचित",
+    "title": "Water Conservation : घटत्या भूजल पातळीमुळे चिंता; सिंचनासाठी पाण्याचा काटकसरीने वापर करण्याचे प्रशासनाचे आवाहन",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/akola-82000-farmers-miss-out-on-advance-drought-relief-assistance",
+    "link": "https://agrowon.esakal.com/agro-special/agriculture-department-urges-farmers-to-use-irrigation-water-judiciously-aak11",
     "isNew": true
   },
   {
-    "id": "news-b849d78a24",
+    "id": "news-3ddc379215",
     "category": "news",
-    "title": "Farming Guidance: पुरस्कारप्राप्त शेतकऱ्यांनी शेतीतून काय घडू शकते, हे सांगावे",
+    "title": "Krishi Sanjeevani Prakalp : नानाजी देशमुख कृषी संजीवनी प्रकल्पात नाशिक तालुक्यातील २२ गावांची निवड; शेतकऱ्यांना मिळणार भरघोस अनुदान",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/award-winning-farmers-tur-cultivation-drought-management-drone-spraying-chhatrapati-sambhajinagar",
+    "link": "https://agrowon.esakal.com/agro-special/22-villages-from-nashik-taluka-selected-under-nanaji-deshmukh-krishi-sanjeevani-project-aak11",
     "isNew": true
   },
   {
-    "id": "news-d869c3c51a",
+    "id": "news-1b78a2a3da",
     "category": "news",
-    "title": "EL Nino 2026 : एल निनोमुळे जागतिक अर्थव्यवस्थेला ११ ट्रिलियन डॉलरचा फटका बसण्याची शक्यता",
+    "title": "Cotton Stunted Growth: दोन फुटांवरच कपाशीची वाढ खुंटली",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/el-nio-impact-global-agriculture-and-food-systems-face-growing-risks-in-2027-ds98",
+    "link": "https://agrowon.esakal.com/agro-special/yavatmal-rainfed-cotton-crop-stunted-growth-water-shortage-farmer-crisis",
     "isNew": true
   },
   {
-    "id": "news-1a981555ee",
+    "id": "news-354c7bf9b9",
     "category": "news",
-    "title": "Drought Relief: दुष्काळी उपाययोजना, जलसंधारणाचा जिल्हाधिकाऱ्यांकडून आढावा",
+    "title": "Solapur Sugarcane Price Protest: सोलापुरात 'काटा बंद' आंदोलन सुरु; २४ नोव्हेंबरला पुणे-सोलापूर महामार्ग रोखू, राजू शेट्टींचा इशारा",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/jalna-collector-reviews-drought-relief-employment-water-conservation-measures",
+    "link": "https://agrowon.esakal.com/agro-special/solapur-sugarcane-price-protest-update-raju-shetti-ddb79",
+    "isNew": true
+  },
+  {
+    "id": "news-9b3254e439",
+    "category": "news",
+    "title": "Drought Subsidy : दुष्काळात यंदा कशाची गरज, चारा छावण्या की चारा डेपो?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/drought-subsidy-fodder-camps-vs-fodder-depots-maharashtra",
+    "isNew": true
+  },
+  {
+    "id": "news-1722480393",
+    "category": "news",
+    "title": "Drought Madat : दुष्काळाच्या मदतीवरून कर्नाटकचे केंद्र सरकारवर आरोप",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/karnataka-drought-relief-central-government-allegations",
+    "isNew": true
+  },
+  {
+    "id": "news-8adbb7d7b8",
+    "category": "news",
+    "title": "Rain Update : शनिवारपासून विदर्भात पावसाचा अंदाज; राज्यात अंशत: ढगाळ हवामान शक्य",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/maharashtra-weather-update-vidarbha-rain-forecast-november-21",
     "isNew": true
   },
   {
@@ -141,7 +165,7 @@
     "title": "Tur Pest Control: तुरीवर शेंगा पोखरणारी अळीचा प्रादुर्भाव कसा रोखावा?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/tur-pest-control-pod-borer-integrated-management",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-353b1759d9",
@@ -165,30 +189,6 @@
     "title": "Cotton Maize Rate: मका दरात चढ-उतार, कापसाचे भाव टिकून, टोमॅटो आवकेत नरमाई, लसूण दरात चढ-उतार, सिताफळाला कमी भाव",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/maharashtra-market-rates-cotton-maize-tomato-garlic-custard-apple",
-    "isNew": false
-  },
-  {
-    "id": "news-b25d4e53fa",
-    "category": "news",
-    "title": "Weather Update : चक्रीवादळामुळे ढगाळ हवामानाचा अंदाज; तापमानात चढ-उतार सुरु",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/maharashtra-weather-update-cyclone-cloudy-weather-temperature-fluctuation",
-    "isNew": false
-  },
-  {
-    "id": "news-918ae6f840",
-    "category": "news",
-    "title": "Grape Care in Drought: पाण्याची कमतरता असल्यावर द्राक्ष बागेचे उत्पादन क्षमता किती ठेवावी?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/grape-care-drought-water-scarcity-vineyard-production",
-    "isNew": false
-  },
-  {
-    "id": "news-70d7afcf7c",
-    "category": "news",
-    "title": "Dushkal Madat: दुष्काळाच्या मदतीपासून वंचित शेतकऱ्यांचा आकडा किती?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/maharashtra-drought-relief-farmer-assistance-beneficiary-status",
     "isNew": false
   }
 ]
