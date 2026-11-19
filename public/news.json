@@ -96,43 +96,51 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-b635b04014",
+    "id": "news-13ce22a873",
     "category": "news",
-    "title": "E-Pik Pahani : ई-पीक पाहणी आणि ई-फेरफार नोंदींबाबत महसूल विभागाचे नवे आदेश जारी",
+    "title": "Solapur Sugarcane Price: सोलापुरातील ऊसदराची बैठक निष्फळ, कारखानदार ३,१५० रुपयांवर ठाम, शेतकरी संघटनांना दर अमान्य",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/maharashtra-revenue-department-orders-to-prevent-duplicate-entries-during-crop-survey-extension-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/solapur-sugarcane-price-meeting-ended-without-decision-ddb79",
     "isNew": true
   },
   {
-    "id": "news-eb174a0537",
+    "id": "news-8c04ae92f6",
     "category": "news",
-    "title": "Land Unauthorized Sale: सांगली बाजार समितीच्या प्लॉटची परस्पर विक्री",
+    "title": "Akola Farmers Compensation: अकोल्यातील ८२ हजार शेतकरी ‘अग्रिम’पासून वंचित",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/sangli-market-committee-plot-sale-vasantdada-market-yard-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/akola-82000-farmers-miss-out-on-advance-drought-relief-assistance",
     "isNew": true
   },
   {
-    "id": "news-25fccd5d7f",
+    "id": "news-b849d78a24",
     "category": "news",
-    "title": "Lemon Harvester : अहिल्यानगर महात्मा फुले कृषी विद्यापीठाचे मोठे यश! शेतकऱ्यांचे कष्ट वाचवणाऱ्या लिंबू काढणी उपकरणाला पेटंट",
+    "title": "Farming Guidance: पुरस्कारप्राप्त शेतकऱ्यांनी शेतीतून काय घडू शकते, हे सांगावे",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/mahatma-phule-krishi-vidyapeeth-gets-patent-for-lemon-harvesting-device-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/award-winning-farmers-tur-cultivation-drought-management-drone-spraying-chhatrapati-sambhajinagar",
     "isNew": true
   },
   {
-    "id": "news-6bc9176952",
+    "id": "news-d869c3c51a",
     "category": "news",
-    "title": "Maharashtra Farmers : आत्महत्याग्रस्त कुटुंबासोबत ग्रामपंचायत अधिकाऱ्यांची दिवाळी",
+    "title": "EL Nino 2026 : एल निनोमुळे जागतिक अर्थव्यवस्थेला ११ ट्रिलियन डॉलरचा फटका बसण्याची शक्यता",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/social-initiative-by-maharashtra-village-officials-to-support-farmer-widows-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/el-nio-impact-global-agriculture-and-food-systems-face-growing-risks-in-2027-ds98",
     "isNew": true
   },
   {
-    "id": "news-894ad39fe2",
+    "id": "news-1a981555ee",
     "category": "news",
-    "title": "Winter Animal Feeding: दूध उत्पादन टिकवण्यासाठी हिवाळ्यात जनावरांचे आहार नियोजन",
+    "title": "Drought Relief: दुष्काळी उपाययोजना, जलसंधारणाचा जिल्हाधिकाऱ्यांकडून आढावा",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/winter-feeding-management-dairy-animals-ssp-25",
+    "link": "https://agrowon.esakal.com/agro-special/jalna-collector-reviews-drought-relief-employment-water-conservation-measures",
+    "isNew": true
+  },
+  {
+    "id": "news-4a1ffd593b",
+    "category": "news",
+    "title": "Tur Pest Control: तुरीवर शेंगा पोखरणारी अळीचा प्रादुर्भाव कसा रोखावा?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/tur-pest-control-pod-borer-integrated-management",
     "isNew": true
   },
   {
@@ -141,7 +149,7 @@
     "title": "Cotton Rate: डिसेंबरनंतर कापसाच्या भावात तेजी येईल का ?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/cotton-rate-after-december-price-forecast-2026",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-f199ae251e",
@@ -149,7 +157,7 @@
     "title": "Drought 2026 : ३२७ जाणकार आणि तज्ज्ञांनी मुख्यमंत्री देवेंद्र फडणवीस का लिहिलं?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/maharashtra-drought-2026-327-experts-letter-devendra-fadnavis",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-a7fa2a2c6d",
@@ -157,7 +165,7 @@
     "title": "Cotton Maize Rate: मका दरात चढ-उतार, कापसाचे भाव टिकून, टोमॅटो आवकेत नरमाई, लसूण दरात चढ-उतार, सिताफळाला कमी भाव",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/maharashtra-market-rates-cotton-maize-tomato-garlic-custard-apple",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-b25d4e53fa",
@@ -165,7 +173,7 @@
     "title": "Weather Update : चक्रीवादळामुळे ढगाळ हवामानाचा अंदाज; तापमानात चढ-उतार सुरु",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/maharashtra-weather-update-cyclone-cloudy-weather-temperature-fluctuation",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-918ae6f840",
@@ -181,14 +189,6 @@
     "title": "Dushkal Madat: दुष्काळाच्या मदतीपासून वंचित शेतकऱ्यांचा आकडा किती?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/maharashtra-drought-relief-farmer-assistance-beneficiary-status",
-    "isNew": false
-  },
-  {
-    "id": "news-4d4feda76c",
-    "category": "news",
-    "title": "Soybean Onion Rate: सोयाबीन दरात वाढ, कांदा दरात सुधारणा, पालक आवक वाढली, फ्लॉवर दरात चढ-उतार, तर चिकूचे भाव कायम",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/soybean-onion-vegetable-market-rates-maharashtra",
     "isNew": false
   }
 ]
