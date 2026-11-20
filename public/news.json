@@ -1,138 +1,82 @@
 [
   {
-    "id": "gr-c28902d144",
-    "category": "gr",
-    "title": "बियाणे उत्पादक",
-    "source": "कृषी विभाग, महाराष्ट्र",
-    "isNew": false,
-    "link": "https://krishi.maharashtra.gov.in:443/Site/Upload/Pdf/MahaParwana_Firms_Data_Seed_7_QC.pdf?MenuID=1036"
-  },
-  {
-    "id": "gr-0d5055bba4",
-    "category": "gr",
-    "title": "मे २०१४ पासून खतांचे कमाल विक्री किंमत",
-    "source": "कृषी विभाग, महाराष्ट्र",
-    "isNew": false,
-    "link": "https://krishi.maharashtra.gov.in:443/Site/Common/ViewGr.aspx?Doctype=e762e1c7-c389-4033-bab7-26c2566704d5?MenuID=1043"
-  },
-  {
-    "id": "gr-872762cffd",
-    "category": "gr",
-    "title": "द्रव्याधारित अनुदान",
-    "source": "कृषी विभाग, महाराष्ट्र",
-    "isNew": false,
-    "link": "https://krishi.maharashtra.gov.in:443/Site/Common/ViewGr.aspx?Doctype=aebc71f7-5f5f-4bb5-a149-9bc2fac19d1a?MenuID=1044"
-  },
-  {
-    "id": "gr-3e84960dee",
-    "category": "gr",
-    "title": "खतांचे परवाने",
-    "source": "कृषी विभाग, महाराष्ट्र",
-    "isNew": false,
-    "link": "https://krishi.maharashtra.gov.in:443/Site/Upload/Pdf/Fertilizers_Approved_license_list.xlsx?MenuID=1045"
-  },
-  {
-    "id": "gr-87a7b2c2b3",
-    "category": "gr",
-    "title": "कीटकनाशकांचा वापर",
-    "source": "कृषी विभाग, महाराष्ट्र",
-    "isNew": false,
-    "link": "https://krishi.maharashtra.gov.in:443/Site/Common/ViewGr.aspx?Doctype=b37a31ad-ba3e-48a2-b2cd-ea017a658a78?MenuID=1051"
-  },
-  {
-    "id": "gr-bc3acf2524",
-    "category": "gr",
-    "title": "पीकपेरणी अहवाल",
-    "source": "कृषी विभाग, महाराष्ट्र",
-    "isNew": false,
-    "link": "https://krishi.maharashtra.gov.in:443/Site/Common/ViewGr.aspx?Doctype=e8bdd10e-d33d-4ea0-865f-140a5284a2bc?MenuID=2906"
-  },
-  {
-    "id": "gr-10418e2b72",
-    "category": "gr",
-    "title": "पीकांची आकडेवारी (क्षेत्र, उत्पादन, उत्पादकता)",
-    "source": "कृषी विभाग, महाराष्ट्र",
-    "isNew": false,
-    "link": "https://krishi.maharashtra.gov.in/"
-  },
-  {
-    "id": "gr-bd106eeb01",
-    "category": "gr",
-    "title": "प्रधानमंत्री पिक विमा योजना",
-    "source": "कृषी विभाग, महाराष्ट्र",
-    "isNew": false,
-    "link": "https://krishi.maharashtra.gov.in:443/Site/Common/ViewGr.aspx?Doctype=ed5a4ceb-ad07-4189-b236-f9d191d5752d?MenuID=2918"
-  },
-  {
-    "id": "gr-4186e5dd9d",
-    "category": "gr",
-    "title": "गोपीनाथ मुंडे शे.अ. विमा योजना",
-    "source": "कृषी विभाग, महाराष्ट्र",
-    "isNew": false,
-    "link": "https://krishi.maharashtra.gov.in:443/Site/Common/ViewGr.aspx?Doctype=e2e11ed5-3d93-4e5b-9560-0124f4324636?MenuID=2912"
-  },
-  {
-    "id": "gr-7cdea14952",
-    "category": "gr",
-    "title": "शेतकरी कॉर्नर (कट्टा)",
-    "source": "कृषी विभाग, महाराष्ट्र",
-    "isNew": false,
-    "link": "https://krishi.maharashtra.gov.in/"
-  },
-  {
-    "id": "gr-48218ad93c",
-    "category": "gr",
-    "title": "शेतकरी मासिक",
-    "source": "कृषी विभाग, महाराष्ट्र",
-    "isNew": false,
-    "link": "https://krishi.maharashtra.gov.in:443/Site/Common/ViewGr.aspx?Doctype=1c340af5-c4d2-4915-bf1b-870a749d98b5?MenuID=1089"
-  },
-  {
-    "id": "gr-35817637d4",
-    "category": "gr",
-    "title": "महिला शेतकरी प्रमाणपत्र पोर्टल",
-    "source": "कृषी विभाग, महाराष्ट्र",
-    "isNew": false,
-    "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
-  },
-  {
-    "id": "news-0302b32ff2",
+    "id": "news-51c442a44f",
     "category": "news",
-    "title": "Wheat Sowing Area Decline : देशात गव्हाच्या पेरणी क्षेत्रात २६ वर्षांतील सर्वात मोठी घट होण्याची शक्यता",
+    "title": "Nilesh Lanke Demands: अहिल्यानगर जिल्हा परिषदेतील शिक्षण विभागाच्या कारभारा विरोधात नीलेश लंकेंचे आंदोलन",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/market-intelligence/indias-wheat-sowing-area-may-see-biggest-decline-in-26-years-ds98",
+    "link": "https://agrowon.esakal.com/agro-special/nilesh-lanke-ahilyanagar-zilla-parishad-teacher-transfer-protest-abhi47",
     "isNew": true
   },
   {
-    "id": "news-a4fd89d78f",
+    "id": "news-d0d8df34d3",
     "category": "news",
-    "title": "Bird Flu Vaccine: पोल्ट्री उद्योगाला मोठा दिलासा; भारतात 'बर्ड फ्लू'वरील पहिली स्वदेशी लस तयार",
+    "title": "Sugarcane Crushing Update: सातारा जिल्ह्यात २५ लाख टन उसाचे गाळप पूर्ण",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/bird-flu-vaccine-india-first-indigenous-h5n1-poultry-ddb79",
+    "link": "https://agrowon.esakal.com/agro-special/satara-sugarcane-crushing-25-lakh-tonnes-sugar-recovery-abhi47",
     "isNew": true
   },
   {
-    "id": "news-a621c82afb",
+    "id": "news-e0700ce23f",
     "category": "news",
-    "title": "Grape Farming Tips: दुष्काळी परिस्थितीत फळछाटणीनंतर द्राक्ष बागेचे व्यवस्थापन",
+    "title": "Animal Crematorium: पशूंच्या स्मशानभूमीचा शासननिर्णय कागदावरच!",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/grape-vineyard-management-after-pruning-drought-conditions-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/pet-animal-cemetery-government-resolution-implementation-delay-amravati-abhi47",
     "isNew": true
   },
   {
-    "id": "news-ed5296d1aa",
+    "id": "news-19c0a6f4f5",
     "category": "news",
-    "title": "Jalna Development Works: विकासकामांसाठी उपलब्ध निधी अखर्चित राहू नये : मंत्री पंकजा मुंडे",
+    "title": "Kartiki Ekadashi: कार्तिकी एकादशी यात्रेनिमित्त एसटीच्या एक हजार जादा बसेसची व्यवस्था- मंत्री प्रताप सरनाईक",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/jalna-development-funds-utilization-pankaja-munde-instructions-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/kartiki-ekadashi-pandharpur-msrtc-extra-buses-ddb79",
     "isNew": true
   },
   {
-    "id": "news-47e1605257",
+    "id": "news-6079a10df6",
     "category": "news",
-    "title": "Maharashtra Winter Session: हिवाळी अधिवेशनाचा खर्च टाळून निधी दुष्काळग्रस्त शेतकऱ्यांना द्या",
+    "title": "Crop Damage Compensation: पूर्णा तालुक्यातील शेतकऱ्यांची नुकसानभरपाईची मागणी",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/maharashtra-winter-session-mumbai-nagpur-expenses-drought-relief-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/purna-parbhani-yeldari-siddheshwar-canal-overflow-farmer-compensation-abhi47",
+    "isNew": true
+  },
+  {
+    "id": "news-40deb7b22f",
+    "category": "news",
+    "title": "Dairy Farming: दूध उत्पादनातून शेतकऱ्यांचा नफा किती वाढला?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/dairy-farming-milk-production-farmers-profit",
+    "isNew": true
+  },
+  {
+    "id": "news-f262ae18e0",
+    "category": "news",
+    "title": "Ativrushti Madat 2025 : अतिवृष्टीग्रस्तांसाठी केंद्र सरकारने निधी का दिला नाही?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/ativrushti-madat-2025-maharashtra-flood-relief-central-funds",
+    "isNew": true
+  },
+  {
+    "id": "news-1209b4abd5",
+    "category": "news",
+    "title": "Turmeric Rate: हरभरा बाजारात चढ-उतार; हळद दर टिकून, बटाटा स्थिर, ढोबळी मिरचीच्या दरात सुधारणा तर शेपूच्या बाजारात नरमाई",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/turmeric-chana-potato-capsicum-dill-market-rates",
+    "isNew": true
+  },
+  {
+    "id": "news-3e5e29bd59",
+    "category": "news",
+    "title": "Maharashtra Drought: अक्कलकोटमध्ये दुष्काळाचं भयावह वास्तव",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/ravikant-tupkar-warning-government-5000-drought-relief",
+    "isNew": true
+  },
+  {
+    "id": "news-aa2d0a0dbb",
+    "category": "news",
+    "title": "Rain Udpate : राज्यात तापमानात चढ-उतार शक्य",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/maharashtra-weather-cold-wave-vidarbha-rain-forecast",
     "isNew": true
   },
   {
@@ -141,7 +85,7 @@
     "title": "Chickpea Sowing: दुष्काळात हरभऱ्याचे योग्य वाण कोणते?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/best-chickpea-varieties-for-drought-conditions",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-9b3254e439",
@@ -149,46 +93,6 @@
     "title": "Drought Subsidy : दुष्काळात यंदा कशाची गरज, चारा छावण्या की चारा डेपो?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/drought-subsidy-fodder-camps-vs-fodder-depots-maharashtra",
-    "isNew": false
-  },
-  {
-    "id": "news-1722480393",
-    "category": "news",
-    "title": "Drought Madat : दुष्काळाच्या मदतीवरून कर्नाटकचे केंद्र सरकारवर आरोप",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/karnataka-drought-relief-central-government-allegations",
-    "isNew": false
-  },
-  {
-    "id": "news-8adbb7d7b8",
-    "category": "news",
-    "title": "Rain Update : शनिवारपासून विदर्भात पावसाचा अंदाज; राज्यात अंशत: ढगाळ हवामान शक्य",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/maharashtra-weather-update-vidarbha-rain-forecast-november-21",
-    "isNew": false
-  },
-  {
-    "id": "news-4a1ffd593b",
-    "category": "news",
-    "title": "Tur Pest Control: तुरीवर शेंगा पोखरणारी अळीचा प्रादुर्भाव कसा रोखावा?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/tur-pest-control-pod-borer-integrated-management",
-    "isNew": false
-  },
-  {
-    "id": "news-353b1759d9",
-    "category": "news",
-    "title": "Cotton Rate: डिसेंबरनंतर कापसाच्या भावात तेजी येईल का ?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/cotton-rate-after-december-price-forecast-2026",
-    "isNew": false
-  },
-  {
-    "id": "news-f199ae251e",
-    "category": "news",
-    "title": "Drought 2026 : ३२७ जाणकार आणि तज्ज्ञांनी मुख्यमंत्री देवेंद्र फडणवीस का लिहिलं?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/maharashtra-drought-2026-327-experts-letter-devendra-fadnavis",
     "isNew": false
   }
 ]
