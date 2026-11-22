@@ -96,35 +96,59 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-6e7d09f655",
+    "id": "news-9d40ff2456",
     "category": "news",
-    "title": "Tur Pest Control: शेंगमाशी नियंत्रणासाठी उपयुक्त परोपजीवी ‘ऑर्मायरस’",
+    "title": "Rabi Crop Loan : वर्धा जिल्ह्यात दुष्काळाचा पीककर्ज वाटपालाही फटका: रब्बी हंगामासाठी ७,६४५ शेतकऱ्यांना १२१ कोटींचे कर्जवाटप",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/ormyrus-orientalis-parasitoid-pigeon-pea-pod-fly-control-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/drought-slows-down-crop-loan-disbursement-in-wardha-121-crore-distributed-to-7645-farmers-for-rabi-aak11",
     "isNew": true
   },
   {
-    "id": "news-3f839ddea1",
+    "id": "news-40a69ed714",
     "category": "news",
-    "title": "Air Pollution Control: श्वास कंठाशी !",
+    "title": "Sustainable Farming : खानदेशात मोठा कृषी बदल: रासायनिक तणनाशकांचा वापर ३० टक्क्यांनी घटला",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/air-pollution-control-citizen-responsibility-clean-air-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/herbicide-usage-drops-by-30-in-khandesh-as-farmers-shift-to-sustainable-weed-management-aak11",
     "isNew": true
   },
   {
-    "id": "news-61b985f9ab",
+    "id": "news-8612a7f151",
     "category": "news",
-    "title": "Agriculture Development: शेतकरी गट ते  राष्ट्रीय संस्था: ‘कृषी विकास’ची वाटचाल",
+    "title": "Rabi Season : खरिपानंतर आता रब्बी हंगामालाही दुष्काळाचा मोठा फटका; पाण्याअभावी पेरण्या रखडल्याने बळीराजा चिंतेत!",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/krushi-vikas-farmer-group-to-national-institution-journey-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/drought-hits-rabi-season-in-maharashtra-sowing-of-wheat-gram-delayed-due-to-water-scarcity-aak11",
     "isNew": true
   },
   {
-    "id": "news-a96144b153",
+    "id": "news-ab37b5386c",
     "category": "news",
-    "title": "Sugarcane AI Technology: दुष्काळात ‘एआय’ तंत्रज्ञान वरदान",
+    "title": "Old Farm Pond Lining Approval : शेतकऱ्यांची मोठी मागणी: जुन्या शेततळ्यांचे अस्तरीकरण नव्याने करण्यासाठी अनुदानास मंजुरी द्या!",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/ai-technology-sugarcane-farming-drought-water-management-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/farmers-demand-approval-subsidy-for-re-lining-old-farm-ponds-in-maharashtra-aak11",
+    "isNew": true
+  },
+  {
+    "id": "news-2a6b9414cb",
+    "category": "news",
+    "title": "Tembhu Project : सांगलीच्या दुष्काळी पट्ट्याला मोठा दिलासा: 'ताकारी आणि म्हैसाळ' योजना सुरू, आता 'टेंभू'चे आवर्तन कधी?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/agro-special/takari-and-mhaisal-lift-irrigation-schemes-begin-water-rotation-farmers-await-tembhu-schedule-aak11",
+    "isNew": true
+  },
+  {
+    "id": "news-dd7152cddd",
+    "category": "news",
+    "title": "Russian Agri Technology : दुष्काळावर मात करण्यासाठी रशियाने कोणतं तंत्रज्ञान सादर केलं?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/russian-agri-technology-drought-management-innovation-2",
+    "isNew": true
+  },
+  {
+    "id": "news-03f8afa6df",
+    "category": "news",
+    "title": "Dairy Farming: सहकारी आणि खासगी दूध संघ एकत्र आले तर काय बदलणार?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/cooperative-private-dairy-unions-collaboration-milk-prices",
     "isNew": true
   },
   {
@@ -133,7 +157,7 @@
     "title": "Fodder Issues: बुरशीयुक्त चारा जनावरांसाठी घातक, चारा साठवताना काय घ्यावी काळजी?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/mouldy-fodder-storage-tips-animal-health",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-001135fb0a",
@@ -165,30 +189,6 @@
     "title": "Tur Cotton Rate: तुरीच्या दरात सुधारणा कायम; कापसाचे भाव टिकून, काकडीच्या दरात बदल, मेथीची आवक वाढली तर डाळिंबाच्या भावात चढ-उतार",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/maharashtra-market-rates-tur-cotton-cucumber-methi-pomegranate",
-    "isNew": false
-  },
-  {
-    "id": "news-abbc9ccfea",
-    "category": "news",
-    "title": "Rain Update : मराठवाड्यात हलक्या सरी शक्य; उत्तर महाराष्ट्रात हुडहुडी",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/maharashtra-weather-update-marathwada-rain-north-maharashtra-cold",
-    "isNew": false
-  },
-  {
-    "id": "news-0a9d4966c8",
-    "category": "news",
-    "title": "Wheat Late Sowing: दुष्काळात गव्हाची पेरणी करताना कोणत्या गोष्टी बदलाव्या?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/wheat-late-sowing-drought-management-tips",
-    "isNew": false
-  },
-  {
-    "id": "news-40deb7b22f",
-    "category": "news",
-    "title": "Dairy Farming: दूध उत्पादनातून शेतकऱ्यांचा नफा किती वाढला?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/dairy-farming-milk-production-farmers-profit",
     "isNew": false
   }
 ]
