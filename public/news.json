@@ -96,43 +96,43 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-9d40ff2456",
+    "id": "news-adf88248ee",
     "category": "news",
-    "title": "Rabi Crop Loan : वर्धा जिल्ह्यात दुष्काळाचा पीककर्ज वाटपालाही फटका: रब्बी हंगामासाठी ७,६४५ शेतकऱ्यांना १२१ कोटींचे कर्जवाटप",
+    "title": "Agricultural Land: सामान्य शेतकऱ्यांच्या जमिनीला धक्का नाही! पण 'त्या' पडीक शेतजमिनी ३ वर्षांत पिकाखाली आणा- बावनकुळे",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/drought-slows-down-crop-loan-disbursement-in-wardha-121-crore-distributed-to-7645-farmers-for-rabi-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/agricultural-land-rules-maharashtra-chandrashekhar-bawankule-statement-ddb79",
     "isNew": true
   },
   {
-    "id": "news-40a69ed714",
+    "id": "news-4d18e39160",
     "category": "news",
-    "title": "Sustainable Farming : खानदेशात मोठा कृषी बदल: रासायनिक तणनाशकांचा वापर ३० टक्क्यांनी घटला",
+    "title": "Sweet Corn Farming: कमी पाण्यात, कालावधीत उत्पन्नांसाठी मधुमका फायद्याचा",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/herbicide-usage-drops-by-30-in-khandesh-as-farmers-shift-to-sustainable-weed-management-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/sweet-corn-cultivation-low-water-short-duration-drought-farming-abhi47",
     "isNew": true
   },
   {
-    "id": "news-8612a7f151",
+    "id": "news-e9d23e1151",
     "category": "news",
-    "title": "Rabi Season : खरिपानंतर आता रब्बी हंगामालाही दुष्काळाचा मोठा फटका; पाण्याअभावी पेरण्या रखडल्याने बळीराजा चिंतेत!",
+    "title": "Small Hive Beetle: मधमाश्यांच्या पोळ्यातील नवा शत्रू ‘स्मॉल हाईव्ह बीटल’",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/drought-hits-rabi-season-in-maharashtra-sowing-of-wheat-gram-delayed-due-to-water-scarcity-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/small-hive-beetle-threat-honeybee-colonies-india-abhi47",
     "isNew": true
   },
   {
-    "id": "news-ab37b5386c",
+    "id": "news-b8c92b4011",
     "category": "news",
-    "title": "Old Farm Pond Lining Approval : शेतकऱ्यांची मोठी मागणी: जुन्या शेततळ्यांचे अस्तरीकरण नव्याने करण्यासाठी अनुदानास मंजुरी द्या!",
+    "title": "Women Empowerment: संजित ‘बंकर’ रॉय : कृतिशील महिला शिक्षणाचा कर्ता",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/farmers-demand-approval-subsidy-for-re-lining-old-farm-ponds-in-maharashtra-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/bunker-roy-rural-women-education-empowerment-tribute-abhi47",
     "isNew": true
   },
   {
-    "id": "news-2a6b9414cb",
+    "id": "news-fcbc036351",
     "category": "news",
-    "title": "Tembhu Project : सांगलीच्या दुष्काळी पट्ट्याला मोठा दिलासा: 'ताकारी आणि म्हैसाळ' योजना सुरू, आता 'टेंभू'चे आवर्तन कधी?",
+    "title": "Rabi Jowar: रब्बी ज्वारीच्या पेरणीला उशीर झालाय का? तज्ज्ञांनी दिला महत्त्वाचा सल्ला",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/takari-and-mhaisal-lift-irrigation-schemes-begin-water-rotation-farmers-await-tembhu-schedule-aak11",
+    "link": "https://agrowon.esakal.com/video/rabi-jowar-late-sowing-expert-advice-maharashtra",
     "isNew": true
   },
   {
@@ -141,7 +141,7 @@
     "title": "Russian Agri Technology : दुष्काळावर मात करण्यासाठी रशियाने कोणतं तंत्रज्ञान सादर केलं?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/russian-agri-technology-drought-management-innovation-2",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-03f8afa6df",
@@ -149,7 +149,7 @@
     "title": "Dairy Farming: सहकारी आणि खासगी दूध संघ एकत्र आले तर काय बदलणार?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/cooperative-private-dairy-unions-collaboration-milk-prices",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-8fc547bf81",
