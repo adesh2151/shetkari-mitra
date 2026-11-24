@@ -96,35 +96,67 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-adf88248ee",
+    "id": "news-561b0aefc5",
     "category": "news",
-    "title": "Agricultural Land: सामान्य शेतकऱ्यांच्या जमिनीला धक्का नाही! पण 'त्या' पडीक शेतजमिनी ३ वर्षांत पिकाखाली आणा- बावनकुळे",
+    "title": "Dushkal Sangharsh Yatra : हक्काच्या मदतीसाठी शेतकरी एकवटले; दुष्काळ संघर्ष यात्रेचे ठिकठिकाणी जोरदार स्वागत",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/agricultural-land-rules-maharashtra-chandrashekhar-bawankule-statement-ddb79",
+    "link": "https://agrowon.esakal.com/agro-special/dushkal-sangharsh-yatra-receives-strong-response-in-maharashtra-villages-aak11",
     "isNew": true
   },
   {
-    "id": "news-4d18e39160",
+    "id": "news-90b11903db",
     "category": "news",
-    "title": "Sweet Corn Farming: कमी पाण्यात, कालावधीत उत्पन्नांसाठी मधुमका फायद्याचा",
+    "title": "Farm Loan Waiver : सातबारा कोरा कधी होणार? वाढत्या कर्जाच्या ओझ्याखाली दबलेल्या शेतकऱ्यांना कर्जमाफीची आस",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/sweet-corn-cultivation-low-water-short-duration-drought-farming-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/farmers-await-loan-waiver-relief-amid-rising-agrarian-distress-in-maharashtra-aak11",
     "isNew": true
   },
   {
-    "id": "news-e9d23e1151",
+    "id": "news-a6fdcf11a2",
     "category": "news",
-    "title": "Small Hive Beetle: मधमाश्यांच्या पोळ्यातील नवा शत्रू ‘स्मॉल हाईव्ह बीटल’",
+    "title": "Mustard Farming : गडचिरोलीत मोहरीची शेती बहरणार; शेतकऱ्यांचे उत्पन्न वाढवण्यासाठी कृषी विभागाचा नवा उपक्रम",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/small-hive-beetle-threat-honeybee-colonies-india-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/boosting-oilseed-production-gadchiroli-plans-large-scale-mustard-cultivation-aak11",
     "isNew": true
   },
   {
-    "id": "news-b8c92b4011",
+    "id": "news-b1db8e9a12",
     "category": "news",
-    "title": "Women Empowerment: संजित ‘बंकर’ रॉय : कृतिशील महिला शिक्षणाचा कर्ता",
+    "title": "KDCC Bank Loan Scheme: ‘केडीसीसी’ बँक आता म्हशींसह गाय खरेदीसाठीही देणार कर्ज",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/bunker-roy-rural-women-education-empowerment-tribute-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/kolhapur-district-bank-cow-buffalo-purchase-loan-ddb79",
+    "isNew": true
+  },
+  {
+    "id": "news-cfd34faf6d",
+    "category": "news",
+    "title": "Umed Abhiyan : पाथर्डीत मोठी खळबळ: उमेद अभियानांतर्गत ग्रामसंघाच्या खात्यातून परस्पर १ लाख रुपये  रक्कम काढली",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/agro-special/1-lakh-withdrawn-without-permission-from-umed-gram-sangh-account-in-koradgaon-pathardi-aak11",
+    "isNew": true
+  },
+  {
+    "id": "news-604eae8ee6",
+    "category": "news",
+    "title": "Mustard Market: मोहरीच्या पेरणीत घट, तरीही भावात तेजीची शक्यता?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/mustard-market-price-forecast-sowing-demand-2026",
+    "isNew": true
+  },
+  {
+    "id": "news-bf22191a74",
+    "category": "news",
+    "title": "Soybean,Carrot Rate: सोयाबीन दर टिकून, उडदाच्या दरात चढ-उतार, कोथिंबिर  बाजरात चढ-उतार, गाजराच्या दरात घसरण, पेरूच्या बाजरात घसरण",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/soybean-urad-carrot-guava-coriander-market-rates-today",
+    "isNew": true
+  },
+  {
+    "id": "news-909f27e61d",
+    "category": "news",
+    "title": "Hawaman Andaj : राज्यातील काही भागात ढगाळ हवामानामुळे गारठा कमी",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/maharashtra-weather-update-cloudy-weather-reduces-cold",
     "isNew": true
   },
   {
@@ -133,7 +165,7 @@
     "title": "Rabi Jowar: रब्बी ज्वारीच्या पेरणीला उशीर झालाय का? तज्ज्ञांनी दिला महत्त्वाचा सल्ला",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/rabi-jowar-late-sowing-expert-advice-maharashtra",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-dd7152cddd",
@@ -157,38 +189,6 @@
     "title": "Fodder Issues: बुरशीयुक्त चारा जनावरांसाठी घातक, चारा साठवताना काय घ्यावी काळजी?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/mouldy-fodder-storage-tips-animal-health",
-    "isNew": false
-  },
-  {
-    "id": "news-001135fb0a",
-    "category": "news",
-    "title": "Cotton Soybean Rate: कापसासोबत मोहरीचा भावही पोचला १० हजारांच्या घरात",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/cotton-soybean-rate-mustard-price-10000-mandi-bhav",
-    "isNew": false
-  },
-  {
-    "id": "news-6626d0af6d",
-    "category": "news",
-    "title": "OTS Farmer Loan : कर्जमाफी योजनेतील एकवेळ समझोता योजनेच्या पहिल्या यादीत किती शेतकरी?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/maharashtra-farmer-loan-waiver-ots-first-beneficiary-list-2026",
-    "isNew": false
-  },
-  {
-    "id": "news-dc966e3359",
-    "category": "news",
-    "title": "SOLAPUR | नळाला पाणी नाही, बोरी नदीही कोरडी; सांगवी गावात दुष्काळाची भीषण दाहकता",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/maharashtra-drought-solapur-sangvi-water-crisis-ground-report",
-    "isNew": false
-  },
-  {
-    "id": "news-f1bea0e86e",
-    "category": "news",
-    "title": "Tur Cotton Rate: तुरीच्या दरात सुधारणा कायम; कापसाचे भाव टिकून, काकडीच्या दरात बदल, मेथीची आवक वाढली तर डाळिंबाच्या भावात चढ-उतार",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/maharashtra-market-rates-tur-cotton-cucumber-methi-pomegranate",
     "isNew": false
   }
 ]
