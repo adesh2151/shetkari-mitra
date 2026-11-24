@@ -96,43 +96,59 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-561b0aefc5",
+    "id": "news-cf44e3f84e",
     "category": "news",
-    "title": "Dushkal Sangharsh Yatra : हक्काच्या मदतीसाठी शेतकरी एकवटले; दुष्काळ संघर्ष यात्रेचे ठिकठिकाणी जोरदार स्वागत",
+    "title": "Agrowon Podcast: मक्याच्या दरात सुधारणा; कापसाला मिळतोय चांगला भाव, कांद्याच्या दरात चढ-उतार, पालक स्वस्त तर केळी आवक वाढली",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/dushkal-sangharsh-yatra-receives-strong-response-in-maharashtra-villages-aak11",
+    "link": "https://agrowon.esakal.com/market-intelligence/market-bulletin/maize-cotton-onion-spinach-banana-market-rates-today-rat16",
     "isNew": true
   },
   {
-    "id": "news-90b11903db",
+    "id": "news-98cdb3b189",
     "category": "news",
-    "title": "Farm Loan Waiver : सातबारा कोरा कधी होणार? वाढत्या कर्जाच्या ओझ्याखाली दबलेल्या शेतकऱ्यांना कर्जमाफीची आस",
+    "title": "Shepherd Problems: राजस्थानातील मेंढपाळांच्या चराईचा पेच कायम",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/farmers-await-loan-waiver-relief-amid-rising-agrarian-distress-in-maharashtra-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/rajasthan-shepherds-sheep-grazing-dispute-akola-abhi47",
     "isNew": true
   },
   {
-    "id": "news-a6fdcf11a2",
+    "id": "news-dac4f3a0d6",
     "category": "news",
-    "title": "Mustard Farming : गडचिरोलीत मोहरीची शेती बहरणार; शेतकऱ्यांचे उत्पन्न वाढवण्यासाठी कृषी विभागाचा नवा उपक्रम",
+    "title": "Farmer Loan Waiver: दोन लाखावरील कर्जदारांना ‘ओटीएस’चा पर्याय लागू",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/boosting-oilseed-production-gadchiroli-plans-large-scale-mustard-cultivation-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/akola-2708-farmers-ots-scheme-two-lakh-loan-relief-abhi47",
     "isNew": true
   },
   {
-    "id": "news-b1db8e9a12",
+    "id": "news-414b68c9b7",
     "category": "news",
-    "title": "KDCC Bank Loan Scheme: ‘केडीसीसी’ बँक आता म्हशींसह गाय खरेदीसाठीही देणार कर्ज",
+    "title": "Maize Cultivation: यंदा मका फायदेशीर, पेरणी- खत-पाणी व्यवस्थापन कसे करावे?",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/kolhapur-district-bank-cow-buffalo-purchase-loan-ddb79",
+    "link": "https://agrowon.esakal.com/agro-special/maize-cultivation-drought-sowing-irrigation-fertilizer-tips-ssp-25",
     "isNew": true
   },
   {
-    "id": "news-cfd34faf6d",
+    "id": "news-7a928793ff",
     "category": "news",
-    "title": "Umed Abhiyan : पाथर्डीत मोठी खळबळ: उमेद अभियानांतर्गत ग्रामसंघाच्या खात्यातून परस्पर १ लाख रुपये  रक्कम काढली",
+    "title": "Maharashtra Weather Update: राज्यात तापमानात वाढ, थंडी झाली कमी",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/1-lakh-withdrawn-without-permission-from-umed-gram-sangh-account-in-koradgaon-pathardi-aak11",
+    "link": "https://agrowon.esakal.com/weather-news/maharashtra-temperature-rise-cold-weather-decreases-rat16",
+    "isNew": true
+  },
+  {
+    "id": "news-a491e13720",
+    "category": "news",
+    "title": "Weather Update : राज्यात तापमानात वाढ, थंडी झाली कमी",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/maharashtra-weather-update-temperature-rise-cold-weather-decreases",
+    "isNew": true
+  },
+  {
+    "id": "news-1e7c5c95f4",
+    "category": "news",
+    "title": "Vegetables in Drought: दुष्काळात पालेभाज्यांच्या सिंचनाचे व्यवस्थापन कसे करावे?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/vegetables-in-drought-leafy-vegetable-irrigation-management",
     "isNew": true
   },
   {
@@ -141,7 +157,7 @@
     "title": "Mustard Market: मोहरीच्या पेरणीत घट, तरीही भावात तेजीची शक्यता?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/mustard-market-price-forecast-sowing-demand-2026",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-bf22191a74",
@@ -149,7 +165,7 @@
     "title": "Soybean,Carrot Rate: सोयाबीन दर टिकून, उडदाच्या दरात चढ-उतार, कोथिंबिर  बाजरात चढ-उतार, गाजराच्या दरात घसरण, पेरूच्या बाजरात घसरण",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/soybean-urad-carrot-guava-coriander-market-rates-today",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-909f27e61d",
@@ -157,7 +173,7 @@
     "title": "Hawaman Andaj : राज्यातील काही भागात ढगाळ हवामानामुळे गारठा कमी",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/maharashtra-weather-update-cloudy-weather-reduces-cold",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-fcbc036351",
@@ -173,22 +189,6 @@
     "title": "Russian Agri Technology : दुष्काळावर मात करण्यासाठी रशियाने कोणतं तंत्रज्ञान सादर केलं?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/russian-agri-technology-drought-management-innovation-2",
-    "isNew": false
-  },
-  {
-    "id": "news-03f8afa6df",
-    "category": "news",
-    "title": "Dairy Farming: सहकारी आणि खासगी दूध संघ एकत्र आले तर काय बदलणार?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/cooperative-private-dairy-unions-collaboration-milk-prices",
-    "isNew": false
-  },
-  {
-    "id": "news-8fc547bf81",
-    "category": "news",
-    "title": "Fodder Issues: बुरशीयुक्त चारा जनावरांसाठी घातक, चारा साठवताना काय घ्यावी काळजी?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/mouldy-fodder-storage-tips-animal-health",
     "isNew": false
   }
 ]
