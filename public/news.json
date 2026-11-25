@@ -1,130 +1,42 @@
 [
   {
-    "id": "gr-c28902d144",
-    "category": "gr",
-    "title": "बियाणे उत्पादक",
-    "source": "कृषी विभाग, महाराष्ट्र",
-    "isNew": false,
-    "link": "https://krishi.maharashtra.gov.in:443/Site/Upload/Pdf/MahaParwana_Firms_Data_Seed_7_QC.pdf?MenuID=1036"
-  },
-  {
-    "id": "gr-0d5055bba4",
-    "category": "gr",
-    "title": "मे २०१४ पासून खतांचे कमाल विक्री किंमत",
-    "source": "कृषी विभाग, महाराष्ट्र",
-    "isNew": false,
-    "link": "https://krishi.maharashtra.gov.in:443/Site/Common/ViewGr.aspx?Doctype=e762e1c7-c389-4033-bab7-26c2566704d5?MenuID=1043"
-  },
-  {
-    "id": "gr-872762cffd",
-    "category": "gr",
-    "title": "द्रव्याधारित अनुदान",
-    "source": "कृषी विभाग, महाराष्ट्र",
-    "isNew": false,
-    "link": "https://krishi.maharashtra.gov.in:443/Site/Common/ViewGr.aspx?Doctype=aebc71f7-5f5f-4bb5-a149-9bc2fac19d1a?MenuID=1044"
-  },
-  {
-    "id": "gr-3e84960dee",
-    "category": "gr",
-    "title": "खतांचे परवाने",
-    "source": "कृषी विभाग, महाराष्ट्र",
-    "isNew": false,
-    "link": "https://krishi.maharashtra.gov.in:443/Site/Upload/Pdf/Fertilizers_Approved_license_list.xlsx?MenuID=1045"
-  },
-  {
-    "id": "gr-87a7b2c2b3",
-    "category": "gr",
-    "title": "कीटकनाशकांचा वापर",
-    "source": "कृषी विभाग, महाराष्ट्र",
-    "isNew": false,
-    "link": "https://krishi.maharashtra.gov.in:443/Site/Common/ViewGr.aspx?Doctype=b37a31ad-ba3e-48a2-b2cd-ea017a658a78?MenuID=1051"
-  },
-  {
-    "id": "gr-bc3acf2524",
-    "category": "gr",
-    "title": "पीकपेरणी अहवाल",
-    "source": "कृषी विभाग, महाराष्ट्र",
-    "isNew": false,
-    "link": "https://krishi.maharashtra.gov.in:443/Site/Common/ViewGr.aspx?Doctype=e8bdd10e-d33d-4ea0-865f-140a5284a2bc?MenuID=2906"
-  },
-  {
-    "id": "gr-10418e2b72",
-    "category": "gr",
-    "title": "पीकांची आकडेवारी (क्षेत्र, उत्पादन, उत्पादकता)",
-    "source": "कृषी विभाग, महाराष्ट्र",
-    "isNew": false,
-    "link": "https://krishi.maharashtra.gov.in/"
-  },
-  {
-    "id": "gr-bd106eeb01",
-    "category": "gr",
-    "title": "प्रधानमंत्री पिक विमा योजना",
-    "source": "कृषी विभाग, महाराष्ट्र",
-    "isNew": false,
-    "link": "https://krishi.maharashtra.gov.in:443/Site/Common/ViewGr.aspx?Doctype=ed5a4ceb-ad07-4189-b236-f9d191d5752d?MenuID=2918"
-  },
-  {
-    "id": "gr-4186e5dd9d",
-    "category": "gr",
-    "title": "गोपीनाथ मुंडे शे.अ. विमा योजना",
-    "source": "कृषी विभाग, महाराष्ट्र",
-    "isNew": false,
-    "link": "https://krishi.maharashtra.gov.in:443/Site/Common/ViewGr.aspx?Doctype=e2e11ed5-3d93-4e5b-9560-0124f4324636?MenuID=2912"
-  },
-  {
-    "id": "gr-7cdea14952",
-    "category": "gr",
-    "title": "शेतकरी कॉर्नर (कट्टा)",
-    "source": "कृषी विभाग, महाराष्ट्र",
-    "isNew": false,
-    "link": "https://krishi.maharashtra.gov.in/"
-  },
-  {
-    "id": "gr-48218ad93c",
-    "category": "gr",
-    "title": "शेतकरी मासिक",
-    "source": "कृषी विभाग, महाराष्ट्र",
-    "isNew": false,
-    "link": "https://krishi.maharashtra.gov.in:443/Site/Common/ViewGr.aspx?Doctype=1c340af5-c4d2-4915-bf1b-870a749d98b5?MenuID=1089"
-  },
-  {
-    "id": "gr-35817637d4",
-    "category": "gr",
-    "title": "महिला शेतकरी प्रमाणपत्र पोर्टल",
-    "source": "कृषी विभाग, महाराष्ट्र",
-    "isNew": false,
-    "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
-  },
-  {
-    "id": "news-953ccc9397",
+    "id": "news-3ab25d50f0",
     "category": "news",
-    "title": "E-Pik Pahani : सरकारी कामाचा मोबदला कधी मिळणार? तांत्रिक अडचणींमुळे ‘ई-पीक’ सहायकांचे मानधन रखडले!",
+    "title": "Farm Road Development Work: तहसीलदारांच्या पाठीवर महसूल मंत्र्यांकडून कौतुकाची थाप",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/why-e-pik-pahani-crop-survey-assistants-have-not-received-their-payment-yet-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/kalamb-tehsildar-farm-road-work-appreciation-abhi47",
     "isNew": true
   },
   {
-    "id": "news-7f0caf2d23",
+    "id": "news-dffb2c30fe",
     "category": "news",
-    "title": "Maharashtra Farmers : बाजार समितीला शेतकऱ्यांचा विसर? मूलभूत सुविधांअभावी बळीराजाची मोठी पिळवणूक!",
+    "title": "Marathwada Rabi Sowing Update: मराठवाड्यात पाच लाख हेक्टरवर रब्बी पेरणी",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/lack-of-basic-facilities-for-farmers-in-maharashtra-apmc-market-committee-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/marathwada-rabi-sowing-5-lakh-hectares-2026-abhi47",
     "isNew": true
   },
   {
-    "id": "news-94df138968",
+    "id": "news-c43c3bd3de",
     "category": "news",
-    "title": "Bal Vivah Mukt Bharat : बालविवाहाची प्रथा मुळापासून नष्ट करण्यासाठी केंद्र सरकारचा मोठा निर्धार; 'बाल विवाहमुक्त भारत' मोहीम सुरू",
+    "title": "Nutritious Fodder Crops Cultivation: सकस चारा पिकांची लागवड",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/bal-vivah-mukt-bharat-campaign-launched-to-eradicate-child-marriage-in-india-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/nutritious-fodder-crops-cultivation-livestock-abhi47",
     "isNew": true
   },
   {
-    "id": "news-5a537f64d2",
+    "id": "news-a2a896bd3c",
     "category": "news",
-    "title": "Employment Guarantee : ग्रामीण रोजगाराला मोठी चालना: ‘रोजगार हमी’च्या कामांवर पाथर्डी आणि संगमनेर तालुक्यांत सर्वाधिक मजूर!",
+    "title": "Poultry Feeding Systems: पोल्ट्रीतील आधुनिक खाद्य पुरवठा प्रणाली",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/pathardi-and-sangamner-record-highest-workers-under-employment-guarantee-scheme-aak11",
+    "link": "https://agrowon.esakal.com/techno-wan/modern-poultry-feeding-systems-abhi47",
+    "isNew": true
+  },
+  {
+    "id": "news-14c2ac9366",
+    "category": "news",
+    "title": "Maize in Drought:यंदा मका फायदेशीर, पेरणी खत पाण्याचे व्यवस्थापन कसे करावे?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/maize-cultivation-in-drought-sowing-fertilizer-water-management",
     "isNew": true
   },
   {
@@ -133,7 +45,7 @@
     "title": "Cotton Market: कापसाच्या दराला तेजीचा आधार! १० हजारांचा टप्पा गाठणार?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/cotton-market-price-forecast-10000-price-outlook-2026",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-3553d985bd",
@@ -141,7 +53,7 @@
     "title": "MSP& Loan Waiver : केंद्र सरकार हमीभावाच्या कायद्याचा शब्द पूर्ण कधी करणार?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/msp-guarantee-law-farmers-loan-waiver-central-government-2",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-f1f5ddf025",
@@ -149,7 +61,7 @@
     "title": "Maize Cotton Onion Rate: मक्याच्या दरात सुधारणा; कापसाला मिळतोय चांगला भाव, कांद्याच्या दरात चढ-उतार, पालक स्वस्त तर केळी आवक वाढली",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/maize-cotton-onion-market-rates-maharashtra-today",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-a491e13720",
@@ -181,14 +93,6 @@
     "title": "Soybean,Carrot Rate: सोयाबीन दर टिकून, उडदाच्या दरात चढ-उतार, कोथिंबिर  बाजरात चढ-उतार, गाजराच्या दरात घसरण, पेरूच्या बाजरात घसरण",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/soybean-urad-carrot-guava-coriander-market-rates-today",
-    "isNew": false
-  },
-  {
-    "id": "news-909f27e61d",
-    "category": "news",
-    "title": "Hawaman Andaj : राज्यातील काही भागात ढगाळ हवामानामुळे गारठा कमी",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/maharashtra-weather-update-cloudy-weather-reduces-cold",
     "isNew": false
   }
 ]
