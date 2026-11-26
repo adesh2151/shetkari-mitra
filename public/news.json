@@ -1,42 +1,162 @@
 [
   {
-    "id": "news-ddebbd9909",
+    "id": "gr-c28902d144",
+    "category": "gr",
+    "title": "बियाणे उत्पादक",
+    "source": "कृषी विभाग, महाराष्ट्र",
+    "isNew": true,
+    "link": "https://krishi.maharashtra.gov.in:443/Site/Upload/Pdf/MahaParwana_Firms_Data_Seed_7_QC.pdf?MenuID=1036"
+  },
+  {
+    "id": "gr-0d5055bba4",
+    "category": "gr",
+    "title": "मे २०१४ पासून खतांचे कमाल विक्री किंमत",
+    "source": "कृषी विभाग, महाराष्ट्र",
+    "isNew": true,
+    "link": "https://krishi.maharashtra.gov.in:443/Site/Common/ViewGr.aspx?Doctype=e762e1c7-c389-4033-bab7-26c2566704d5?MenuID=1043"
+  },
+  {
+    "id": "gr-872762cffd",
+    "category": "gr",
+    "title": "द्रव्याधारित अनुदान",
+    "source": "कृषी विभाग, महाराष्ट्र",
+    "isNew": true,
+    "link": "https://krishi.maharashtra.gov.in:443/Site/Common/ViewGr.aspx?Doctype=aebc71f7-5f5f-4bb5-a149-9bc2fac19d1a?MenuID=1044"
+  },
+  {
+    "id": "gr-3e84960dee",
+    "category": "gr",
+    "title": "खतांचे परवाने",
+    "source": "कृषी विभाग, महाराष्ट्र",
+    "isNew": true,
+    "link": "https://krishi.maharashtra.gov.in:443/Site/Upload/Pdf/Fertilizers_Approved_license_list.xlsx?MenuID=1045"
+  },
+  {
+    "id": "gr-87a7b2c2b3",
+    "category": "gr",
+    "title": "कीटकनाशकांचा वापर",
+    "source": "कृषी विभाग, महाराष्ट्र",
+    "isNew": true,
+    "link": "https://krishi.maharashtra.gov.in:443/Site/Common/ViewGr.aspx?Doctype=b37a31ad-ba3e-48a2-b2cd-ea017a658a78?MenuID=1051"
+  },
+  {
+    "id": "gr-bc3acf2524",
+    "category": "gr",
+    "title": "पीकपेरणी अहवाल",
+    "source": "कृषी विभाग, महाराष्ट्र",
+    "isNew": true,
+    "link": "https://krishi.maharashtra.gov.in:443/Site/Common/ViewGr.aspx?Doctype=e8bdd10e-d33d-4ea0-865f-140a5284a2bc?MenuID=2906"
+  },
+  {
+    "id": "gr-10418e2b72",
+    "category": "gr",
+    "title": "पीकांची आकडेवारी (क्षेत्र, उत्पादन, उत्पादकता)",
+    "source": "कृषी विभाग, महाराष्ट्र",
+    "isNew": true,
+    "link": "https://krishi.maharashtra.gov.in/"
+  },
+  {
+    "id": "gr-bd106eeb01",
+    "category": "gr",
+    "title": "प्रधानमंत्री पिक विमा योजना",
+    "source": "कृषी विभाग, महाराष्ट्र",
+    "isNew": true,
+    "link": "https://krishi.maharashtra.gov.in:443/Site/Common/ViewGr.aspx?Doctype=ed5a4ceb-ad07-4189-b236-f9d191d5752d?MenuID=2918"
+  },
+  {
+    "id": "gr-4186e5dd9d",
+    "category": "gr",
+    "title": "गोपीनाथ मुंडे शे.अ. विमा योजना",
+    "source": "कृषी विभाग, महाराष्ट्र",
+    "isNew": true,
+    "link": "https://krishi.maharashtra.gov.in:443/Site/Common/ViewGr.aspx?Doctype=e2e11ed5-3d93-4e5b-9560-0124f4324636?MenuID=2912"
+  },
+  {
+    "id": "gr-7cdea14952",
+    "category": "gr",
+    "title": "शेतकरी कॉर्नर (कट्टा)",
+    "source": "कृषी विभाग, महाराष्ट्र",
+    "isNew": true,
+    "link": "https://krishi.maharashtra.gov.in/"
+  },
+  {
+    "id": "gr-48218ad93c",
+    "category": "gr",
+    "title": "शेतकरी मासिक",
+    "source": "कृषी विभाग, महाराष्ट्र",
+    "isNew": true,
+    "link": "https://krishi.maharashtra.gov.in:443/Site/Common/ViewGr.aspx?Doctype=1c340af5-c4d2-4915-bf1b-870a749d98b5?MenuID=1089"
+  },
+  {
+    "id": "gr-35817637d4",
+    "category": "gr",
+    "title": "महिला शेतकरी प्रमाणपत्र पोर्टल",
+    "source": "कृषी विभाग, महाराष्ट्र",
+    "isNew": true,
+    "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
+  },
+  {
+    "id": "news-a716adab86",
     "category": "news",
-    "title": "Karnataka Groundnut Crop : दुष्काळामुळे कर्नाटकात भुईमुग उत्पादन घटले; आवकही लांबणीवर",
+    "title": "Non-Irrigation Water : बिगर सिंचन पाणी आरक्षणाचा शेतीला मोठा फटका; शेतकऱ्यांच्या चिंतेत वाढ!",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/market-intelligence/karnataka-groundnut-crop-hit-by-drought-93-of-sown-area-affected-ds98",
+    "link": "https://agrowon.esakal.com/agro-special/impact-of-non-irrigation-water-reservation-on-agriculture-in-maharashtra-aak11",
     "isNew": true
   },
   {
-    "id": "news-f0074dddff",
+    "id": "news-75f0f04bc1",
     "category": "news",
-    "title": "Jalna Sugarcane Farmers: जालना जिल्ह्यात प्रतिटन ३६०० रुपये पहिली उचल मिळावी",
+    "title": "District Bank Election : जिल्हा बँक निवडणुकीवरून राजकारण तापले; 'मला सोडून निवडणूक बिनविरोध करायची होती', लंकेंचा हल्लाबोल",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/jalna-sugarcane-farmers-demand-3600-per-tonne-first-payment-protest",
+    "link": "https://agrowon.esakal.com/agro-special/nilesh-lanke-alleges-conspiracy-to-keep-him-out-of-unopposed-district-bank-polls-aak11",
     "isNew": true
   },
   {
-    "id": "news-c7a5f5fa3e",
+    "id": "news-580d739979",
     "category": "news",
-    "title": "Silkworm Cocoon Production: ना पीकविमा संरक्षण; ना मागण्यांची शासनाला तमा",
+    "title": "Sugarcane Workers: ऊस तोडणी मजुरांसाठी शेतातच पाण्याच्या टाक्या शेतकऱ्यांच्या उपक्रमाचे स्वागत",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/marathwada-silk-farmers-poor-quality-cocoons-non-spinning-batch-failure-crisis",
+    "link": "https://agrowon.esakal.com/agro-special/kolhapur-chandgad-farmers-provide-water-tanks-for-sugarcane-harvesting-workers",
     "isNew": true
   },
   {
-    "id": "news-25b80257f7",
+    "id": "news-802df3b946",
     "category": "news",
-    "title": "Dairy Farming: दुग्ध व्यवसायात सन्मानजनक कार्याची प्रचिती",
+    "title": "Sugarcane Harvesting : जिल्हाधिकाऱ्यांचे आदेश धाब्यावर; परिसरात बेकायदेशीर ऊस तोडणी जोरात!",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/kolhapur-patil-couple-50-milch-animals-dairy-farming-success-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/sugarcane-harvesting-continues-defying-district-collectors-strict-orders-aak11",
     "isNew": true
   },
   {
-    "id": "news-8d5d84089c",
+    "id": "news-4ee5ddb6ba",
     "category": "news",
-    "title": "Food Grain Production: अन्वयार्थ उत्पादनघटीचा!",
+    "title": "Soybean Stock Limit: सोयाबीन, मक्यावर स्टॉक लिमिट लावणे शक्य आहे का? पोल्ट्री उद्योगाची मागणी",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/sampadkiya/declining-food-grain-production-impact-on-rural-economy-rat16",
+    "link": "https://agrowon.esakal.com/video/soybean-maize-stock-limit-poultry-industry-demand",
+    "isNew": true
+  },
+  {
+    "id": "news-822276d766",
+    "category": "news",
+    "title": "Kharif Producation : देशात कोणत्या पिकांचं उत्पादन घटण्याचा केंद्र सरकारचा अंदाज?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/kharif-crop-production-estimate-india-2026",
+    "isNew": true
+  },
+  {
+    "id": "news-aa0a3da60a",
+    "category": "news",
+    "title": "Maize,Tur Rate: मक्याच्या आवकेत चढ-उतार, तुरीचे दर कायम, टोमॅटो बाजारात नरमाई, कोथिंबिरीच्या दरात चढ-उतार, संत्र्याच्या दरात तेजी",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/maize-tur-tomato-coriander-orange-market-rates",
+    "isNew": true
+  },
+  {
+    "id": "news-ccf4469627",
+    "category": "news",
+    "title": "Rain Update : दक्षिण मध्य महाराष्ट्र, मराठवाड्यात पावसाच्या हलक्या सरींचा अंदाज",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/maharashtra-weather-update-rain-forecast-today",
     "isNew": true
   },
   {
@@ -45,7 +165,7 @@
     "title": "Goat Farming Tips: शेळीपालन व्यवसाय नव्याने सुरु करताना व्यवस्थापन कसे करावे?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/goat-farming-tips-management-for-beginners",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-cbd091a409",
@@ -69,30 +189,6 @@
     "title": "Soybean Green Wheat Rate: सोयाबीनच्या दरात सुधारणा; गहू आणि हिरवी मिरचीच्या भावात चढ-उतार, पपई दरात बदल तर मेथीची आवक वाढली",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/soybean-wheat-green-chilli-papaya-methi-market-rates-maharashtra",
-    "isNew": false
-  },
-  {
-    "id": "news-f50b8406f4",
-    "category": "news",
-    "title": "Weather Update : राज्यात किमान तापमानात वाढ; उकाड्यातही झाली वाढ",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/maharashtra-weather-update-minimum-temperature-rise-cold-decreases",
-    "isNew": false
-  },
-  {
-    "id": "news-14c2ac9366",
-    "category": "news",
-    "title": "Maize in Drought:यंदा मका फायदेशीर, पेरणी खत पाण्याचे व्यवस्थापन कसे करावे?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/maize-cultivation-in-drought-sowing-fertilizer-water-management",
-    "isNew": false
-  },
-  {
-    "id": "news-63c8d9d560",
-    "category": "news",
-    "title": "Cotton Market: कापसाच्या दराला तेजीचा आधार! १० हजारांचा टप्पा गाठणार?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/cotton-market-price-forecast-10000-price-outlook-2026",
     "isNew": false
   }
 ]
