@@ -1,42 +1,50 @@
 [
   {
-    "id": "news-8516f21b9d",
+    "id": "news-ddebbd9909",
     "category": "news",
-    "title": "Rice Price Hike: तांदळाचे भाव वाढले; केंद्र सरकार अॅक्शन मोडवर",
+    "title": "Karnataka Groundnut Crop : दुष्काळामुळे कर्नाटकात भुईमुग उत्पादन घटले; आवकही लांबणीवर",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/india-rice-price-hike-government-stock-disclosure-abhi47",
+    "link": "https://agrowon.esakal.com/market-intelligence/karnataka-groundnut-crop-hit-by-drought-93-of-sown-area-affected-ds98",
     "isNew": true
   },
   {
-    "id": "news-c70dfa0132",
+    "id": "news-f0074dddff",
     "category": "news",
-    "title": "Anganwadi Workers: अंगणवाडी सेविका, मदतनीसांना दिलासा, प्रोत्साहन भत्त्याच्या निकषांत सुधारणा",
+    "title": "Jalna Sugarcane Farmers: जालना जिल्ह्यात प्रतिटन ३६०० रुपये पहिली उचल मिळावी",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/anganwadi-workers-maharashtra-government-revises-incentive-allowance-criteria-ddb79",
+    "link": "https://agrowon.esakal.com/agro-special/jalna-sugarcane-farmers-demand-3600-per-tonne-first-payment-protest",
     "isNew": true
   },
   {
-    "id": "news-0eda058c0e",
+    "id": "news-c7a5f5fa3e",
     "category": "news",
-    "title": "Rajhans Dudh Sangh Election : संगमनेर तालुका सहकारी दूध संघाची धुरा रमेश गुंजाळ यांच्या खांद्यावर; दूध उत्पादक शेतकऱ्यांकडून स्वागत",
+    "title": "Silkworm Cocoon Production: ना पीकविमा संरक्षण; ना मागण्यांची शासनाला तमा",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/ramesh-gunjal-elected-unopposed-as-chairman-of-rajhans-dudh-sangh-sangamner-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/marathwada-silk-farmers-poor-quality-cocoons-non-spinning-batch-failure-crisis",
     "isNew": true
   },
   {
-    "id": "news-c8a4827472",
+    "id": "news-25b80257f7",
     "category": "news",
-    "title": "Modern Farming Tips : \"आपल्या शेतीत आपल्यालाच बदल करावा लागेल!\" कृषी तज्ज्ञ डॉ. कौसडीकर यांचा शेतकऱ्यांना मोलाचा सल्ला",
+    "title": "Dairy Farming: दुग्ध व्यवसायात सन्मानजनक कार्याची प्रचिती",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/modernizing-agriculture-dr-kausadikar-shares-key-insights-on-sustainable-and-profitable-farming-aak11",
+    "link": "https://agrowon.esakal.com/agro-special/kolhapur-patil-couple-50-milch-animals-dairy-farming-success-rat16",
     "isNew": true
   },
   {
-    "id": "news-a2c4430929",
+    "id": "news-8d5d84089c",
     "category": "news",
-    "title": "Guava Farming Training: पेरू उत्पादनाला आधुनिक कृषी तंत्रज्ञानाची जोड हवी",
+    "title": "Food Grain Production: अन्वयार्थ उत्पादनघटीचा!",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/modern-agricultural-technology-profitable-guava-farming-abhi47",
+    "link": "https://agrowon.esakal.com/sampadkiya/declining-food-grain-production-impact-on-rural-economy-rat16",
+    "isNew": true
+  },
+  {
+    "id": "news-0b6824d781",
+    "category": "news",
+    "title": "Goat Farming Tips: शेळीपालन व्यवसाय नव्याने सुरु करताना व्यवस्थापन कसे करावे?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/goat-farming-tips-management-for-beginners",
     "isNew": true
   },
   {
@@ -45,7 +53,7 @@
     "title": "Soybean Stock Limit : पोल्ट्री उद्योगाला सोयाबीन, मक्यावर स्टाॅक लिमिट का पाहीजे ?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/soybean-stock-limit-poultry-industry-maize-price-demand",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-3193aa8639",
@@ -53,7 +61,7 @@
     "title": "Farmer ID : ५ हजार रुपयांच्या अग्रिम मदतीबाबत महसूल मंत्री बावनकुळे काय म्हणाले?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/farmer-id-5000-drought-relief-bawankule-statement",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-b80a2a3644",
@@ -61,7 +69,7 @@
     "title": "Soybean Green Wheat Rate: सोयाबीनच्या दरात सुधारणा; गहू आणि हिरवी मिरचीच्या भावात चढ-उतार, पपई दरात बदल तर मेथीची आवक वाढली",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/soybean-wheat-green-chilli-papaya-methi-market-rates-maharashtra",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-f50b8406f4",
@@ -69,7 +77,7 @@
     "title": "Weather Update : राज्यात किमान तापमानात वाढ; उकाड्यातही झाली वाढ",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/maharashtra-weather-update-minimum-temperature-rise-cold-decreases",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-14c2ac9366",
@@ -85,14 +93,6 @@
     "title": "Cotton Market: कापसाच्या दराला तेजीचा आधार! १० हजारांचा टप्पा गाठणार?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/cotton-market-price-forecast-10000-price-outlook-2026",
-    "isNew": false
-  },
-  {
-    "id": "news-3553d985bd",
-    "category": "news",
-    "title": "MSP& Loan Waiver : केंद्र सरकार हमीभावाच्या कायद्याचा शब्द पूर्ण कधी करणार?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/msp-guarantee-law-farmers-loan-waiver-central-government-2",
     "isNew": false
   }
 ]
