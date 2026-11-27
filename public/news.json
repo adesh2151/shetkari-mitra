@@ -96,43 +96,67 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-398663383b",
+    "id": "news-0cab488945",
     "category": "news",
-    "title": "Sugarcane Farmers Issues: ऊसदराच्या प्रश्नावर शेतकरी संघटना आक्रमक होण्याची शक्यता",
+    "title": "Artificial Intelligence: शेतीत कृत्रिम बुद्धिमत्तेचा वापर वाढवा : कृषिमंत्री भरणे",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/farmers-organisations-disappointed-sugarcane-price-meeting-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/increase-ai-use-in-agriculture-dattatray-bharane-krishithon-2026-abhi47",
     "isNew": true
   },
   {
-    "id": "news-38b65a3240",
+    "id": "news-ab299c60de",
     "category": "news",
-    "title": "Farmers Income Growth: पायाभूत सुविधा निर्मितीवर भर",
+    "title": "Water Storage Update: सातारा जिल्ह्यातील धरणांत पाणीसाठा ८० टक्क्यांवर",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/government-initiatives-to-increase-farmers-income-india-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/satara-dam-water-storage-80-percent-water-planning-abhi47",
     "isNew": true
   },
   {
-    "id": "news-94c82ca5ba",
+    "id": "news-5a37a7d0e8",
     "category": "news",
-    "title": "Silk Development Project: बीडमध्ये रेशीम धागा उत्पादनाला साडी निर्मितीची जोड देणार : विवेक जॉन्सन",
+    "title": "Winter Session Protest: हिवाळी अधिवेशनावर गडचिरोली ते नागपूर पायी मोर्चा",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/beed-silk-yarn-saree-manufacturing-textile-project-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/gadchiroli-nagpur-farmers-foot-march-winter-session-abhi47",
     "isNew": true
   },
   {
-    "id": "news-73a56c3928",
+    "id": "news-0437d1fa90",
     "category": "news",
-    "title": "Rainwater Harvesting: गरज जमिनीतच पाणी साठविण्याची...",
+    "title": "Farmers Suicide Case: फायनान्स कंपन्यांच्या जाचाला कंटाळून आत्महत्या",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/importance-of-storing-rainwater-in-soil-rat16",
+    "link": "https://agrowon.esakal.com/agro-special/amravati-finance-company-loan-recovery-harassment-suicide-case-abhi47",
     "isNew": true
   },
   {
-    "id": "news-bf71d53025",
+    "id": "news-86cea91ea5",
     "category": "news",
-    "title": "Congress Rally: संविधानाच्या रक्षणासाठी काँग्रेसची ठाण्यात रॅली",
+    "title": "Paddy Procurement Issue: तुमसरमध्ये अनेक केंद्रांवर मर्यादेअभावी धान खरेदी ठप्प",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/congress-save-constitution-rally-thane-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/tumsar-paddy-procurement-halted-limit-approval-pending-abhi47",
+    "isNew": true
+  },
+  {
+    "id": "news-84622414c6",
+    "category": "news",
+    "title": "El Nino 2027 : एल निनोच्या प्रभावामुळे तापमानात आणखी वाढ होणार?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/el-nino-2027-global-temperature-rise-climate-impact",
+    "isNew": true
+  },
+  {
+    "id": "news-cfca325c22",
+    "category": "news",
+    "title": "Cotton Ginger Jowar Rate: कापसाच्या दरात चढ-उतार; आल्यासह डाळिंबाच्या दरात घसरण, ज्वारीचे दर स्थिर तर फ्लॉवरच्या दरात नरमाई",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/cotton-ginger-jowar-pomegranate-market-rates-maharashtra",
+    "isNew": true
+  },
+  {
+    "id": "news-69131cade2",
+    "category": "news",
+    "title": "Rain Update : विदर्भात किमान तापमानात घट; राज्यात काही भागात हलक्या सरी शक्य",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/maharashtra-rain-update-marathwada-south-central-weather-forecast",
     "isNew": true
   },
   {
@@ -141,7 +165,7 @@
     "title": "Onion Herbicide: उत्पादन वाढीसाठी कांद्याची आंतरमशागत महत्त्वाची कशी?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/onion-herbicide-weed-management-higher-yield",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-4ee5ddb6ba",
@@ -165,30 +189,6 @@
     "title": "Maize,Tur Rate: मक्याच्या आवकेत चढ-उतार, तुरीचे दर कायम, टोमॅटो बाजारात नरमाई, कोथिंबिरीच्या दरात चढ-उतार, संत्र्याच्या दरात तेजी",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/maize-tur-tomato-coriander-orange-market-rates",
-    "isNew": false
-  },
-  {
-    "id": "news-ccf4469627",
-    "category": "news",
-    "title": "Rain Update : दक्षिण मध्य महाराष्ट्र, मराठवाड्यात पावसाच्या हलक्या सरींचा अंदाज",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/maharashtra-weather-update-rain-forecast-today",
-    "isNew": false
-  },
-  {
-    "id": "news-0b6824d781",
-    "category": "news",
-    "title": "Goat Farming Tips: शेळीपालन व्यवसाय नव्याने सुरु करताना व्यवस्थापन कसे करावे?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/goat-farming-tips-management-for-beginners",
-    "isNew": false
-  },
-  {
-    "id": "news-cbd091a409",
-    "category": "news",
-    "title": "Soybean Stock Limit : पोल्ट्री उद्योगाला सोयाबीन, मक्यावर स्टाॅक लिमिट का पाहीजे ?",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/soybean-stock-limit-poultry-industry-maize-price-demand",
     "isNew": false
   }
 ]
