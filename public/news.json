@@ -96,43 +96,51 @@
     "link": "https://uat-mahakrishi.mahaitgov.in/mahila-shetkari-service"
   },
   {
-    "id": "news-0cab488945",
+    "id": "news-ae6963e72f",
     "category": "news",
-    "title": "Artificial Intelligence: शेतीत कृत्रिम बुद्धिमत्तेचा वापर वाढवा : कृषिमंत्री भरणे",
+    "title": "Farmer Producer Companies: सक्षम करा शेतकरी उत्पादक कंपन्या...",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/increase-ai-use-in-agriculture-dattatray-bharane-krishithon-2026-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/strengthen-farmer-producer-companies-capital-active-members-abhi47",
     "isNew": true
   },
   {
-    "id": "news-ab299c60de",
+    "id": "news-4ff3106d82",
     "category": "news",
-    "title": "Water Storage Update: सातारा जिल्ह्यातील धरणांत पाणीसाठा ८० टक्क्यांवर",
+    "title": "Well Repair Fund: शेतकऱ्यांना दिलासा; १९ हजार विहिरींच्या दुरुस्तीसाठी २९ कोटी ८४ लाख निधी वितरित",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/satara-dam-water-storage-80-percent-water-planning-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/well-repair-fund-maharashtra-farmers-29-crore-ddb79",
     "isNew": true
   },
   {
-    "id": "news-5a37a7d0e8",
+    "id": "news-8d603512d7",
     "category": "news",
-    "title": "Winter Session Protest: हिवाळी अधिवेशनावर गडचिरोली ते नागपूर पायी मोर्चा",
+    "title": "Fresh Fruits Packaging Technology: फ्रेश कट उत्पादनासाठी पॅकेजिंग तंत्रज्ञान",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/gadchiroli-nagpur-farmers-foot-march-winter-session-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/fresh-cut-produce-modified-atmosphere-packaging-technology-abhi47",
     "isNew": true
   },
   {
-    "id": "news-0437d1fa90",
+    "id": "news-aef2fc7db3",
     "category": "news",
-    "title": "Farmers Suicide Case: फायनान्स कंपन्यांच्या जाचाला कंटाळून आत्महत्या",
+    "title": "Agricultural Robotics: शेतीमध्ये रोबोटिक्स, स्वयंचलित यंत्रणा",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/amravati-finance-company-loan-recovery-harassment-suicide-case-abhi47",
+    "link": "https://agrowon.esakal.com/agro-special/agricultural-robotics-automation-farming-labour-shortage-abhi47",
     "isNew": true
   },
   {
-    "id": "news-86cea91ea5",
+    "id": "news-79849a59e2",
     "category": "news",
-    "title": "Paddy Procurement Issue: तुमसरमध्ये अनेक केंद्रांवर मर्यादेअभावी धान खरेदी ठप्प",
+    "title": "Poha Manufacturing Business: संत्रा पट्ट्यात उच्चशिक्षित दांपत्याचा पोहे निर्मिती उद्योग",
     "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/agro-special/tumsar-paddy-procurement-halted-limit-approval-pending-abhi47",
+    "link": "https://agrowon.esakal.com/yashogatha/educated-couple-poha-manufacturing-business-orange-belt-rat16",
+    "isNew": true
+  },
+  {
+    "id": "news-8319f22eb6",
+    "category": "news",
+    "title": "Rabi Water Management: पिकाला संवेदनशील अवस्थेत पाणी देणे महत्त्वाचे का असते?",
+    "source": "अ‍ॅग्रोवन",
+    "link": "https://agrowon.esakal.com/video/rabi-water-management-critical-irrigation-stages",
     "isNew": true
   },
   {
@@ -141,7 +149,7 @@
     "title": "El Nino 2027 : एल निनोच्या प्रभावामुळे तापमानात आणखी वाढ होणार?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/el-nino-2027-global-temperature-rise-climate-impact",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-cfca325c22",
@@ -149,7 +157,7 @@
     "title": "Cotton Ginger Jowar Rate: कापसाच्या दरात चढ-उतार; आल्यासह डाळिंबाच्या दरात घसरण, ज्वारीचे दर स्थिर तर फ्लॉवरच्या दरात नरमाई",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/cotton-ginger-jowar-pomegranate-market-rates-maharashtra",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-69131cade2",
@@ -157,7 +165,7 @@
     "title": "Rain Update : विदर्भात किमान तापमानात घट; राज्यात काही भागात हलक्या सरी शक्य",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/maharashtra-rain-update-marathwada-south-central-weather-forecast",
-    "isNew": true
+    "isNew": false
   },
   {
     "id": "news-0fcc059ea2",
@@ -181,14 +189,6 @@
     "title": "Kharif Producation : देशात कोणत्या पिकांचं उत्पादन घटण्याचा केंद्र सरकारचा अंदाज?",
     "source": "अ‍ॅग्रोवन",
     "link": "https://agrowon.esakal.com/video/kharif-crop-production-estimate-india-2026",
-    "isNew": false
-  },
-  {
-    "id": "news-aa0a3da60a",
-    "category": "news",
-    "title": "Maize,Tur Rate: मक्याच्या आवकेत चढ-उतार, तुरीचे दर कायम, टोमॅटो बाजारात नरमाई, कोथिंबिरीच्या दरात चढ-उतार, संत्र्याच्या दरात तेजी",
-    "source": "अ‍ॅग्रोवन",
-    "link": "https://agrowon.esakal.com/video/maize-tur-tomato-coriander-orange-market-rates",
     "isNew": false
   }
 ]
